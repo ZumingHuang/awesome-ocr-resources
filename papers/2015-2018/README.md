@@ -21,7 +21,7 @@ Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai
 
 **TextBoxes++: A Single-Shot Oriented Scene Text Detector**  
 Minghui Liao, Baoguang Shi, Xiang Bai  
-\[[arXiv](https://arxiv.org/abs/1801.02765)\]\[text-detection\]\[end-to-end-ocr\]
+\[[arXiv](https://arxiv.org/abs/1801.02765)\]\[[code](https://github.com/MhLiao/TextBoxes_plusplus)\]\[text-detection\]\[end-to-end-ocr\]
 
 **FOTS: Fast Oriented Text Spotting with a Unified Network**  
 Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan  
