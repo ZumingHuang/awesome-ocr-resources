@@ -42,10 +42,6 @@ Wenhao He, Xu-Yao Zhang, Fei Yin, Cheng-Lin Liu
 Michal Busta, Lukas Neumann, Jiri Matas  
 \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)\]\[[code](https://github.com/MichalBusta/DeepTextSpotter)\]\[end-to-end-ocr\]
 
-**R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection**  
-Yingying Jiang, Xiangyu Zhu, Xiaobing Wang, Shuli Yang, Wei Li, Hua Wang, Pei Fu, Zhenbo Luo  
-\[[arXiv](https://arxiv.org/abs/1706.09579)\]\[[code](https://github.com/beacandler/R2CNN)\]\[text-detection\]
-
 **WeText: Scene Text Detection under Weak Supervision**  
 Shangxuan Tian, Shijian Lu, and Chongshou Li  
 \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)\]\[text-detection\]
@@ -74,23 +70,11 @@ Han Hu, Chengquan Zhang, Yuxuan Luo, Yuzhuo Wang, Junyu Han, Errui Ding
 Yuliang Liu, Lianwen Jin  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf)\]\[text-detection\]
 
-**Arbitrary-Oriented Scene Text Detection via Rotation Proposals**  
-Jianqi Ma, Weiyuan Shao, Hao Ye, Li Wang, Hong Wang, Yingbin Zheng, Xiangyang Xue  
-\[[TMM](https://ieeexplore.ieee.org/abstract/document/8323240/)\]\[[arXiv](https://arxiv.org/abs/1703.01086)\]\[text-detection\]
-
-**TextBoxes: A Fast Text Detector with a Single Deep Neural Network**  
-Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu  
-\[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295)\]\[text-detection\]\[text-recognition\]
+**Improving Text Proposal for Scene Images with Fully Convolutional Networks**  
 
 **Detecting Oriented Text in Natural Images by Linking Segments**  
 Baoguang Shi, Xiang Bai, Serge Belongie  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf)\]\[[code](https://github.com/bgshih/seglink)\]\[text-detection\]
-
-**Improving Text Proposal for Scene Images with Fully Convolutional Networks**  
-
-**Detection and Recognition of Text Embedded in Online Images via Neural Context Models**  
-Chulmoo Kang, Gunhee Kim, Suk I. Yoo  
-\[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287)\]\[text-detection\]\[text-recognition\]
 
 **EAST: An Efficient and Accurate Scene Text Detector**  
 Xinyu Zhou, Cong Yao, He Wen, Yuzhi Wang, Shuchang Zhou, Weiran He, and Jiajun Liang  
@@ -99,6 +83,22 @@ Xinyu Zhou, Cong Yao, He Wen, Yuzhi Wang, Shuchang Zhou, Weiran He, and Jiajun L
 **Unambiguous Text Localization and Retrieval for Cluttered Scenes**  
 Xuejian Rong, Chucai Yi, Yingli Tian  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf)\]\[text-detection\]
+
+**R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection**  
+Yingying Jiang, Xiangyu Zhu, Xiaobing Wang, Shuli Yang, Wei Li, Hua Wang, Pei Fu, Zhenbo Luo  
+\[[arXiv](https://arxiv.org/abs/1706.09579)\]\[[code](https://github.com/beacandler/R2CNN)\]\[text-detection\]
+
+**TextBoxes: A Fast Text Detector with a Single Deep Neural Network**  
+Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu  
+\[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295)\]\[text-detection\]\[text-recognition\]
+
+**Detection and Recognition of Text Embedded in Online Images via Neural Context Models**  
+Chulmoo Kang, Gunhee Kim, Suk I. Yoo  
+\[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287)\]\[text-detection\]\[text-recognition\]
+
+**Arbitrary-Oriented Scene Text Detection via Rotation Proposals**  
+Jianqi Ma, Weiyuan Shao, Hao Ye, Li Wang, Hong Wang, Yingbin Zheng, Xiangyang Xue  
+\[[TMM](https://ieeexplore.ieee.org/abstract/document/8323240/)\]\[[arXiv](https://arxiv.org/abs/1703.01086)\]\[text-detection\]
 
 ## 2016
 **Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition**  
