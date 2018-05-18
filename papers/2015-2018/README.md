@@ -36,8 +36,6 @@ Liu Yuliang, Jin Lianwen, Zhang Shuaitao, Zhang Sheng
 Wenhao He, Xu-Yao Zhang, Fei Yin, Cheng-Lin Liu  
 \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Deep_Direct_Regression_ICCV_2017_paper.pdf)\]\[text-detection\]
 
-**Cascaded Segmentation-Detection Networks for Word-Level Text Spotting**  
-
 **Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework**  
 Michal Busta, Lukas Neumann, Jiri Matas  
 \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)\]\[[code](https://github.com/MichalBusta/DeepTextSpotter)\]\[end-to-end-ocr\]
@@ -70,8 +68,6 @@ Han Hu, Chengquan Zhang, Yuxuan Luo, Yuzhuo Wang, Junyu Han, Errui Ding
 Yuliang Liu, Lianwen Jin  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf)\]\[text-detection\]
 
-**Improving Text Proposal for Scene Images with Fully Convolutional Networks**  
-
 **Detecting Oriented Text in Natural Images by Linking Segments**  
 Baoguang Shi, Xiang Bai, Serge Belongie  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf)\]\[[code](https://github.com/bgshih/seglink)\]\[text-detection\]
@@ -87,6 +83,14 @@ Xuejian Rong, Chucai Yi, Yingli Tian
 **R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection**  
 Yingying Jiang, Xiangyu Zhu, Xiaobing Wang, Shuli Yang, Wei Li, Hua Wang, Pei Fu, Zhenbo Luo  
 \[[arXiv](https://arxiv.org/abs/1706.09579)\]\[[code](https://github.com/beacandler/R2CNN)\]\[text-detection\]
+
+**Cascaded Segmentation-Detection Networks for Word-Level Text Spotting** 
+Siyang Qin, Roberto Manduchi  
+\[[arXiv](https://arxiv.org/abs/1704.00834)\]\[text-detection\]\[text-segmentation\]
+
+**Improving Text Proposal for Scene Images with Fully Convolutional Networks**  
+Dena Bazazian, Raul Gomez, Anguelos Nicolaou, Lluis Gomez, Dimosthenis Karatzas, Andrew D. Bagdanov  
+\[[arXiv](https://arxiv.org/abs/1702.05089)\]\[text-detection\]
 
 **TextBoxes: A Fast Text Detector with a Single Deep Neural Network**  
 Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu  
