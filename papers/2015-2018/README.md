@@ -19,6 +19,10 @@ Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun
 Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai  
 \[[arXiv](https://arxiv.org/abs/1802.08948)\]\[text-detection\]\[text-segmentation\]
 
+**TextBoxes++: A Single-Shot Oriented Scene Text Detector**  
+Minghui Liao, Baoguang Shi, Xiang Bai  
+\[[arXiv](https://arxiv.org/abs/1801.02765)\]\[text-detection\]\[end-to-end-ocr\]
+
 **FOTS: Fast Oriented Text Spotting with a Unified Network**  
 Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan  
 \[[arXiv](https://arxiv.org/abs/1801.01671)\]\[end-to-end-ocr\]
