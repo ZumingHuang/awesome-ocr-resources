@@ -13,7 +13,7 @@ Minghui Liao, Zhen Zhu, Baoguang Shi, Gui-song Xia, Xiang Bai
 
 **An end-to-end TextSpotter with Explicit Alignment and Attention**  
 Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun  
-\[[arXiv](https://arxiv.org/abs/1803.03474)\]\[end-to-end-ocr\]
+\[[arXiv](https://arxiv.org/abs/1803.03474)\]\[[code](https://github.com/tonghe90/textspotter)\]\[end-to-end-ocr\]
 
 **Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation**  
 Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai  
