@@ -3,7 +3,7 @@
 
 Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin
 
-[arXiv](https://arxiv.org/abs/1805.01167)
+\[[arXiv](https://arxiv.org/abs/1805.01167)\]
 
 ## 2017
 
