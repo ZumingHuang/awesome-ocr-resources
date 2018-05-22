@@ -104,7 +104,7 @@ Xuejian Rong, Chucai Yi, Yingli Tian
 Yingying Jiang, Xiangyu Zhu, Xiaobing Wang, Shuli Yang, Wei Li, Hua Wang, Pei Fu, Zhenbo Luo  
 \[[arXiv](https://arxiv.org/abs/1706.09579)\]\[[code](https://github.com/beacandler/R2CNN)\]\[text-detection\]
 
-**Cascaded Segmentation-Detection Networks for Word-Level Text Spotting** 
+**Cascaded Segmentation-Detection Networks for Word-Level Text Spotting**  
 Siyang Qin, Roberto Manduchi  
 \[[arXiv](https://arxiv.org/abs/1704.00834)\]\[text-detection\]\[text-segmentation\]
 
