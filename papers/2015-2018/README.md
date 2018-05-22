@@ -191,7 +191,7 @@ Tong He, Weilin Huang, Yu Qiao, Jian Yao
 
 **TextCatcher: a method to detect curved and challenging text in natural scenes**  
 Jonathan Fabrizio, Myriam Robert-Seidowsky, Severine Dubuisson, Stefania Calarasanu, Raphael Boissel  
-\[[IJDAR](https://link.springer.com/article/10.1007/s10032-016-0264-4)\]\[https://link.springer.com/article/10.1007/s10032-016-0264-4\]\[text-detection\]
+\[[IJDAR](https://link.springer.com/article/10.1007/s10032-016-0264-4)\]\[text-detection\]
 
 **Context Modeling for Semantic Text Matching and Scene Text Detection**  
 Wenyi Huang  
