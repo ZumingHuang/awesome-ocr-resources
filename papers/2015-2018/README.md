@@ -27,6 +27,10 @@ Minghui Liao, Baoguang Shi, Xiang Bai
 Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan  
 \[[arXiv](https://arxiv.org/abs/1801.01671)\]\[end-to-end-ocr\]
 
+**PixelLink: Detecting Scene Text via Instance Segmentation**  
+Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai  
+\[[arXiv](https://arxiv.org/abs/1801.01315)\]\[[code](https://github.com/ZJULearning/pixel_link)\]\[text-detection\]
+
 ## 2017
 **Detecting Curve Text in the Wild: New Dataset and New Solution**  
 Liu Yuliang, Jin Lianwen, Zhang Shuaitao, Zhang Sheng  
