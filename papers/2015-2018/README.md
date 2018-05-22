@@ -113,4 +113,28 @@ Jianqi Ma, Weiyuan Shao, Hao Ye, Li Wang, Hong Wang, Yingbin Zheng, Xiangyang Xu
 Zecheng Xie, Zenghui Sun, Lianwen Jin, Hao Ni, Terry Lyons  
 \[[TPAMI](https://ieeexplore.ieee.org/abstract/document/7995142/)\]\[[arXiv](https://arxiv.org/abs/1610.02616)\]\[text-recognition\]
 
+**Reading Text in the Wild with Convolutional Neural Networks**  
+Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman  
+\[[IJCV](https://link.springer.com/article/10.1007/s11263-015-0823-z)\]\[[arXiv](https://arxiv.org/abs/1412.1842)\]\[[homepage](http://www.robots.ox.ac.uk/~vgg/research/text/)\]\[text-detection\]\[text-recognition\]
+
+**Text Detection, Tracking and Recognition in Video: A Comprehensive Survey**  
+Xu-Cheng Yin, Ze-Yu Zuo, Shu Tian  
+\[[TIP](https://ieeexplore.ieee.org/abstract/document/7452620/)\]\[text-detection\]\[text-recognition\]
+
+**Detecting Text in Natural Image with Connectionist Text Proposal Network**  
+Zhi Tian, Weilin Huang, Tong He, Pan He, Yu Qiao  
+\[[ECCV](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_4)\]\[[arXiv](https://arxiv.org/abs/1609.03605)\]\[[code](https://github.com/tianzhi0549/CTPN)\]\[text-detection\]
+
+**Synthetic Data for Text Localisation in Natural Images**  
+Ankush Gupta,  Andrea Vedaldi,  Andrew Zisserman  
+\[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S10-06.pdf)\]\[[supp](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16_supplement.pdf)\]\[[code](https://github.com/ankush-me/SynthText)\]\[[homepage](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)\]\[text-detection\]
+
+**Reading Scene Text in Deep Convolutional Sequences**  
+Pan He, Weilin Huang, Yu Qiao, Chen Change Loy,  Xiaoou Tang  
+\[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121)\]\[text-recognition\]
+
+**Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network**  
+Tong He, Weilin Huang, Yu Qiao, Jian Yao  
+\[[arXiv](https://arxiv.org/abs/1603.09423)\]\[text-detection\]
+
 ## 2015
