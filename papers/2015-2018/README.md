@@ -195,7 +195,7 @@ Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman
 
 **Text Detection, Tracking and Recognition in Video: A Comprehensive Survey**  
 Xu-Cheng Yin, Ze-Yu Zuo, Shu Tian  
-\[[TIP](https://ieeexplore.ieee.org/abstract/document/7452620/)\]\[text-detection\]\[text-recognition\]\[video-ocr\]
+\[[TIP](https://ieeexplore.ieee.org/abstract/document/7452620/)\]\[text-detection\]\[text-recognition\]\[video-ocr\]\[overview\]
 
 **Text-Attentional Convolutional Neural Network for Scene Text Detection**  
 Tong He, Weilin Huang, Yu Qiao, Jian Yao  
@@ -232,7 +232,7 @@ Baoguang Shi, Xiang Bai, Cong Yao
 
 **Text Detection and Recognition in Imagery: A Survey**  
 Qixiang Ye, David Doermann  
-\[[TPAMI](https://ieeexplore.ieee.org/abstract/document/6945320/)\]\[text-detection\]\[text-recognition\]
+\[[TPAMI](https://ieeexplore.ieee.org/abstract/document/6945320/)\]\[text-detection\]\[text-recognition\]\[overview\]
 
 **Deep learning for text spotting**  
 Maxwell Jaderberg  
