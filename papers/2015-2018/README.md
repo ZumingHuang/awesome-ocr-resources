@@ -19,6 +19,10 @@ Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun
 Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai  
 \[[arXiv](https://arxiv.org/abs/1802.08948)\]\[text-detection\]\[text-segmentation\]
 
+**Sliding Line Point Regression for Shape Robust Scene Text Detection**  
+Yixing Zhu, Jun Du  
+\[[arXiv](https://arxiv.org/abs/1801.09969)\]\[text-detection\]
+
 **TextBoxes++: A Single-Shot Oriented Scene Text Detector**  
 Minghui Liao, Baoguang Shi, Xiang Bai  
 \[[TIP](https://ieeexplore.ieee.org/document/8334248/)\]\[[arXiv](https://arxiv.org/abs/1801.02765)\]\[[code](https://github.com/MhLiao/TextBoxes_plusplus)\]\[text-detection\]\[text-recognition\]
@@ -68,6 +72,10 @@ Hui Li, Peng Wang, Chunhua Shen
 Han Hu, Chengquan Zhang, Yuxuan Luo, Yuzhuo Wang, Junyu Han, Errui Ding  
 \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1708.06720)\]\[text-detection\]
 
+**A Unified Video Text Detection Method with Network Flow**  
+Xue-Hang Yang, Wenhao He, Fei Yin, Cheng-Lin Liu  
+\[[ICDAR](https://ieeexplore.ieee.org/abstract/document/8269993/)\]\[text-detection\]\[video-ocr\]
+
 **Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection**  
 Yuliang Liu, Lianwen Jin  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf)\]\[text-detection\]
@@ -108,7 +116,63 @@ Chulmoo Kang, Gunhee Kim, Suk I. Yoo
 Jianqi Ma, Weiyuan Shao, Hao Ye, Li Wang, Hong Wang, Yingbin Zheng, Xiangyang Xue  
 \[[TMM](https://ieeexplore.ieee.org/abstract/document/8323240/)\]\[[arXiv](https://arxiv.org/abs/1703.01086)\]\[text-detection\]
 
+**TextProposals: A text-specific selective search algorithm for word spotting in the wild**  
+Lluis Gomez, Dimosthenis Karatzas  
+\[[PR](https://www.sciencedirect.com/science/article/pii/S0031320317301784)\]\[[arXiv](https://arxiv.org/abs/1604.02619)\]\[[code](https://github.com/lluisgomez/TextProposals)\]\[text-detection\]
+
 ## 2016
+**Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data**  
+Xinghua Lou, Ken Kansky, Wolfgang Lehrach, CC Laan, Bhaskara Marthi, D. Phoenix, Dileep George  
+\[[NIPS](http://papers.nips.cc/paper/6071-generative-shape-models-joint-text-recognition-and-segmentation-with-very-little-training-data)\]\[text-recognition\]\[text-segmentation\]
+
+**Detecting Text in Natural Image with Connectionist Text Proposal Network**  
+Zhi Tian, Weilin Huang, Tong He, Pan He, Yu Qiao  
+\[[ECCV](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_4)\]\[[arXiv](https://arxiv.org/abs/1609.03605)\]\[[code](https://github.com/tianzhi0549/CTPN)\]\[text-detection\]
+
+**Scene Text Detection in Video by Learning Locally and Globally**  
+Shu Tian, Wei-Yi Pei, Ze-Yu Zuo, Xu-Cheng Yin  
+\[[IJCAI](https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf)\]\[text-detection\]\[video-ocr\]
+
+**Synthetic Data for Text Localisation in Natural Images**  
+Ankush Gupta,  Andrea Vedaldi,  Andrew Zisserman  
+\[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S10-06.pdf)\]\[[supp](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16_supplement.pdf)\]\[[code](https://github.com/ankush-me/SynthText)\]\[[homepage](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)\]\[text-detection\]
+
+**Robust Scene Text Recognition with Automatic Rectification**  
+Baoguang Shi, Xinggang Wang, Pengyuan Lyu, Cong Yao, Xiang Bai  
+\[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Robust_Scene_Text_CVPR_2016_paper.pdf)\]\[text-recognition\]
+
+**Multi-Oriented Text Detection with Fully Convolutional Networks**  
+Zheng Zhang, Chengquan Zhang, Wei Shen, Cong Yao, Wenyu Liu, Xiang Bai  
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Multi-Oriented_Text_Detection_CVPR_2016_paper.pdf)\]\[text-detection\]
+
+**Recursive Recurrent Nets with Attention Modeling for OCR in the Wild**  
+Chen-Yu Lee, Simon Osindero  
+\[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S09-57.pdf)\]\[text-recognition\]
+
+**Canny Text Detector: Fast and Robust Scene Text Localization Algorithm**  
+Hojin Cho, Myungchul Sung, Bongjin Jun  
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf)\]\[text-detection\]
+
+**Reading Scene Text in Deep Convolutional Sequences**  
+Pan He, Weilin Huang, Yu Qiao, Chen Change Loy,  Xiaoou Tang  
+\[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121)\]\[text-recognition\]
+
+**Scene Text Detection via Holistic, Multi-Channel Prediction**  
+Cong Yao, Xiang Bai, Nong Sang, Xinyu Zhou, Shuchang Zhou, Zhimin Cao  
+\[[arXiv](https://arxiv.org/abs/1606.09002)\]\[text-detection\]
+
+**DeepText: A Unified Framework for Text Proposal Generation and Text Detection in Natural Images**  
+Zhuoyao Zhong, Lianwen Jin, Shuye Zhang, Ziyong Feng  
+\[[arXiv](https://arxiv.org/abs/1605.07314)\]\[text-detection\]
+
+**Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network**  
+Tong He, Weilin Huang, Yu Qiao, Jian Yao  
+\[[arXiv](https://arxiv.org/abs/1603.09423)\]\[text-detection\]
+
+**COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images**  
+Andreas Veit, Tomas Matera, Lukas Neumann, Jiri Matas, Serge Belongie  
+\[[arXiv](https://arxiv.org/abs/1601.07140)\]\[text-detection\]\[text-recognition\]
+
 **Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition**  
 Zecheng Xie, Zenghui Sun, Lianwen Jin, Hao Ni, Terry Lyons  
 \[[TPAMI](https://ieeexplore.ieee.org/abstract/document/7995142/)\]\[[arXiv](https://arxiv.org/abs/1610.02616)\]\[text-recognition\]
@@ -119,22 +183,18 @@ Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman
 
 **Text Detection, Tracking and Recognition in Video: A Comprehensive Survey**  
 Xu-Cheng Yin, Ze-Yu Zuo, Shu Tian  
-\[[TIP](https://ieeexplore.ieee.org/abstract/document/7452620/)\]\[text-detection\]\[text-recognition\]
+\[[TIP](https://ieeexplore.ieee.org/abstract/document/7452620/)\]\[text-detection\]\[text-recognition\]\[video-ocr\]
 
-**Detecting Text in Natural Image with Connectionist Text Proposal Network**  
-Zhi Tian, Weilin Huang, Tong He, Pan He, Yu Qiao  
-\[[ECCV](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_4)\]\[[arXiv](https://arxiv.org/abs/1609.03605)\]\[[code](https://github.com/tianzhi0549/CTPN)\]\[text-detection\]
-
-**Synthetic Data for Text Localisation in Natural Images**  
-Ankush Gupta,  Andrea Vedaldi,  Andrew Zisserman  
-\[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S10-06.pdf)\]\[[supp](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16_supplement.pdf)\]\[[code](https://github.com/ankush-me/SynthText)\]\[[homepage](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)\]\[text-detection\]
-
-**Reading Scene Text in Deep Convolutional Sequences**  
-Pan He, Weilin Huang, Yu Qiao, Chen Change Loy,  Xiaoou Tang  
-\[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121)\]\[text-recognition\]
-
-**Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network**  
+**Text-Attentional Convolutional Neural Network for Scene Text Detection**  
 Tong He, Weilin Huang, Yu Qiao, Jian Yao  
-\[[arXiv](https://arxiv.org/abs/1603.09423)\]\[text-detection\]
+\[[TIP](https://ieeexplore.ieee.org/abstract/document/7442550/)\]\[text-detection\]
+
+**TextCatcher: a method to detect curved and challenging text in natural scenes**  
+Jonathan Fabrizio, Myriam Robert-Seidowsky, Severine Dubuisson, Stefania Calarasanu, Raphael Boissel  
+\[[IJDAR](https://link.springer.com/article/10.1007/s10032-016-0264-4)\]\[https://link.springer.com/article/10.1007/s10032-016-0264-4\]\[text-detection\]
+
+**Context Modeling for Semantic Text Matching and Scene Text Detection**  
+Wenyi Huang  
+\[[Thesis](https://etda.libraries.psu.edu/files/final_submissions/12356)\]\[text-detection\]
 
 ## 2015
