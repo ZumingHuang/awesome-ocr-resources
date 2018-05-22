@@ -1,7 +1,7 @@
 ## 2014
 **Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition**  
 Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman  
-\[[NIPS (workshop)]\]\[http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf\]\[[arXiv](https://arxiv.org/abs/1406.2227)\]\[[homepage](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/)\]\[text-recognition\]
+\[[NIPS (workshop)](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)\]\[[arXiv](https://arxiv.org/abs/1406.2227)\]\[[homepage](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/)\]\[text-recognition\]
 
 **Deep Features for Text Spotting**  
 Max Jaderberg, Andrea Vedaldi, Andrew Zisserman  
