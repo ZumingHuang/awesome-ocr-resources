@@ -24,7 +24,21 @@ Yingying Zhu, Cong Yao, Xiang Bai
 \[[Frontiers of Computer Science](https://link.springer.com/article/10.1007/s11704-015-4488-0)\]\[text-detection\]\[text-recognition\]\[overview\]
 
 ## 2013
+**PhotoOCR: Reading Text in Uncontrolled Conditions**  
+Alessandro Bissacco, Mark Cummins, Yuval Netzer, Hartmut Neven  
+\[[ICCV](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf)\]\[text-detection\]\[text-recognition\]
+
+**Scene Text Recognition using Part-based Tree-structured Character Detection**  
+Cunzhao Shi, Chunheng Wang, Baihua Xiao, Yang Zhang, Song Gao,  Zhong Zhang  
+\[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf)\]\[text-recognition\]
 
 ## 2012
+**Real-Time Scene Text Localization and Recognition**  
+Lukas Neumann, Jiri Matas  
+\[[CVPR](https://ieeexplore.ieee.org/abstract/document/6248097/)\]\[[code](https://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)\]\[text-detection\]\[text-recognition\]
+
+**End-to-End Text Recognition with Convolutional Neural Networks**  
+Tao Wang, David J. Wu, Adam Coates, Andrew Y. Ng  
+\[[Thesis](https://cs.stanford.edu/people/dwu4/HonorThesis.pdf)\]\[[ICPR](https://ieeexplore.ieee.org/document/6460871/)\]\[[code](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar)\]\[text-detection\]\[text-recognition\]\[end-to-end-ocr\]
 
 ## 2011
