@@ -1,4 +1,8 @@
 ## 2018
+**Edit Probability for Scene Text Recognition**  
+Fan Bai, Zhanzhan Cheng, Yi Niu, Shiliang Pu, Shuigeng Zhou  
+\[[arXiv](https://arxiv.org/abs/1805.03384)\]\[text-recognition\]
+
 **Boosting up Scene Text Detectors with Guided CNN**  
 Xiaoyu Yue, Zhanghui Kuang, Zhaoyang Zhang, Zhenfang Chen, Pan He, Yu Qiao, Wei Zhang  
 \[[arXiv](https://arxiv.org/abs/1805.04132)\]\[text-detection\]
