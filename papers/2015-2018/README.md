@@ -1,15 +1,15 @@
 ## 2018
-**Edit Probability for Scene Text Recognition**  
-Fan Bai, Zhanzhan Cheng, Yi Niu, Shiliang Pu, Shuigeng Zhou  
-\[[arXiv](https://arxiv.org/abs/1805.03384)\]\[text-recognition\]
-
 **Boosting up Scene Text Detectors with Guided CNN**  
 Xiaoyu Yue, Zhanghui Kuang, Zhaoyang Zhang, Zhenfang Chen, Pan He, Yu Qiao, Wei Zhang  
 \[[arXiv](https://arxiv.org/abs/1805.04132)\]\[text-detection\]
 
 **IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection**  
 Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin  
-\[[arXiv](https://arxiv.org/abs/1805.01167)\]\[text-detection\]\[text-segmentation\]
+\[IJCAI\]\[[arXiv](https://arxiv.org/abs/1805.01167)\]\[text-detection\]\[text-segmentation\]
+
+**Edit Probability for Scene Text Recognition**  
+Fan Bai, Zhanzhan Cheng, Yi Niu, Shiliang Pu, Shuigeng Zhou  
+\[CVPR\]\[[arXiv](https://arxiv.org/abs/1805.03384)\]\[text-recognition\]
 
 **Rotation-Sensitive Regression for Oriented Scene Text Detection**  
 Minghui Liao, Zhen Zhu, Baoguang Shi, Gui-song Xia, Xiang Bai  
@@ -17,11 +17,23 @@ Minghui Liao, Zhen Zhu, Baoguang Shi, Gui-song Xia, Xiang Bai
 
 **An end-to-end TextSpotter with Explicit Alignment and Attention**  
 Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun  
-\[[arXiv](https://arxiv.org/abs/1803.03474)\]\[[code](https://github.com/tonghe90/textspotter)\]\[end-to-end-ocr\]
+\[CVPR\]\[[arXiv](https://arxiv.org/abs/1803.03474)\]\[[code](https://github.com/tonghe90/textspotter)\]\[end-to-end-ocr\]
+
+**FOTS: Fast Oriented Text Spotting with a Unified Network**  
+Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan  
+\[CVPR\]\[[arXiv](https://arxiv.org/abs/1801.01671)\]\[end-to-end-ocr\]
 
 **Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation**  
 Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai  
 \[[arXiv](https://arxiv.org/abs/1802.08948)\]\[text-detection\]\[text-segmentation\]
+
+**PixelLink: Detecting Scene Text via Instance Segmentation**  
+Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai  
+\[AAAI\]\[[arXiv](https://arxiv.org/abs/1801.01315)\]\[[code](https://github.com/ZJULearning/pixel_link)\]\[text-detection\]
+
+**SEE: Towards Semi-Supervised End-to-End Scene Text Recognition**  
+Christian Bartz, Haojin Yang, Christoph Meinel  
+\[AAAI\]\[[arXiv](https://arxiv.org/abs/1712.05404)\]\[text-detection\]\[text-recognition\]\[end-to-end-ocr\]
 
 **Sliding Line Point Regression for Shape Robust Scene Text Detection**  
 Yixing Zhu, Jun Du  
@@ -30,14 +42,6 @@ Yixing Zhu, Jun Du
 **TextBoxes++: A Single-Shot Oriented Scene Text Detector**  
 Minghui Liao, Baoguang Shi, Xiang Bai  
 \[[TIP](https://ieeexplore.ieee.org/document/8334248/)\]\[[arXiv](https://arxiv.org/abs/1801.02765)\]\[[code](https://github.com/MhLiao/TextBoxes_plusplus)\]\[text-detection\]\[text-recognition\]
-
-**FOTS: Fast Oriented Text Spotting with a Unified Network**  
-Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan  
-\[[arXiv](https://arxiv.org/abs/1801.01671)\]\[end-to-end-ocr\]
-
-**PixelLink: Detecting Scene Text via Instance Segmentation**  
-Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai  
-\[[arXiv](https://arxiv.org/abs/1801.01315)\]\[[code](https://github.com/ZJULearning/pixel_link)\]\[text-detection\]
 
 ## 2017
 **Detecting Curve Text in the Wild: New Dataset and New Solution**  
@@ -202,3 +206,30 @@ Wenyi Huang
 \[[Thesis](https://etda.libraries.psu.edu/files/final_submissions/12356)\]\[text-detection\]
 
 ## 2015
+**FASText: Efficient unconstrained scene text detector**  
+Michal Busta, Lukas Neumann, Jiri Matas  
+\[[ICCV](http://openaccess.thecvf.com/content_iccv_2015/papers/Busta_FASText_Efficient_Unconstrained_ICCV_2015_paper.pdf)\]\[[code](https://github.com/MichalBusta/FASText)\]\[text-detection\]
+
+**Object Proposals for Text Extraction in the Wild**  
+Lluis Gomez, Dimosthenis Karatzas  
+\[[ICDAR](https://ieeexplore.ieee.org/abstract/document/7333753/)\]\[[arXiv](https://arxiv.org/abs/1509.02317)\]\[[code](https://github.com/lluisgomez/TextProposals)\]\[text-detection\]
+
+**Deep Structured Output Learning for Unconstrained Text Recognition**  
+Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman  
+\[ICLR\]\[[arXiv](https://arxiv.org/abs/1412.5903)\]\[[slides](https://iclr.cc/archive/www/lib/exe/fetch.php%3Fmedia=iclr2015:jaderbergetal-iclr2015.pdf)\]\[[video](https://www.youtube.com/watch?v=NYkG38RCoRg&feature=youtu.be)\]\[text-recognition\]
+
+**Real-Time Lexicon-Free Scene Text Localization and Recognition**  
+Lukas Neumann, Jiri Matas  
+\[[TPAMI](https://ieeexplore.ieee.org/abstract/document/7313008/)\]\[text-detection\]\[text-recognition\]
+
+**An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition**  
+Baoguang Shi, Xiang Bai, Cong Yao  
+\[[TPAMI](https://ieeexplore.ieee.org/abstract/document/7801919/)\]\[[arXiv](https://arxiv.org/abs/1507.05717)\]\[[code](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip)\]\[text-recognition\]
+
+**Text Detection and Recognition in Imagery: A Survey**  
+Qixiang Ye, David Doermann  
+\[[TPAMI](https://ieeexplore.ieee.org/abstract/document/6945320/)\]\[text-detection\]\[text-recognition\]
+
+**Deep learning for text spotting**  
+Maxwell Jaderberg  
+\[[Thesis](http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.667044)\]\[code\]\[text-detection\]\[text-recognition\]\[end-to-end-ocr\]
