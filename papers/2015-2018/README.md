@@ -161,6 +161,10 @@ Chen-Yu Lee, Simon Osindero
 Hojin Cho, Myungchul Sung, Bongjin Jun  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf)\]\[text-detection\]
 
+**Context-Aware Mathematical Expression Recognition: An End-to-End Framework and A Benchmark**  
+Wenhao He, Yuxuan Luo, Fei Yin, Han Hu, Junyu Han, Errui Ding, Cheng-Lin Liu  
+\[[ICPR](https://ieeexplore.ieee.org/abstract/document/7900135/)\]\[text-recognition\]
+
 **Reading Scene Text in Deep Convolutional Sequences**  
 Pan He, Weilin Huang, Yu Qiao, Chen Change Loy,  Xiaoou Tang  
 \[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121)\]\[text-recognition\]
