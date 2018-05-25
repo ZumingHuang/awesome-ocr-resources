@@ -210,6 +210,10 @@ Wenyi Huang
 \[[Thesis](https://etda.libraries.psu.edu/files/final_submissions/12356)\]\[text-detection\]
 
 ## 2015
+**Text Flow: A Unified Text Detection System in Natural Scene Images**  
+Shangxuan Tian, Yifeng Pan, Chang Huang, Shijian Lu, Kai Yu, Chew Lim Tan  
+\[[ICCV](http://openaccess.thecvf.com/content_iccv_2015/papers/Tian_Text_Flow_A_ICCV_2015_paper.pdf)\]\[text-detection\]
+
 **FASText: Efficient unconstrained scene text detector**  
 Michal Busta, Lukas Neumann, Jiri Matas  
 \[[ICCV](http://openaccess.thecvf.com/content_iccv_2015/papers/Busta_FASText_Efficient_Unconstrained_ICCV_2015_paper.pdf)\]\[[code](https://github.com/MichalBusta/FASText)\]\[text-detection\]
