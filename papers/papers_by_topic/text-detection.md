@@ -50,10 +50,6 @@ Yue Wu, Prem Natarajan
 Han Hu, Chengquan Zhang, Yuxuan Luo, Yuzhuo Wang, Junyu Han, Errui Ding  
 \[[ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1708.06720)\]\[text-detection\]
 
-**A Unified Video Text Detection Method with Network Flow**  
-Xue-Hang Yang, Wenhao He, Fei Yin, Cheng-Lin Liu  
-\[[ICDAR 2017](https://ieeexplore.ieee.org/abstract/document/8269993/)\]\[text-detection\]\[video-ocr\]
-
 **Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection**  
 Yuliang Liu, Lianwen Jin  
 \[[CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf)\]\[text-detection\]
@@ -101,10 +97,6 @@ Lluis Gomez, Dimosthenis Karatzas
 **Detecting Text in Natural Image with Connectionist Text Proposal Network**  
 Zhi Tian, Weilin Huang, Tong He, Pan He, Yu Qiao  
 \[[ECCV 2016](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_4)\]\[[arXiv](https://arxiv.org/abs/1609.03605)\]\[[code](https://github.com/tianzhi0549/CTPN)\]\[text-detection\]
-
-**Scene Text Detection in Video by Learning Locally and Globally**  
-Shu Tian, Wei-Yi Pei, Ze-Yu Zuo, Xu-Cheng Yin  
-\[[IJCAI 2016](https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf)\]\[text-detection\]\[video-ocr\]
 
 **Synthetic Data for Text Localisation in Natural Images**  
 Ankush Gupta,  Andrea Vedaldi,  Andrew Zisserman  
