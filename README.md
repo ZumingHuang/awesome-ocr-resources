@@ -18,8 +18,8 @@ This resources is built on a fork of [image-text-localization-recognition](https
   - [overview](https://github.com/ZumingHuang/ocr-resources/blob/master/papers/papers_by_topic/overview.md)
 
 ### Datasets
-  - [Synthetic Data]
-  - [ICDAR Data]
-  - [IRREGULAR Data]
-  - [Video Data]
-  - [Others]
+  - [Synthetic Data](https://github.com/ZumingHuang/awesome-ocr-resources/tree/master/datasets/SYNTH_DATA)
+  - [ICDAR Data](https://github.com/ZumingHuang/awesome-ocr-resources/tree/master/datasets/ICDAR_DATA)
+  - [IRREGULAR Data](https://github.com/ZumingHuang/awesome-ocr-resources/tree/master/datasets/IRREGULAR_DATA)
+  - [Video Data](https://github.com/ZumingHuang/awesome-ocr-resources/tree/master/datasets/VIDEO_DATA)
+  - [Others](https://github.com/ZumingHuang/awesome-ocr-resources/tree/master/datasets/Others)
