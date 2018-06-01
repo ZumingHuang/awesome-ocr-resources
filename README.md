@@ -10,12 +10,12 @@ This resources is built on a fork of [image-text-localization-recognition](https
   - [before-2010](papers/papers_by_year/before-2010.md)
 
 ### Papers by Topic
+  - [overview](papers/papers_by_topic/overview.md)
   - [text-detection](papers/papers_by_topic/text-detection.md)
   - [text-recognition](papers/papers_by_topic/text-recognition.md)
   - [text-segmentation](papers/papers_by_topic/text-segmentation.md)
   - [end-to-end-ocr](papers/papers_by_topic/end-to-end-ocr.md)
   - [video-ocr](papers/papers_by_topic/video-ocr.md)
-  - [overview](papers/papers_by_topic/overview.md)
 
 ### Datasets
   - [Synthetic Data](datasets/SYNTH_DATA)
