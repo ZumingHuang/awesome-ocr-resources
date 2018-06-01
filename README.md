@@ -20,6 +20,6 @@ This resources is built on a fork of [image-text-localization-recognition](https
 ### Datasets
   - [Synthetic Data](datasets/SYNTH_DATA)
   - [ICDAR Data](datasets/ICDAR_DATA)
-  - [IRREGULAR Data](datasets/IRREGULAR_DATA)
+  - [Irregular Data](datasets/IRREGULAR_DATA)
   - [Video Data](datasets/VIDEO_DATA)
   - [Others](datasets/Others)
