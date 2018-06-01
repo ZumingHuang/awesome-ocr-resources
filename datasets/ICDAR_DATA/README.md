@@ -9,6 +9,8 @@
 ## ICDAR 2013
 ![ICDAR2013_demo](demo_images/ICDAR2013_demo.png)
 
+The ICDAR 2013 datasets are from the ICDAR 2013 Robust Reading Competition, with 229 natural images for training and 233 for testing. The texts are annotated with character-level bounding boxes, and they are mostly horizontal and well focused.
+
 ## ICDAR 2015
 
 ## ICDAR 2017 COCO-Text
