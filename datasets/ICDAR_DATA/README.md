@@ -7,6 +7,7 @@
 |[ICDAR 2017 MLT](http://rrc.cvc.uab.es/?ch=8&com=introduction)|7200|1800|email to nibal.nayef@univ-lr.fr|No|Yes (Quadrangle)|
 
 ## ICDAR 2013
+![ICDAR2013_demo](demo_images/ICDAR2013_demo.png)
 
 ## ICDAR 2015
 

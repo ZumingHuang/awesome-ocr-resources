@@ -5,21 +5,21 @@ This resources is built on a fork of [image-text-localization-recognition](https
 ## Contents
 
 ### Papers by Year
-  - [2015-2018](https://github.com/ZumingHuang/ocr-resources/tree/master/papers/papers_by_year/2015-2018.md)
-  - [2011-2014](https://github.com/ZumingHuang/ocr-resources/tree/master/papers/papers_by_year/2011-2014.md)
-  - [before-2010](https://github.com/ZumingHuang/ocr-resources/tree/master/papers/papers_by_year/before-2010.md)
+  - [2015-2018](papers/papers_by_year/2015-2018.md)
+  - [2011-2014](papers/papers_by_year/2011-2014.md)
+  - [before-2010](papers/papers_by_year/before-2010.md)
 
 ### Papers by Topic
-  - [text-detection](https://github.com/ZumingHuang/ocr-resources/tree/master/papers/papers_by_topic/text-detection.md)
-  - [text-recognition](https://github.com/ZumingHuang/ocr-resources/tree/master/papers/papers_by_topic/text-recognition.md)
-  - [text-segmentation](https://github.com/ZumingHuang/ocr-resources/tree/master/papers/papers_by_topic/text-segmentation.md)
-  - [end-to-end-ocr](https://github.com/ZumingHuang/ocr-resources/blob/master/papers/papers_by_topic/end-to-end-ocr.md)
-  - [video-ocr](https://github.com/ZumingHuang/ocr-resources/blob/master/papers/papers_by_topic/video-ocr.md)
-  - [overview](https://github.com/ZumingHuang/ocr-resources/blob/master/papers/papers_by_topic/overview.md)
+  - [text-detection](papers/papers_by_topic/text-detection.md)
+  - [text-recognition](papers/papers_by_topic/text-recognition.md)
+  - [text-segmentation](papers/papers_by_topic/text-segmentation.md)
+  - [end-to-end-ocr](papers/papers_by_topic/end-to-end-ocr.md)
+  - [video-ocr](papers/papers_by_topic/video-ocr.md)
+  - [overview](papers/papers_by_topic/overview.md)
 
 ### Datasets
   - [Synthetic Data](datasets/SYNTH_DATA)
-  - [ICDAR Data](https://github.com/ZumingHuang/awesome-ocr-resources/tree/master/datasets/ICDAR_DATA)
-  - [IRREGULAR Data](https://github.com/ZumingHuang/awesome-ocr-resources/tree/master/datasets/IRREGULAR_DATA)
-  - [Video Data](https://github.com/ZumingHuang/awesome-ocr-resources/tree/master/datasets/VIDEO_DATA)
-  - [Others](https://github.com/ZumingHuang/awesome-ocr-resources/tree/master/datasets/Others)
+  - [ICDAR Data](datasets/ICDAR_DATA)
+  - [IRREGULAR Data](datasets/IRREGULAR_DATA)
+  - [Video Data](datasets/VIDEO_DATA)
+  - [Others](datasets/Others)
