@@ -8,11 +8,20 @@
 
 ## ICDAR 2013
 ![ICDAR2013_demo](demo_images/ICDAR2013_demo.png)
+> Demo images of ICDAR 2013.
 
 The ICDAR 2013 datasets are from the ICDAR 2013 Robust Reading Competition, with 229 natural images for training and 233 for testing. The texts are annotated with character-level bounding boxes, and they are mostly horizontal and well focused.
 
 ## ICDAR 2015
+![ICDAR2015_demo](demo_images/ICDAR2015_demo.png)
+> Demo images of ICDAR 2015.
+
+The ICDAR 2015 datasets are from the ICDAR 2015 Robust Reading Competition, with 1000 natural images for training and 500 for testing. The images are acquired using Google Glass and the texts accidentally appear in the scene without user’s prior intention. All the texts are annotated with word-level quadrangles.
 
 ## ICDAR 2017 COCO-Text
+![ICDAR2017_COCO-Text_demo](demo_images/ICDAR2017_COCO-Text_demo.png)
+> Demo images of ICDAR 2017 COCO-Text.
+
+The COCO-Text is a large scale dataset with 43,686 images for training and 20,000 for testing. The original images are from Microsoft COCO dataset.
 
 ## ICDAR 2017 MLT
