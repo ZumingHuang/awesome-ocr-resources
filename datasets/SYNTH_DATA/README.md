@@ -1,7 +1,7 @@
 ## Overview
 |Dataset|Train|Validation|Test|Character-Level Annotation|Word-Level Annotation|
 |---|---|---|---|---|---|
-|[Synthetic Word](http://www.robots.ox.ac.uk/~vgg/data/text/#sec-synth)|9,000,000|No|No|No|Yes (Cropped Word)|
+|[Synthetic Word](http://www.robots.ox.ac.uk/~vgg/data/text/#sec-synth)|7,224,612|802,734|891,927|No|Yes (Cropped Word)|
 |[SynthText in the Wild](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)|800,000|No|No|Yes (Rectangle)|Yes (Quadrangle)|
 
 ## Synthetic Word
