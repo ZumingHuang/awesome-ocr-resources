@@ -25,3 +25,7 @@ The ICDAR 2015 datasets are from the ICDAR 2015 Robust Reading Competition, with
 The COCO-Text is a large scale dataset with 43,686 images for training and 20,000 for testing. The original images are from Microsoft COCO dataset.
 
 ## ICDAR 2017 MLT
+![ICDAR2017_MLT_demo](demo_images/ICDAR2017_MLT_demo.png)
+> Demo images of ICDAR 2017 MLT.
+
+The ICDAR 2017 dataset on Multi-lingual scene text detection and script identification has 7200 images for training and 1800 images for validation. The dataset is composed of complete scene images which come from 9 languages (i.e., Chinese, Japanese, Korean, English, French, Arabic, Italian, German and Indian) representing 6 different scripts (i.e., Arabic, Latin, Chinese, Japanese, Korean and Bangla). It combines text detection with script identification, and contains much more images than related datasets.
