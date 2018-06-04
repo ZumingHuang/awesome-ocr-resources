@@ -3,6 +3,10 @@
 Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin  
 \[IJCAI\]\[[arXiv](https://arxiv.org/abs/1805.01167)\]\[text-detection\]\[text-segmentation\]
 
+**Learning Markov Clustering Networks for Scene Text Detection**  
+Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wang Ling Goh  
+\[CVPR\]\[[arXiv](https://arxiv.org/abs/1805.08365)\]\[text-detection\]\[text-segmentation\]
+
 **Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation**  
 Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai  
 \[[arXiv](https://arxiv.org/abs/1802.08948)\]\[text-detection\]\[text-segmentation\]
