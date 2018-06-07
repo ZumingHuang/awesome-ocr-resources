@@ -1,4 +1,8 @@
 ## 2018
+**SCAN: Sliding Convolutional Attention Network for Scene Text Recognition**  
+Yi-Chao Wu, Fei Yin, Xu-Yao Zhang, Li Liu, Cheng-Lin Liu  
+\[[arXiv](https://arxiv.org/abs/1806.00578)\]\[text-recognition\]
+
 **Edit Probability for Scene Text Recognition**  
 Fan Bai, Zhanzhan Cheng, Yi Niu, Shiliang Pu, Shuigeng Zhou  
 \[CVPR\]\[[arXiv](https://arxiv.org/abs/1805.03384)\]\[text-recognition\]
