@@ -1,4 +1,8 @@
 ## 2018
+**Shape Robust Text Detection with Progressive Scale Expansion Network**  
+Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang  
+\[[arXiv](https://arxiv.org/abs/1806.02559)\]\[text-detection\]\[text-segmentation\]
+
 **IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection**  
 Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin  
 \[IJCAI\]\[[arXiv](https://arxiv.org/abs/1805.01167)\]\[text-detection\]\[text-segmentation\]

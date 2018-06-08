@@ -1,4 +1,8 @@
 ## 2018
+**Shape Robust Text Detection with Progressive Scale Expansion Network**  
+Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang  
+\[[arXiv](https://arxiv.org/abs/1806.02559)\]\[[code](https://github.com/whai362/PSENet)\]\[text-detection\]\[text-segmentation\]
+
 **Boosting up Scene Text Detectors with Guided CNN**  
 Xiaoyu Yue, Zhanghui Kuang, Zhaoyang Zhang, Zhenfang Chen, Pan He, Yu Qiao, Wei Zhang  
 \[[arXiv](https://arxiv.org/abs/1805.04132)\]\[text-detection\]
