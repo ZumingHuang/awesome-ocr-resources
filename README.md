@@ -1,6 +1,5 @@
 # OCR Resources
 This repository contains a collection of resources (including the papers and datasets) of OCR (Optical Character Recognition).
-This resources is built on a fork of [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition) and [Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition).
 
 ## Contents
 
@@ -23,3 +22,6 @@ This resources is built on a fork of [image-text-localization-recognition](https
   - [Irregular Data](datasets/IRREGULAR_DATA)
   - [Video Data](datasets/VIDEO_DATA)
   - [Others](datasets/Others)
+
+## Acknowledgement
+This resources is built on a fork of [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition) and [Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition).
