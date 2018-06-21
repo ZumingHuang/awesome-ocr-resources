@@ -11,17 +11,21 @@ Xiaoyu Yue, Zhanghui Kuang, Zhaoyang Zhang, Zhenfang Chen, Pan He, Yu Qiao, Wei 
 Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin  
 \[IJCAI\]\[[arXiv](https://arxiv.org/abs/1805.01167)\]\[text-detection\]\[text-segmentation\]
 
+**Geometry-Aware Scene Text Detection With Instance Transformation Network**  
+Fangfang Wang, Liming Zhao, Xi Li, Xinchao Wang, Dacheng Tao  
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)\]\[text-detection\]
+
 **Learning Markov Clustering Networks for Scene Text Detection**  
 Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wang Ling Goh  
-\[CVPR\]\[[arXiv](https://arxiv.org/abs/1805.08365)\]\[text-detection\]\[text-segmentation\]
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Learning_Markov_Clustering_CVPR_2018_paper.pdf)\]\[[Supp](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1408-supp.pdf)\]\[[arXiv](https://arxiv.org/abs/1805.08365)\]\[text-detection\]\[text-segmentation\]
 
 **Rotation-Sensitive Regression for Oriented Scene Text Detection**  
 Minghui Liao, Zhen Zhu, Baoguang Shi, Gui-song Xia, Xiang Bai  
-\[[arXiv](https://arxiv.org/abs/1803.05265)\]\[text-detection\]
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1803.05265)\]\[[code](https://github.com/MhLiao/RRD)\]\[text-detection\]
 
 **Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation**  
 Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai  
-\[[arXiv](https://arxiv.org/abs/1802.08948)\]\[text-detection\]\[text-segmentation\]
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1802.08948)\]\[text-detection\]\[text-segmentation\]
 
 **PixelLink: Detecting Scene Text via Instance Segmentation**  
 Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai  

@@ -1,11 +1,11 @@
 ## 2018
 **An end-to-end TextSpotter with Explicit Alignment and Attention**  
 Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun  
-\[CVPR\]\[[arXiv](https://arxiv.org/abs/1803.03474)\]\[[code](https://github.com/tonghe90/textspotter)\]\[end-to-end-ocr\]
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1803.03474)\]\[[code](https://github.com/tonghe90/textspotter)\]\[end-to-end-ocr\]
 
 **FOTS: Fast Oriented Text Spotting with a Unified Network**  
 Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan  
-\[CVPR\]\[[arXiv](https://arxiv.org/abs/1801.01671)\]\[end-to-end-ocr\]
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_FOTS_Fast_Oriented_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1801.01671)\]\[end-to-end-ocr\]
 
 **SEE: Towards Semi-Supervised End-to-End Scene Text Recognition**  
 Christian Bartz, Haojin Yang, Christoph Meinel  

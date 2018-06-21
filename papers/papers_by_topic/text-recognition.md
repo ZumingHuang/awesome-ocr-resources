@@ -5,7 +5,11 @@ Yi-Chao Wu, Fei Yin, Xu-Yao Zhang, Li Liu, Cheng-Lin Liu
 
 **Edit Probability for Scene Text Recognition**  
 Fan Bai, Zhanzhan Cheng, Yi Niu, Shiliang Pu, Shuigeng Zhou  
-\[CVPR\]\[[arXiv](https://arxiv.org/abs/1805.03384)\]\[text-recognition\]
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1805.03384)\]\[text-recognition\]
+
+**AON: Towards Arbitrarily-Oriented Text Recognition**  
+Zhanzhan Cheng, Yangliu Xu, Fan Bai, Yi Niu, Shiliang Pu, Shuigeng Zhou  
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1711.04226)\]\[text-recognition\]
 
 **TextBoxes++: A Single-Shot Oriented Scene Text Detector**  
 Minghui Liao, Baoguang Shi, Xiang Bai  
