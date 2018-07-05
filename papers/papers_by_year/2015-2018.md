@@ -1,4 +1,8 @@
 ## 2018
+**TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes**  
+Shangbang Long, Jiaqiang Ruan, Wenjie Zhang, Xin He, Wenhao Wu, Cong Yao  
+\[[ECCV]\]\[[arXiv](https://arxiv.org/abs/1807.01544)\]\[text-detection\]
+
 **Shape Robust Text Detection with Progressive Scale Expansion Network**  
 Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang  
 \[[arXiv](https://arxiv.org/abs/1806.02559)\]\[[code](https://github.com/whai362/PSENet)\]\[text-detection\]\[text-segmentation\]
