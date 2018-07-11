@@ -1,4 +1,8 @@
 ## 2018
+**Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes**  
+Fangneng Zhan, Shijian Lu, Chuhui Xue  
+\[ECCV\]\[[arXiv](https://arxiv.org/abs/1807.03021)\]\[text-detection\]\[text-recognition\]
+
 **SCAN: Sliding Convolutional Attention Network for Scene Text Recognition**  
 Yi-Chao Wu, Fei Yin, Xu-Yao Zhang, Li Liu, Cheng-Lin Liu  
 \[[arXiv](https://arxiv.org/abs/1806.00578)\]\[text-recognition\]

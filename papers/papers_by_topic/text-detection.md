@@ -1,4 +1,12 @@
 ## 2018
+**Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping**  
+Chuhui Xue, Shijian Lu, Fangneng Zhan  
+\[ECCV\]\[[arXiv](https://arxiv.org/abs/1807.03547)\]\[text-detection\]
+
+**Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes**  
+Fangneng Zhan, Shijian Lu, Chuhui Xue  
+\[ECCV\]\[[arXiv](https://arxiv.org/abs/1807.03021)\]\[text-detection\]\[text-recognition\]
+
 **TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes**  
 Shangbang Long, Jiaqiang Ruan, Wenjie Zhang, Xin He, Wenhao Wu, Cong Yao  
 \[ECCV\]\[[arXiv](https://arxiv.org/abs/1807.01544)\]\[text-detection\]

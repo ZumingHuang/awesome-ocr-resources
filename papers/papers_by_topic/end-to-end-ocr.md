@@ -1,4 +1,8 @@
 ## 2018
+**Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes**  
+Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai  
+\[ECCV\]\[[arXiv](https://arxiv.org/abs/1807.02242)\]\[end-to-end-ocr\]
+
 **An end-to-end TextSpotter with Explicit Alignment and Attention**  
 Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1803.03474)\]\[[code](https://github.com/tonghe90/textspotter)\]\[end-to-end-ocr\]
