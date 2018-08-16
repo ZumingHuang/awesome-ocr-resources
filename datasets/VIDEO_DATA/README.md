@@ -1,6 +1,6 @@
 ## Overview
 |Dataset|Category|Source|Task|Language|
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 |[ICDAR 2017 DOST](http://rrc.cvc.uab.es/?ch=7&com=introduction)|Scene text|Video|Localization/Tracking/Recognition|English/Japanese|
 |[USTB-VidTEXT](http://prir.ustb.edu.cn/WebT2DAR)|Embedded caption|Video|Localization/Recognition|English/Chinese|
 |[ICDAR 2015 Text in Videos](http://rrc.cvc.uab.es/?ch=3&com=introduction)|Scene text|Video|Localization/Tracking/Recognition|English/Spanish/French/Japanese|
@@ -12,5 +12,5 @@
 |[TREC](https://www-nlpir.nist.gov/projects/t2002v/keyframes/)|Embedded caption/Scene text|Video frames|Search|English|
 
 ## USTB-VidTEXT
-![USTB-VidTEXT_demo](demo_images/USTB-VidTEXT_demo.png)
+![USTB-VidTEXT_demo](demo_images/USTB-VidTEXT_demo.jpg)
 > Demo images of USTB-VidTEXT dataset.
