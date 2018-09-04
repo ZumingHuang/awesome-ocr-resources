@@ -1,4 +1,8 @@
 ## 2018
+**Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline**  
+Zhenbo Xu, Wei Yang, Ajin Meng, Nanxue Lu, Huan Huang, Changchun Ying, Liusheng Huang  
+\[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.pdf)\]\[[code](https://github.com/detectRecog/CCPD)\]\[end-to-end-ocr\]
+
 **Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes**  
 Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai  
 \[ECCV\]\[[arXiv](https://arxiv.org/abs/1807.02242)\]\[end-to-end-ocr\]
