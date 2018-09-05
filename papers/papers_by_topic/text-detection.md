@@ -1,4 +1,8 @@
 ## 2018
+**Using Object Information for Spotting Text**  
+Shitala Prasad, Adams Wai Kin Kong  
+\[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)\]\[text-detection\]
+
 **Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping**  
 Chuhui Xue, Shijian Lu, Fangneng Zhan  
 \[ECCV\]\[[arXiv](https://arxiv.org/abs/1807.03547)\]\[text-detection\]
