@@ -1,4 +1,8 @@
 ## 2018
+**License Plate Detection and Recognition in Unconstrained Scenarios**  
+Sergio Montazzolli Silva, Claudio Rosito Jung  
+\[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sergio_Silva_License_Plate_Detection_ECCV_2018_paper.pdf)\]\[text-detection\]\[text-recognition\]
+
 **Using Object Information for Spotting Text**  
 Shitala Prasad, Adams Wai Kin Kong  
 \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)\]\[text-detection\]

@@ -1,4 +1,8 @@
 ## 2018
+**License Plate Detection and Recognition in Unconstrained Scenarios**  
+Sergio Montazzolli Silva, Claudio Rosito Jung  
+\[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sergio_Silva_License_Plate_Detection_ECCV_2018_paper.pdf)\]\[text-detection\]\[text-recognition\]
+
 **Towards Human-Level License Plate Recognition**  
 Jiafan Zhuang, Saihui Hou, Zilei Wang,  Zheng-Jun Zha  
 \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiafan_Zhuang_Towards_Human-Level_License_ECCV_2018_paper.pdf)\]\[text-recognition\]
