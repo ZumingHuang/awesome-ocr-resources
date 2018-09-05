@@ -1,4 +1,8 @@
 ## 2018
+**Towards Human-Level License Plate Recognition**  
+Jiafan Zhuang, Saihui Hou, Zilei Wang,  Zheng-Jun Zha  
+\[[ECCV]http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiafan_Zhuang_Towards_Human-Level_License_ECCV_2018_paper.pdf\]\[text-recognition\]
+
 **Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes**  
 Fangneng Zhan, Shijian Lu, Chuhui Xue  
 \[ECCV\]\[[arXiv](https://arxiv.org/abs/1807.03021)\]\[text-detection\]\[text-recognition\]
