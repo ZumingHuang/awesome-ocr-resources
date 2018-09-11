@@ -23,6 +23,14 @@ Fan Bai, Zhanzhan Cheng, Yi Niu, Shiliang Pu, Shuigeng Zhou
 Zhanzhan Cheng, Yangliu Xu, Fan Bai, Yi Niu, Shiliang Pu, Shuigeng Zhou  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1711.04226)\]\[text-recognition\]
 
+**SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network**  
+Zichuan Liu, Yixing Li, Fengbo Ren, Wang Ling Goh, Hao Yu  
+\[[AAAI](https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf)\]\[text-recognition\]
+
+**Char-Net: A Character-Aware Neural Network for Distorted Scene Text Recognition**  
+Wei Liu, Chaofeng Chen, Kwan-Yee K. Wong  
+\[[AAAI](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)\]\[text-recognition\]
+
 **TextBoxes++: A Single-Shot Oriented Scene Text Detector**  
 Minghui Liao, Baoguang Shi, Xiang Bai  
 \[[TIP](https://ieeexplore.ieee.org/document/8334248/)\]\[[arXiv](https://arxiv.org/abs/1801.02765)\]\[[code](https://github.com/MhLiao/TextBoxes_plusplus)\]\[text-detection\]\[text-recognition\]
