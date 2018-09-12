@@ -11,12 +11,12 @@ This repository contains a collection of resources (including the papers and dat
   - [before-2010](papers/papers_by_year/before-2010.md)
 
 ### Papers by Topics
-  - [overview](papers/papers_by_topic/overview.md)
-  - [text-detection](papers/papers_by_topic/text-detection.md)
-  - [text-recognition](papers/papers_by_topic/text-recognition.md)
-  - [text-segmentation](papers/papers_by_topic/text-segmentation.md)
-  - [end-to-end-ocr](papers/papers_by_topic/end-to-end-ocr.md)
-  - [video-ocr](papers/papers_by_topic/video-ocr.md)
+  - [overview](papers/papers_by_topics/overview.md)
+  - [text-detection](papers/papers_by_topics/text-detection.md)
+  - [text-recognition](papers/papers_by_topics/text-recognition.md)
+  - [text-segmentation](papers/papers_by_topics/text-segmentation.md)
+  - [end-to-end-ocr](papers/papers_by_topics/end-to-end-ocr.md)
+  - [video-ocr](papers/papers_by_topics/video-ocr.md)
 
 ### Papers by Conferences and Journals
   - [CVPR](papers/papers_by_conferences_and_journals/CVPR.md)
