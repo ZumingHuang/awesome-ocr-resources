@@ -25,7 +25,7 @@ Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang
 
 **Boosting up Scene Text Detectors with Guided CNN**  
 Xiaoyu Yue, Zhanghui Kuang, Zhaoyang Zhang, Zhenfang Chen, Pan He, Yu Qiao, Wei Zhang  
-\[[arXiv](https://arxiv.org/abs/1805.04132)\]\[text-detection\]
+\[[BMVC](https://bmvc2018.org/contents/papers/0633.pdf)\]\[[arXiv](https://arxiv.org/abs/1805.04132)\]\[text-detection\]
 
 **IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection**  
 Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin  
