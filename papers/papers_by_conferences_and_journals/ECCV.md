@@ -1,4 +1,8 @@
 ## 2018
+**Single Shot Scene Text Retrieval**  
+Lluıs Gomez, Andres Mafla, Marcal Rusinol, Dimosthenis Karatzas  
+\[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)\]\[[code](https://github.com/lluisgomez/single-shot-str)\]\[text-detection\]\[text-recognition\]
+
 **License Plate Detection and Recognition in Unconstrained Scenarios**  
 Sergio Montazzolli Silva, Claudio Rosito Jung  
 \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sergio_Silva_License_Plate_Detection_ECCV_2018_paper.pdf)\]\[text-detection\]\[text-recognition\]
