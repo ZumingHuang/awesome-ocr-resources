@@ -1,4 +1,8 @@
 ## 2018
+**Synthetically Supervised Feature Learning for Scene Text Recognition**  
+Yang Liu, Zhaowen Wang, Hailin Jin, Ian Wassell  
+\[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)\]\[text-recognition\]
+
 **Single Shot Scene Text Retrieval**  
 Lluıs Gomez, Andres Mafla, Marcal Rusinol, Dimosthenis Karatzas  
 \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)\]\[[code](https://github.com/lluisgomez/single-shot-str)\]\[text-detection\]\[text-recognition\]
