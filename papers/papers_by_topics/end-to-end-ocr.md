@@ -5,7 +5,7 @@ Zhenbo Xu, Wei Yang, Ajin Meng, Nanxue Lu, Huan Huang, Changchun Ying, Liusheng 
 
 **Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes**  
 Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai  
-\[ECCV\]\[[arXiv](https://arxiv.org/abs/1807.02242)\]\[end-to-end-ocr\]
+\[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1807.02242)\]\[end-to-end-ocr\]
 
 **An end-to-end TextSpotter with Explicit Alignment and Attention**  
 Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun  
