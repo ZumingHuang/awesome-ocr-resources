@@ -17,7 +17,7 @@ Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan
 
 **SEE: Towards Semi-Supervised End-to-End Scene Text Recognition**  
 Christian Bartz, Haojin Yang, Christoph Meinel  
-\[AAAI\]\[[arXiv](https://arxiv.org/abs/1712.05404)\]\[[code](https://github.com/Bartzi/see)\]\[text-detection\]\[text-recognition\]\[end-to-end-ocr\]
+\[[AAAI](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16270/16248)\]\[[arXiv](https://arxiv.org/abs/1712.05404)\]\[[code](https://github.com/Bartzi/see)\]\[text-detection\]\[text-recognition\]\[end-to-end-ocr\]
 
 ## 2017
 **Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework**  

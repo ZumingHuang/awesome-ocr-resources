@@ -53,7 +53,7 @@ Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai
 
 **PixelLink: Detecting Scene Text via Instance Segmentation**  
 Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai  
-\[AAAI\]\[[arXiv](https://arxiv.org/abs/1801.01315)\]\[[code](https://github.com/ZJULearning/pixel_link)\]\[text-segmentation\]
+\[[AAAI](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16469/16260)\]\[[arXiv](https://arxiv.org/abs/1801.01315)\]\[[code](https://github.com/ZJULearning/pixel_link)\]\[text-segmentation\]
 
 **Sliding Line Point Regression for Shape Robust Scene Text Detection**  
 Yixing Zhu, Jun Du  
