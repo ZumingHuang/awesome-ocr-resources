@@ -1,7 +1,7 @@
 ## 2018
 **IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection**  
 Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin  
-\[[IJCAI](https://www.ijcai.org/proceedings/2018/0149.pdf)\]\[[arXiv](https://arxiv.org/abs/1805.01167)\]\[text-detection\]\[text-segmentation\]
+\[[IJCAI](https://www.ijcai.org/proceedings/2018/0149.pdf)\]\[[arXiv](https://arxiv.org/abs/1805.01167)\]\[[code](https://github.com/xieyufei1993/InceptText-Tensorflow)\]\[text-detection\]\[text-segmentation\]
 
 ## 2016
 **Scene Text Detection in Video by Learning Locally and Globally**  
