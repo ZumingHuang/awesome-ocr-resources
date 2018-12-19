@@ -1,3 +1,8 @@
+##2019
+**Scene Text Detection with Supervised Pyramid Context Network**  
+Enze Xie, Yuhang Zang, Shuai Shao, Gang Yu, Cong Yao, Guangyao Li  
+\[AAAI\]\[[arXiv](https://arxiv.org/pdf/1811.08605.pdf)\]\[text-detection\]
+
 ## 2018
 **SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network**  
 Zichuan Liu, Yixing Li, Fengbo Ren, Wang Ling Goh, Hao Yu  
