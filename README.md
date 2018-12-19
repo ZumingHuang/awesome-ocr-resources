@@ -6,6 +6,7 @@ This repository contains a collection of resources (including the papers and dat
 ## Contents
 
 ### Papers by Year
+  - [2019-present](papers/papers_by_year/2019-present.md)
   - [2015-2018](papers/papers_by_year/2015-2018.md)
   - [2011-2014](papers/papers_by_year/2011-2014.md)
   - [before-2010](papers/papers_by_year/before-2010.md)
