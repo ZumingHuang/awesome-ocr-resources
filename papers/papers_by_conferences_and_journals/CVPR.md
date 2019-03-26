@@ -78,6 +78,11 @@ Chen-Yu Lee, Simon Osindero
 Hojin Cho, Myungchul Sung, Bongjin Jun  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf)\]\[text-detection\]
 
+## 2014
+**Active Flattening of Curved Document Images via Two Structured Beams**  
+Gaofeng Meng, Ying Wang, Shenquan Qu, Shiming Xiang, Chunhong Pan  
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2014/papers/Meng_Active_Flattening_of_2014_CVPR_paper.pdf)\]\[document-image-unwarping\]
+
 ## 2013
 **Scene Text Recognition using Part-based Tree-structured Character Detection**  
 Cunzhao Shi, Chunheng Wang, Baihua Xiao, Yang Zhang, Song Gao,  Zhong Zhang  

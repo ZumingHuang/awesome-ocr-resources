@@ -32,6 +32,10 @@ Han Hu, Chengquan Zhang, Yuxuan Luo, Yuzhuo Wang, Junyu Han, Errui Ding
 \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1708.06720)\]\[text-detection\]
 
 ## 2015
+**Extraction of Virtual Baselines from Distorted Document Images Using Curvilinear Projection**  
+Gaofeng Meng, Zuming Huang, Yonghong Song, Shiming Xiang, Chunhong Pan  
+\[[ICCV](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Meng_Extraction_of_Virtual_ICCV_2015_paper.pdf)\]\[document-image-unwarping\]
+
 **Text Flow: A Unified Text Detection System in Natural Scene Images**  
 Shangxuan Tian, Yifeng Pan, Chang Huang, Shijian Lu, Kai Yu, Chew Lim Tan  
 \[[ICCV](http://openaccess.thecvf.com/content_iccv_2015/papers/Tian_Text_Flow_A_ICCV_2015_paper.pdf)\]\[text-detection\]
