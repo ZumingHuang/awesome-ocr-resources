@@ -4,6 +4,10 @@ Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh
 \[CVPR\]\[[arXiv](https://arxiv.org/abs/1903.08836)\]\[text-detection\]\[text-segmentation\]
 
 ## 2018
+**DocUNet: Document Image Unwarping via A Stacked U-Net**  
+Ke Ma, Zhixin Shu, Xue Bai, Jue Wang, Dimitris Samaras
+\[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DocUNet_Document_Image_CVPR_2018_paper.pdf)\]\[document-image-unwarping\]
+
 **Geometry-Aware Scene Text Detection With Instance Transformation Network**  
 Fangfang Wang, Liming Zhao, Xi Li, Xinchao Wang, Dacheng Tao  
 \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)\]\[text-detection\]
