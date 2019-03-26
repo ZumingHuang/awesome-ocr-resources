@@ -1,3 +1,8 @@
+## 2019
+**Towards Robust Curve Text Detection with Conditional Spatial Expansion**  
+Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh  
+\[CVPR\]\[[arXiv](https://arxiv.org/abs/1903.08836)\]\[text-detection\]\[text-segmentation\]
+
 ## 2018
 **Shape Robust Text Detection with Progressive Scale Expansion Network**  
 Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang  
