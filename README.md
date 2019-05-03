@@ -46,3 +46,7 @@ This repository contains a collection of resources (including the papers and dat
 ## References
   - A general list of resources to image text localization and recognition. [https://github.com/whitelok/image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition)
   - A curated list of resources dedicated to scene text localization and recognition. [https://github.com/chongyangtao/Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
+  - A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods. [https://github.com/hwalsuklee/awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
+  - Tracking the latest progress in Scene Text Detection and Recognition: Must-read papers well organized. [https://github.com/Jyouhou/SceneTextPapers](https://github.com/Jyouhou/SceneTextPapers)
+  - Links to awesome OCR projects. [https://github.com/kba/awesome-ocr](https://github.com/kba/awesome-ocr)
+  - A curated list of promising OCR resources. [https://github.com/wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)
