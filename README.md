@@ -43,5 +43,6 @@ This repository contains a collection of resources (including the papers and dat
   - [Video Data](datasets/VIDEO_DATA)
   - [Others](datasets/Others)
 
-## Acknowledgement
-The resources are built on a fork of [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition) and [Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition).
+## References
+  - A general list of resources to image text localization and recognition. [https://github.com/whitelok/image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition)
+  - A curated list of resources dedicated to scene text localization and recognition. [https://github.com/chongyangtao/Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
