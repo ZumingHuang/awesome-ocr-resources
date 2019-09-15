@@ -44,6 +44,9 @@ This repository contains a collection of resources (including the papers and dat
   - [Others](datasets/Others)
 
 ## References
+  - HCIILAB Scene-Text-Detection. [https://github.com/HCIILAB/Scene-Text-Detection](https://github.com/HCIILAB/Scene-Text-Detection)
+  - HCIILAB Scene-Text-Recognition. [https://github.com/HCIILAB/Scene-Text-Recognition](https://github.com/HCIILAB/Scene-Text-Recognition)
+  - HCIILAB Scene-Text-End2end. [https://github.com/HCIILAB/Scene-Text-End2end](https://github.com/HCIILAB/Scene-Text-End2end)
   - A general list of resources to image text localization and recognition. [https://github.com/whitelok/image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition)
   - A curated list of resources dedicated to scene text localization and recognition. [https://github.com/chongyangtao/Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
   - A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods. [https://github.com/hwalsuklee/awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
