@@ -18,8 +18,9 @@ This repository contains a collection of resources (including the papers and dat
   - [text-recognition](papers/papers_by_topics/text-recognition.md)
   - [text-segmentation](papers/papers_by_topics/text-segmentation.md)
   - [end-to-end-ocr](papers/papers_by_topics/end-to-end-ocr.md)
-  - [structure-extraction](papers/papers_by_topics/structure-extraction.md)
   - [video-ocr](papers/papers_by_topics/video-ocr.md)
+  - [document-image-understanding](papers/papers_by_topics/document-image-understanding.md)
+  - [others](papers/papers_by_topics/others.md)
 
 ### Papers by Conferences and Journals
   - [CVPR: IEEE Conference on Computer Vision and Pattern Recognition](papers/papers_by_conferences_and_journals/CVPR.md)
