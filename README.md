@@ -6,30 +6,29 @@ This repository contains a collection of resources (including the papers and dat
 ## Contents
 
 ### Papers by Year
-  - [2019-present](papers/papers_by_year/2019-present.md)
+  - [2019-2022](papers/papers_by_year/2019-2022.md)
   - [2015-2018](papers/papers_by_year/2015-2018.md)
   - [2011-2014](papers/papers_by_year/2011-2014.md)
   - [before-2010](papers/papers_by_year/before-2010.md)
 
 ### Papers by Topics
   - [overview](papers/papers_by_topics/overview.md)
+  - [text-image-preprocessing](papers/papers_by_topics/text-image-preprocessing.md)
   - [text-detection](papers/papers_by_topics/text-detection.md)
   - [text-recognition](papers/papers_by_topics/text-recognition.md)
   - [text-segmentation](papers/papers_by_topics/text-segmentation.md)
   - [end-to-end-ocr](papers/papers_by_topics/end-to-end-ocr.md)
+  - [structure-extraction](papers/papers_by_topics/structure-extraction.md)
   - [video-ocr](papers/papers_by_topics/video-ocr.md)
-  - [document-image-unwarping](papers/papers_by_topics/document-image-unwarping.md)
 
 ### Papers by Conferences and Journals
   - [CVPR: IEEE Conference on Computer Vision and Pattern Recognition](papers/papers_by_conferences_and_journals/CVPR.md)
-  - [NIPS: Neural Information Processing Systems](papers/papers_by_conferences_and_journals/NIPS.md)
-  - [ECCV: European Conference on Computer Vision](papers/papers_by_conferences_and_journals/ECCV.md)
   - [ICCV: International Conference on Computer Vision](papers/papers_by_conferences_and_journals/ICCV.md)
+  - [ECCV: European Conference on Computer Vision](papers/papers_by_conferences_and_journals/ECCV.md)
+  - [NIPS: Neural Information Processing Systems](papers/papers_by_conferences_and_journals/NIPS.md)
   - [ICLR: International Conference on Learning Representations](papers/papers_by_conferences_and_journals/ICLR.md)
   - [AAAI: Association for the Advancement of Artificial Intelligence](papers/papers_by_conferences_and_journals/AAAI.md)
   - [IJCAI: International Joint Conference on Artificial Intelligence](papers/papers_by_conferences_and_journals/IJCAI.md)
-  - [BMVC: British Machine Vision Conference](papers/papers_by_conferences_and_journals/BMVC.md)
-  - [ICPR: International Conference on Pattern Recognition](papers/papers_by_conferences_and_journals/ICPR.md)
   - [ICDAR: International Conference on Document Analysis and Recognition](papers/papers_by_conferences_and_journals/ICDAR.md)
   - [TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence](papers/papers_by_conferences_and_journals/TPAMI.md)
   - [IJCV: International Journal of Computer Vision](papers/papers_by_conferences_and_journals/IJCV.md)
@@ -44,7 +43,7 @@ This repository contains a collection of resources (including the papers and dat
   - [Others](datasets/Others)
 
 ### APIs
-
+TODO
 
 ## References
   - HCIILAB Scene-Text-Detection. [https://github.com/HCIILAB/Scene-Text-Detection](https://github.com/HCIILAB/Scene-Text-Detection)
