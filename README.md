@@ -8,37 +8,12 @@ This repository contains a comprehensive collection of resources related to OCR 
 
 ## Contents
 
-### Papers by Year
+### Papers
   - [2023-present](papers/papers_by_year/2023-present.md)
   - [2019-2022](papers/papers_by_year/2019-2022.md)
   - [2015-2018](papers/papers_by_year/2015-2018.md)
   - [2011-2014](papers/papers_by_year/2011-2014.md)
   - [before-2010](papers/papers_by_year/before-2010.md)
-
-### Papers by Topics
-  - [overview](papers/papers_by_topics/overview.md)
-  - [text-image-preprocessing](papers/papers_by_topics/text-image-preprocessing.md)
-  - [text-detection](papers/papers_by_topics/text-detection.md)
-  - [text-recognition](papers/papers_by_topics/text-recognition.md)
-  - [text-segmentation](papers/papers_by_topics/text-segmentation.md)
-  - [end-to-end-ocr](papers/papers_by_topics/end-to-end-ocr.md)
-  - [video-ocr](papers/papers_by_topics/video-ocr.md)
-  - [document-image-understanding](papers/papers_by_topics/document-image-understanding.md)
-  - [others](papers/papers_by_topics/others.md)
-
-### Papers by Conferences and Journals
-  - [CVPR: IEEE Conference on Computer Vision and Pattern Recognition](papers/papers_by_conferences_and_journals/CVPR.md)
-  - [ICCV: International Conference on Computer Vision](papers/papers_by_conferences_and_journals/ICCV.md)
-  - [ECCV: European Conference on Computer Vision](papers/papers_by_conferences_and_journals/ECCV.md)
-  - [NIPS: Neural Information Processing Systems](papers/papers_by_conferences_and_journals/NIPS.md)
-  - [ICLR: International Conference on Learning Representations](papers/papers_by_conferences_and_journals/ICLR.md)
-  - [AAAI: Association for the Advancement of Artificial Intelligence](papers/papers_by_conferences_and_journals/AAAI.md)
-  - [IJCAI: International Joint Conference on Artificial Intelligence](papers/papers_by_conferences_and_journals/IJCAI.md)
-  - [ICDAR: International Conference on Document Analysis and Recognition](papers/papers_by_conferences_and_journals/ICDAR.md)
-  - [TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence](papers/papers_by_conferences_and_journals/TPAMI.md)
-  - [IJCV: International Journal of Computer Vision](papers/papers_by_conferences_and_journals/IJCV.md)
-  - [TIP: IEEE Transactions on Image Processing](papers/papers_by_conferences_and_journals/TIP.md)
-  - [TMM: IEEE Transactions on Multimedia](papers/papers_by_conferences_and_journals/TMM.md)
 
 ### Datasets
   - [Synthetic Data](datasets/SYNTH_DATA)
