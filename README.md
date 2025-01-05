@@ -1,7 +1,10 @@
 # OCR Resources
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository contains a collection of resources (including the papers and datasets) of OCR (Optical Character Recognition).
+This repository contains a collection of resources (including the papers, datasets and apis, ets.) of OCR (Optical Character Recognition) and document AI.
+
+## News and Updates
+* ```2025.01.05``` Add papers published in 2023 and 2024.
 
 ## Contents
 
