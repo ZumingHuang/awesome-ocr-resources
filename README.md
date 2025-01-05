@@ -31,3 +31,4 @@ TODO
   - Tracking the latest progress in Scene Text Detection and Recognition: Must-read papers well organized. [https://github.com/Jyouhou/SceneTextPapers](https://github.com/Jyouhou/SceneTextPapers)
   - Links to awesome OCR projects. [https://github.com/kba/awesome-ocr](https://github.com/kba/awesome-ocr)
   - A curated list of promising OCR resources. [https://github.com/wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)
+  - Z. Chen, W. Wang, et al. Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling. In ArXiv, 2024.
