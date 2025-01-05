@@ -16,11 +16,7 @@ This repository contains a comprehensive collection of resources related to OCR 
   - [before-2010](papers/papers_by_year/before-2010.md)
 
 ### Datasets
-  - [Synthetic Data](datasets/SYNTH_DATA)
-  - [ICDAR Data](datasets/ICDAR_DATA)
-  - [Irregular Data](datasets/IRREGULAR_DATA)
-  - [Video Data](datasets/VIDEO_DATA)
-  - [Others](datasets/Others)
+  - [OCR](datasets/README.md)
 
 ### APIs
 TODO
