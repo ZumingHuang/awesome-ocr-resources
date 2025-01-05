@@ -1,4 +1,76 @@
 ## 2024
+**Visual Text Generation in the Wild**  
+Yuanzhi Zhu, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo Yang  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06951.pdf)\]\[text-image-generation\]
+
+**DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution**  
+Shrey Singh, Prateek Keserwani, Masakazu Iwamura, Partha Pratim Roy  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02357.pdf)\]\[text-image-processing\]
+
+**DiffusionPen: Towards Controlling the Style of Handwritten Text Generation**  
+KONSTANTINA NIKOLAIDOU, George Retsinas, Giorgos Sfikas, Marcus Liwicki  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11492.pdf)\]\[text-image-generation\]
+
+**Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors**  
+Tongkun Guan, Wei Shen, Xue Yang, Xuehui Wang, Xiaokang Yang  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06085.pdf)\]\[text-detection\]
+
+**Textual Grounding for Open-vocabulary Visual Information Extraction in Layout-diversified Documents**  
+MENGJUN CHENG, Chengquan Zhang, Chang Liu, Yuke Li, Bohan Li, Kun Yao, Xiawu Zheng, Rongrong Ji, Jie Chen  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06219.pdf)\]\[key-information-extraction\]
+
+**One-Shot Diffusion Mimicker for Handwritten Text Generation**  
+Gang Dai, Yifan Zhang, Quhui Ke, Qiangya Guo, Shuangping Huang  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07598.pdf)\]\[text-image-generation\]
+
+**UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models**  
+Yiming Zhao, Zhouhui Lian  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04534.pdf)\]\[text-image-generation\]
+
+**Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition**  
+Zhongxi Chen, Shen Chen, Taiping Yao, Ke Sun, Shouhong Ding, Xianming Lin, liujuan cao, Rongrong Ji  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf)\]\[text-detection\]
+
+**WAS: Dataset and Methods for Artistic Text Segmentation**  
+Xudong Xie, Yuzhe Li, Yang Liu, Zhifei Zhang, Zhaowen Wang, Wei Xiong, Xiang Bai  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07220.pdf)\]\[text-segmentation\]
+
+**EAFormer: Scene Text Segmentation with Edge-Aware Transformers**  
+Haiyang Yu, Teng Fu, Bin Li, Xiangyang Xue  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03678.pdf)\]\[text-segmentation\]
+
+**Platypus: A Generalized Specialist Model for Reading Text in Various Forms**  
+Peng Wang, Zhaohai Li, Jun Tang, Humen Zhong, Fei Huang, Zhibo Yang, Cong Yao  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05143.pdf)\]\[end-to-end-ocr\]
+
+**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**  
+Jingye Chen, Yupan Huang, Tengchao Lv, Lei Cui, Qifeng Chen, Furu Wei  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00813.pdf)\]\[text-image-generation\]
+
+**Leveraging Text Localization for Scene Text Removal via Text-aware Masked Image Modeling**  
+Zixiao Wang, Hongtao Xie, YuXin Wang, Yadong Qu, Fengjun Guo, Pengwei Liu  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08360.pdf)\]\[text-image-processing\]
+
+**Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering**  
+Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09622.pdf)\]\[text-image-generation\]
+
+**Parrot Captions Teach CLIP to Spot Text**  
+Yiqi Lin, Conghui He, Alex Jinpeng Wang, Bin Wang, Li Weijia, Mike Zheng Shou  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05898.pdf)\]\[text-detection\]
+
+**WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised Text Spotting**  
+Jingjing Wu, Zhengyao Fang, Pengyuan Lyu, Chengquan Zhang, Fanglin Chen, Guangming Lu, Wenjie Pei  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04553.pdf)\]\[text-detection\]
+
+**Delving into Adversarial Robustness on Document Tampering Localization**  
+Huiru Shao, Zhuang Qian, Kaizhu Huang, Wei Wang, Xiaowei Huang, Qiufeng Wang  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08224.pdf)\]\[text-detection\]
+
+**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**  
+Ofir Abramovich, Niv Nayman, Sharon Fogel, Inbal Lavi, Ron Litman, Shahar Tsiper, Royee Tichauer, srikar appalaraju, Shai Mazor, R. Manmatha  
+\[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01287.pdf)\]\[document-VQA\]
+
 **An Empirical Study of Scaling Law for Scene Text Recognition**  
 Miao Rang, Zhenni Bi, Chuanjian Liu, Yunhe Wang, Kai Han  
 \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Rang_An_Empirical_Study_of_Scaling_Law_for_Scene_Text_Recognition_CVPR_2024_paper.pdf)\]\[text-recognition\]
