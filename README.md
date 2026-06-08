@@ -19,7 +19,8 @@ This repository contains a comprehensive collection of resources related to OCR 
   - [OCR](datasets/README.md)
 
 ### APIs
-TODO
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## References
   - HCIILAB Scene-Text-Detection. [https://github.com/HCIILAB/Scene-Text-Detection](https://github.com/HCIILAB/Scene-Text-Detection)
