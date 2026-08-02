@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:eaten
+kind: dataset
+name: EATEN
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- key-information-extraction
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/beacandler/EATEN
+  dataset: https://github.com/beacandler/EATEN
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/beacandler/EATEN
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 29
+    section: Overview
+    title: EATEN
+    authors: ''
+    tags:
+    - KIE
+    links:
+    - label: dataset
+      url: https://github.com/beacandler/EATEN
+    raw:
+    - '| [EATEN](https://github.com/beacandler/EATEN) | KIE |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

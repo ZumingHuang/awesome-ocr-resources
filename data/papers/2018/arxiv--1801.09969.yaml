@@ -1,0 +1,51 @@
+schema_version: 1
+id: paper:arxiv:1801.09969
+kind: paper
+name: Sliding Line Point Regression for Shape Robust Scene Text Detection
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1801.09969
+  paper: https://arxiv.org/abs/1801.09969
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1801.09969
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 110
+    section: '2018'
+    title: Sliding Line Point Regression for Shape Robust Scene Text Detection
+    authors: Yixing Zhu, Jun Du
+    tags:
+    - text-detection
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1801.09969
+    raw:
+    - '**Sliding Line Point Regression for Shape Robust Scene Text Detection**  '
+    - 'Yixing Zhu, Jun Du  '
+    - \[[arXiv](https://arxiv.org/abs/1801.09969)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yixing Zhu
+- Jun Du
+year: 2018
+publication_status: unknown
+arxiv_id: '1801.09969'

@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:legacy:2024:layout-agnostic-scene-text-image-synthesis-with-diffusion-models
+kind: paper
+name: Layout-Agnostic Scene Text Image Synthesis with Diffusion Models
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-image-generation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 102
+    section: '2024'
+    title: Layout-Agnostic Scene Text Image Synthesis with Diffusion Models
+    authors: Qilong Zhangli, Jindong Jiang, Di Liu, Licheng Yu, Xiaoliang Dai, Ankit Ramchandani, Guan
+      Pang, Dimitris N. Metaxas, Praveen Krishnan
+    tags:
+    - text-image-generation
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf
+    raw:
+    - '**Layout-Agnostic Scene Text Image Synthesis with Diffusion Models**  '
+    - 'Qilong Zhangli, Jindong Jiang, Di Liu, Licheng Yu, Xiaoliang Dai, Ankit Ramchandani, Guan Pang,
+      Dimitris N. Metaxas, Praveen Krishnan  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf)\]\[text-image-generation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Qilong Zhangli
+- Jindong Jiang
+- Di Liu
+- Licheng Yu
+- Xiaoliang Dai
+- Ankit Ramchandani
+- Guan Pang
+- Dimitris N. Metaxas
+- Praveen Krishnan
+year: 2024
+venue: CVPR
+publication_status: published

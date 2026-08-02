@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:legacy:2018:single-shot-scene-text-retrieval
+kind: paper
+name: Single Shot Scene Text Retrieval
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf
+  code: https://github.com/lluisgomez/single-shot-str
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 6
+    section: '2018'
+    title: Single Shot Scene Text Retrieval
+    authors: Lluıs Gomez, Andres Mafla, Marcal Rusinol, Dimosthenis Karatzas
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: ECCV
+      url: http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf
+    - label: code
+      url: https://github.com/lluisgomez/single-shot-str
+    raw:
+    - '**Single Shot Scene Text Retrieval**  '
+    - 'Lluıs Gomez, Andres Mafla, Marcal Rusinol, Dimosthenis Karatzas  '
+    - \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)\]\[[code](https://github.com/lluisgomez/single-shot-str)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Lluıs Gomez
+- Andres Mafla
+- Marcal Rusinol
+- Dimosthenis Karatzas
+year: 2018
+venue: ECCV
+publication_status: published

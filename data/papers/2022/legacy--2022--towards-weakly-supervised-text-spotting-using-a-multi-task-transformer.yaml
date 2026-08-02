@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2022:towards-weakly-supervised-text-spotting-using-a-multi-task-transformer
+kind: paper
+name: Towards Weakly-Supervised Text Spotting Using a Multi-Task Transformer
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Kittenplon_Towards_Weakly-Supervised_Text_Spotting_Using_a_Multi-Task_Transformer_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Kittenplon_Towards_Weakly-Supervised_Text_Spotting_Using_a_Multi-Task_Transformer_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Kittenplon_Towards_Weakly-Supervised_Text_Spotting_Using_a_Multi-Task_Transformer_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 46
+    section: '2022'
+    title: Towards Weakly-Supervised Text Spotting Using a Multi-Task Transformer
+    authors: Yair Kittenplon, Inbal Lavi, Sharon Fogel, Yarin Bar, R. Manmatha, Pietro Perona
+    tags:
+    - end-to-end-ocr
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Kittenplon_Towards_Weakly-Supervised_Text_Spotting_Using_a_Multi-Task_Transformer_CVPR_2022_paper.pdf
+    raw:
+    - '**Towards Weakly-Supervised Text Spotting Using a Multi-Task Transformer**  '
+    - 'Yair Kittenplon, Inbal Lavi, Sharon Fogel, Yarin Bar, R. Manmatha, Pietro Perona  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Kittenplon_Towards_Weakly-Supervised_Text_Spotting_Using_a_Multi-Task_Transformer_CVPR_2022_paper.pdf)\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yair Kittenplon
+- Inbal Lavi
+- Sharon Fogel
+- Yarin Bar
+- R. Manmatha
+- Pietro Perona
+year: 2022
+venue: CVPR
+publication_status: published

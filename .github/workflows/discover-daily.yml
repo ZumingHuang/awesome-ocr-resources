@@ -1,0 +1,110 @@
+name: Discover Daily Resources
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: Number of days to query
+        required: true
+        default: "7"
+        type: string
+      sources:
+        description: Comma-separated sources (arxiv,huggingface,github)
+        required: true
+        default: arxiv,huggingface,github
+        type: string
+      dry_run:
+        description: Produce only a discovery report
+        required: true
+        default: false
+        type: boolean
+
+concurrency:
+  group: daily-resource-discovery
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    env:
+      LOOKBACK_DAYS: ${{ inputs.lookback_days || '7' }}
+      SOURCES: ${{ inputs.sources || 'arxiv,huggingface,github' }}
+      DRY_RUN: ${{ inputs.dry_run || 'false' }}
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      GH_TOKEN: ${{ github.token }}
+      GITHUB_TOKEN: ${{ github.token }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@d0cc045d04ccac9d8b7881df0226f9e82c39688e # v6
+        with:
+          version: "0.11.32"
+          enable-cache: true
+      - name: Install Python and dependencies
+        run: |
+          uv python install 3.12
+          uv sync --frozen --all-groups
+      - name: Discover candidates
+        shell: bash
+        run: |
+          args=()
+          IFS=',' read -ra source_list <<< "$SOURCES"
+          for source in "${source_list[@]}"; do
+            args+=(--source "$source")
+          done
+          if [[ "$DRY_RUN" == "true" ]]; then
+            args+=(--dry-run)
+          fi
+          uv run ocr-resources discover --lookback-days "$LOOKBACK_DAYS" "${args[@]}"
+      - name: Validate candidate branch
+        run: |
+          uv run ruff check .
+          uv run ruff format --check .
+          uv run mypy src
+          uv run pytest
+          uv run ocr-resources validate
+          uv run ocr-resources schemas --check
+          uv run ocr-resources render --check
+      - name: Detect resource changes
+        id: changes
+        shell: bash
+        run: |
+          if [[ -n "$(git status --short -- data updates README.md README.zh-CN.md papers models datasets codes skills platforms)" ]]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Create or update Draft PR
+        if: steps.changes.outputs.has_changes == 'true' && env.DRY_RUN != 'true'
+        shell: bash
+        run: |
+          day="$(date -u +%F)"
+          branch="automation/daily-${day}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add data updates README.md README.zh-CN.md papers models datasets codes skills platforms
+          git commit -m "daily OCR resources ${day}"
+          git push --force-with-lease origin "$branch"
+          body_file="$(mktemp)"
+          {
+            echo "Automated candidate discovery for ${day}."
+            echo
+            echo "All lint, type, test, schema, resource, and render checks completed in this workflow."
+            echo "Review every candidate and change its curation status before merging."
+            echo
+            echo "Generated with the repository GITHUB_TOKEN; a second PR workflow may not be triggered automatically."
+          } > "$body_file"
+          existing="$(gh pr list --head "$branch" --state open --json number --jq '.[0].number // empty')"
+          if [[ -n "$existing" ]]; then
+            gh pr edit "$existing" --title "[daily] OCR resources ${day}" --body-file "$body_file"
+          else
+            gh pr create --draft --head "$branch" --base master --title "[daily] OCR resources ${day}" --body-file "$body_file"
+          fi

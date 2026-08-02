@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:1406.2227
+kind: paper
+name: Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition
+released_at:
+  value: '2014'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf
+  homepage: http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/
+  paper: http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 2
+    section: '2014'
+    title: Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition
+    authors: Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman
+    tags:
+    - text-recognition
+    links:
+    - label: NIPS (workshop)
+      url: http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1406.2227
+    - label: homepage
+      url: http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/
+    raw:
+    - '**Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition**  '
+    - 'Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman  '
+    - \[[NIPS (workshop)](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)\]\[[arXiv](https://arxiv.org/abs/1406.2227)\]\[[homepage](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Max Jaderberg
+- Karen Simonyan
+- Andrea Vedaldi
+- Andrew Zisserman
+year: 2014
+venue: NIPS (workshop)
+publication_status: published
+arxiv_id: '1406.2227'

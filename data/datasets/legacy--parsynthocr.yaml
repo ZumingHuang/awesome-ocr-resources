@@ -1,0 +1,47 @@
+schema_version: 1
+id: dataset:legacy:parsynthocr
+kind: dataset
+name: ParsynthOCR
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/hezarai/parsynth-ocr-200k
+  dataset: https://huggingface.co/datasets/hezarai/parsynth-ocr-200k
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/hezarai/parsynth-ocr-200k
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 6
+    section: Overview
+    title: ParsynthOCR
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://huggingface.co/datasets/hezarai/parsynth-ocr-200k
+    raw:
+    - '| [ParsynthOCR](https://huggingface.co/datasets/hezarai/parsynth-ocr-200k) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+repository_id: hezarai/parsynth-ocr-200k
+usage: []
+annotations: []
+access: unknown

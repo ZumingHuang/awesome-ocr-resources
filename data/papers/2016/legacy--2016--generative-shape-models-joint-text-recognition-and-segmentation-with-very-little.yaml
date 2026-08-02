@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:legacy:2016:generative-shape-models-joint-text-recognition-and-segmentation-with-very-little
+kind: paper
+name: 'Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data'
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+- text-segmentation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://papers.nips.cc/paper/6071-generative-shape-models-joint-text-recognition-and-segmentation-with-very-little-training-data
+  paper: http://papers.nips.cc/paper/6071-generative-shape-models-joint-text-recognition-and-segmentation-with-very-little-training-data
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://papers.nips.cc/paper/6071-generative-shape-models-joint-text-recognition-and-segmentation-with-very-little-training-data
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 204
+    section: '2016'
+    title: 'Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training
+      Data'
+    authors: Xinghua Lou, Ken Kansky, Wolfgang Lehrach, CC Laan, Bhaskara Marthi, D. Phoenix, Dileep George
+    tags:
+    - text-recognition
+    - text-segmentation
+    links:
+    - label: NIPS
+      url: http://papers.nips.cc/paper/6071-generative-shape-models-joint-text-recognition-and-segmentation-with-very-little-training-data
+    raw:
+    - '**Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data**  '
+    - 'Xinghua Lou, Ken Kansky, Wolfgang Lehrach, CC Laan, Bhaskara Marthi, D. Phoenix, Dileep George  '
+    - \[[NIPS](http://papers.nips.cc/paper/6071-generative-shape-models-joint-text-recognition-and-segmentation-with-very-little-training-data)\]\[text-recognition\]\[text-segmentation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xinghua Lou
+- Ken Kansky
+- Wolfgang Lehrach
+- CC Laan
+- Bhaskara Marthi
+- D. Phoenix
+- Dileep George
+year: 2016
+venue: NIPS
+publication_status: published

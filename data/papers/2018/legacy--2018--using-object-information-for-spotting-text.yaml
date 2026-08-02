@@ -1,0 +1,51 @@
+schema_version: 1
+id: paper:legacy:2018:using-object-information-for-spotting-text
+kind: paper
+name: Using Object Information for Spotting Text
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 14
+    section: '2018'
+    title: Using Object Information for Spotting Text
+    authors: Shitala Prasad, Adams Wai Kin Kong
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf
+    raw:
+    - '**Using Object Information for Spotting Text**  '
+    - 'Shitala Prasad, Adams Wai Kin Kong  '
+    - \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Shitala Prasad
+- Adams Wai Kin Kong
+year: 2018
+venue: ECCV
+publication_status: published

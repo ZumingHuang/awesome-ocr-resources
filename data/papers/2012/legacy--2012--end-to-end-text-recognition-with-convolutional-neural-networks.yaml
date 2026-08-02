@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:legacy:2012:end-to-end-text-recognition-with-convolutional-neural-networks
+kind: paper
+name: End-to-End Text Recognition with Convolutional Neural Networks
+released_at:
+  value: '2012'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://cs.stanford.edu/people/dwu4/HonorThesis.pdf
+  paper: https://cs.stanford.edu/people/dwu4/HonorThesis.pdf
+  code: http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://cs.stanford.edu/people/dwu4/HonorThesis.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 44
+    section: '2012'
+    title: End-to-End Text Recognition with Convolutional Neural Networks
+    authors: Tao Wang, David J. Wu, Adam Coates, Andrew Y. Ng
+    tags:
+    - text-detection
+    - text-recognition
+    - end-to-end-ocr
+    links:
+    - label: Thesis
+      url: https://cs.stanford.edu/people/dwu4/HonorThesis.pdf
+    - label: ICPR
+      url: https://ieeexplore.ieee.org/document/6460871/
+    - label: code
+      url: http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar
+    raw:
+    - '**End-to-End Text Recognition with Convolutional Neural Networks**  '
+    - 'Tao Wang, David J. Wu, Adam Coates, Andrew Y. Ng  '
+    - \[[Thesis](https://cs.stanford.edu/people/dwu4/HonorThesis.pdf)\]\[[ICPR](https://ieeexplore.ieee.org/document/6460871/)\]\[[code](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar)\]\[text-detection\]\[text-recognition\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Tao Wang
+- David J. Wu
+- Adam Coates
+- Andrew Y. Ng
+year: 2012
+venue: Thesis
+publication_status: published

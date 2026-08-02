@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:legacy:2023:estextspotter-towards-better-scene-text-spotting-with-explicit-synergy-in-transf
+kind: paper
+name: 'ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer'
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_ESTextSpotter_Towards_Better_Scene_Text_Spotting_with_Explicit_Synergy_in_ICCV_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_ESTextSpotter_Towards_Better_Scene_Text_Spotting_with_Explicit_Synergy_in_ICCV_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_ESTextSpotter_Towards_Better_Scene_Text_Spotting_with_Explicit_Synergy_in_ICCV_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 235
+    section: '2023'
+    title: 'ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer'
+    authors: Mingxin Huang, Jiaxin Zhang, Dezhi Peng, Hao Lu, Can Huang, Yuliang Liu, Xiang Bai, Lianwen
+      Jin
+    tags:
+    - end-to-end-ocr
+    links:
+    - label: ICCV
+      url: https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_ESTextSpotter_Towards_Better_Scene_Text_Spotting_with_Explicit_Synergy_in_ICCV_2023_paper.pdf
+    raw:
+    - '**ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer**  '
+    - 'Mingxin Huang, Jiaxin Zhang, Dezhi Peng, Hao Lu, Can Huang, Yuliang Liu, Xiang Bai, Lianwen Jin  '
+    - \[[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_ESTextSpotter_Towards_Better_Scene_Text_Spotting_with_Explicit_Synergy_in_ICCV_2023_paper.pdf)\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Mingxin Huang
+- Jiaxin Zhang
+- Dezhi Peng
+- Hao Lu
+- Can Huang
+- Yuliang Liu
+- Xiang Bai
+- Lianwen Jin
+year: 2023
+venue: ICCV
+publication_status: published

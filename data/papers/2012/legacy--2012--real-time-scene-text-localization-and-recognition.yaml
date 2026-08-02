@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2012:real-time-scene-text-localization-and-recognition
+kind: paper
+name: Real-Time Scene Text Localization and Recognition
+released_at:
+  value: '2012'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/6248097/
+  paper: https://ieeexplore.ieee.org/abstract/document/6248097/
+  code: https://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/6248097/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 40
+    section: '2012'
+    title: Real-Time Scene Text Localization and Recognition
+    authors: Lukas Neumann, Jiri Matas
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://ieeexplore.ieee.org/abstract/document/6248097/
+    - label: code
+      url: https://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html
+    raw:
+    - '**Real-Time Scene Text Localization and Recognition**  '
+    - 'Lukas Neumann, Jiri Matas  '
+    - \[[CVPR](https://ieeexplore.ieee.org/abstract/document/6248097/)\]\[[code](https://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Lukas Neumann
+- Jiri Matas
+year: 2012
+venue: CVPR
+publication_status: published

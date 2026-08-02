@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:1903.11800
+kind: paper
+name: Pyramid Mask Text Detector
+released_at:
+  value: '2019'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-segmentation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/pdf/1903.11800.pdf
+  paper: https://arxiv.org/pdf/1903.11800.pdf
+  code: https://github.com/STVIR/PMTD
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/pdf/1903.11800.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 285
+    section: '2019'
+    title: Pyramid Mask Text Detector
+    authors: Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, Xin Li, Qingjie Liu
+    tags:
+    - CVPR
+    - text-detection
+    - text-segmentation
+    links:
+    - label: arXiv
+      url: https://arxiv.org/pdf/1903.11800.pdf
+    - label: code
+      url: https://github.com/STVIR/PMTD
+    raw:
+    - '**Pyramid Mask Text Detector**  '
+    - 'Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, Xin Li, Qingjie Liu  '
+    - \[CVPR\]\[[arXiv](https://arxiv.org/pdf/1903.11800.pdf)\]\[[code](https://github.com/STVIR/PMTD)\]\[text-detection\]\[text-segmentation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jingchao Liu
+- Xuebo Liu
+- Jie Sheng
+- Ding Liang
+- Xin Li
+- Qingjie Liu
+year: 2019
+venue: CVPR
+publication_status: published
+arxiv_id: '1903.11800'

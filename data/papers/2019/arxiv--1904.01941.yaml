@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:arxiv:1904.01941
+kind: paper
+name: Character Region Awareness for Text Detection
+released_at:
+  value: '2019'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1904.01941
+  paper: https://arxiv.org/abs/1904.01941
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1904.01941
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 281
+    section: '2019'
+    title: Character Region Awareness for Text Detection
+    authors: Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee
+    tags:
+    - CVPR
+    - text-detection
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1904.01941
+    raw:
+    - '**Character Region Awareness for Text Detection**  '
+    - 'Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee  '
+    - \[CVPR\]\[[arXiv](https://arxiv.org/abs/1904.01941)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Youngmin Baek
+- Bado Lee
+- Dongyoon Han
+- Sangdoo Yun
+- Hwalsuk Lee
+year: 2019
+venue: CVPR
+publication_status: published
+arxiv_id: '1904.01941'

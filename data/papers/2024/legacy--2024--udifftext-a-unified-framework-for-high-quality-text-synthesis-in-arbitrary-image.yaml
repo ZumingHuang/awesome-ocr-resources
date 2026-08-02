@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2024:udifftext-a-unified-framework-for-high-quality-text-synthesis-in-arbitrary-image
+kind: paper
+name: 'UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware
+  Diffusion Models'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-image-generation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04534.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04534.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04534.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 26
+    section: '2024'
+    title: 'UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware
+      Diffusion Models'
+    authors: Yiming Zhao, Zhouhui Lian
+    tags:
+    - text-image-generation
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04534.pdf
+    raw:
+    - '**UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware
+      Diffusion Models**  '
+    - 'Yiming Zhao, Zhouhui Lian  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04534.pdf)\]\[text-image-generation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yiming Zhao
+- Zhouhui Lian
+year: 2024
+venue: ECCV
+publication_status: published

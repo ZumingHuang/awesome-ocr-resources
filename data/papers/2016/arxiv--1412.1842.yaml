@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:1412.1842
+kind: paper
+name: Reading Text in the Wild with Convolutional Neural Networks
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://link.springer.com/article/10.1007/s11263-015-0823-z
+  homepage: http://www.robots.ox.ac.uk/~vgg/research/text/
+  paper: https://link.springer.com/article/10.1007/s11263-015-0823-z
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://link.springer.com/article/10.1007/s11263-015-0823-z
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 264
+    section: '2016'
+    title: Reading Text in the Wild with Convolutional Neural Networks
+    authors: Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: IJCV
+      url: https://link.springer.com/article/10.1007/s11263-015-0823-z
+    - label: arXiv
+      url: https://arxiv.org/abs/1412.1842
+    - label: homepage
+      url: http://www.robots.ox.ac.uk/~vgg/research/text/
+    raw:
+    - '**Reading Text in the Wild with Convolutional Neural Networks**  '
+    - 'Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman  '
+    - \[[IJCV](https://link.springer.com/article/10.1007/s11263-015-0823-z)\]\[[arXiv](https://arxiv.org/abs/1412.1842)\]\[[homepage](http://www.robots.ox.ac.uk/~vgg/research/text/)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Max Jaderberg
+- Karen Simonyan
+- Andrea Vedaldi
+- Andrew Zisserman
+year: 2016
+venue: IJCV
+publication_status: published
+arxiv_id: '1412.1842'

@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:legacy:2016:synthetic-data-for-text-localisation-in-natural-images
+kind: paper
+name: Synthetic Data for Text Localisation in Natural Images
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S10-06.pdf
+  homepage: http://www.robots.ox.ac.uk/~vgg/data/scenetext/
+  paper: https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S10-06.pdf
+  code: https://github.com/ankush-me/SynthText
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S10-06.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 216
+    section: '2016'
+    title: Synthetic Data for Text Localisation in Natural Images
+    authors: Ankush Gupta,  Andrea Vedaldi,  Andrew Zisserman
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S10-06.pdf
+    - label: supp
+      url: http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16_supplement.pdf
+    - label: code
+      url: https://github.com/ankush-me/SynthText
+    - label: homepage
+      url: http://www.robots.ox.ac.uk/~vgg/data/scenetext/
+    raw:
+    - '**Synthetic Data for Text Localisation in Natural Images**  '
+    - 'Ankush Gupta,  Andrea Vedaldi,  Andrew Zisserman  '
+    - \[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S10-06.pdf)\]\[[supp](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16_supplement.pdf)\]\[[code](https://github.com/ankush-me/SynthText)\]\[[homepage](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Ankush Gupta
+- Andrea Vedaldi
+- Andrew Zisserman
+year: 2016
+venue: CVPR
+publication_status: published

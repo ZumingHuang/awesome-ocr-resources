@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:legacy:2024:enhancing-visual-document-understanding-with-contrastive-learning-in-large-visua
+kind: paper
+name: Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Enhancing_Visual_Document_Understanding_with_Contrastive_Learning_in_Large_Visual-Language_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Enhancing_Visual_Document_Understanding_with_Contrastive_Learning_in_Large_Visual-Language_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Enhancing_Visual_Document_Understanding_with_Contrastive_Learning_in_Large_Visual-Language_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 138
+    section: '2024'
+    title: Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language
+      Models
+    authors: Xin Li, Yunfei Wu, Xinghua Jiang, Zhihao Guo, Mingming Gong, Haoyu Cao, Yinsong Liu, Deqiang
+      Jiang, Xing Sun
+    tags:
+    - document-VQA
+    - large-multimodal-models
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Enhancing_Visual_Document_Understanding_with_Contrastive_Learning_in_Large_Visual-Language_CVPR_2024_paper.pdf
+    raw:
+    - '**Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models**  '
+    - 'Xin Li, Yunfei Wu, Xinghua Jiang, Zhihao Guo, Mingming Gong, Haoyu Cao, Yinsong Liu, Deqiang Jiang,
+      Xing Sun  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Enhancing_Visual_Document_Understanding_with_Contrastive_Learning_in_Large_Visual-Language_CVPR_2024_paper.pdf)\]\[document-VQA\]\[large-multimodal-models\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xin Li
+- Yunfei Wu
+- Xinghua Jiang
+- Zhihao Guo
+- Mingming Gong
+- Haoyu Cao
+- Yinsong Liu
+- Deqiang Jiang
+- Xing Sun
+year: 2024
+venue: CVPR
+publication_status: published

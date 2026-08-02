@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2024:dcdm-diffusion-conditioned-diffusion-model-for-scene-text-image-super-resolution
+kind: paper
+name: 'DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02357.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02357.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02357.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 6
+    section: '2024'
+    title: 'DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution'
+    authors: Shrey Singh, Prateek Keserwani, Masakazu Iwamura, Partha Pratim Roy
+    tags:
+    - text-image-processing
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02357.pdf
+    raw:
+    - '**DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution**  '
+    - 'Shrey Singh, Prateek Keserwani, Masakazu Iwamura, Partha Pratim Roy  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02357.pdf)\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Shrey Singh
+- Prateek Keserwani
+- Masakazu Iwamura
+- Partha Pratim Roy
+year: 2024
+venue: ECCV
+publication_status: published

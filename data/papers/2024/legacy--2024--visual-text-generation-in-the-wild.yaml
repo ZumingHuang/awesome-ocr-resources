@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:legacy:2024:visual-text-generation-in-the-wild
+kind: paper
+name: Visual Text Generation in the Wild
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-image-generation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06951.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06951.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06951.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 2
+    section: '2024'
+    title: Visual Text Generation in the Wild
+    authors: Yuanzhi Zhu, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong
+      Yao, Zhibo Yang
+    tags:
+    - text-image-generation
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06951.pdf
+    raw:
+    - '**Visual Text Generation in the Wild**  '
+    - 'Yuanzhi Zhu, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo
+      Yang  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06951.pdf)\]\[text-image-generation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yuanzhi Zhu
+- Jiawei Liu
+- Feiyu Gao
+- Wenyu Liu
+- Xinggang Wang
+- Peng Wang
+- Fei Huang
+- Cong Yao
+- Zhibo Yang
+year: 2024
+venue: ECCV
+publication_status: published

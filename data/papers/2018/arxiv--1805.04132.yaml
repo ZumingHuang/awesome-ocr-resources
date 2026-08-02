@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:1805.04132
+kind: paper
+name: Boosting up Scene Text Detectors with Guided CNN
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://bmvc2018.org/contents/papers/0633.pdf
+  paper: https://bmvc2018.org/contents/papers/0633.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://bmvc2018.org/contents/papers/0633.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 50
+    section: '2018'
+    title: Boosting up Scene Text Detectors with Guided CNN
+    authors: Xiaoyu Yue, Zhanghui Kuang, Zhaoyang Zhang, Zhenfang Chen, Pan He, Yu Qiao, Wei Zhang
+    tags:
+    - text-detection
+    links:
+    - label: BMVC
+      url: https://bmvc2018.org/contents/papers/0633.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1805.04132
+    raw:
+    - '**Boosting up Scene Text Detectors with Guided CNN**  '
+    - 'Xiaoyu Yue, Zhanghui Kuang, Zhaoyang Zhang, Zhenfang Chen, Pan He, Yu Qiao, Wei Zhang  '
+    - \[[BMVC](https://bmvc2018.org/contents/papers/0633.pdf)\]\[[arXiv](https://arxiv.org/abs/1805.04132)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xiaoyu Yue
+- Zhanghui Kuang
+- Zhaoyang Zhang
+- Zhenfang Chen
+- Pan He
+- Yu Qiao
+- Wei Zhang
+year: 2018
+venue: BMVC
+publication_status: published
+arxiv_id: '1805.04132'

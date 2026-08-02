@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:arxiv:1712.02170
+kind: paper
+name: 'Detecting Curve Text in the Wild: New Dataset and New Solution'
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1712.02170
+  paper: https://arxiv.org/abs/1712.02170
+  code: https://github.com/Yuliang-Liu/Curve-Text-Detector
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1712.02170
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 119
+    section: '2017'
+    title: 'Detecting Curve Text in the Wild: New Dataset and New Solution'
+    authors: Liu Yuliang, Jin Lianwen, Zhang Shuaitao, Zhang Sheng
+    tags:
+    - text-detection
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1712.02170
+    - label: code
+      url: https://github.com/Yuliang-Liu/Curve-Text-Detector
+    raw:
+    - '**Detecting Curve Text in the Wild: New Dataset and New Solution**  '
+    - 'Liu Yuliang, Jin Lianwen, Zhang Shuaitao, Zhang Sheng  '
+    - \[[arXiv](https://arxiv.org/abs/1712.02170)\]\[[code](https://github.com/Yuliang-Liu/Curve-Text-Detector)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Liu Yuliang
+- Jin Lianwen
+- Zhang Shuaitao
+- Zhang Sheng
+year: 2017
+publication_status: unknown
+arxiv_id: '1712.02170'

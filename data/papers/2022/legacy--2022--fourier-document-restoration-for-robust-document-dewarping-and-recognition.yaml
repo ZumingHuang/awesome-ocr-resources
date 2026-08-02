@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2022:fourier-document-restoration-for-robust-document-dewarping-and-recognition
+kind: paper
+name: Fourier Document Restoration for Robust Document Dewarping and Recognition
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 10
+    section: '2022'
+    title: Fourier Document Restoration for Robust Document Dewarping and Recognition
+    authors: Chuhui Xue, Zichen Tian, Fangneng Zhan, Shijian Lu, Song Bai
+    tags:
+    - text-image-processing
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf
+    raw:
+    - '**Fourier Document Restoration for Robust Document Dewarping and Recognition**  '
+    - 'Chuhui Xue, Zichen Tian, Fangneng Zhan, Shijian Lu, Song Bai  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf)\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Chuhui Xue
+- Zichen Tian
+- Fangneng Zhan
+- Shijian Lu
+- Song Bai
+year: 2022
+venue: CVPR
+publication_status: published

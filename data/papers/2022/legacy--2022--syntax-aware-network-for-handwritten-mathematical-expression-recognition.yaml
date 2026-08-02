@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2022:syntax-aware-network-for-handwritten-mathematical-expression-recognition
+kind: paper
+name: Syntax-Aware Network for Handwritten Mathematical Expression Recognition
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- formula-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_Syntax-Aware_Network_for_Handwritten_Mathematical_Expression_Recognition_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_Syntax-Aware_Network_for_Handwritten_Mathematical_Expression_Recognition_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_Syntax-Aware_Network_for_Handwritten_Mathematical_Expression_Recognition_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 74
+    section: '2022'
+    title: Syntax-Aware Network for Handwritten Mathematical Expression Recognition
+    authors: Ye Yuan, Xiao Liu, Wondimu Dikubab, Hui Liu, Zhilong Ji, Zhongqin Wu, Xiang Bai
+    tags:
+    - formula-recognition
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_Syntax-Aware_Network_for_Handwritten_Mathematical_Expression_Recognition_CVPR_2022_paper.pdf
+    raw:
+    - '**Syntax-Aware Network for Handwritten Mathematical Expression Recognition**  '
+    - 'Ye Yuan, Xiao Liu, Wondimu Dikubab, Hui Liu, Zhilong Ji, Zhongqin Wu, Xiang Bai  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_Syntax-Aware_Network_for_Handwritten_Mathematical_Expression_Recognition_CVPR_2022_paper.pdf)\]\[formula-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Ye Yuan
+- Xiao Liu
+- Wondimu Dikubab
+- Hui Liu
+- Zhilong Ji
+- Zhongqin Wu
+- Xiang Bai
+year: 2022
+venue: CVPR
+publication_status: published

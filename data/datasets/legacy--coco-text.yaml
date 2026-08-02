@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:coco-text
+kind: dataset
+name: COCO-Text
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://vision.cornell.edu/se3/coco-text-2/
+  dataset: https://vision.cornell.edu/se3/coco-text-2/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://vision.cornell.edu/se3/coco-text-2/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 30
+    section: Overview
+    title: COCO-Text
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://vision.cornell.edu/se3/coco-text-2/
+    raw:
+    - '| [COCO-Text](https://vision.cornell.edu/se3/coco-text-2/) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

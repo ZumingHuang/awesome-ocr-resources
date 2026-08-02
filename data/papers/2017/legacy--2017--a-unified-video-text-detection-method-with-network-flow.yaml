@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2017:a-unified-video-text-detection-method-with-network-flow
+kind: paper
+name: A Unified Video Text Detection Method with Network Flow
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- video-ocr
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/8269993/
+  paper: https://ieeexplore.ieee.org/abstract/document/8269993/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/8269993/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 155
+    section: '2017'
+    title: A Unified Video Text Detection Method with Network Flow
+    authors: Xue-Hang Yang, Wenhao He, Fei Yin, Cheng-Lin Liu
+    tags:
+    - text-detection
+    - video-ocr
+    links:
+    - label: ICDAR
+      url: https://ieeexplore.ieee.org/abstract/document/8269993/
+    raw:
+    - '**A Unified Video Text Detection Method with Network Flow**  '
+    - 'Xue-Hang Yang, Wenhao He, Fei Yin, Cheng-Lin Liu  '
+    - \[[ICDAR](https://ieeexplore.ieee.org/abstract/document/8269993/)\]\[text-detection\]\[video-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xue-Hang Yang
+- Wenhao He
+- Fei Yin
+- Cheng-Lin Liu
+year: 2017
+venue: ICDAR
+publication_status: published

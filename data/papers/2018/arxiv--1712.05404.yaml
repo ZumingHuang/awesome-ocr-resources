@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:1712.05404
+kind: paper
+name: 'SEE: Towards Semi-Supervised End-to-End Scene Text Recognition'
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16270/16248
+  paper: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16270/16248
+  code: https://github.com/Bartzi/see
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16270/16248
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 106
+    section: '2018'
+    title: 'SEE: Towards Semi-Supervised End-to-End Scene Text Recognition'
+    authors: Christian Bartz, Haojin Yang, Christoph Meinel
+    tags:
+    - text-detection
+    - text-recognition
+    - end-to-end-ocr
+    links:
+    - label: AAAI
+      url: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16270/16248
+    - label: arXiv
+      url: https://arxiv.org/abs/1712.05404
+    - label: code
+      url: https://github.com/Bartzi/see
+    raw:
+    - '**SEE: Towards Semi-Supervised End-to-End Scene Text Recognition**  '
+    - 'Christian Bartz, Haojin Yang, Christoph Meinel  '
+    - \[[AAAI](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16270/16248)\]\[[arXiv](https://arxiv.org/abs/1712.05404)\]\[[code](https://github.com/Bartzi/see)\]\[text-detection\]\[text-recognition\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Christian Bartz
+- Haojin Yang
+- Christoph Meinel
+year: 2018
+venue: AAAI
+publication_status: published
+arxiv_id: '1712.05404'

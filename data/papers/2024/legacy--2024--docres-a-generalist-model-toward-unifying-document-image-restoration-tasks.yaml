@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2024:docres-a-generalist-model-toward-unifying-document-image-restoration-tasks
+kind: paper
+name: 'DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DocRes_A_Generalist_Model_Toward_Unifying_Document_Image_Restoration_Tasks_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DocRes_A_Generalist_Model_Toward_Unifying_Document_Image_Restoration_Tasks_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DocRes_A_Generalist_Model_Toward_Unifying_Document_Image_Restoration_Tasks_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 134
+    section: '2024'
+    title: 'DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks'
+    authors: Jiaxin Zhang, Dezhi Peng, Chongyu Liu, Peirong Zhang, Lianwen Jin
+    tags:
+    - text-image-processing
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DocRes_A_Generalist_Model_Toward_Unifying_Document_Image_Restoration_Tasks_CVPR_2024_paper.pdf
+    raw:
+    - '**DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks**  '
+    - 'Jiaxin Zhang, Dezhi Peng, Chongyu Liu, Peirong Zhang, Lianwen Jin  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DocRes_A_Generalist_Model_Toward_Unifying_Document_Image_Restoration_Tasks_CVPR_2024_paper.pdf)\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jiaxin Zhang
+- Dezhi Peng
+- Chongyu Liu
+- Peirong Zhang
+- Lianwen Jin
+year: 2024
+venue: CVPR
+publication_status: published

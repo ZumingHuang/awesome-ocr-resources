@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:1708.06720
+kind: paper
+name: 'WordSup: Exploiting Word Annotations for Character based Text Detection'
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 151
+    section: '2017'
+    title: 'WordSup: Exploiting Word Annotations for Character based Text Detection'
+    authors: Han Hu, Chengquan Zhang, Yuxuan Luo, Yuzhuo Wang, Junyu Han, Errui Ding
+    tags:
+    - text-detection
+    links:
+    - label: ICCV
+      url: http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1708.06720
+    raw:
+    - '**WordSup: Exploiting Word Annotations for Character based Text Detection**  '
+    - 'Han Hu, Chengquan Zhang, Yuxuan Luo, Yuzhuo Wang, Junyu Han, Errui Ding  '
+    - \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1708.06720)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Han Hu
+- Chengquan Zhang
+- Yuxuan Luo
+- Yuzhuo Wang
+- Junyu Han
+- Errui Ding
+year: 2017
+venue: ICCV
+publication_status: published
+arxiv_id: '1708.06720'

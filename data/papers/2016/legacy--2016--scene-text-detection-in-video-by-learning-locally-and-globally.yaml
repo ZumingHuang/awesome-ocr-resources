@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2016:scene-text-detection-in-video-by-learning-locally-and-globally
+kind: paper
+name: Scene Text Detection in Video by Learning Locally and Globally
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- video-ocr
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf
+  paper: https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 212
+    section: '2016'
+    title: Scene Text Detection in Video by Learning Locally and Globally
+    authors: Shu Tian, Wei-Yi Pei, Ze-Yu Zuo, Xu-Cheng Yin
+    tags:
+    - text-detection
+    - video-ocr
+    links:
+    - label: IJCAI
+      url: https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf
+    raw:
+    - '**Scene Text Detection in Video by Learning Locally and Globally**  '
+    - 'Shu Tian, Wei-Yi Pei, Ze-Yu Zuo, Xu-Cheng Yin  '
+    - \[[IJCAI](https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf)\]\[text-detection\]\[video-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Shu Tian
+- Wei-Yi Pei
+- Ze-Yu Zuo
+- Xu-Cheng Yin
+year: 2016
+venue: IJCAI
+publication_status: published

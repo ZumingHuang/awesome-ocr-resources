@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:1609.03605
+kind: paper
+name: Detecting Text in Natural Image with Connectionist Text Proposal Network
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://link.springer.com/chapter/10.1007/978-3-319-46484-8_4
+  paper: https://link.springer.com/chapter/10.1007/978-3-319-46484-8_4
+  code: https://github.com/tianzhi0549/CTPN
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://link.springer.com/chapter/10.1007/978-3-319-46484-8_4
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 208
+    section: '2016'
+    title: Detecting Text in Natural Image with Connectionist Text Proposal Network
+    authors: Zhi Tian, Weilin Huang, Tong He, Pan He, Yu Qiao
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: https://link.springer.com/chapter/10.1007/978-3-319-46484-8_4
+    - label: arXiv
+      url: https://arxiv.org/abs/1609.03605
+    - label: code
+      url: https://github.com/tianzhi0549/CTPN
+    raw:
+    - '**Detecting Text in Natural Image with Connectionist Text Proposal Network**  '
+    - 'Zhi Tian, Weilin Huang, Tong He, Pan He, Yu Qiao  '
+    - \[[ECCV](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_4)\]\[[arXiv](https://arxiv.org/abs/1609.03605)\]\[[code](https://github.com/tianzhi0549/CTPN)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zhi Tian
+- Weilin Huang
+- Tong He
+- Pan He
+- Yu Qiao
+year: 2016
+venue: ECCV
+publication_status: published
+arxiv_id: '1609.03605'

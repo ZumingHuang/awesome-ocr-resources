@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:1803.05265
+kind: paper
+name: Rotation-Sensitive Regression for Oriented Scene Text Detection
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf
+  code: https://github.com/MhLiao/RRD
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 74
+    section: '2018'
+    title: Rotation-Sensitive Regression for Oriented Scene Text Detection
+    authors: Minghui Liao, Zhen Zhu, Baoguang Shi, Gui-song Xia, Xiang Bai
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1803.05265
+    - label: code
+      url: https://github.com/MhLiao/RRD
+    raw:
+    - '**Rotation-Sensitive Regression for Oriented Scene Text Detection**  '
+    - 'Minghui Liao, Zhen Zhu, Baoguang Shi, Gui-song Xia, Xiang Bai  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1803.05265)\]\[[code](https://github.com/MhLiao/RRD)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Minghui Liao
+- Zhen Zhu
+- Baoguang Shi
+- Gui-song Xia
+- Xiang Bai
+year: 2018
+venue: CVPR
+publication_status: published
+arxiv_id: '1803.05265'

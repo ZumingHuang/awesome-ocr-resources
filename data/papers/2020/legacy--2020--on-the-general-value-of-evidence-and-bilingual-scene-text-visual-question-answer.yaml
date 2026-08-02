@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:legacy:2020:on-the-general-value-of-evidence-and-bilingual-scene-text-visual-question-answer
+kind: paper
+name: On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering
+released_at:
+  value: '2020'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_On_the_General_Value_of_Evidence_and_Bilingual_Scene-Text_Visual_CVPR_2020_paper.pdf
+  paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_On_the_General_Value_of_Evidence_and_Bilingual_Scene-Text_Visual_CVPR_2020_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_On_the_General_Value_of_Evidence_and_Bilingual_Scene-Text_Visual_CVPR_2020_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 244
+    section: '2020'
+    title: On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering
+    authors: Xinyu Wang, Yuliang Liu, Chunhua Shen, Chun Chet Ng, Canjie Luo, Lianwen Jin, Chee Seng Chan,
+      Anton van den Hengel, Liangwei Wang
+    tags:
+    - document-VQA
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_On_the_General_Value_of_Evidence_and_Bilingual_Scene-Text_Visual_CVPR_2020_paper.pdf
+    raw:
+    - On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering
+    - 'Xinyu Wang, Yuliang Liu, Chunhua Shen, Chun Chet Ng, Canjie Luo, Lianwen Jin, Chee Seng Chan, Anton
+      van den Hengel, Liangwei Wang  '
+    - \[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_On_the_General_Value_of_Evidence_and_Bilingual_Scene-Text_Visual_CVPR_2020_paper.pdf)\]\[document-VQA\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xinyu Wang
+- Yuliang Liu
+- Chunhua Shen
+- Chun Chet Ng
+- Canjie Luo
+- Lianwen Jin
+- Chee Seng Chan
+- Anton van den Hengel
+- Liangwei Wang
+year: 2020
+venue: CVPR
+publication_status: published

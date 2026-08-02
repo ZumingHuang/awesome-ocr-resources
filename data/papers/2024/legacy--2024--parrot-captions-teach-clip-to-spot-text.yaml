@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2024:parrot-captions-teach-clip-to-spot-text
+kind: paper
+name: Parrot Captions Teach CLIP to Spot Text
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05898.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05898.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05898.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 58
+    section: '2024'
+    title: Parrot Captions Teach CLIP to Spot Text
+    authors: Yiqi Lin, Conghui He, Alex Jinpeng Wang, Bin Wang, Li Weijia, Mike Zheng Shou
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05898.pdf
+    raw:
+    - '**Parrot Captions Teach CLIP to Spot Text**  '
+    - 'Yiqi Lin, Conghui He, Alex Jinpeng Wang, Bin Wang, Li Weijia, Mike Zheng Shou  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05898.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yiqi Lin
+- Conghui He
+- Alex Jinpeng Wang
+- Bin Wang
+- Li Weijia
+- Mike Zheng Shou
+year: 2024
+venue: ECCV
+publication_status: published

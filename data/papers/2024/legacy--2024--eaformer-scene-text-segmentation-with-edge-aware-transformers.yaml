@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2024:eaformer-scene-text-segmentation-with-edge-aware-transformers
+kind: paper
+name: 'EAFormer: Scene Text Segmentation with Edge-Aware Transformers'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-segmentation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03678.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03678.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03678.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 38
+    section: '2024'
+    title: 'EAFormer: Scene Text Segmentation with Edge-Aware Transformers'
+    authors: Haiyang Yu, Teng Fu, Bin Li, Xiangyang Xue
+    tags:
+    - text-segmentation
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03678.pdf
+    raw:
+    - '**EAFormer: Scene Text Segmentation with Edge-Aware Transformers**  '
+    - 'Haiyang Yu, Teng Fu, Bin Li, Xiangyang Xue  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03678.pdf)\]\[text-segmentation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Haiyang Yu
+- Teng Fu
+- Bin Li
+- Xiangyang Xue
+year: 2024
+venue: ECCV
+publication_status: published

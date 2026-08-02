@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2021:progressive-contour-regression-for-arbitrary-shape-scene-text-detection
+kind: paper
+name: Progressive Contour Regression for Arbitrary-Shape Scene Text Detection
+released_at:
+  value: '2021'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 131
+    section: '2021'
+    title: Progressive Contour Regression for Arbitrary-Shape Scene Text Detection
+    authors: Pengwen Dai, Sanyi Zhang, Hua Zhang, Xiaochun Cao
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf
+    raw:
+    - '**Progressive Contour Regression for Arbitrary-Shape Scene Text Detection**  '
+    - 'Pengwen Dai, Sanyi Zhang, Hua Zhang, Xiaochun Cao  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Pengwen Dai
+- Sanyi Zhang
+- Hua Zhang
+- Xiaochun Cao
+year: 2021
+venue: CVPR
+publication_status: published

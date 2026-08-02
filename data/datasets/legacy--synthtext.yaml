@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:synthtext
+kind: dataset
+name: SynthText
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ankush-me/SynthText
+  dataset: https://github.com/ankush-me/SynthText
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ankush-me/SynthText
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 19
+    section: Overview
+    title: SynthText
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://github.com/ankush-me/SynthText
+    raw:
+    - '| [SynthText](https://github.com/ankush-me/SynthText) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

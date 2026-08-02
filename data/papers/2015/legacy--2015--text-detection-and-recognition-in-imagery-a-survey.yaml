@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2015:text-detection-and-recognition-in-imagery-a-survey
+kind: paper
+name: 'Text Detection and Recognition in Imagery: A Survey'
+released_at:
+  value: '2015'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+- benchmark
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/6945320/
+  paper: https://ieeexplore.ieee.org/abstract/document/6945320/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/6945320/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 313
+    section: '2015'
+    title: 'Text Detection and Recognition in Imagery: A Survey'
+    authors: Qixiang Ye, David Doermann
+    tags:
+    - text-detection
+    - text-recognition
+    - overview
+    links:
+    - label: TPAMI
+      url: https://ieeexplore.ieee.org/abstract/document/6945320/
+    raw:
+    - '**Text Detection and Recognition in Imagery: A Survey**  '
+    - 'Qixiang Ye, David Doermann  '
+    - \[[TPAMI](https://ieeexplore.ieee.org/abstract/document/6945320/)\]\[text-detection\]\[text-recognition\]\[overview\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Qixiang Ye
+- David Doermann
+year: 2015
+venue: TPAMI
+publication_status: published

@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2014:active-flattening-of-curved-document-images-via-two-structured-beams
+kind: paper
+name: Active Flattening of Curved Document Images via Two Structured Beams
+released_at:
+  value: '2014'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2014/papers/Meng_Active_Flattening_of_2014_CVPR_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2014/papers/Meng_Active_Flattening_of_2014_CVPR_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2014/papers/Meng_Active_Flattening_of_2014_CVPR_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 14
+    section: '2014'
+    title: Active Flattening of Curved Document Images via Two Structured Beams
+    authors: Gaofeng Meng, Ying Wang, Shenquan Qu, Shiming Xiang, Chunhong Pan
+    tags:
+    - text-image-processing
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2014/papers/Meng_Active_Flattening_of_2014_CVPR_paper.pdf
+    raw:
+    - '**Active Flattening of Curved Document Images via Two Structured Beams**  '
+    - 'Gaofeng Meng, Ying Wang, Shenquan Qu, Shiming Xiang, Chunhong Pan  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2014/papers/Meng_Active_Flattening_of_2014_CVPR_paper.pdf)\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Gaofeng Meng
+- Ying Wang
+- Shenquan Qu
+- Shiming Xiang
+- Chunhong Pan
+year: 2014
+venue: CVPR
+publication_status: published

@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2020:stefann-scene-text-editor-using-font-adaptive-neural-network
+kind: paper
+name: 'STEFANN: Scene Text Editor Using Font Adaptive Neural Network'
+released_at:
+  value: '2020'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content_CVPR_2020/papers/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.pdf
+  paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 264
+    section: '2020'
+    title: 'STEFANN: Scene Text Editor Using Font Adaptive Neural Network'
+    authors: Prasun Roy, Saumik Bhattacharya, Subhankar Ghosh, Umapada Pal
+    tags:
+    - others
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.pdf
+    raw:
+    - '**STEFANN: Scene Text Editor Using Font Adaptive Neural Network**  '
+    - 'Prasun Roy, Saumik Bhattacharya, Subhankar Ghosh, Umapada Pal  '
+    - \[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.pdf)\]\[others\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Prasun Roy
+- Saumik Bhattacharya
+- Subhankar Ghosh
+- Umapada Pal
+year: 2020
+venue: CVPR
+publication_status: published

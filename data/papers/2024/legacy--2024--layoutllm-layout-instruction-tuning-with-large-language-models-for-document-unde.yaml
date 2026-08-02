@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:legacy:2024:layoutllm-layout-instruction-tuning-with-large-language-models-for-document-unde
+kind: paper
+name: 'LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- key-information-extraction
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_LayoutLLM_Layout_Instruction_Tuning_with_Large_Language_Models_for_Document_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_LayoutLLM_Layout_Instruction_Tuning_with_Large_Language_Models_for_Document_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_LayoutLLM_Layout_Instruction_Tuning_with_Large_Language_Models_for_Document_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 130
+    section: '2024'
+    title: 'LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding'
+    authors: Chuwei Luo, Yufan Shen, Zhaoqing Zhu, Qi Zheng, Zhi Yu, Cong Yao
+    tags:
+    - key-information-extraction
+    - Document-VQA
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_LayoutLLM_Layout_Instruction_Tuning_with_Large_Language_Models_for_Document_CVPR_2024_paper.pdf
+    raw:
+    - '**LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding**  '
+    - 'Chuwei Luo, Yufan Shen, Zhaoqing Zhu, Qi Zheng, Zhi Yu, Cong Yao  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_LayoutLLM_Layout_Instruction_Tuning_with_Large_Language_Models_for_Document_CVPR_2024_paper.pdf)\]\[key-information-extraction\]\[Document-VQA\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Chuwei Luo
+- Yufan Shen
+- Zhaoqing Zhu
+- Qi Zheng
+- Zhi Yu
+- Cong Yao
+year: 2024
+venue: CVPR
+publication_status: published

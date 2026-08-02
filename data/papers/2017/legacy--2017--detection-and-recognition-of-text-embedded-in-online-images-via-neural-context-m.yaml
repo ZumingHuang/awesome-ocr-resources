@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2017:detection-and-recognition-of-text-embedded-in-online-images-via-neural-context-m
+kind: paper
+name: Detection and Recognition of Text Embedded in Online Images via Neural Context Models
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287
+  paper: http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 191
+    section: '2017'
+    title: Detection and Recognition of Text Embedded in Online Images via Neural Context Models
+    authors: Chulmoo Kang, Gunhee Kim, Suk I. Yoo
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: AAAI
+      url: http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287
+    raw:
+    - '**Detection and Recognition of Text Embedded in Online Images via Neural Context Models**  '
+    - 'Chulmoo Kang, Gunhee Kim, Suk I. Yoo  '
+    - \[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Chulmoo Kang
+- Gunhee Kim
+- Suk I. Yoo
+year: 2017
+venue: AAAI
+publication_status: published

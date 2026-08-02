@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2022:pushing-the-performance-limit-of-scene-text-recognizer-without-human-annotation
+kind: paper
+name: Pushing the Performance Limit of Scene Text Recognizer Without Human Annotation
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Pushing_the_Performance_Limit_of_Scene_Text_Recognizer_Without_Human_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Pushing_the_Performance_Limit_of_Scene_Text_Recognizer_Without_Human_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Pushing_the_Performance_Limit_of_Scene_Text_Recognizer_Without_Human_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 34
+    section: '2022'
+    title: Pushing the Performance Limit of Scene Text Recognizer Without Human Annotation
+    authors: Caiyuan Zheng, Hui Li, Seon-Min Rhee, Seungju Han, Jae-Joon Han, Peng Wang
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Pushing_the_Performance_Limit_of_Scene_Text_Recognizer_Without_Human_CVPR_2022_paper.pdf
+    raw:
+    - '**Pushing the Performance Limit of Scene Text Recognizer Without Human Annotation**  '
+    - 'Caiyuan Zheng, Hui Li, Seon-Min Rhee, Seungju Han, Jae-Joon Han, Peng Wang  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Pushing_the_Performance_Limit_of_Scene_Text_Recognizer_Without_Human_CVPR_2022_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Caiyuan Zheng
+- Hui Li
+- Seon-Min Rhee
+- Seungju Han
+- Jae-Joon Han
+- Peng Wang
+year: 2022
+venue: CVPR
+publication_status: published

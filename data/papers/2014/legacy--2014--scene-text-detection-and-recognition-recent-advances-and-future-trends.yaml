@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2014:scene-text-detection-and-recognition-recent-advances-and-future-trends
+kind: paper
+name: 'Scene Text Detection and Recognition: Recent Advances and Future Trends'
+released_at:
+  value: '2014'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+- benchmark
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://link.springer.com/article/10.1007/s11704-015-4488-0
+  paper: https://link.springer.com/article/10.1007/s11704-015-4488-0
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://link.springer.com/article/10.1007/s11704-015-4488-0
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 26
+    section: '2014'
+    title: 'Scene Text Detection and Recognition: Recent Advances and Future Trends'
+    authors: Yingying Zhu, Cong Yao, Xiang Bai
+    tags:
+    - text-detection
+    - text-recognition
+    - overview
+    links:
+    - label: Frontiers of Computer Science
+      url: https://link.springer.com/article/10.1007/s11704-015-4488-0
+    raw:
+    - '**Scene Text Detection and Recognition: Recent Advances and Future Trends**  '
+    - 'Yingying Zhu, Cong Yao, Xiang Bai  '
+    - \[[Frontiers of Computer Science](https://link.springer.com/article/10.1007/s11704-015-4488-0)\]\[text-detection\]\[text-recognition\]\[overview\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yingying Zhu
+- Cong Yao
+- Xiang Bai
+year: 2014
+venue: Frontiers of Computer Science
+publication_status: published

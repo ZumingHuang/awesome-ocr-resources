@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2023:revisiting-scene-text-recognition-a-data-perspective
+kind: paper
+name: 'Revisiting Scene Text Recognition: A Data Perspective'
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Revisiting_Scene_Text_Recognition_A_Data_Perspective_ICCV_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Revisiting_Scene_Text_Recognition_A_Data_Perspective_ICCV_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Revisiting_Scene_Text_Recognition_A_Data_Perspective_ICCV_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 231
+    section: '2023'
+    title: 'Revisiting Scene Text Recognition: A Data Perspective'
+    authors: Qing Jiang, Jiapeng Wang, Dezhi Peng, Chongyu Liu, Lianwen Jin
+    tags:
+    - text-recognition
+    links:
+    - label: ICCV
+      url: https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Revisiting_Scene_Text_Recognition_A_Data_Perspective_ICCV_2023_paper.pdf
+    raw:
+    - '**Revisiting Scene Text Recognition: A Data Perspective**  '
+    - 'Qing Jiang, Jiapeng Wang, Dezhi Peng, Chongyu Liu, Lianwen Jin  '
+    - \[[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Revisiting_Scene_Text_Recognition_A_Data_Perspective_ICCV_2023_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Qing Jiang
+- Jiapeng Wang
+- Dezhi Peng
+- Chongyu Liu
+- Lianwen Jin
+year: 2023
+venue: ICCV
+publication_status: published

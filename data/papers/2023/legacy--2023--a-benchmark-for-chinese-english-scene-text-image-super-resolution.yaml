@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2023:a-benchmark-for-chinese-english-scene-text-image-super-resolution
+kind: paper
+name: A Benchmark for Chinese-English Scene Text Image Super-Resolution
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_A_Benchmark_for_Chinese-English_Scene_Text_Image_Super-Resolution_ICCV_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_A_Benchmark_for_Chinese-English_Scene_Text_Image_Super-Resolution_ICCV_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_A_Benchmark_for_Chinese-English_Scene_Text_Image_Super-Resolution_ICCV_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 199
+    section: '2023'
+    title: A Benchmark for Chinese-English Scene Text Image Super-Resolution
+    authors: Jianqi Ma, Zhetong Liang, Wangmeng Xiang, Xi Yang, Lei Zhang
+    tags:
+    - text-image-processing
+    links:
+    - label: ICCV
+      url: https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_A_Benchmark_for_Chinese-English_Scene_Text_Image_Super-Resolution_ICCV_2023_paper.pdf
+    raw:
+    - '**A Benchmark for Chinese-English Scene Text Image Super-Resolution**  '
+    - 'Jianqi Ma, Zhetong Liang, Wangmeng Xiang, Xi Yang, Lei Zhang  '
+    - \[[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_A_Benchmark_for_Chinese-English_Scene_Text_Image_Super-Resolution_ICCV_2023_paper.pdf)\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jianqi Ma
+- Zhetong Liang
+- Wangmeng Xiang
+- Xi Yang
+- Lei Zhang
+year: 2023
+venue: ICCV
+publication_status: published

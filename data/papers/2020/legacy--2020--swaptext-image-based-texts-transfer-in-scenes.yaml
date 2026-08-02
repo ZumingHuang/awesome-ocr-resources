@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:legacy:2020:swaptext-image-based-texts-transfer-in-scenes
+kind: paper
+name: 'SwapText: Image Based Texts Transfer in Scenes'
+released_at:
+  value: '2020'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SwapText_Image_Based_Texts_Transfer_in_Scenes_CVPR_2020_paper.pdf
+  paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SwapText_Image_Based_Texts_Transfer_in_Scenes_CVPR_2020_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SwapText_Image_Based_Texts_Transfer_in_Scenes_CVPR_2020_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 260
+    section: '2020'
+    title: 'SwapText: Image Based Texts Transfer in Scenes'
+    authors: Qiangpeng Yang, Jun Huang, Wei Lin
+    tags:
+    - others
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SwapText_Image_Based_Texts_Transfer_in_Scenes_CVPR_2020_paper.pdf
+    raw:
+    - '**SwapText: Image Based Texts Transfer in Scenes**  '
+    - 'Qiangpeng Yang, Jun Huang, Wei Lin  '
+    - \[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SwapText_Image_Based_Texts_Transfer_in_Scenes_CVPR_2020_paper.pdf)\]\[others\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Qiangpeng Yang
+- Jun Huang
+- Wei Lin
+year: 2020
+venue: CVPR
+publication_status: published

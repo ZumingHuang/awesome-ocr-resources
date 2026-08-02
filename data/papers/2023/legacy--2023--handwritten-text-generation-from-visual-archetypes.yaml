@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:legacy:2023:handwritten-text-generation-from-visual-archetypes
+kind: paper
+name: Handwritten Text Generation From Visual Archetypes
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2023/papers/Pippi_Handwritten_Text_Generation_From_Visual_Archetypes_CVPR_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Pippi_Handwritten_Text_Generation_From_Visual_Archetypes_CVPR_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2023/papers/Pippi_Handwritten_Text_Generation_From_Visual_Archetypes_CVPR_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 179
+    section: '2023'
+    title: Handwritten Text Generation From Visual Archetypes
+    authors: Vittorio Pippi, Silvia Cascianelli, Rita Cucchiara
+    tags:
+    - text-image-processing
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2023/papers/Pippi_Handwritten_Text_Generation_From_Visual_Archetypes_CVPR_2023_paper.pdf
+    raw:
+    - '**Handwritten Text Generation From Visual Archetypes**  '
+    - 'Vittorio Pippi, Silvia Cascianelli, Rita Cucchiara  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Pippi_Handwritten_Text_Generation_From_Visual_Archetypes_CVPR_2023_paper.pdf)\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Vittorio Pippi
+- Silvia Cascianelli
+- Rita Cucchiara
+year: 2023
+venue: CVPR
+publication_status: published

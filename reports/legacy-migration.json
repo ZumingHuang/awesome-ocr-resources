@@ -1,0 +1,69 @@
+{
+  "paper_input": 233,
+  "paper_output": 233,
+  "paper_unique": 232,
+  "dataset_input": 27,
+  "dataset_output": 27,
+  "warnings": [
+    {
+      "source": "legacy/papers/papers_by_year/2019-2022.md",
+      "line": 175,
+      "message": "title was not bold in legacy Markdown"
+    },
+    {
+      "source": "legacy/papers/papers_by_year/2019-2022.md",
+      "line": 179,
+      "message": "title was not bold in legacy Markdown"
+    },
+    {
+      "source": "legacy/papers/papers_by_year/2019-2022.md",
+      "line": 183,
+      "message": "title was not bold in legacy Markdown"
+    },
+    {
+      "source": "legacy/papers/papers_by_year/2019-2022.md",
+      "line": 200,
+      "message": "title was not bold in legacy Markdown"
+    },
+    {
+      "source": "legacy/papers/papers_by_year/2019-2022.md",
+      "line": 244,
+      "message": "title was not bold in legacy Markdown"
+    },
+    {
+      "source": "legacy/papers/papers_by_year/2019-2022.md",
+      "line": 268,
+      "message": "title was not bold in legacy Markdown"
+    },
+    {
+      "source": "legacy/papers/papers_by_year/2019-2022.md",
+      "line": 297,
+      "message": "merged duplicate legacy occurrence into paper:arxiv:1806.02559"
+    }
+  ],
+  "mappings": {
+    "Document-VQA -> document-vqa": 1,
+    "HME -> formula-recognition": 1,
+    "KIE -> key-information-extraction": 4,
+    "Large-Multimodal-Models -> document-vqa": 1,
+    "OCR -> text-recognition": 18,
+    "VQA -> document-vqa": 5,
+    "document-VQA -> document-vqa": 14,
+    "end-to-end-ocr -> text-spotting": 21,
+    "formula-recognition -> formula-recognition": 1,
+    "key-information-extraction -> key-information-extraction": 8,
+    "large-multimodal-models -> document-vqa": 2,
+    "layout-analysis -> document-layout-analysis": 3,
+    "others -> other": 11,
+    "overview -> benchmark": 3,
+    "table-recognition -> table-recognition": 5,
+    "text-detection -> text-detection": 90,
+    "text-image-generation -> text-image-generation": 9,
+    "text-image-processing -> document-image-restoration": 23,
+    "text-image-retrieval -> text-image-retrieval": 1,
+    "text-recognition -> text-recognition": 64,
+    "text-segmentation -> text-segmentation": 15,
+    "video-ocr -> video-ocr": 3
+  },
+  "unresolved_tags": {}
+}

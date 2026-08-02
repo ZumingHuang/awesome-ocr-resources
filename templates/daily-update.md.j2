@@ -1,0 +1,21 @@
+{{ generated_notice }}
+
+# Daily OCR Resources Update — {{ update_date }}
+
+{% for kind, entries in grouped.items() %}
+## {{ kind | title }}
+
+{% for entry in entries -%}
+- [{{ entry.name }}]({{ entry.url }}) — {{ entry.tasks }}{% if entry.summary %}: {{ entry.summary }}{% endif %}
+{% endfor %}
+
+{% endfor %}
+## Discovery Summary
+
+{% if source_summary %}
+{% for source, count in source_summary.items() -%}
+- {{ source }}: {{ count }} candidate(s)
+{% endfor %}
+{% else %}
+- Added through maintainer review.
+{% endif %}

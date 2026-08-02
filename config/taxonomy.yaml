@@ -1,0 +1,68 @@
+tasks:
+  - benchmark
+  - chart-understanding
+  - document-classification
+  - document-image-restoration
+  - document-layout-analysis
+  - document-parsing
+  - document-vqa
+  - formula-recognition
+  - handwriting-recognition
+  - key-information-extraction
+  - multilingual-ocr
+  - table-recognition
+  - text-detection
+  - text-image-generation
+  - text-image-retrieval
+  - text-recognition
+  - text-segmentation
+  - text-spotting
+  - video-ocr
+  - other
+
+modalities:
+  - born-digital-document
+  - chart
+  - form
+  - formula
+  - handwriting
+  - invoice
+  - receipt
+  - scanned-document
+  - scene-text
+  - table
+  - video-text
+  - unspecified
+
+languages:
+  - ar
+  - en
+  - fa
+  - multilingual
+  - unspecified
+  - zh
+
+legacy_task_map:
+  OCR: text-recognition
+  VQA: document-vqa
+  KIE: key-information-extraction
+  HME: formula-recognition
+  Document-VQA: document-vqa
+  document-VQA: document-vqa
+  document-vqa: document-vqa
+  end-to-end-ocr: text-spotting
+  formula-recognition: formula-recognition
+  key-information-extraction: key-information-extraction
+  Large-Multimodal-Models: document-vqa
+  large-multimodal-models: document-vqa
+  layout-analysis: document-layout-analysis
+  others: other
+  overview: benchmark
+  table-recognition: table-recognition
+  text-detection: text-detection
+  text-image-generation: text-image-generation
+  text-image-processing: document-image-restoration
+  text-image-retrieval: text-image-retrieval
+  text-recognition: text-recognition
+  text-segmentation: text-segmentation
+  video-ocr: video-ocr

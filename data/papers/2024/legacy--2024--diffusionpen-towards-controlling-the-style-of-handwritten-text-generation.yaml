@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2024:diffusionpen-towards-controlling-the-style-of-handwritten-text-generation
+kind: paper
+name: 'DiffusionPen: Towards Controlling the Style of Handwritten Text Generation'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-image-generation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11492.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11492.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11492.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 10
+    section: '2024'
+    title: 'DiffusionPen: Towards Controlling the Style of Handwritten Text Generation'
+    authors: KONSTANTINA NIKOLAIDOU, George Retsinas, Giorgos Sfikas, Marcus Liwicki
+    tags:
+    - text-image-generation
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11492.pdf
+    raw:
+    - '**DiffusionPen: Towards Controlling the Style of Handwritten Text Generation**  '
+    - 'KONSTANTINA NIKOLAIDOU, George Retsinas, Giorgos Sfikas, Marcus Liwicki  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11492.pdf)\]\[text-image-generation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- KONSTANTINA NIKOLAIDOU
+- George Retsinas
+- Giorgos Sfikas
+- Marcus Liwicki
+year: 2024
+venue: ECCV
+publication_status: published

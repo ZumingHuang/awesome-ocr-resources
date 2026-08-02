@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2020:sequential-motif-profiles-and-topological-plots-for-offline-signature-verificati
+kind: paper
+name: Sequential Motif Profiles and Topological Plots for Offline Signature Verification
+released_at:
+  value: '2020'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content_CVPR_2020/papers/Zois_Sequential_Motif_Profiles_and_Topological_Plots_for_Offline_Signature_Verification_CVPR_2020_paper.pdf
+  paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Zois_Sequential_Motif_Profiles_and_Topological_Plots_for_Offline_Signature_Verification_CVPR_2020_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Zois_Sequential_Motif_Profiles_and_Topological_Plots_for_Offline_Signature_Verification_CVPR_2020_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 272
+    section: '2020'
+    title: Sequential Motif Profiles and Topological Plots for Offline Signature Verification
+    authors: Elias N. Zois, Evangelos Zervas, Dimitrios Tsourounis, George Economou
+    tags:
+    - others
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Zois_Sequential_Motif_Profiles_and_Topological_Plots_for_Offline_Signature_Verification_CVPR_2020_paper.pdf
+    raw:
+    - '**Sequential Motif Profiles and Topological Plots for Offline Signature Verification**  '
+    - 'Elias N. Zois, Evangelos Zervas, Dimitrios Tsourounis, George Economou  '
+    - \[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zois_Sequential_Motif_Profiles_and_Topological_Plots_for_Offline_Signature_Verification_CVPR_2020_paper.pdf)\]\[others\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Elias N. Zois
+- Evangelos Zervas
+- Dimitrios Tsourounis
+- George Economou
+year: 2020
+venue: CVPR
+publication_status: published

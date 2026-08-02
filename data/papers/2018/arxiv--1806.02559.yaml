@@ -1,0 +1,78 @@
+schema_version: 1
+id: paper:arxiv:1806.02559
+kind: paper
+name: Shape Robust Text Detection with Progressive Scale Expansion Network
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-segmentation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1806.02559
+  paper: https://arxiv.org/abs/1806.02559
+  code: https://github.com/whai362/PSENet
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1806.02559
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 42
+    section: '2018'
+    title: Shape Robust Text Detection with Progressive Scale Expansion Network
+    authors: Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang
+    tags:
+    - text-detection
+    - text-segmentation
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1806.02559
+    - label: code
+      url: https://github.com/whai362/PSENet
+    raw:
+    - '**Shape Robust Text Detection with Progressive Scale Expansion Network**  '
+    - 'Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang  '
+    - \[[arXiv](https://arxiv.org/abs/1806.02559)\]\[[code](https://github.com/whai362/PSENet)\]\[text-detection\]\[text-segmentation\]
+  legacy_duplicates:
+  - file: legacy/papers/papers_by_year/2019-2022.md
+    line: 297
+    section: '2019'
+    title: Shape Robust Text Detection with Progressive Scale Expansion Network
+    authors: Wenhai Wang, Enze Xie, Xiang Li, Wenbo Hou, Tong Lu, Gang Yu, Shuai Shao
+    tags:
+    - CVPR
+    - text-detection
+    - text-segmentation
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1806.02559
+    - label: code
+      url: https://github.com/whai362/PSENet
+    raw:
+    - '**Shape Robust Text Detection with Progressive Scale Expansion Network**  '
+    - 'Wenhai Wang, Enze Xie, Xiang Li, Wenbo Hou, Tong Lu, Gang Yu, Shuai Shao  '
+    - \[CVPR\]\[[arXiv](https://arxiv.org/abs/1806.02559)\]\[[code](https://github.com/whai362/PSENet)\]\[text-detection\]\[text-segmentation\]
+curation:
+  status: needs-review
+authors:
+- Xiang Li
+- Wenhai Wang
+- Wenbo Hou
+- Ruo-Ze Liu
+- Tong Lu
+- Jian Yang
+year: 2018
+publication_status: unknown
+arxiv_id: '1806.02559'

@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2023:turning-a-clip-model-into-a-scene-text-detector
+kind: paper
+name: Turning a CLIP Model Into a Scene Text Detector
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Turning_a_CLIP_Model_Into_a_Scene_Text_Detector_CVPR_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Turning_a_CLIP_Model_Into_a_Scene_Text_Detector_CVPR_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Turning_a_CLIP_Model_Into_a_Scene_Text_Detector_CVPR_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 155
+    section: '2023'
+    title: Turning a CLIP Model Into a Scene Text Detector
+    authors: Wenwen Yu, Yuliang Liu, Wei Hua, Deqiang Jiang, Bo Ren, Xiang Bai
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Turning_a_CLIP_Model_Into_a_Scene_Text_Detector_CVPR_2023_paper.pdf
+    raw:
+    - '**Turning a CLIP Model Into a Scene Text Detector**  '
+    - 'Wenwen Yu, Yuliang Liu, Wei Hua, Deqiang Jiang, Bo Ren, Xiang Bai  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Turning_a_CLIP_Model_Into_a_Scene_Text_Detector_CVPR_2023_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Wenwen Yu
+- Yuliang Liu
+- Wei Hua
+- Deqiang Jiang
+- Bo Ren
+- Xiang Bai
+year: 2023
+venue: CVPR
+publication_status: published

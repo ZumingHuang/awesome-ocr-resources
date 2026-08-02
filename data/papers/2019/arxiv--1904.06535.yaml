@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:1904.06535
+kind: paper
+name: 'Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes'
+released_at:
+  value: '2019'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/pdf/1904.06535.pdf
+  paper: https://arxiv.org/pdf/1904.06535.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/pdf/1904.06535.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 277
+    section: '2019'
+    title: 'Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes'
+    authors: Chengquan Zhang, Borong Liang, Zuming Huang, Mengyi En, Junyu Han, Errui Ding, Xinghao Ding
+    tags:
+    - CVPR
+    - text-detection
+    links:
+    - label: arXiv
+      url: https://arxiv.org/pdf/1904.06535.pdf
+    raw:
+    - '**Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes**  '
+    - 'Chengquan Zhang, Borong Liang, Zuming Huang, Mengyi En, Junyu Han, Errui Ding, Xinghao Ding  '
+    - \[CVPR\]\[[arXiv](https://arxiv.org/pdf/1904.06535.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Chengquan Zhang
+- Borong Liang
+- Zuming Huang
+- Mengyi En
+- Junyu Han
+- Errui Ding
+- Xinghao Ding
+year: 2019
+venue: CVPR
+publication_status: published
+arxiv_id: '1904.06535'

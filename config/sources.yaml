@@ -1,0 +1,13 @@
+arxiv:
+  enabled: true
+  endpoint: https://export.arxiv.org/api/query
+  max_results: 50
+huggingface:
+  enabled: true
+  endpoint: https://huggingface.co/api
+  max_results: 50
+github:
+  enabled: true
+  endpoint: https://api.github.com
+  max_results: 50
+  minimum_stars: 10

@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:legacy:2017:east-an-efficient-and-accurate-scene-text-detector
+kind: paper
+name: 'EAST: An Efficient and Accurate Scene Text Detector'
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf
+  code: https://github.com/argman/EAST
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 167
+    section: '2017'
+    title: 'EAST: An Efficient and Accurate Scene Text Detector'
+    authors: Xinyu Zhou, Cong Yao, He Wen, Yuzhi Wang, Shuchang Zhou, Weiran He, and Jiajun Liang
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf
+    - label: code
+      url: https://github.com/argman/EAST
+    raw:
+    - '**EAST: An Efficient and Accurate Scene Text Detector**  '
+    - 'Xinyu Zhou, Cong Yao, He Wen, Yuzhi Wang, Shuchang Zhou, Weiran He, and Jiajun Liang  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf)\]\[[code](https://github.com/argman/EAST)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xinyu Zhou
+- Cong Yao
+- He Wen
+- Yuzhi Wang
+- Shuchang Zhou
+- Weiran He
+- and Jiajun Liang
+year: 2017
+venue: CVPR
+publication_status: published

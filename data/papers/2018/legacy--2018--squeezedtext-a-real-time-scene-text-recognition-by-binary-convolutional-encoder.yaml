@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2018:squeezedtext-a-real-time-scene-text-recognition-by-binary-convolutional-encoder
+kind: paper
+name: 'SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network'
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf
+  paper: https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 94
+    section: '2018'
+    title: 'SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network'
+    authors: Zichuan Liu, Yixing Li, Fengbo Ren, Wang Ling Goh, Hao Yu
+    tags:
+    - text-recognition
+    links:
+    - label: AAAI
+      url: https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf
+    raw:
+    - '**SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network**  '
+    - 'Zichuan Liu, Yixing Li, Fengbo Ren, Wang Ling Goh, Hao Yu  '
+    - \[[AAAI](https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zichuan Liu
+- Yixing Li
+- Fengbo Ren
+- Wang Ling Goh
+- Hao Yu
+year: 2018
+venue: AAAI
+publication_status: published

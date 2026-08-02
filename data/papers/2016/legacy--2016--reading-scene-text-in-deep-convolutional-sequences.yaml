@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2016:reading-scene-text-in-deep-convolutional-sequences
+kind: paper
+name: Reading Scene Text in Deep Convolutional Sequences
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121
+  paper: http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 240
+    section: '2016'
+    title: Reading Scene Text in Deep Convolutional Sequences
+    authors: Pan He, Weilin Huang, Yu Qiao, Chen Change Loy,  Xiaoou Tang
+    tags:
+    - text-recognition
+    links:
+    - label: AAAI
+      url: http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121
+    raw:
+    - '**Reading Scene Text in Deep Convolutional Sequences**  '
+    - 'Pan He, Weilin Huang, Yu Qiao, Chen Change Loy,  Xiaoou Tang  '
+    - \[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Pan He
+- Weilin Huang
+- Yu Qiao
+- Chen Change Loy
+- Xiaoou Tang
+year: 2016
+venue: AAAI
+publication_status: published

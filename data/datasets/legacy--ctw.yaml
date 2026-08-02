@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:ctw
+kind: dataset
+name: CTW
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ctwdataset.github.io/
+  dataset: https://ctwdataset.github.io/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ctwdataset.github.io/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 18
+    section: Overview
+    title: CTW
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://ctwdataset.github.io/
+    raw:
+    - '| [CTW](https://ctwdataset.github.io/) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

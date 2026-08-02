@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2024:bridging-synthetic-and-real-worlds-for-pre-training-scene-text-detectors
+kind: paper
+name: Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06085.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06085.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06085.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 14
+    section: '2024'
+    title: Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors
+    authors: Tongkun Guan, Wei Shen, Xue Yang, Xuehui Wang, Xiaokang Yang
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06085.pdf
+    raw:
+    - '**Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors**  '
+    - 'Tongkun Guan, Wei Shen, Xue Yang, Xuehui Wang, Xiaokang Yang  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06085.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Tongkun Guan
+- Wei Shen
+- Xue Yang
+- Xuehui Wang
+- Xiaokang Yang
+year: 2024
+venue: ECCV
+publication_status: published

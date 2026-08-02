@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2024:an-empirical-study-of-scaling-law-for-scene-text-recognition
+kind: paper
+name: An Empirical Study of Scaling Law for Scene Text Recognition
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Rang_An_Empirical_Study_of_Scaling_Law_for_Scene_Text_Recognition_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Rang_An_Empirical_Study_of_Scaling_Law_for_Scene_Text_Recognition_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Rang_An_Empirical_Study_of_Scaling_Law_for_Scene_Text_Recognition_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 74
+    section: '2024'
+    title: An Empirical Study of Scaling Law for Scene Text Recognition
+    authors: Miao Rang, Zhenni Bi, Chuanjian Liu, Yunhe Wang, Kai Han
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Rang_An_Empirical_Study_of_Scaling_Law_for_Scene_Text_Recognition_CVPR_2024_paper.pdf
+    raw:
+    - '**An Empirical Study of Scaling Law for Scene Text Recognition**  '
+    - 'Miao Rang, Zhenni Bi, Chuanjian Liu, Yunhe Wang, Kai Han  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Rang_An_Empirical_Study_of_Scaling_Law_for_Scene_Text_Recognition_CVPR_2024_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Miao Rang
+- Zhenni Bi
+- Chuanjian Liu
+- Yunhe Wang
+- Kai Han
+year: 2024
+venue: CVPR
+publication_status: published

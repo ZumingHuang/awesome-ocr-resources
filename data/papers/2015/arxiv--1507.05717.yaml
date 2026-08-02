@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:1507.05717
+kind: paper
+name: An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application
+  to Scene Text Recognition
+released_at:
+  value: '2015'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/7801919/
+  paper: https://ieeexplore.ieee.org/abstract/document/7801919/
+  code: http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/7801919/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 309
+    section: '2015'
+    title: An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application
+      to Scene Text Recognition
+    authors: Baoguang Shi, Xiang Bai, Cong Yao
+    tags:
+    - text-recognition
+    links:
+    - label: TPAMI
+      url: https://ieeexplore.ieee.org/abstract/document/7801919/
+    - label: arXiv
+      url: https://arxiv.org/abs/1507.05717
+    - label: code
+      url: http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip
+    raw:
+    - '**An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application
+      to Scene Text Recognition**  '
+    - 'Baoguang Shi, Xiang Bai, Cong Yao  '
+    - \[[TPAMI](https://ieeexplore.ieee.org/abstract/document/7801919/)\]\[[arXiv](https://arxiv.org/abs/1507.05717)\]\[[code](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Baoguang Shi
+- Xiang Bai
+- Cong Yao
+year: 2015
+venue: TPAMI
+publication_status: published
+arxiv_id: '1507.05717'

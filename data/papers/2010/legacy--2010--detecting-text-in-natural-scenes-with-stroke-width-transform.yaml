@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2010:detecting-text-in-natural-scenes-with-stroke-width-transform
+kind: paper
+name: Detecting Text in Natural Scenes with Stroke Width Transform
+released_at:
+  value: '2010'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/5540041/
+  paper: https://ieeexplore.ieee.org/abstract/document/5540041/
+  code: https://github.com/aperrau/DetectText
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/5540041/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/before-2010.md
+    line: 2
+    section: Classic Papers
+    title: Detecting Text in Natural Scenes with Stroke Width Transform
+    authors: Boris Epshtein, Eyal Ofek, Yonatan Wexler
+    tags:
+    - text-detection
+    links:
+    - label: CVPR 2010
+      url: https://ieeexplore.ieee.org/abstract/document/5540041/
+    - label: code
+      url: https://github.com/aperrau/DetectText
+    raw:
+    - '**Detecting Text in Natural Scenes with Stroke Width Transform**  '
+    - 'Boris Epshtein, Eyal Ofek, Yonatan Wexler  '
+    - \[[CVPR 2010](https://ieeexplore.ieee.org/abstract/document/5540041/)\]\[[code](https://github.com/aperrau/DetectText)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Boris Epshtein
+- Eyal Ofek
+- Yonatan Wexler
+year: 2010
+venue: CVPR 2010
+publication_status: published

@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2016:context-aware-mathematical-expression-recognition-an-end-to-end-framework-and-a
+kind: paper
+name: 'Context-Aware Mathematical Expression Recognition: An End-to-End Framework and A Benchmark'
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/7900135/
+  paper: https://ieeexplore.ieee.org/abstract/document/7900135/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/7900135/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 236
+    section: '2016'
+    title: 'Context-Aware Mathematical Expression Recognition: An End-to-End Framework and A Benchmark'
+    authors: Wenhao He, Yuxuan Luo, Fei Yin, Han Hu, Junyu Han, Errui Ding, Cheng-Lin Liu
+    tags:
+    - text-recognition
+    links:
+    - label: ICPR
+      url: https://ieeexplore.ieee.org/abstract/document/7900135/
+    raw:
+    - '**Context-Aware Mathematical Expression Recognition: An End-to-End Framework and A Benchmark**  '
+    - 'Wenhao He, Yuxuan Luo, Fei Yin, Han Hu, Junyu Han, Errui Ding, Cheng-Lin Liu  '
+    - \[[ICPR](https://ieeexplore.ieee.org/abstract/document/7900135/)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Wenhao He
+- Yuxuan Luo
+- Fei Yin
+- Han Hu
+- Junyu Han
+- Errui Ding
+- Cheng-Lin Liu
+year: 2016
+venue: ICPR
+publication_status: published

@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:legacy:2016:canny-text-detector-fast-and-robust-scene-text-localization-algorithm
+kind: paper
+name: 'Canny Text Detector: Fast and Robust Scene Text Localization Algorithm'
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 232
+    section: '2016'
+    title: 'Canny Text Detector: Fast and Robust Scene Text Localization Algorithm'
+    authors: Hojin Cho, Myungchul Sung, Bongjin Jun
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf
+    raw:
+    - '**Canny Text Detector: Fast and Robust Scene Text Localization Algorithm**  '
+    - 'Hojin Cho, Myungchul Sung, Bongjin Jun  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Hojin Cho
+- Myungchul Sung
+- Bongjin Jun
+year: 2016
+venue: CVPR
+publication_status: published

@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:legacy:2017:towards-end-to-end-text-spotting-with-convolutional-recurrent-neural-networks
+kind: paper
+name: Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 147
+    section: '2017'
+    title: Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks
+    authors: Hui Li, Peng Wang, Chunhua Shen
+    tags:
+    - end-to-end-ocr
+    links:
+    - label: ICCV
+      url: http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf
+    raw:
+    - '**Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks**  '
+    - 'Hui Li, Peng Wang, Chunhua Shen  '
+    - \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Hui Li
+- Peng Wang
+- Chunhua Shen
+year: 2017
+venue: ICCV
+publication_status: published

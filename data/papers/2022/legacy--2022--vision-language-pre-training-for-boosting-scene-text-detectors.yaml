@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2022:vision-language-pre-training-for-boosting-scene-text-detectors
+kind: paper
+name: Vision-Language Pre-Training for Boosting Scene Text Detectors
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Vision-Language_Pre-Training_for_Boosting_Scene_Text_Detectors_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Vision-Language_Pre-Training_for_Boosting_Scene_Text_Detectors_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Vision-Language_Pre-Training_for_Boosting_Scene_Text_Detectors_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 22
+    section: '2022'
+    title: Vision-Language Pre-Training for Boosting Scene Text Detectors
+    authors: Sibo Song, Jianqiang Wan, Zhibo Yang, Jun Tang, Wenqing Cheng, Xiang Bai, Cong Yao
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Vision-Language_Pre-Training_for_Boosting_Scene_Text_Detectors_CVPR_2022_paper.pdf
+    raw:
+    - '**Vision-Language Pre-Training for Boosting Scene Text Detectors**  '
+    - 'Sibo Song, Jianqiang Wan, Zhibo Yang, Jun Tang, Wenqing Cheng, Xiang Bai, Cong Yao  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Vision-Language_Pre-Training_for_Boosting_Scene_Text_Detectors_CVPR_2022_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Sibo Song
+- Jianqiang Wan
+- Zhibo Yang
+- Jun Tang
+- Wenqing Cheng
+- Xiang Bai
+- Cong Yao
+year: 2022
+venue: CVPR
+publication_status: published

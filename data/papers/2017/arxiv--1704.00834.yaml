@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:arxiv:1704.00834
+kind: paper
+name: Cascaded Segmentation-Detection Networks for Word-Level Text Spotting
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-segmentation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1704.00834
+  paper: https://arxiv.org/abs/1704.00834
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1704.00834
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 179
+    section: '2017'
+    title: Cascaded Segmentation-Detection Networks for Word-Level Text Spotting
+    authors: Siyang Qin, Roberto Manduchi
+    tags:
+    - text-detection
+    - text-segmentation
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1704.00834
+    raw:
+    - '**Cascaded Segmentation-Detection Networks for Word-Level Text Spotting**  '
+    - 'Siyang Qin, Roberto Manduchi  '
+    - \[[arXiv](https://arxiv.org/abs/1704.00834)\]\[text-detection\]\[text-segmentation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Siyang Qin
+- Roberto Manduchi
+year: 2017
+publication_status: unknown
+arxiv_id: '1704.00834'

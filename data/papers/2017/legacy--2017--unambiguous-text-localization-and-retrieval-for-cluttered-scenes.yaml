@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:legacy:2017:unambiguous-text-localization-and-retrieval-for-cluttered-scenes
+kind: paper
+name: Unambiguous Text Localization and Retrieval for Cluttered Scenes
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 171
+    section: '2017'
+    title: Unambiguous Text Localization and Retrieval for Cluttered Scenes
+    authors: Xuejian Rong, Chucai Yi, Yingli Tian
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf
+    raw:
+    - '**Unambiguous Text Localization and Retrieval for Cluttered Scenes**  '
+    - 'Xuejian Rong, Chucai Yi, Yingli Tian  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xuejian Rong
+- Chucai Yi
+- Yingli Tian
+year: 2017
+venue: CVPR
+publication_status: published

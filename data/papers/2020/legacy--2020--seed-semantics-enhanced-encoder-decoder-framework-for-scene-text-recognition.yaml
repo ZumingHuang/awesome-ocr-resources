@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2020:seed-semantics-enhanced-encoder-decoder-framework-for-scene-text-recognition
+kind: paper
+name: 'SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition'
+released_at:
+  value: '2020'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.pdf
+  paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 220
+    section: '2020'
+    title: 'SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition'
+    authors: Zhi Qiao, Yu Zhou, Dongbao Yang, Yucan Zhou, Weiping Wang
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.pdf
+    raw:
+    - '**SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition**  '
+    - 'Zhi Qiao, Yu Zhou, Dongbao Yang, Yucan Zhou, Weiping Wang  '
+    - \[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zhi Qiao
+- Yu Zhou
+- Dongbao Yang
+- Yucan Zhou
+- Weiping Wang
+year: 2020
+venue: CVPR
+publication_status: published

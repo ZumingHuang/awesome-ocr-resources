@@ -1,0 +1,65 @@
+schema_version: 1
+id: paper:legacy:2023:attention-where-it-matters-rethinking-visual-document-understanding-with-selecti
+kind: paper
+name: 'Attention Where It Matters: Rethinking Visual Document Understanding with Selective Region Concentration'
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-spotting
+- key-information-extraction
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Attention_Where_It_Matters_Rethinking_Visual_Document_Understanding_with_Selective_ICCV_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Attention_Where_It_Matters_Rethinking_Visual_Document_Understanding_with_Selective_ICCV_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Attention_Where_It_Matters_Rethinking_Visual_Document_Understanding_with_Selective_ICCV_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 243
+    section: '2023'
+    title: 'Attention Where It Matters: Rethinking Visual Document Understanding with Selective Region
+      Concentration'
+    authors: Haoyu Cao, Changcun Bao, Chaohu Liu, Huang Chen, Kun Yin, Hao Liu, Yinsong Liu, Deqiang Jiang,
+      Xing Sun
+    tags:
+    - end-to-end-ocr
+    - key-information-extraction
+    - document-VQA
+    links:
+    - label: ICCV
+      url: https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Attention_Where_It_Matters_Rethinking_Visual_Document_Understanding_with_Selective_ICCV_2023_paper.pdf
+    raw:
+    - '**Attention Where It Matters: Rethinking Visual Document Understanding with Selective Region Concentration**  '
+    - 'Haoyu Cao, Changcun Bao, Chaohu Liu, Huang Chen, Kun Yin, Hao Liu, Yinsong Liu, Deqiang Jiang,
+      Xing Sun  '
+    - \[[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Attention_Where_It_Matters_Rethinking_Visual_Document_Understanding_with_Selective_ICCV_2023_paper.pdf)\]\[end-to-end-ocr\]\[key-information-extraction\]\[document-VQA\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Haoyu Cao
+- Changcun Bao
+- Chaohu Liu
+- Huang Chen
+- Kun Yin
+- Hao Liu
+- Yinsong Liu
+- Deqiang Jiang
+- Xing Sun
+year: 2023
+venue: ICCV
+publication_status: published

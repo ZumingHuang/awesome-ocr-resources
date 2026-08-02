@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:laioncoco-ocr
+kind: dataset
+name: LaionCOCO-OCR
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://laion.ai/blog/laion-coco/
+  dataset: https://laion.ai/blog/laion-coco/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://laion.ai/blog/laion-coco/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 4
+    section: Overview
+    title: LaionCOCO-OCR
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://laion.ai/blog/laion-coco/
+    raw:
+    - '| [LaionCOCO-OCR](https://laion.ai/blog/laion-coco/) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

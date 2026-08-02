@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2013:photoocr-reading-text-in-uncontrolled-conditions
+kind: paper
+name: 'PhotoOCR: Reading Text in Uncontrolled Conditions'
+released_at:
+  value: '2013'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf
+  paper: https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 31
+    section: '2013'
+    title: 'PhotoOCR: Reading Text in Uncontrolled Conditions'
+    authors: Alessandro Bissacco, Mark Cummins, Yuval Netzer, Hartmut Neven
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: ICCV
+      url: https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf
+    raw:
+    - '**PhotoOCR: Reading Text in Uncontrolled Conditions**  '
+    - 'Alessandro Bissacco, Mark Cummins, Yuval Netzer, Hartmut Neven  '
+    - \[[ICCV](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Alessandro Bissacco
+- Mark Cummins
+- Yuval Netzer
+- Hartmut Neven
+year: 2013
+venue: ICCV
+publication_status: published

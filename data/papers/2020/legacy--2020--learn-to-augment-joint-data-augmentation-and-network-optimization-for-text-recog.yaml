@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2020:learn-to-augment-joint-data-augmentation-and-network-optimization-for-text-recog
+kind: paper
+name: 'Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition'
+released_at:
+  value: '2020'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.pdf
+  paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 232
+    section: '2020'
+    title: 'Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition'
+    authors: Canjie Luo, Yuanzhi Zhu, Lianwen Jin, Yongpan Wang
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.pdf
+    raw:
+    - '**Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition**  '
+    - 'Canjie Luo, Yuanzhi Zhu, Lianwen Jin, Yongpan Wang  '
+    - \[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Canjie Luo
+- Yuanzhi Zhu
+- Lianwen Jin
+- Yongpan Wang
+year: 2020
+venue: CVPR
+publication_status: published

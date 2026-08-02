@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:legacy:2021:a-multiplexed-network-for-end-to-end-multilingual-ocr
+kind: paper
+name: A Multiplexed Network for End-to-End, Multilingual OCR
+released_at:
+  value: '2021'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_A_Multiplexed_Network_for_End-to-End_Multilingual_OCR_CVPR_2021_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_A_Multiplexed_Network_for_End-to-End_Multilingual_OCR_CVPR_2021_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_A_Multiplexed_Network_for_End-to-End_Multilingual_OCR_CVPR_2021_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 171
+    section: '2021'
+    title: A Multiplexed Network for End-to-End, Multilingual OCR
+    authors: Jing Huang, Guan Pang, Rama Kovvuri, Mandy Toh, Kevin J Liang, Praveen Krishnan, Xi Yin,
+      Tal Hassner
+    tags:
+    - end-to-end-ocr
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_A_Multiplexed_Network_for_End-to-End_Multilingual_OCR_CVPR_2021_paper.pdf
+    raw:
+    - '**A Multiplexed Network for End-to-End, Multilingual OCR**  '
+    - 'Jing Huang, Guan Pang, Rama Kovvuri, Mandy Toh, Kevin J Liang, Praveen Krishnan, Xi Yin, Tal Hassner  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_A_Multiplexed_Network_for_End-to-End_Multilingual_OCR_CVPR_2021_paper.pdf)\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jing Huang
+- Guan Pang
+- Rama Kovvuri
+- Mandy Toh
+- Kevin J Liang
+- Praveen Krishnan
+- Xi Yin
+- Tal Hassner
+year: 2021
+venue: CVPR
+publication_status: published

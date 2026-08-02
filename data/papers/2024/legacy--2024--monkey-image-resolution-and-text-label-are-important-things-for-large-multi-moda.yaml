@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:legacy:2024:monkey-image-resolution-and-text-label-are-important-things-for-large-multi-moda
+kind: paper
+name: 'Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Monkey_Image_Resolution_and_Text_Label_Are_Important_Things_for_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Monkey_Image_Resolution_and_Text_Label_Are_Important_Things_for_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Monkey_Image_Resolution_and_Text_Label_Are_Important_Things_for_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 86
+    section: '2024'
+    title: 'Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models'
+    authors: Zhang Li, Biao Yang, Qiang Liu, Zhiyin Ma, Shuo Zhang, Jingxu Yang, Yabo Sun, Yuliang Liu,
+      Xiang Bai
+    tags:
+    - Large-Multimodal-Models
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Monkey_Image_Resolution_and_Text_Label_Are_Important_Things_for_CVPR_2024_paper.pdf
+    raw:
+    - '**Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models**  '
+    - 'Zhang Li, Biao Yang, Qiang Liu, Zhiyin Ma, Shuo Zhang, Jingxu Yang, Yabo Sun, Yuliang Liu, Xiang
+      Bai  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Monkey_Image_Resolution_and_Text_Label_Are_Important_Things_for_CVPR_2024_paper.pdf)\]\[Large-Multimodal-Models\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zhang Li
+- Biao Yang
+- Qiang Liu
+- Zhiyin Ma
+- Shuo Zhang
+- Jingxu Yang
+- Yabo Sun
+- Yuliang Liu
+- Xiang Bai
+year: 2024
+venue: CVPR
+publication_status: published

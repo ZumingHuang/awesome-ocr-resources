@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:1803.03474
+kind: paper
+name: An end-to-end TextSpotter with Explicit Alignment and Attention
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf
+  code: https://github.com/tonghe90/textspotter
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 78
+    section: '2018'
+    title: An end-to-end TextSpotter with Explicit Alignment and Attention
+    authors: Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun
+    tags:
+    - end-to-end-ocr
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1803.03474
+    - label: code
+      url: https://github.com/tonghe90/textspotter
+    raw:
+    - '**An end-to-end TextSpotter with Explicit Alignment and Attention**  '
+    - 'Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1803.03474)\]\[[code](https://github.com/tonghe90/textspotter)\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Tong He
+- Zhi Tian
+- Weilin Huang
+- Chunhua Shen
+- Yu Qiao
+- Changming Sun
+year: 2018
+venue: CVPR
+publication_status: published
+arxiv_id: '1803.03474'

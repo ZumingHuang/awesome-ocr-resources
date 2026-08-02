@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:iam
+kind: dataset
+name: IAM
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
+  dataset: https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 9
+    section: Overview
+    title: IAM
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
+    raw:
+    - '| [IAM](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

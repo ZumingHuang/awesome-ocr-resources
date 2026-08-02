@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:legacy:2024:hrvda-high-resolution-visual-document-assistant
+kind: paper
+name: 'HRVDA: High-Resolution Visual Document Assistant'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_HRVDA_High-Resolution_Visual_Document_Assistant_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_HRVDA_High-Resolution_Visual_Document_Assistant_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_HRVDA_High-Resolution_Visual_Document_Assistant_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 142
+    section: '2024'
+    title: 'HRVDA: High-Resolution Visual Document Assistant'
+    authors: Chaohu Liu, Kun Yin, Haoyu Cao, Xinghua Jiang, Xin Li, Yinsong Liu, Deqiang Jiang, Xing Sun,
+      Linli Xu
+    tags:
+    - document-VQA
+    - large-multimodal-models
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_HRVDA_High-Resolution_Visual_Document_Assistant_CVPR_2024_paper.pdf
+    raw:
+    - '**HRVDA: High-Resolution Visual Document Assistant**  '
+    - 'Chaohu Liu, Kun Yin, Haoyu Cao, Xinghua Jiang, Xin Li, Yinsong Liu, Deqiang Jiang, Xing Sun, Linli
+      Xu  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_HRVDA_High-Resolution_Visual_Document_Assistant_CVPR_2024_paper.pdf)\]\[document-VQA\]\[large-multimodal-models\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Chaohu Liu
+- Kun Yin
+- Haoyu Cao
+- Xinghua Jiang
+- Xin Li
+- Yinsong Liu
+- Deqiang Jiang
+- Xing Sun
+- Linli Xu
+year: 2024
+venue: CVPR
+publication_status: published

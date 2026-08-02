@@ -1,0 +1,51 @@
+schema_version: 1
+id: paper:legacy:2016:recursive-recurrent-nets-with-attention-modeling-for-ocr-in-the-wild
+kind: paper
+name: Recursive Recurrent Nets with Attention Modeling for OCR in the Wild
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S09-57.pdf
+  paper: https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S09-57.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S09-57.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 228
+    section: '2016'
+    title: Recursive Recurrent Nets with Attention Modeling for OCR in the Wild
+    authors: Chen-Yu Lee, Simon Osindero
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S09-57.pdf
+    raw:
+    - '**Recursive Recurrent Nets with Attention Modeling for OCR in the Wild**  '
+    - 'Chen-Yu Lee, Simon Osindero  '
+    - \[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S09-57.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Chen-Yu Lee
+- Simon Osindero
+year: 2016
+venue: CVPR
+publication_status: published

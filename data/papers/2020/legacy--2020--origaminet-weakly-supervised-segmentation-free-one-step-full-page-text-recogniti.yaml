@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2020:origaminet-weakly-supervised-segmentation-free-one-step-full-page-text-recogniti
+kind: paper
+name: 'OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning
+  to unfold'
+released_at:
+  value: '2020'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yousef_OrigamiNet_Weakly-Supervised_Segmentation-Free_One-Step_Full_Page_Text_Recognition_by_learning_CVPR_2020_paper.pdf
+  paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yousef_OrigamiNet_Weakly-Supervised_Segmentation-Free_One-Step_Full_Page_Text_Recognition_by_learning_CVPR_2020_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yousef_OrigamiNet_Weakly-Supervised_Segmentation-Free_One-Step_Full_Page_Text_Recognition_by_learning_CVPR_2020_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 236
+    section: '2020'
+    title: 'OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by
+      learning to unfold'
+    authors: Mohamed Yousef, Tom E. Bishop
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yousef_OrigamiNet_Weakly-Supervised_Segmentation-Free_One-Step_Full_Page_Text_Recognition_by_learning_CVPR_2020_paper.pdf
+    raw:
+    - '**OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning
+      to unfold**  '
+    - 'Mohamed Yousef, Tom E. Bishop  '
+    - \[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yousef_OrigamiNet_Weakly-Supervised_Segmentation-Free_One-Step_Full_Page_Text_Recognition_by_learning_CVPR_2020_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Mohamed Yousef
+- Tom E. Bishop
+year: 2020
+venue: CVPR
+publication_status: published

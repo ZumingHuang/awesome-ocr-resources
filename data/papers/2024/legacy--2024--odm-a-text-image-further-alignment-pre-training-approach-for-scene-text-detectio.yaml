@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2024:odm-a-text-image-further-alignment-pre-training-approach-for-scene-text-detectio
+kind: paper
+name: 'ODM: A Text-Image Further Alignment Pre-training Approach for Scene Text Detection and Spotting'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-segmentation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_ODM_A_Text-Image_Further_Alignment_Pre-training_Approach_for_Scene_Text_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_ODM_A_Text-Image_Further_Alignment_Pre-training_Approach_for_Scene_Text_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_ODM_A_Text-Image_Further_Alignment_Pre-training_Approach_for_Scene_Text_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 98
+    section: '2024'
+    title: 'ODM: A Text-Image Further Alignment Pre-training Approach for Scene Text Detection and Spotting'
+    authors: Chen Duan, Pei Fu, Shan Guo, Qianyi Jiang, Xiaoming Wei
+    tags:
+    - text-detection
+    - text-segmentation
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_ODM_A_Text-Image_Further_Alignment_Pre-training_Approach_for_Scene_Text_CVPR_2024_paper.pdf
+    raw:
+    - '**ODM: A Text-Image Further Alignment Pre-training Approach for Scene Text Detection and Spotting**  '
+    - 'Chen Duan, Pei Fu, Shan Guo, Qianyi Jiang, Xiaoming Wei  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_ODM_A_Text-Image_Further_Alignment_Pre-training_Approach_for_Scene_Text_CVPR_2024_paper.pdf)\]\[text-detection\]\[text-segmentation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Chen Duan
+- Pei Fu
+- Shan Guo
+- Qianyi Jiang
+- Xiaoming Wei
+year: 2024
+venue: CVPR
+publication_status: published

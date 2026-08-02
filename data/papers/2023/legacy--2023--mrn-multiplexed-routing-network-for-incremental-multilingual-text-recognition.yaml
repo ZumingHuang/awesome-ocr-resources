@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2023:mrn-multiplexed-routing-network-for-incremental-multilingual-text-recognition
+kind: paper
+name: 'MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition'
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_MRN_Multiplexed_Routing_Network_for_Incremental_Multilingual_Text_Recognition_ICCV_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_MRN_Multiplexed_Routing_Network_for_Incremental_Multilingual_Text_Recognition_ICCV_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_MRN_Multiplexed_Routing_Network_for_Incremental_Multilingual_Text_Recognition_ICCV_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 223
+    section: '2023'
+    title: 'MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition'
+    authors: Tianlun Zheng, Zhineng Chen, Bingchen Huang, Wei Zhang, Yu-Gang Jiang
+    tags:
+    - text-recognition
+    links:
+    - label: ICCV
+      url: https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_MRN_Multiplexed_Routing_Network_for_Incremental_Multilingual_Text_Recognition_ICCV_2023_paper.pdf
+    raw:
+    - '**MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition**  '
+    - 'Tianlun Zheng, Zhineng Chen, Bingchen Huang, Wei Zhang, Yu-Gang Jiang  '
+    - \[[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_MRN_Multiplexed_Routing_Network_for_Incremental_Multilingual_Text_Recognition_ICCV_2023_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Tianlun Zheng
+- Zhineng Chen
+- Bingchen Huang
+- Wei Zhang
+- Yu-Gang Jiang
+year: 2023
+venue: ICCV
+publication_status: published

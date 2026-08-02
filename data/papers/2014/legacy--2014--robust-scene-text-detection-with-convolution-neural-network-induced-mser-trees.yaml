@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:legacy:2014:robust-scene-text-detection-with-convolution-neural-network-induced-mser-trees
+kind: paper
+name: Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees
+released_at:
+  value: '2014'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://link.springer.com/chapter/10.1007%2F978-3-319-10593-2_33
+  paper: https://link.springer.com/chapter/10.1007%2F978-3-319-10593-2_33
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://link.springer.com/chapter/10.1007%2F978-3-319-10593-2_33
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 10
+    section: '2014'
+    title: Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees
+    authors: Weilin Huang, Yu Qiao, Xiaoou Tang
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: https://link.springer.com/chapter/10.1007%2F978-3-319-10593-2_33
+    raw:
+    - '**Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees**  '
+    - 'Weilin Huang, Yu Qiao, Xiaoou Tang  '
+    - \[[ECCV](https://link.springer.com/chapter/10.1007%2F978-3-319-10593-2_33)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Weilin Huang
+- Yu Qiao
+- Xiaoou Tang
+year: 2014
+venue: ECCV
+publication_status: published

@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2023:high-resolution-document-shadow-removal-via-a-large-scale-real-world-dataset-and
+kind: paper
+name: High-Resolution Document Shadow Removal via A Large-Scale Real-World Dataset and A Frequency-Aware
+  Shadow Erasing Net
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/ICCV2023/papers/Li_High-Resolution_Document_Shadow_Removal_via_A_Large-Scale_Real-World_Dataset_and_ICCV_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/ICCV2023/papers/Li_High-Resolution_Document_Shadow_Removal_via_A_Large-Scale_Real-World_Dataset_and_ICCV_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/ICCV2023/papers/Li_High-Resolution_Document_Shadow_Removal_via_A_Large-Scale_Real-World_Dataset_and_ICCV_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 263
+    section: '2023'
+    title: High-Resolution Document Shadow Removal via A Large-Scale Real-World Dataset and A Frequency-Aware
+      Shadow Erasing Net
+    authors: Zinuo Li, Xuhang Chen, Chi-Man Pun, Xiaodong Cun
+    tags:
+    - text-image-processing
+    links:
+    - label: ICCV
+      url: https://openaccess.thecvf.com/content/ICCV2023/papers/Li_High-Resolution_Document_Shadow_Removal_via_A_Large-Scale_Real-World_Dataset_and_ICCV_2023_paper.pdf
+    raw:
+    - '**High-Resolution Document Shadow Removal via A Large-Scale Real-World Dataset and A Frequency-Aware
+      Shadow Erasing Net**  '
+    - 'Zinuo Li, Xuhang Chen, Chi-Man Pun, Xiaodong Cun  '
+    - \[[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_High-Resolution_Document_Shadow_Removal_via_A_Large-Scale_Real-World_Dataset_and_ICCV_2023_paper.pdf)\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zinuo Li
+- Xuhang Chen
+- Chi-Man Pun
+- Xiaodong Cun
+year: 2023
+venue: ICCV
+publication_status: published

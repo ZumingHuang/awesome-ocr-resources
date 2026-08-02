@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:textocr
+kind: dataset
+name: TextOCR
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://textvqa.org/textocr/dataset/
+  dataset: https://textvqa.org/textocr/dataset/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://textvqa.org/textocr/dataset/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 27
+    section: Overview
+    title: TextOCR
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://textvqa.org/textocr/dataset/
+    raw:
+    - '| [TextOCR](https://textvqa.org/textocr/dataset/) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

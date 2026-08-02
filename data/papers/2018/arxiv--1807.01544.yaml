@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:1807.01544
+kind: paper
+name: 'TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes'
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ECCV_2018/papers/Shangbang_Long_TextSnake_A_Flexible_ECCV_2018_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ECCV_2018/papers/Shangbang_Long_TextSnake_A_Flexible_ECCV_2018_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ECCV_2018/papers/Shangbang_Long_TextSnake_A_Flexible_ECCV_2018_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 38
+    section: '2018'
+    title: 'TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes'
+    authors: Shangbang Long, Jiaqiang Ruan, Wenjie Zhang, Xin He, Wenhao Wu, Cong Yao
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: http://openaccess.thecvf.com/content_ECCV_2018/papers/Shangbang_Long_TextSnake_A_Flexible_ECCV_2018_paper.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1807.01544
+    raw:
+    - '**TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes**  '
+    - 'Shangbang Long, Jiaqiang Ruan, Wenjie Zhang, Xin He, Wenhao Wu, Cong Yao  '
+    - \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shangbang_Long_TextSnake_A_Flexible_ECCV_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1807.01544)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Shangbang Long
+- Jiaqiang Ruan
+- Wenjie Zhang
+- Xin He
+- Wenhao Wu
+- Cong Yao
+year: 2018
+venue: ECCV
+publication_status: published
+arxiv_id: '1807.01544'

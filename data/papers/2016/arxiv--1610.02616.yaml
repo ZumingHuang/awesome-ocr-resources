@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:1610.02616
+kind: paper
+name: Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten
+  Chinese Text Recognition
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/7995142/
+  paper: https://ieeexplore.ieee.org/abstract/document/7995142/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/7995142/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 260
+    section: '2016'
+    title: Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten
+      Chinese Text Recognition
+    authors: Zecheng Xie, Zenghui Sun, Lianwen Jin, Hao Ni, Terry Lyons
+    tags:
+    - text-recognition
+    links:
+    - label: TPAMI
+      url: https://ieeexplore.ieee.org/abstract/document/7995142/
+    - label: arXiv
+      url: https://arxiv.org/abs/1610.02616
+    raw:
+    - '**Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten
+      Chinese Text Recognition**  '
+    - 'Zecheng Xie, Zenghui Sun, Lianwen Jin, Hao Ni, Terry Lyons  '
+    - \[[TPAMI](https://ieeexplore.ieee.org/abstract/document/7995142/)\]\[[arXiv](https://arxiv.org/abs/1610.02616)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zecheng Xie
+- Zenghui Sun
+- Lianwen Jin
+- Hao Ni
+- Terry Lyons
+year: 2016
+venue: TPAMI
+publication_status: published
+arxiv_id: '1610.02616'

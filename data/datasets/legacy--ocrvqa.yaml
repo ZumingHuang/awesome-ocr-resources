@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:ocrvqa
+kind: dataset
+name: OCRVQA
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ocr-vqa.github.io/
+  dataset: https://ocr-vqa.github.io/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ocr-vqa.github.io/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 15
+    section: Overview
+    title: OCRVQA
+    authors: ''
+    tags:
+    - VQA
+    links:
+    - label: dataset
+      url: https://ocr-vqa.github.io/
+    raw:
+    - '| [OCRVQA](https://ocr-vqa.github.io/) | VQA |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

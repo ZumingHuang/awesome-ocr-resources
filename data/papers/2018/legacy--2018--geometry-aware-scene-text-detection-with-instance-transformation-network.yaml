@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2018:geometry-aware-scene-text-detection-with-instance-transformation-network
+kind: paper
+name: Geometry-Aware Scene Text Detection With Instance Transformation Network
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 62
+    section: '2018'
+    title: Geometry-Aware Scene Text Detection With Instance Transformation Network
+    authors: Fangfang Wang, Liming Zhao, Xi Li, Xinchao Wang, Dacheng Tao
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf
+    raw:
+    - '**Geometry-Aware Scene Text Detection With Instance Transformation Network**  '
+    - 'Fangfang Wang, Liming Zhao, Xi Li, Xinchao Wang, Dacheng Tao  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Fangfang Wang
+- Liming Zhao
+- Xi Li
+- Xinchao Wang
+- Dacheng Tao
+year: 2018
+venue: CVPR
+publication_status: published

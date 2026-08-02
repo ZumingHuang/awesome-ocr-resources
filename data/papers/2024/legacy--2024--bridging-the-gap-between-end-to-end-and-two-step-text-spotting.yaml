@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2024:bridging-the-gap-between-end-to-end-and-two-step-text-spotting
+kind: paper
+name: Bridging the Gap Between End-to-End and Two-Step Text Spotting
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bridging_the_Gap_Between_End-to-End_and_Two-Step_Text_Spotting_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bridging_the_Gap_Between_End-to-End_and_Two-Step_Text_Spotting_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bridging_the_Gap_Between_End-to-End_and_Two-Step_Text_Spotting_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 106
+    section: '2024'
+    title: Bridging the Gap Between End-to-End and Two-Step Text Spotting
+    authors: Mingxin Huang, Hongliang Li, Yuliang Liu, Xiang Bai, Lianwen Jin
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bridging_the_Gap_Between_End-to-End_and_Two-Step_Text_Spotting_CVPR_2024_paper.pdf
+    raw:
+    - '**Bridging the Gap Between End-to-End and Two-Step Text Spotting**  '
+    - 'Mingxin Huang, Hongliang Li, Yuliang Liu, Xiang Bai, Lianwen Jin  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bridging_the_Gap_Between_End-to-End_and_Two-Step_Text_Spotting_CVPR_2024_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Mingxin Huang
+- Hongliang Li
+- Yuliang Liu
+- Xiang Bai
+- Lianwen Jin
+year: 2024
+venue: CVPR
+publication_status: published

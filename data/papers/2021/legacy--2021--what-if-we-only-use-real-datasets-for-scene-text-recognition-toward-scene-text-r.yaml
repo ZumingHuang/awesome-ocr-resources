@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2021:what-if-we-only-use-real-datasets-for-scene-text-recognition-toward-scene-text-r
+kind: paper
+name: What if We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With
+  Fewer Labels
+released_at:
+  value: '2021'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 155
+    section: '2021'
+    title: What if We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition
+      With Fewer Labels
+    authors: Jeonghun Baek, Yusuke Matsui, Kiyoharu Aizawa
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf
+    raw:
+    - '**What if We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With
+      Fewer Labels**  '
+    - 'Jeonghun Baek, Yusuke Matsui, Kiyoharu Aizawa  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jeonghun Baek
+- Yusuke Matsui
+- Kiyoharu Aizawa
+year: 2021
+venue: CVPR
+publication_status: published

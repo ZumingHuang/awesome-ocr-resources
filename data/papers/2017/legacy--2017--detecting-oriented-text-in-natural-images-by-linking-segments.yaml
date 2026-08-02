@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2017:detecting-oriented-text-in-natural-images-by-linking-segments
+kind: paper
+name: Detecting Oriented Text in Natural Images by Linking Segments
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf
+  code: https://github.com/bgshih/seglink
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 163
+    section: '2017'
+    title: Detecting Oriented Text in Natural Images by Linking Segments
+    authors: Baoguang Shi, Xiang Bai, Serge Belongie
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf
+    - label: code
+      url: https://github.com/bgshih/seglink
+    raw:
+    - '**Detecting Oriented Text in Natural Images by Linking Segments**  '
+    - 'Baoguang Shi, Xiang Bai, Serge Belongie  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf)\]\[[code](https://github.com/bgshih/seglink)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Baoguang Shi
+- Xiang Bai
+- Serge Belongie
+year: 2017
+venue: CVPR
+publication_status: published

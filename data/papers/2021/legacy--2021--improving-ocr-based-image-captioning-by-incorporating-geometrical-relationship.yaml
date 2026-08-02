@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2021:improving-ocr-based-image-captioning-by-incorporating-geometrical-relationship
+kind: paper
+name: Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship
+released_at:
+  value: '2021'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 191
+    section: '2021'
+    title: Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship
+    authors: Jing Wang, Jinhui Tang, Mingkun Yang, Xiang Bai, Jiebo Luo
+    tags:
+    - others
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf
+    raw:
+    - '**Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship**  '
+    - 'Jing Wang, Jinhui Tang, Mingkun Yang, Xiang Bai, Jiebo Luo  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf)\]\[others\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jing Wang
+- Jinhui Tang
+- Mingkun Yang
+- Xiang Bai
+- Jiebo Luo
+year: 2021
+venue: CVPR
+publication_status: published

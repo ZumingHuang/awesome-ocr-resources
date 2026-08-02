@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:hme100k
+kind: dataset
+name: HME100K
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- formula-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ai.100tal.com/dataset
+  dataset: https://ai.100tal.com/dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ai.100tal.com/dataset
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 14
+    section: Overview
+    title: HME100K
+    authors: ''
+    tags:
+    - HME
+    links:
+    - label: dataset
+      url: https://ai.100tal.com/dataset
+    raw:
+    - '| [HME100K](https://ai.100tal.com/dataset) | HME |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

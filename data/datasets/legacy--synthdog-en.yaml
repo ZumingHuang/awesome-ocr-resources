@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:synthdog-en
+kind: dataset
+name: SynthDoG-EN
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/clovaai/donut/tree/master/synthdog
+  dataset: https://github.com/clovaai/donut/tree/master/synthdog
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/clovaai/donut/tree/master/synthdog
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 7
+    section: Overview
+    title: SynthDoG-EN
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://github.com/clovaai/donut/tree/master/synthdog
+    raw:
+    - '| [SynthDoG-EN](https://github.com/clovaai/donut/tree/master/synthdog) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2022:xmp-font-self-supervised-cross-modality-pre-training-for-few-shot-font-generatio
+kind: paper
+name: 'XMP-Font: Self-Supervised Cross-Modality Pre-Training for Few-Shot Font Generation'
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_XMP-Font_Self-Supervised_Cross-Modality_Pre-Training_for_Few-Shot_Font_Generation_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_XMP-Font_Self-Supervised_Cross-Modality_Pre-Training_for_Few-Shot_Font_Generation_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_XMP-Font_Self-Supervised_Cross-Modality_Pre-Training_for_Few-Shot_Font_Generation_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 78
+    section: '2022'
+    title: 'XMP-Font: Self-Supervised Cross-Modality Pre-Training for Few-Shot Font Generation'
+    authors: Wei Liu, Fangyue Liu, Fei Ding, Qian He, Zili Yi
+    tags:
+    - others
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_XMP-Font_Self-Supervised_Cross-Modality_Pre-Training_for_Few-Shot_Font_Generation_CVPR_2022_paper.pdf
+    raw:
+    - '**XMP-Font: Self-Supervised Cross-Modality Pre-Training for Few-Shot Font Generation**  '
+    - 'Wei Liu, Fangyue Liu, Fei Ding, Qian He, Zili Yi  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_XMP-Font_Self-Supervised_Cross-Modality_Pre-Training_for_Few-Shot_Font_Generation_CVPR_2022_paper.pdf)\]\[others\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Wei Liu
+- Fangyue Liu
+- Fei Ding
+- Qian He
+- Zili Yi
+year: 2022
+venue: CVPR
+publication_status: published

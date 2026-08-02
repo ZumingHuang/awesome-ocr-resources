@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:wukong-ocr
+kind: dataset
+name: Wukong-OCR
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://wukong-dataset.github.io/wukong-dataset/
+  dataset: https://wukong-dataset.github.io/wukong-dataset/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://wukong-dataset.github.io/wukong-dataset/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 5
+    section: Overview
+    title: Wukong-OCR
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://wukong-dataset.github.io/wukong-dataset/
+    raw:
+    - '| [Wukong-OCR](https://wukong-dataset.github.io/wukong-dataset/) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

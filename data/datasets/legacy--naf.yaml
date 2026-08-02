@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:naf
+kind: dataset
+name: NAF
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- key-information-extraction
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/herobd/NAF_dataset
+  dataset: https://github.com/herobd/NAF_dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/herobd/NAF_dataset
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 12
+    section: Overview
+    title: NAF
+    authors: ''
+    tags:
+    - KIE
+    links:
+    - label: dataset
+      url: https://github.com/herobd/NAF_dataset
+    raw:
+    - '| [NAF](https://github.com/herobd/NAF_dataset) | KIE |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

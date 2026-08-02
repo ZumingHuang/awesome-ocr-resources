@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2014:robust-text-detection-in-natural-scene-images
+kind: paper
+name: Robust Text Detection in Natural Scene Images
+released_at:
+  value: '2014'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/document/6613482/
+  paper: https://ieeexplore.ieee.org/document/6613482/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/document/6613482/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 22
+    section: '2014'
+    title: Robust Text Detection in Natural Scene Images
+    authors: Xu-Cheng Yin, Xuwang Yin, Kaizhu Huang, Hong-Wei Hao
+    tags:
+    - text-detection
+    links:
+    - label: TPAMI
+      url: https://ieeexplore.ieee.org/document/6613482/
+    raw:
+    - '**Robust Text Detection in Natural Scene Images**  '
+    - 'Xu-Cheng Yin, Xuwang Yin, Kaizhu Huang, Hong-Wei Hao  '
+    - \[[TPAMI](https://ieeexplore.ieee.org/document/6613482/)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xu-Cheng Yin
+- Xuwang Yin
+- Kaizhu Huang
+- Hong-Wei Hao
+year: 2014
+venue: TPAMI
+publication_status: published

@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2024:delving-into-adversarial-robustness-on-document-tampering-localization
+kind: paper
+name: Delving into Adversarial Robustness on Document Tampering Localization
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08224.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08224.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08224.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 66
+    section: '2024'
+    title: Delving into Adversarial Robustness on Document Tampering Localization
+    authors: Huiru Shao, Zhuang Qian, Kaizhu Huang, Wei Wang, Xiaowei Huang, Qiufeng Wang
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08224.pdf
+    raw:
+    - '**Delving into Adversarial Robustness on Document Tampering Localization**  '
+    - 'Huiru Shao, Zhuang Qian, Kaizhu Huang, Wei Wang, Xiaowei Huang, Qiufeng Wang  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08224.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Huiru Shao
+- Zhuang Qian
+- Kaizhu Huang
+- Wei Wang
+- Xiaowei Huang
+- Qiufeng Wang
+year: 2024
+venue: ECCV
+publication_status: published

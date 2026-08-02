@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:legacy:2017:wetext-scene-text-detection-under-weak-supervision
+kind: paper
+name: 'WeText: Scene Text Detection under Weak Supervision'
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 131
+    section: '2017'
+    title: 'WeText: Scene Text Detection under Weak Supervision'
+    authors: Shangxuan Tian, Shijian Lu, and Chongshou Li
+    tags:
+    - text-detection
+    links:
+    - label: ICCV
+      url: http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf
+    raw:
+    - '**WeText: Scene Text Detection under Weak Supervision**  '
+    - 'Shangxuan Tian, Shijian Lu, and Chongshou Li  '
+    - \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Shangxuan Tian
+- Shijian Lu
+- and Chongshou Li
+year: 2017
+venue: ICCV
+publication_status: published

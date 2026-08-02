@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:1703.01086
+kind: paper
+name: Arbitrary-Oriented Scene Text Detection via Rotation Proposals
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/8323240/
+  paper: https://ieeexplore.ieee.org/abstract/document/8323240/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/8323240/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 195
+    section: '2017'
+    title: Arbitrary-Oriented Scene Text Detection via Rotation Proposals
+    authors: Jianqi Ma, Weiyuan Shao, Hao Ye, Li Wang, Hong Wang, Yingbin Zheng, Xiangyang Xue
+    tags:
+    - text-detection
+    links:
+    - label: TMM
+      url: https://ieeexplore.ieee.org/abstract/document/8323240/
+    - label: arXiv
+      url: https://arxiv.org/abs/1703.01086
+    raw:
+    - '**Arbitrary-Oriented Scene Text Detection via Rotation Proposals**  '
+    - 'Jianqi Ma, Weiyuan Shao, Hao Ye, Li Wang, Hong Wang, Yingbin Zheng, Xiangyang Xue  '
+    - \[[TMM](https://ieeexplore.ieee.org/abstract/document/8323240/)\]\[[arXiv](https://arxiv.org/abs/1703.01086)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jianqi Ma
+- Weiyuan Shao
+- Hao Ye
+- Li Wang
+- Hong Wang
+- Yingbin Zheng
+- Xiangyang Xue
+year: 2017
+venue: TMM
+publication_status: published
+arxiv_id: '1703.01086'

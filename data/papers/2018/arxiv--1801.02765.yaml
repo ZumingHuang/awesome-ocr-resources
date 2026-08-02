@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:1801.02765
+kind: paper
+name: 'TextBoxes++: A Single-Shot Oriented Scene Text Detector'
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/document/8334248/
+  paper: https://ieeexplore.ieee.org/document/8334248/
+  code: https://github.com/MhLiao/TextBoxes_plusplus
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/document/8334248/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 114
+    section: '2018'
+    title: 'TextBoxes++: A Single-Shot Oriented Scene Text Detector'
+    authors: Minghui Liao, Baoguang Shi, Xiang Bai
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: TIP
+      url: https://ieeexplore.ieee.org/document/8334248/
+    - label: arXiv
+      url: https://arxiv.org/abs/1801.02765
+    - label: code
+      url: https://github.com/MhLiao/TextBoxes_plusplus
+    raw:
+    - '**TextBoxes++: A Single-Shot Oriented Scene Text Detector**  '
+    - 'Minghui Liao, Baoguang Shi, Xiang Bai  '
+    - \[[TIP](https://ieeexplore.ieee.org/document/8334248/)\]\[[arXiv](https://arxiv.org/abs/1801.02765)\]\[[code](https://github.com/MhLiao/TextBoxes_plusplus)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Minghui Liao
+- Baoguang Shi
+- Xiang Bai
+year: 2018
+venue: TIP
+publication_status: published
+arxiv_id: '1801.02765'

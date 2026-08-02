@@ -1,0 +1,13 @@
+{{ generated_notice }}
+
+# {{ title }}
+
+{% if entries %}
+| Resource | Released | Tasks | Status | Description |
+| --- | --- | --- | --- | --- |
+{% for entry in entries -%}
+| [{{ entry.name }}]({{ entry.url }}) | {{ entry.released }} | {{ entry.tasks }} | {{ entry.status }} | {{ entry.summary or "—" }} |
+{% endfor %}
+{% else %}
+No {{ kind }} resources have been curated yet. Please see [CONTRIBUTING.md](../CONTRIBUTING.md) to suggest one.
+{% endif %}

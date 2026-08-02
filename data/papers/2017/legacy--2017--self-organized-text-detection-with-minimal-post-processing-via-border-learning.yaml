@@ -1,0 +1,51 @@
+schema_version: 1
+id: paper:legacy:2017:self-organized-text-detection-with-minimal-post-processing-via-border-learning
+kind: paper
+name: Self-organized Text Detection with Minimal Post-processing via Border Learning
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 139
+    section: '2017'
+    title: Self-organized Text Detection with Minimal Post-processing via Border Learning
+    authors: Yue Wu, Prem Natarajan
+    tags:
+    - text-detection
+    links:
+    - label: ICCV
+      url: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf
+    raw:
+    - '**Self-organized Text Detection with Minimal Post-processing via Border Learning**  '
+    - 'Yue Wu, Prem Natarajan  '
+    - \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yue Wu
+- Prem Natarajan
+year: 2017
+venue: ICCV
+publication_status: published

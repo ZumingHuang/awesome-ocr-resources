@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2016:robust-scene-text-recognition-with-automatic-rectification
+kind: paper
+name: Robust Scene Text Recognition with Automatic Rectification
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Robust_Scene_Text_CVPR_2016_paper.pdf
+  paper: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Robust_Scene_Text_CVPR_2016_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Robust_Scene_Text_CVPR_2016_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 220
+    section: '2016'
+    title: Robust Scene Text Recognition with Automatic Rectification
+    authors: Baoguang Shi, Xinggang Wang, Pengyuan Lyu, Cong Yao, Xiang Bai
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Robust_Scene_Text_CVPR_2016_paper.pdf
+    raw:
+    - '**Robust Scene Text Recognition with Automatic Rectification**  '
+    - 'Baoguang Shi, Xinggang Wang, Pengyuan Lyu, Cong Yao, Xiang Bai  '
+    - \[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Robust_Scene_Text_CVPR_2016_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Baoguang Shi
+- Xinggang Wang
+- Pengyuan Lyu
+- Cong Yao
+- Xiang Bai
+year: 2016
+venue: CVPR
+publication_status: published

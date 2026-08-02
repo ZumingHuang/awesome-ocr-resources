@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2024:glyph-byt5-a-customized-text-encoder-for-accurate-visual-text-rendering
+kind: paper
+name: 'Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-image-generation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09622.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09622.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09622.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 54
+    section: '2024'
+    title: 'Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering'
+    authors: Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan
+    tags:
+    - text-image-generation
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09622.pdf
+    raw:
+    - '**Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering**  '
+    - 'Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09622.pdf)\]\[text-image-generation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zeyu Liu
+- Weicong Liang
+- Zhanhao Liang
+- Chong Luo
+- Ji Li
+- Gao Huang
+- Yuhui Yuan
+year: 2024
+venue: ECCV
+publication_status: published

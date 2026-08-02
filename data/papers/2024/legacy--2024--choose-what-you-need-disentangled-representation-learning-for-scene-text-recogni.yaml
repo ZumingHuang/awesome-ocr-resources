@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:legacy:2024:choose-what-you-need-disentangled-representation-learning-for-scene-text-recogni
+kind: paper
+name: 'Choose What You Need: Disentangled Representation Learning for Scene Text Recognition Removal and
+  Editing'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Choose_What_You_Need_Disentangled_Representation_Learning_for_Scene_Text_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Choose_What_You_Need_Disentangled_Representation_Learning_for_Scene_Text_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Choose_What_You_Need_Disentangled_Representation_Learning_for_Scene_Text_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 126
+    section: '2024'
+    title: 'Choose What You Need: Disentangled Representation Learning for Scene Text Recognition Removal
+      and Editing'
+    authors: Boqiang Zhang, Hongtao Xie, Zuan Gao, Yuxin Wang
+    tags:
+    - text-recognition
+    - text-image-processing
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Choose_What_You_Need_Disentangled_Representation_Learning_for_Scene_Text_CVPR_2024_paper.pdf
+    raw:
+    - '**Choose What You Need: Disentangled Representation Learning for Scene Text Recognition Removal
+      and Editing**  '
+    - 'Boqiang Zhang, Hongtao Xie, Zuan Gao, Yuxin Wang  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Choose_What_You_Need_Disentangled_Representation_Learning_for_Scene_Text_CVPR_2024_paper.pdf)\]\[text-recognition\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Boqiang Zhang
+- Hongtao Xie
+- Zuan Gao
+- Yuxin Wang
+year: 2024
+venue: CVPR
+publication_status: published

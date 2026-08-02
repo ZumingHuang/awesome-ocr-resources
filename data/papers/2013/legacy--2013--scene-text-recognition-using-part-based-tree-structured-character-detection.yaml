@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2013:scene-text-recognition-using-part-based-tree-structured-character-detection
+kind: paper
+name: Scene Text Recognition using Part-based Tree-structured Character Detection
+released_at:
+  value: '2013'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf
+  paper: https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 35
+    section: '2013'
+    title: Scene Text Recognition using Part-based Tree-structured Character Detection
+    authors: Cunzhao Shi, Chunheng Wang, Baihua Xiao, Yang Zhang, Song Gao,  Zhong Zhang
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf
+    raw:
+    - '**Scene Text Recognition using Part-based Tree-structured Character Detection**  '
+    - 'Cunzhao Shi, Chunheng Wang, Baihua Xiao, Yang Zhang, Song Gao,  Zhong Zhang  '
+    - \[[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Cunzhao Shi
+- Chunheng Wang
+- Baihua Xiao
+- Yang Zhang
+- Song Gao
+- Zhong Zhang
+year: 2013
+venue: CVPR
+publication_status: published

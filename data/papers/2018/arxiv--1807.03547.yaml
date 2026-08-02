@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:1807.03547
+kind: paper
+name: Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 26
+    section: '2018'
+    title: Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping
+    authors: Chuhui Xue, Shijian Lu, Fangneng Zhan
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1807.03547
+    raw:
+    - '**Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping**  '
+    - 'Chuhui Xue, Shijian Lu, Fangneng Zhan  '
+    - \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1807.03547)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Chuhui Xue
+- Shijian Lu
+- Fangneng Zhan
+year: 2018
+venue: ECCV
+publication_status: published
+arxiv_id: '1807.03547'

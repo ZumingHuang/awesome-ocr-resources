@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:arxiv:1601.07140
+kind: paper
+name: 'COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images'
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1601.07140
+  paper: https://arxiv.org/abs/1601.07140
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1601.07140
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 256
+    section: '2016'
+    title: 'COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images'
+    authors: Andreas Veit, Tomas Matera, Lukas Neumann, Jiri Matas, Serge Belongie
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1601.07140
+    raw:
+    - '**COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images**  '
+    - 'Andreas Veit, Tomas Matera, Lukas Neumann, Jiri Matas, Serge Belongie  '
+    - \[[arXiv](https://arxiv.org/abs/1601.07140)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Andreas Veit
+- Tomas Matera
+- Lukas Neumann
+- Jiri Matas
+- Serge Belongie
+year: 2016
+publication_status: unknown
+arxiv_id: '1601.07140'

@@ -1,0 +1,20 @@
+thresholds:
+  draft_pr: 65
+  review: 50
+weights:
+  relevance: 30
+  authority: 20
+  completeness: 15
+  usability: 15
+  impact: 10
+  freshness: 10
+required_terms:
+  - OCR
+  - optical character recognition
+  - text detection
+  - text recognition
+  - text spotting
+  - document
+  - layout
+  - table recognition
+  - handwriting

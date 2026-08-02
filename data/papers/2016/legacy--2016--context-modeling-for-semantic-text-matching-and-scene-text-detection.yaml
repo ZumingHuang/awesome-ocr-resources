@@ -1,0 +1,50 @@
+schema_version: 1
+id: paper:legacy:2016:context-modeling-for-semantic-text-matching-and-scene-text-detection
+kind: paper
+name: Context Modeling for Semantic Text Matching and Scene Text Detection
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://etda.libraries.psu.edu/files/final_submissions/12356
+  paper: https://etda.libraries.psu.edu/files/final_submissions/12356
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://etda.libraries.psu.edu/files/final_submissions/12356
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 280
+    section: '2016'
+    title: Context Modeling for Semantic Text Matching and Scene Text Detection
+    authors: Wenyi Huang
+    tags:
+    - text-detection
+    links:
+    - label: Thesis
+      url: https://etda.libraries.psu.edu/files/final_submissions/12356
+    raw:
+    - '**Context Modeling for Semantic Text Matching and Scene Text Detection**  '
+    - 'Wenyi Huang  '
+    - \[[Thesis](https://etda.libraries.psu.edu/files/final_submissions/12356)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Wenyi Huang
+year: 2016
+venue: Thesis
+publication_status: published

@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:legacy:2024:wecromcl-weakly-supervised-cross-modality-contrastive-learning-for-transcription
+kind: paper
+name: 'WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised
+  Text Spotting'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04553.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04553.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04553.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 62
+    section: '2024'
+    title: 'WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised
+      Text Spotting'
+    authors: Jingjing Wu, Zhengyao Fang, Pengyuan Lyu, Chengquan Zhang, Fanglin Chen, Guangming Lu, Wenjie
+      Pei
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04553.pdf
+    raw:
+    - '**WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised
+      Text Spotting**  '
+    - 'Jingjing Wu, Zhengyao Fang, Pengyuan Lyu, Chengquan Zhang, Fanglin Chen, Guangming Lu, Wenjie Pei  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04553.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jingjing Wu
+- Zhengyao Fang
+- Pengyuan Lyu
+- Chengquan Zhang
+- Fanglin Chen
+- Guangming Lu
+- Wenjie Pei
+year: 2024
+venue: ECCV
+publication_status: published

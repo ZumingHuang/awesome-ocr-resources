@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2022:look-closer-to-supervise-better-one-shot-font-generation-via-component-based-dis
+kind: paper
+name: 'Look Closer To Supervise Better: One-Shot Font Generation via Component-Based Discriminator'
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Look_Closer_To_Supervise_Better_One-Shot_Font_Generation_via_Component-Based_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Look_Closer_To_Supervise_Better_One-Shot_Font_Generation_via_Component-Based_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Look_Closer_To_Supervise_Better_One-Shot_Font_Generation_via_Component-Based_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 82
+    section: '2022'
+    title: 'Look Closer To Supervise Better: One-Shot Font Generation via Component-Based Discriminator'
+    authors: Yuxin Kong, Canjie Luo, Weihong Ma, Qiyuan Zhu, Shenggao Zhu, Nicholas Yuan, Lianwen Jin
+    tags:
+    - others
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Look_Closer_To_Supervise_Better_One-Shot_Font_Generation_via_Component-Based_CVPR_2022_paper.pdf
+    raw:
+    - '**Look Closer To Supervise Better: One-Shot Font Generation via Component-Based Discriminator**  '
+    - 'Yuxin Kong, Canjie Luo, Weihong Ma, Qiyuan Zhu, Shenggao Zhu, Nicholas Yuan, Lianwen Jin  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Look_Closer_To_Supervise_Better_One-Shot_Font_Generation_via_Component-Based_CVPR_2022_paper.pdf)\]\[others\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yuxin Kong
+- Canjie Luo
+- Weihong Ma
+- Qiyuan Zhu
+- Shenggao Zhu
+- Nicholas Yuan
+- Lianwen Jin
+year: 2022
+venue: CVPR
+publication_status: published

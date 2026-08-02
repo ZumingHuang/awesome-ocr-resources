@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:legacy:2021:selfdoc-self-supervised-document-representation-learning
+kind: paper
+name: 'SelfDoc: Self-Supervised Document Representation Learning'
+released_at:
+  value: '2021'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- key-information-extraction
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2021/papers/Li_SelfDoc_Self-Supervised_Document_Representation_Learning_CVPR_2021_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Li_SelfDoc_Self-Supervised_Document_Representation_Learning_CVPR_2021_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2021/papers/Li_SelfDoc_Self-Supervised_Document_Representation_Learning_CVPR_2021_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 175
+    section: '2021'
+    title: 'SelfDoc: Self-Supervised Document Representation Learning'
+    authors: Peizhao Li, Jiuxiang Gu, Jason Kuen, Vlad I. Morariu, Handong Zhao, Rajiv Jain, Varun Manjunatha,
+      Hongfu Liu
+    tags:
+    - key-information-extraction
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2021/papers/Li_SelfDoc_Self-Supervised_Document_Representation_Learning_CVPR_2021_paper.pdf
+    raw:
+    - 'SelfDoc: Self-Supervised Document Representation Learning'
+    - 'Peizhao Li, Jiuxiang Gu, Jason Kuen, Vlad I. Morariu, Handong Zhao, Rajiv Jain, Varun Manjunatha,
+      Hongfu Liu  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_SelfDoc_Self-Supervised_Document_Representation_Learning_CVPR_2021_paper.pdf)\]\[key-information-extraction\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Peizhao Li
+- Jiuxiang Gu
+- Jason Kuen
+- Vlad I. Morariu
+- Handong Zhao
+- Rajiv Jain
+- Varun Manjunatha
+- Hongfu Liu
+year: 2021
+venue: CVPR
+publication_status: published

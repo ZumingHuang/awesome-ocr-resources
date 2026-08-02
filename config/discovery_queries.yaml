@@ -1,0 +1,27 @@
+paper_queries:
+  - 'all:"optical character recognition"'
+  - 'all:"scene text recognition"'
+  - 'all:"scene text detection"'
+  - 'all:"text spotting"'
+  - 'all:"visual document understanding"'
+  - 'all:"document parsing"'
+  - 'all:"document question answering"'
+  - 'all:"layout analysis"'
+  - 'all:"table structure recognition"'
+  - 'all:"handwritten text recognition"'
+  - 'all:"mathematical expression recognition"'
+
+hub_queries:
+  - OCR
+  - document parsing
+  - document understanding
+  - scene text
+
+github_code_queries:
+  - 'OCR in:name,description,readme'
+  - '"document AI" in:name,description,readme'
+  - '"scene text recognition" in:name,description,readme'
+
+github_skill_queries:
+  - 'OCR filename:SKILL.md'
+  - '"document parsing" filename:SKILL.md'

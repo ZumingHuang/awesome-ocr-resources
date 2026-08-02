@@ -1,0 +1,11 @@
+{{ generated_notice }}
+
+{% for section in sections %}
+## {{ section.year }}
+{% for paper in section.entries %}
+**{{ paper.name }}**
+{{ paper.authors }}
+{{ paper.metadata }}
+
+{% endfor %}
+{% endfor %}

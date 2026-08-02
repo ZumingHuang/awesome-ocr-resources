@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:legacy:textvqa
+kind: dataset
+name: TextVQA
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://textvqa.org/dataset/
+  dataset: https://textvqa.org/dataset/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://textvqa.org/dataset/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 25
+    section: Overview
+    title: TextVQA
+    authors: ''
+    tags:
+    - VQA
+    links:
+    - label: dataset
+      url: https://textvqa.org/dataset/
+    raw:
+    - '| [TextVQA](https://textvqa.org/dataset/) | VQA |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:legacy:2020:what-machines-see-is-not-what-they-get-fooling-scene-text-recognition-models-wit
+kind: paper
+name: 'What Machines See Is Not What They Get: Fooling Scene Text Recognition Models With Adversarial
+  Text Images'
+released_at:
+  value: '2020'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.pdf
+  paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 228
+    section: '2020'
+    title: 'What Machines See Is Not What They Get: Fooling Scene Text Recognition Models With Adversarial
+      Text Images'
+    authors: Xing Xu, Jiefu Chen, Jinhui Xiao, Lianli Gao, Fumin Shen, Heng Tao Shen
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.pdf
+    raw:
+    - '**What Machines See Is Not What They Get: Fooling Scene Text Recognition Models With Adversarial
+      Text Images**  '
+    - 'Xing Xu, Jiefu Chen, Jinhui Xiao, Lianli Gao, Fumin Shen, Heng Tao Shen  '
+    - \[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xing Xu
+- Jiefu Chen
+- Jinhui Xiao
+- Lianli Gao
+- Fumin Shen
+- Heng Tao Shen
+year: 2020
+venue: CVPR
+publication_status: published

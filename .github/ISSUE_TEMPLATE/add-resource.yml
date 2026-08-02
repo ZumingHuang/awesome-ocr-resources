@@ -1,0 +1,62 @@
+name: Suggest a resource
+description: Suggest an OCR or Document AI resource for review
+title: "[Resource]: "
+labels: [resource-candidate]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Resource type
+      options: [paper, model, dataset, code, skill, platform]
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: canonical_url
+    attributes:
+      label: Official canonical URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: released_at
+    attributes:
+      label: Release date
+      description: YYYY, YYYY-MM, or YYYY-MM-DD. Write unknown if it cannot be verified.
+    validations:
+      required: true
+  - type: input
+    id: tasks
+    attributes:
+      label: OCR or Document AI tasks
+      placeholder: text-recognition, document-parsing
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: Official license
+      description: Use NOASSERTION instead of guessing.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Relevance and first-party evidence
+      description: Explain why this belongs and link official supporting material.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks
+      options:
+        - label: I searched the structured data for duplicates.
+          required: true
+        - label: I did not execute third-party code to prepare this suggestion.
+          required: true

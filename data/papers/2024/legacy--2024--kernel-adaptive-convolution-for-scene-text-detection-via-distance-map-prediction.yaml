@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:legacy:2024:kernel-adaptive-convolution-for-scene-text-detection-via-distance-map-prediction
+kind: paper
+name: Kernel Adaptive Convolution for Scene Text Detection via Distance Map Prediction
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Kernel_Adaptive_Convolution_for_Scene_Text_Detection_via_Distance_Map_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Kernel_Adaptive_Convolution_for_Scene_Text_Detection_via_Distance_Map_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Kernel_Adaptive_Convolution_for_Scene_Text_Detection_via_Distance_Map_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 118
+    section: '2024'
+    title: Kernel Adaptive Convolution for Scene Text Detection via Distance Map Prediction
+    authors: Jinzhi Zheng, Heng Fan, Libo Zhang
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Kernel_Adaptive_Convolution_for_Scene_Text_Detection_via_Distance_Map_CVPR_2024_paper.pdf
+    raw:
+    - '**Kernel Adaptive Convolution for Scene Text Detection via Distance Map Prediction**  '
+    - 'Jinzhi Zheng, Heng Fan, Libo Zhang  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Kernel_Adaptive_Convolution_for_Scene_Text_Detection_via_Distance_Map_CVPR_2024_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jinzhi Zheng
+- Heng Fan
+- Libo Zhang
+year: 2024
+venue: CVPR
+publication_status: published

@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:1807.03021
+kind: paper
+name: Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 30
+    section: '2018'
+    title: Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes
+    authors: Fangneng Zhan, Shijian Lu, Chuhui Xue
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: ECCV
+      url: http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1807.03021
+    raw:
+    - '**Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes**  '
+    - 'Fangneng Zhan, Shijian Lu, Chuhui Xue  '
+    - \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1807.03021)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Fangneng Zhan
+- Shijian Lu
+- Chuhui Xue
+year: 2018
+venue: ECCV
+publication_status: published
+arxiv_id: '1807.03021'

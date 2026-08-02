@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:1711.04226
+kind: paper
+name: 'AON: Towards Arbitrarily-Oriented Text Recognition'
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 90
+    section: '2018'
+    title: 'AON: Towards Arbitrarily-Oriented Text Recognition'
+    authors: Zhanzhan Cheng, Yangliu Xu, Fan Bai, Yi Niu, Shiliang Pu, Shuigeng Zhou
+    tags:
+    - text-recognition
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1711.04226
+    raw:
+    - '**AON: Towards Arbitrarily-Oriented Text Recognition**  '
+    - 'Zhanzhan Cheng, Yangliu Xu, Fan Bai, Yi Niu, Shiliang Pu, Shuigeng Zhou  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/1711.04226)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zhanzhan Cheng
+- Yangliu Xu
+- Fan Bai
+- Yi Niu
+- Shiliang Pu
+- Shuigeng Zhou
+year: 2018
+venue: CVPR
+publication_status: published
+arxiv_id: '1711.04226'

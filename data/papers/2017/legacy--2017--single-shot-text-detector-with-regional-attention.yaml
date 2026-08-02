@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:legacy:2017:single-shot-text-detector-with-regional-attention
+kind: paper
+name: Single Shot Text Detector with Regional Attention
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf
+  code: https://github.com/BestSonny/SSTD
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 135
+    section: '2017'
+    title: Single Shot Text Detector with Regional Attention
+    authors: Pan He, Weilin Huang, Tong He, Qile Zhu, Yu Qiao, Xiaolin Li
+    tags:
+    - text-detection
+    links:
+    - label: ICCV
+      url: http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf
+    - label: code
+      url: https://github.com/BestSonny/SSTD
+    raw:
+    - '**Single Shot Text Detector with Regional Attention**  '
+    - 'Pan He, Weilin Huang, Tong He, Qile Zhu, Yu Qiao, Xiaolin Li  '
+    - \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf)\]\[[code](https://github.com/BestSonny/SSTD)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Pan He
+- Weilin Huang
+- Tong He
+- Qile Zhu
+- Yu Qiao
+- Xiaolin Li
+year: 2017
+venue: ICCV
+publication_status: published

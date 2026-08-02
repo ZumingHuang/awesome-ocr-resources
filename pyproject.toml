@@ -1,0 +1,55 @@
+[project]
+name = "awesome-ocr-resources"
+version = "0.1.0"
+description = "Structured, curated OCR and Document AI resources"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Zuming Huang" }]
+dependencies = [
+  "httpx>=0.28.1,<1",
+  "jinja2>=3.1.6,<4",
+  "pydantic>=2.11.7,<3",
+  "pyyaml>=6.0.2,<7",
+  "typer>=0.16.0,<1",
+]
+
+[project.scripts]
+ocr-resources = "ocr_resources.cli:app"
+
+[dependency-groups]
+dev = [
+  "mypy>=1.17.0,<2",
+  "pytest>=8.4.1,<9",
+  "pytest-cov>=6.2.1,<7",
+  "respx>=0.22.0,<1",
+  "ruff>=0.12.4,<1",
+  "types-pyyaml>=6.0.12.20250516",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ocr_resources"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+ignore = ["B008"] # Typer uses Option metadata in command signatures by design.
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.pytest.ini_options]
+addopts = "--strict-markers --strict-config"
+testpaths = ["tests"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+packages = ["ocr_resources"]

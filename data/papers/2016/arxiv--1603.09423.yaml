@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:arxiv:1603.09423
+kind: paper
+name: Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1603.09423
+  paper: https://arxiv.org/abs/1603.09423
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1603.09423
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 252
+    section: '2016'
+    title: Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
+    authors: Tong He, Weilin Huang, Yu Qiao, Jian Yao
+    tags:
+    - text-detection
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1603.09423
+    raw:
+    - '**Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network**  '
+    - 'Tong He, Weilin Huang, Yu Qiao, Jian Yao  '
+    - \[[arXiv](https://arxiv.org/abs/1603.09423)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Tong He
+- Weilin Huang
+- Yu Qiao
+- Jian Yao
+year: 2016
+publication_status: unknown
+arxiv_id: '1603.09423'

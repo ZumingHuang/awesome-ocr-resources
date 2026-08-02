@@ -1,0 +1,47 @@
+schema_version: 1
+id: dataset:legacy:chinese-ocr
+kind: dataset
+name: Chinese-OCR
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/longmaodata/Chinese-OCR
+  dataset: https://huggingface.co/datasets/longmaodata/Chinese-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/longmaodata/Chinese-OCR
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 28
+    section: Overview
+    title: Chinese-OCR
+    authors: ''
+    tags:
+    - OCR
+    links:
+    - label: dataset
+      url: https://huggingface.co/datasets/longmaodata/Chinese-OCR
+    raw:
+    - '| [Chinese-OCR](https://huggingface.co/datasets/longmaodata/Chinese-OCR) | OCR |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+repository_id: longmaodata/Chinese-OCR
+usage: []
+annotations: []
+access: unknown

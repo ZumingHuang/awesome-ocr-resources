@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2022:xylayoutlm-towards-layout-aware-multimodal-networks-for-visually-rich-document-u
+kind: paper
+name: 'XYLayoutLM: Towards Layout-Aware Multimodal Networks for Visually-Rich Document Understanding'
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- key-information-extraction
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_XYLayoutLM_Towards_Layout-Aware_Multimodal_Networks_for_Visually-Rich_Document_Understanding_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_XYLayoutLM_Towards_Layout-Aware_Multimodal_Networks_for_Visually-Rich_Document_Understanding_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_XYLayoutLM_Towards_Layout-Aware_Multimodal_Networks_for_Visually-Rich_Document_Understanding_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 50
+    section: '2022'
+    title: 'XYLayoutLM: Towards Layout-Aware Multimodal Networks for Visually-Rich Document Understanding'
+    authors: Zhangxuan Gu, Changhua Meng, Ke Wang, Jun Lan, Weiqiang Wang, Ming Gu, Liqing Zhang
+    tags:
+    - key-information-extraction
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_XYLayoutLM_Towards_Layout-Aware_Multimodal_Networks_for_Visually-Rich_Document_Understanding_CVPR_2022_paper.pdf
+    raw:
+    - '**XYLayoutLM: Towards Layout-Aware Multimodal Networks for Visually-Rich Document Understanding**  '
+    - 'Zhangxuan Gu, Changhua Meng, Ke Wang, Jun Lan, Weiqiang Wang, Ming Gu, Liqing Zhang  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_XYLayoutLM_Towards_Layout-Aware_Multimodal_Networks_for_Visually-Rich_Document_Understanding_CVPR_2022_paper.pdf)\]\[key-information-extraction\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zhangxuan Gu
+- Changhua Meng
+- Ke Wang
+- Jun Lan
+- Weiqiang Wang
+- Ming Gu
+- Liqing Zhang
+year: 2022
+venue: CVPR
+publication_status: published

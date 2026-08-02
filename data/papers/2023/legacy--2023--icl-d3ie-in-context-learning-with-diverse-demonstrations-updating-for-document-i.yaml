@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:legacy:2023:icl-d3ie-in-context-learning-with-diverse-demonstrations-updating-for-document-i
+kind: paper
+name: 'ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction'
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- key-information-extraction
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/ICCV2023/papers/He_ICL-D3IE_In-Context_Learning_with_Diverse_Demonstrations_Updating_for_Document_Information_ICCV_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/ICCV2023/papers/He_ICL-D3IE_In-Context_Learning_with_Diverse_Demonstrations_Updating_for_Document_Information_ICCV_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/ICCV2023/papers/He_ICL-D3IE_In-Context_Learning_with_Diverse_Demonstrations_Updating_for_Document_Information_ICCV_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 255
+    section: '2023'
+    title: 'ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information
+      Extraction'
+    authors: Jiabang He, Lei Wang, Yi Hu, Ning Liu, Hui Liu, Xing Xu, Heng Tao Shen
+    tags:
+    - key-information-extraction
+    links:
+    - label: ICCV
+      url: https://openaccess.thecvf.com/content/ICCV2023/papers/He_ICL-D3IE_In-Context_Learning_with_Diverse_Demonstrations_Updating_for_Document_Information_ICCV_2023_paper.pdf
+    raw:
+    - '**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**  '
+    - 'Jiabang He, Lei Wang, Yi Hu, Ning Liu, Hui Liu, Xing Xu, Heng Tao Shen  '
+    - \[[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/He_ICL-D3IE_In-Context_Learning_with_Diverse_Demonstrations_Updating_for_Document_Information_ICCV_2023_paper.pdf)\]\[key-information-extraction\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jiabang He
+- Lei Wang
+- Yi Hu
+- Ning Liu
+- Hui Liu
+- Xing Xu
+- Heng Tao Shen
+year: 2023
+venue: ICCV
+publication_status: published

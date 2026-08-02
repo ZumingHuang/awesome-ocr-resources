@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2023:vision-grid-transformer-for-document-layout-analysis
+kind: paper
+name: Vision Grid Transformer for Document Layout Analysis
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-layout-analysis
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/ICCV2023/papers/Da_Vision_Grid_Transformer_for_Document_Layout_Analysis_ICCV_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/ICCV2023/papers/Da_Vision_Grid_Transformer_for_Document_Layout_Analysis_ICCV_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/ICCV2023/papers/Da_Vision_Grid_Transformer_for_Document_Layout_Analysis_ICCV_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 259
+    section: '2023'
+    title: Vision Grid Transformer for Document Layout Analysis
+    authors: Cheng Da, Chuwei Luo, Qi Zheng, Cong Yao
+    tags:
+    - layout-analysis
+    links:
+    - label: ICCV
+      url: https://openaccess.thecvf.com/content/ICCV2023/papers/Da_Vision_Grid_Transformer_for_Document_Layout_Analysis_ICCV_2023_paper.pdf
+    raw:
+    - '**Vision Grid Transformer for Document Layout Analysis**  '
+    - 'Cheng Da, Chuwei Luo, Qi Zheng, Cong Yao  '
+    - \[[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Da_Vision_Grid_Transformer_for_Document_Layout_Analysis_ICCV_2023_paper.pdf)\]\[layout-analysis\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Cheng Da
+- Chuwei Luo
+- Qi Zheng
+- Cong Yao
+year: 2023
+venue: ICCV
+publication_status: published

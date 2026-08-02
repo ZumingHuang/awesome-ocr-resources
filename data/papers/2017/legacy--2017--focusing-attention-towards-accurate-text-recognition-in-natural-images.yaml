@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2017:focusing-attention-towards-accurate-text-recognition-in-natural-images
+kind: paper
+name: 'Focusing Attention: Towards Accurate Text Recognition in Natural Images'
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 143
+    section: '2017'
+    title: 'Focusing Attention: Towards Accurate Text Recognition in Natural Images'
+    authors: Zhanzhan Cheng, Fan Bai, Yunlu Xu, Gang Zheng
+    tags:
+    - text-recognition
+    links:
+    - label: ICCV
+      url: http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf
+    raw:
+    - '**Focusing Attention: Towards Accurate Text Recognition in Natural Images**  '
+    - 'Zhanzhan Cheng, Fan Bai, Yunlu Xu, Gang Zheng  '
+    - \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zhanzhan Cheng
+- Fan Bai
+- Yunlu Xu
+- Gang Zheng
+year: 2017
+venue: ICCV
+publication_status: published

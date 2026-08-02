@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:legacy:2014:deep-features-for-text-spotting
+kind: paper
+name: Deep Features for Text Spotting
+released_at:
+  value: '2014'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://link.springer.com/chapter/10.1007/978-3-319-10593-2_34
+  paper: https://link.springer.com/chapter/10.1007/978-3-319-10593-2_34
+  code: https://bitbucket.org/jaderberg/eccv2014_textspotting/overview
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://link.springer.com/chapter/10.1007/978-3-319-10593-2_34
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 6
+    section: '2014'
+    title: Deep Features for Text Spotting
+    authors: Max Jaderberg, Andrea Vedaldi, Andrew Zisserman
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: ECCV
+      url: https://link.springer.com/chapter/10.1007/978-3-319-10593-2_34
+    - label: code
+      url: https://bitbucket.org/jaderberg/eccv2014_textspotting/overview
+    raw:
+    - '**Deep Features for Text Spotting**  '
+    - 'Max Jaderberg, Andrea Vedaldi, Andrew Zisserman  '
+    - \[[ECCV](https://link.springer.com/chapter/10.1007/978-3-319-10593-2_34)\]\[[code](https://bitbucket.org/jaderberg/eccv2014_textspotting/overview)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Max Jaderberg
+- Andrea Vedaldi
+- Andrew Zisserman
+year: 2014
+venue: ECCV
+publication_status: published

@@ -1,0 +1,51 @@
+schema_version: 1
+id: paper:legacy:2017:deep-matching-prior-network-toward-tighter-multi-oriented-text-detection
+kind: paper
+name: 'Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection'
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf
+  paper: http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 159
+    section: '2017'
+    title: 'Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection'
+    authors: Yuliang Liu, Lianwen Jin
+    tags:
+    - text-detection
+    links:
+    - label: CVPR
+      url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf
+    raw:
+    - '**Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection**  '
+    - 'Yuliang Liu, Lianwen Jin  '
+    - \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yuliang Liu
+- Lianwen Jin
+year: 2017
+venue: CVPR
+publication_status: published

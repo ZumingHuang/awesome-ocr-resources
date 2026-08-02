@@ -1,0 +1,66 @@
+schema_version: 1
+id: paper:arxiv:1805.01167
+kind: paper
+name: 'IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text
+  Detection'
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-segmentation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ijcai.org/proceedings/2018/0149.pdf
+  paper: https://www.ijcai.org/proceedings/2018/0149.pdf
+  code: https://github.com/xieyufei1993/InceptText-Tensorflow
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ijcai.org/proceedings/2018/0149.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 54
+    section: '2018'
+    title: 'IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene
+      Text Detection'
+    authors: Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin
+    tags:
+    - text-detection
+    - text-segmentation
+    links:
+    - label: IJCAI
+      url: https://www.ijcai.org/proceedings/2018/0149.pdf
+    - label: arXiv
+      url: https://arxiv.org/abs/1805.01167
+    - label: code
+      url: https://github.com/xieyufei1993/InceptText-Tensorflow
+    raw:
+    - '**IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene
+      Text Detection**  '
+    - 'Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin  '
+    - \[[IJCAI](https://www.ijcai.org/proceedings/2018/0149.pdf)\]\[[arXiv](https://arxiv.org/abs/1805.01167)\]\[[code](https://github.com/xieyufei1993/InceptText-Tensorflow)\]\[text-detection\]\[text-segmentation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Qiangpeng Yang
+- Mengli Cheng
+- Wenmeng Zhou
+- Yan Chen
+- Minghui Qiu
+- Wei Lin
+year: 2018
+venue: IJCAI
+publication_status: published
+arxiv_id: '1805.01167'

@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:1604.02619
+kind: paper
+name: 'TextProposals: A text-specific selective search algorithm for word spotting in the wild'
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.sciencedirect.com/science/article/pii/S0031320317301784
+  paper: https://www.sciencedirect.com/science/article/pii/S0031320317301784
+  code: https://github.com/lluisgomez/TextProposals
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.sciencedirect.com/science/article/pii/S0031320317301784
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 199
+    section: '2017'
+    title: 'TextProposals: A text-specific selective search algorithm for word spotting in the wild'
+    authors: Lluis Gomez, Dimosthenis Karatzas
+    tags:
+    - text-detection
+    links:
+    - label: PR
+      url: https://www.sciencedirect.com/science/article/pii/S0031320317301784
+    - label: arXiv
+      url: https://arxiv.org/abs/1604.02619
+    - label: code
+      url: https://github.com/lluisgomez/TextProposals
+    raw:
+    - '**TextProposals: A text-specific selective search algorithm for word spotting in the wild**  '
+    - 'Lluis Gomez, Dimosthenis Karatzas  '
+    - \[[PR](https://www.sciencedirect.com/science/article/pii/S0031320317301784)\]\[[arXiv](https://arxiv.org/abs/1604.02619)\]\[[code](https://github.com/lluisgomez/TextProposals)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Lluis Gomez
+- Dimosthenis Karatzas
+year: 2017
+venue: PR
+publication_status: published
+arxiv_id: '1604.02619'

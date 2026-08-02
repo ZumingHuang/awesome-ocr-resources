@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2015:deep-learning-for-text-spotting
+kind: paper
+name: Deep learning for text spotting
+released_at:
+  value: '2015'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.667044
+  paper: http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.667044
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.667044
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 317
+    section: '2015'
+    title: Deep learning for text spotting
+    authors: Maxwell Jaderberg
+    tags:
+    - text-detection
+    - text-recognition
+    - end-to-end-ocr
+    links:
+    - label: Thesis
+      url: http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.667044
+    raw:
+    - '**Deep learning for text spotting**  '
+    - 'Maxwell Jaderberg  '
+    - \[[Thesis](http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.667044)\]\[text-detection\]\[text-recognition\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Maxwell Jaderberg
+year: 2015
+venue: Thesis
+publication_status: published

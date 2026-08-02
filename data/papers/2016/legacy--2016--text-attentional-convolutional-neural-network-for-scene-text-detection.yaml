@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2016:text-attentional-convolutional-neural-network-for-scene-text-detection
+kind: paper
+name: Text-Attentional Convolutional Neural Network for Scene Text Detection
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/7442550/
+  paper: https://ieeexplore.ieee.org/abstract/document/7442550/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/7442550/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 272
+    section: '2016'
+    title: Text-Attentional Convolutional Neural Network for Scene Text Detection
+    authors: Tong He, Weilin Huang, Yu Qiao, Jian Yao
+    tags:
+    - text-detection
+    links:
+    - label: TIP
+      url: https://ieeexplore.ieee.org/abstract/document/7442550/
+    raw:
+    - '**Text-Attentional Convolutional Neural Network for Scene Text Detection**  '
+    - 'Tong He, Weilin Huang, Yu Qiao, Jian Yao  '
+    - \[[TIP](https://ieeexplore.ieee.org/abstract/document/7442550/)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Tong He
+- Weilin Huang
+- Yu Qiao
+- Jian Yao
+year: 2016
+venue: TIP
+publication_status: published

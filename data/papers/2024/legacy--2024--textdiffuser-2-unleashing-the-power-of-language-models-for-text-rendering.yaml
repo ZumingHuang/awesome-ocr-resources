@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2024:textdiffuser-2-unleashing-the-power-of-language-models-for-text-rendering
+kind: paper
+name: 'TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-image-generation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00813.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00813.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00813.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 46
+    section: '2024'
+    title: 'TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering'
+    authors: Jingye Chen, Yupan Huang, Tengchao Lv, Lei Cui, Qifeng Chen, Furu Wei
+    tags:
+    - text-image-generation
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00813.pdf
+    raw:
+    - '**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**  '
+    - 'Jingye Chen, Yupan Huang, Tengchao Lv, Lei Cui, Qifeng Chen, Furu Wei  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00813.pdf)\]\[text-image-generation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jingye Chen
+- Yupan Huang
+- Tengchao Lv
+- Lei Cui
+- Qifeng Chen
+- Furu Wei
+year: 2024
+venue: ECCV
+publication_status: published

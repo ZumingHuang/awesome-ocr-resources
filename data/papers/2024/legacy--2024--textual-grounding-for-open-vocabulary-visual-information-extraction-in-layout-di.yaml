@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:legacy:2024:textual-grounding-for-open-vocabulary-visual-information-extraction-in-layout-di
+kind: paper
+name: Textual Grounding for Open-vocabulary Visual Information Extraction in Layout-diversified Documents
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- key-information-extraction
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06219.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06219.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06219.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 18
+    section: '2024'
+    title: Textual Grounding for Open-vocabulary Visual Information Extraction in Layout-diversified Documents
+    authors: MENGJUN CHENG, Chengquan Zhang, Chang Liu, Yuke Li, Bohan Li, Kun Yao, Xiawu Zheng, Rongrong
+      Ji, Jie Chen
+    tags:
+    - key-information-extraction
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06219.pdf
+    raw:
+    - '**Textual Grounding for Open-vocabulary Visual Information Extraction in Layout-diversified Documents**  '
+    - 'MENGJUN CHENG, Chengquan Zhang, Chang Liu, Yuke Li, Bohan Li, Kun Yao, Xiawu Zheng, Rongrong Ji,
+      Jie Chen  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06219.pdf)\]\[key-information-extraction\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- MENGJUN CHENG
+- Chengquan Zhang
+- Chang Liu
+- Yuke Li
+- Bohan Li
+- Kun Yao
+- Xiawu Zheng
+- Rongrong Ji
+- Jie Chen
+year: 2024
+venue: ECCV
+publication_status: published

@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:legacy:2021:tap-text-aware-pre-training-for-text-vqa-and-text-caption
+kind: paper
+name: 'TAP: Text-Aware Pre-Training for Text-VQA and Text-Caption'
+released_at:
+  value: '2021'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_TAP_Text-Aware_Pre-Training_for_Text-VQA_and_Text-Caption_CVPR_2021_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_TAP_Text-Aware_Pre-Training_for_Text-VQA_and_Text-Caption_CVPR_2021_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_TAP_Text-Aware_Pre-Training_for_Text-VQA_and_Text-Caption_CVPR_2021_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 187
+    section: '2021'
+    title: 'TAP: Text-Aware Pre-Training for Text-VQA and Text-Caption'
+    authors: Zhengyuan Yang, Yijuan Lu, Jianfeng Wang, Xi Yin, Dinei Florencio, Lijuan Wang, Cha Zhang,
+      Lei Zhang, Jiebo Luo
+    tags:
+    - document-VQA
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_TAP_Text-Aware_Pre-Training_for_Text-VQA_and_Text-Caption_CVPR_2021_paper.pdf
+    raw:
+    - '**TAP: Text-Aware Pre-Training for Text-VQA and Text-Caption**  '
+    - 'Zhengyuan Yang, Yijuan Lu, Jianfeng Wang, Xi Yin, Dinei Florencio, Lijuan Wang, Cha Zhang, Lei
+      Zhang, Jiebo Luo  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_TAP_Text-Aware_Pre-Training_for_Text-VQA_and_Text-Caption_CVPR_2021_paper.pdf)\]\[document-VQA\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zhengyuan Yang
+- Yijuan Lu
+- Jianfeng Wang
+- Xi Yin
+- Dinei Florencio
+- Lijuan Wang
+- Cha Zhang
+- Lei Zhang
+- Jiebo Luo
+year: 2021
+venue: CVPR
+publication_status: published

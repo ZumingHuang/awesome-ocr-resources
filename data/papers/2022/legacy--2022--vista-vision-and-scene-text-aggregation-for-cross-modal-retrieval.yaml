@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:legacy:2022:vista-vision-and-scene-text-aggregation-for-cross-modal-retrieval
+kind: paper
+name: 'ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval'
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 98
+    section: '2022'
+    title: 'ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval'
+    authors: Mengjun Cheng, Yipeng Sun, Longchao Wang, Xiongwei Zhu, Kun Yao, Jie Chen, Guoli Song, Junyu
+      Han, Jingtuo Liu, Errui Ding, Jingdong Wang
+    tags:
+    - others
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf
+    raw:
+    - '**ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval**  '
+    - 'Mengjun Cheng, Yipeng Sun, Longchao Wang, Xiongwei Zhu, Kun Yao, Jie Chen, Guoli Song, Junyu Han,
+      Jingtuo Liu, Errui Ding, Jingdong Wang  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)\]\[others\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Mengjun Cheng
+- Yipeng Sun
+- Longchao Wang
+- Xiongwei Zhu
+- Kun Yao
+- Jie Chen
+- Guoli Song
+- Junyu Han
+- Jingtuo Liu
+- Errui Ding
+- Jingdong Wang
+year: 2022
+venue: CVPR
+publication_status: published

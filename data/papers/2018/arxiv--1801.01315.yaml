@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:1801.01315
+kind: paper
+name: 'PixelLink: Detecting Scene Text via Instance Segmentation'
+released_at:
+  value: '2018'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-segmentation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16469/16260
+  paper: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16469/16260
+  code: https://github.com/ZJULearning/pixel_link
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16469/16260
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 102
+    section: '2018'
+    title: 'PixelLink: Detecting Scene Text via Instance Segmentation'
+    authors: Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai
+    tags:
+    - text-segmentation
+    links:
+    - label: AAAI
+      url: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16469/16260
+    - label: arXiv
+      url: https://arxiv.org/abs/1801.01315
+    - label: code
+      url: https://github.com/ZJULearning/pixel_link
+    raw:
+    - '**PixelLink: Detecting Scene Text via Instance Segmentation**  '
+    - 'Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai  '
+    - \[[AAAI](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16469/16260)\]\[[arXiv](https://arxiv.org/abs/1801.01315)\]\[[code](https://github.com/ZJULearning/pixel_link)\]\[text-segmentation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Dan Deng
+- Haifeng Liu
+- Xuelong Li
+- Deng Cai
+year: 2018
+venue: AAAI
+publication_status: published
+arxiv_id: '1801.01315'

@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:legacy:2023:unifying-vision-text-and-layout-for-universal-document-processing
+kind: paper
+name: Unifying Vision, Text, and Layout for Universal Document Processing
+released_at:
+  value: '2023'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 163
+    section: '2023'
+    title: Unifying Vision, Text, and Layout for Universal Document Processing
+    authors: Zineng Tang, Ziyi Yang, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha
+      Zhang, Mohit Bansal
+    tags:
+    - end-to-end-ocr
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.pdf
+    raw:
+    - '**Unifying Vision, Text, and Layout for Universal Document Processing**  '
+    - 'Zineng Tang, Ziyi Yang, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang,
+      Mohit Bansal  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.pdf)\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zineng Tang
+- Ziyi Yang
+- Guoxin Wang
+- Yuwei Fang
+- Yang Liu
+- Chenguang Zhu
+- Michael Zeng
+- Cha Zhang
+- Mohit Bansal
+year: 2023
+venue: CVPR
+publication_status: published

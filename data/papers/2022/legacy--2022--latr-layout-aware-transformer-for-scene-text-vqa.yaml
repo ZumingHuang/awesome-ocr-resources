@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2022:latr-layout-aware-transformer-for-scene-text-vqa
+kind: paper
+name: 'LaTr: Layout-Aware Transformer for Scene-Text VQA'
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Biten_LaTr_Layout-Aware_Transformer_for_Scene-Text_VQA_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Biten_LaTr_Layout-Aware_Transformer_for_Scene-Text_VQA_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Biten_LaTr_Layout-Aware_Transformer_for_Scene-Text_VQA_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 54
+    section: '2022'
+    title: 'LaTr: Layout-Aware Transformer for Scene-Text VQA'
+    authors: Ali Furkan Biten, Ron Litman, Yusheng Xie, Srikar Appalaraju, R. Manmatha
+    tags:
+    - document-VQA
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Biten_LaTr_Layout-Aware_Transformer_for_Scene-Text_VQA_CVPR_2022_paper.pdf
+    raw:
+    - '**LaTr: Layout-Aware Transformer for Scene-Text VQA**  '
+    - 'Ali Furkan Biten, Ron Litman, Yusheng Xie, Srikar Appalaraju, R. Manmatha  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Biten_LaTr_Layout-Aware_Transformer_for_Scene-Text_VQA_CVPR_2022_paper.pdf)\]\[document-VQA\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Ali Furkan Biten
+- Ron Litman
+- Yusheng Xie
+- Srikar Appalaraju
+- R. Manmatha
+year: 2022
+venue: CVPR
+publication_status: published

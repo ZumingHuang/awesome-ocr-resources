@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:1903.08836
+kind: paper
+name: Towards Robust Curve Text Detection with Conditional Spatial Expansion
+released_at:
+  value: '2019'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-segmentation
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1903.08836
+  paper: https://arxiv.org/abs/1903.08836
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1903.08836
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 289
+    section: '2019'
+    title: Towards Robust Curve Text Detection with Conditional Spatial Expansion
+    authors: Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh
+    tags:
+    - CVPR
+    - text-detection
+    - text-segmentation
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1903.08836
+    raw:
+    - '**Towards Robust Curve Text Detection with Conditional Spatial Expansion**  '
+    - 'Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh  '
+    - \[CVPR\]\[[arXiv](https://arxiv.org/abs/1903.08836)\]\[text-detection\]\[text-segmentation\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zichuan Liu
+- Guosheng Lin
+- Sheng Yang
+- Fayao Liu
+- Weisi Lin
+- Wang Ling Goh
+year: 2019
+venue: CVPR
+publication_status: published
+arxiv_id: '1903.08836'

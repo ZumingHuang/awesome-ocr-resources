@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2021:scene-text-retrieval-via-joint-text-detection-and-similarity-learning
+kind: paper
+name: Scene Text Retrieval via Joint Text Detection and Similarity Learning
+released_at:
+  value: '2021'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-image-retrieval
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 183
+    section: '2021'
+    title: Scene Text Retrieval via Joint Text Detection and Similarity Learning
+    authors: Hao Wang, Xiang Bai, Mingkun Yang, Shenggao Zhu, Jing Wang, Wenyu Liu
+    tags:
+    - text-image-retrieval
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf
+    raw:
+    - Scene Text Retrieval via Joint Text Detection and Similarity Learning
+    - 'Hao Wang, Xiang Bai, Mingkun Yang, Shenggao Zhu, Jing Wang, Wenyu Liu  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf)\]\[text-image-retrieval\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Hao Wang
+- Xiang Bai
+- Mingkun Yang
+- Shenggao Zhu
+- Jing Wang
+- Wenyu Liu
+year: 2021
+venue: CVPR
+publication_status: published

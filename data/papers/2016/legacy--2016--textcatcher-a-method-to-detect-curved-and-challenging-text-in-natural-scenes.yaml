@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:legacy:2016:textcatcher-a-method-to-detect-curved-and-challenging-text-in-natural-scenes
+kind: paper
+name: 'TextCatcher: a method to detect curved and challenging text in natural scenes'
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://link.springer.com/article/10.1007/s10032-016-0264-4
+  paper: https://link.springer.com/article/10.1007/s10032-016-0264-4
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://link.springer.com/article/10.1007/s10032-016-0264-4
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 276
+    section: '2016'
+    title: 'TextCatcher: a method to detect curved and challenging text in natural scenes'
+    authors: Jonathan Fabrizio, Myriam Robert-Seidowsky, Severine Dubuisson, Stefania Calarasanu, Raphael
+      Boissel
+    tags:
+    - text-detection
+    links:
+    - label: IJDAR
+      url: https://link.springer.com/article/10.1007/s10032-016-0264-4
+    raw:
+    - '**TextCatcher: a method to detect curved and challenging text in natural scenes**  '
+    - 'Jonathan Fabrizio, Myriam Robert-Seidowsky, Severine Dubuisson, Stefania Calarasanu, Raphael Boissel  '
+    - \[[IJDAR](https://link.springer.com/article/10.1007/s10032-016-0264-4)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jonathan Fabrizio
+- Myriam Robert-Seidowsky
+- Severine Dubuisson
+- Stefania Calarasanu
+- Raphael Boissel
+year: 2016
+venue: IJDAR
+publication_status: published

@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2024:rodla-benchmarking-the-robustness-of-document-layout-analysis-models
+kind: paper
+name: 'RoDLA: Benchmarking the Robustness of Document Layout Analysis Models'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-layout-analysis
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_RoDLA_Benchmarking_the_Robustness_of_Document_Layout_Analysis_Models_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_RoDLA_Benchmarking_the_Robustness_of_Document_Layout_Analysis_Models_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_RoDLA_Benchmarking_the_Robustness_of_Document_Layout_Analysis_Models_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 146
+    section: '2024'
+    title: 'RoDLA: Benchmarking the Robustness of Document Layout Analysis Models'
+    authors: Yufan Chen, Jiaming Zhang, Kunyu Peng, Junwei Zheng, Ruiping Liu, Philip Torr, Rainer Stiefelhagen
+    tags:
+    - layout-analysis
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_RoDLA_Benchmarking_the_Robustness_of_Document_Layout_Analysis_Models_CVPR_2024_paper.pdf
+    raw:
+    - '**RoDLA: Benchmarking the Robustness of Document Layout Analysis Models**  '
+    - 'Yufan Chen, Jiaming Zhang, Kunyu Peng, Junwei Zheng, Ruiping Liu, Philip Torr, Rainer Stiefelhagen  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_RoDLA_Benchmarking_the_Robustness_of_Document_Layout_Analysis_Models_CVPR_2024_paper.pdf)\]\[layout-analysis\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yufan Chen
+- Jiaming Zhang
+- Kunyu Peng
+- Junwei Zheng
+- Ruiping Liu
+- Philip Torr
+- Rainer Stiefelhagen
+year: 2024
+venue: CVPR
+publication_status: published

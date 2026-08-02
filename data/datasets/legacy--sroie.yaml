@@ -1,0 +1,48 @@
+schema_version: 1
+id: dataset:legacy:sroie
+kind: dataset
+name: SROIE
+released_at:
+  value: unknown
+  precision: unknown
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+- key-information-extraction
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://rrc.cvc.uab.es/?ch=13
+  dataset: https://rrc.cvc.uab.es/?ch=13
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://rrc.cvc.uab.es/?ch=13
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/datasets/README.md
+    line: 16
+    section: Overview
+    title: SROIE
+    authors: ''
+    tags:
+    - OCR
+    - KIE
+    links:
+    - label: dataset
+      url: https://rrc.cvc.uab.es/?ch=13
+    raw:
+    - '| [SROIE](https://rrc.cvc.uab.es/?ch=13) | OCR,KIE |'
+  legacy_duplicates: []
+curation:
+  status: needs-review
+usage: []
+annotations: []
+access: unknown

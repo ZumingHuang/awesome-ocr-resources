@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:legacy:2014:word-spotting-and-recognition-with-embedded-attributes
+kind: paper
+name: Word Spotting and Recognition with Embedded Attributes
+released_at:
+  value: '2014'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/document/6857995/
+  homepage: http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html
+  paper: https://ieeexplore.ieee.org/document/6857995/
+  code: https://github.com/almazan/watts
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/document/6857995/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2011-2014.md
+    line: 18
+    section: '2014'
+    title: Word Spotting and Recognition with Embedded Attributes
+    authors: Jon Almazan, Albert Gordo, Alicia Fornes, Ernest Valveny
+    tags:
+    - text-recognition
+    links:
+    - label: TPAMI
+      url: https://ieeexplore.ieee.org/document/6857995/
+    - label: code
+      url: https://github.com/almazan/watts
+    - label: homepage
+      url: http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html
+    raw:
+    - '**Word Spotting and Recognition with Embedded Attributes**  '
+    - 'Jon Almazan, Albert Gordo, Alicia Fornes, Ernest Valveny  '
+    - \[[TPAMI](https://ieeexplore.ieee.org/document/6857995/)\]\[[code](https://github.com/almazan/watts)\]\[[homepage](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jon Almazan
+- Albert Gordo
+- Alicia Fornes
+- Ernest Valveny
+year: 2014
+venue: TPAMI
+publication_status: published

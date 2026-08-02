@@ -1,0 +1,1281 @@
+{
+  "$defs": {
+    "CodeResource": {
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": {
+          "const": 1,
+          "default": 1,
+          "title": "Schema Version",
+          "type": "integer"
+        },
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "kind": {
+          "const": "code",
+          "title": "Kind",
+          "type": "string"
+        },
+        "name": {
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "released_at": {
+          "$ref": "#/$defs/PartialDate"
+        },
+        "added_at": {
+          "format": "date",
+          "title": "Added At",
+          "type": "string"
+        },
+        "last_verified_at": {
+          "format": "date",
+          "title": "Last Verified At",
+          "type": "string"
+        },
+        "summary": {
+          "default": "",
+          "title": "Summary",
+          "type": "string"
+        },
+        "tasks": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Tasks",
+          "type": "array"
+        },
+        "modalities": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Modalities",
+          "type": "array"
+        },
+        "languages": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Languages",
+          "type": "array"
+        },
+        "links": {
+          "$ref": "#/$defs/ResourceLinks"
+        },
+        "license": {
+          "$ref": "#/$defs/LicenseInfo"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/Relation"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "provenance": {
+          "$ref": "#/$defs/Provenance"
+        },
+        "curation": {
+          "$ref": "#/$defs/Curation"
+        },
+        "repository": {
+          "title": "Repository",
+          "type": "string"
+        },
+        "official": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Official"
+        },
+        "landmark": {
+          "default": false,
+          "title": "Landmark",
+          "type": "boolean"
+        },
+        "programming_languages": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Programming Languages",
+          "type": "array"
+        },
+        "maintenance_status": {
+          "default": "unknown",
+          "enum": [
+            "active",
+            "inactive",
+            "archived",
+            "unknown"
+          ],
+          "title": "Maintenance Status",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "name",
+        "released_at",
+        "added_at",
+        "last_verified_at",
+        "links",
+        "provenance",
+        "curation",
+        "repository"
+      ],
+      "title": "CodeResource",
+      "type": "object"
+    },
+    "Curation": {
+      "additionalProperties": true,
+      "properties": {
+        "status": {
+          "$ref": "#/$defs/CurationStatus"
+        },
+        "reviewer": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Reviewer"
+        },
+        "relevance_score": {
+          "anyOf": [
+            {
+              "maximum": 100,
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Relevance Score"
+        }
+      },
+      "required": [
+        "status"
+      ],
+      "title": "Curation",
+      "type": "object"
+    },
+    "CurationStatus": {
+      "enum": [
+        "candidate",
+        "needs-review",
+        "verified",
+        "stale",
+        "archived"
+      ],
+      "title": "CurationStatus",
+      "type": "string"
+    },
+    "DatasetResource": {
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": {
+          "const": 1,
+          "default": 1,
+          "title": "Schema Version",
+          "type": "integer"
+        },
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "kind": {
+          "const": "dataset",
+          "title": "Kind",
+          "type": "string"
+        },
+        "name": {
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "released_at": {
+          "$ref": "#/$defs/PartialDate"
+        },
+        "added_at": {
+          "format": "date",
+          "title": "Added At",
+          "type": "string"
+        },
+        "last_verified_at": {
+          "format": "date",
+          "title": "Last Verified At",
+          "type": "string"
+        },
+        "summary": {
+          "default": "",
+          "title": "Summary",
+          "type": "string"
+        },
+        "tasks": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Tasks",
+          "type": "array"
+        },
+        "modalities": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Modalities",
+          "type": "array"
+        },
+        "languages": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Languages",
+          "type": "array"
+        },
+        "links": {
+          "$ref": "#/$defs/ResourceLinks"
+        },
+        "license": {
+          "$ref": "#/$defs/LicenseInfo"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/Relation"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "provenance": {
+          "$ref": "#/$defs/Provenance"
+        },
+        "curation": {
+          "$ref": "#/$defs/Curation"
+        },
+        "provider": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Provider"
+        },
+        "repository_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Repository Id"
+        },
+        "usage": {
+          "items": {
+            "enum": [
+              "train",
+              "pretrain",
+              "validation",
+              "benchmark"
+            ],
+            "type": "string"
+          },
+          "title": "Usage",
+          "type": "array"
+        },
+        "sample_count": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Sample Count"
+        },
+        "annotations": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Annotations",
+          "type": "array"
+        },
+        "access": {
+          "default": "unknown",
+          "enum": [
+            "open",
+            "gated",
+            "application",
+            "unknown"
+          ],
+          "title": "Access",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "name",
+        "released_at",
+        "added_at",
+        "last_verified_at",
+        "links",
+        "provenance",
+        "curation",
+        "usage"
+      ],
+      "title": "DatasetResource",
+      "type": "object"
+    },
+    "DatePrecision": {
+      "enum": [
+        "day",
+        "month",
+        "year",
+        "unknown"
+      ],
+      "title": "DatePrecision",
+      "type": "string"
+    },
+    "LegacyProvenance": {
+      "additionalProperties": false,
+      "properties": {
+        "file": {
+          "title": "File",
+          "type": "string"
+        },
+        "line": {
+          "title": "Line",
+          "type": "integer"
+        },
+        "section": {
+          "title": "Section",
+          "type": "string"
+        },
+        "title": {
+          "title": "Title",
+          "type": "string"
+        },
+        "authors": {
+          "default": "",
+          "title": "Authors",
+          "type": "string"
+        },
+        "tags": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Tags",
+          "type": "array"
+        },
+        "links": {
+          "items": {
+            "additionalProperties": {
+              "type": "string"
+            },
+            "type": "object"
+          },
+          "title": "Links",
+          "type": "array"
+        },
+        "raw": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Raw",
+          "type": "array"
+        }
+      },
+      "required": [
+        "file",
+        "line",
+        "section",
+        "title"
+      ],
+      "title": "LegacyProvenance",
+      "type": "object"
+    },
+    "LicenseInfo": {
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "default": "NOASSERTION",
+          "title": "Name",
+          "type": "string"
+        },
+        "url": {
+          "anyOf": [
+            {
+              "format": "uri",
+              "maxLength": 2083,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Url"
+        }
+      },
+      "title": "LicenseInfo",
+      "type": "object"
+    },
+    "ModelResource": {
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": {
+          "const": 1,
+          "default": 1,
+          "title": "Schema Version",
+          "type": "integer"
+        },
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "kind": {
+          "const": "model",
+          "title": "Kind",
+          "type": "string"
+        },
+        "name": {
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "released_at": {
+          "$ref": "#/$defs/PartialDate"
+        },
+        "added_at": {
+          "format": "date",
+          "title": "Added At",
+          "type": "string"
+        },
+        "last_verified_at": {
+          "format": "date",
+          "title": "Last Verified At",
+          "type": "string"
+        },
+        "summary": {
+          "default": "",
+          "title": "Summary",
+          "type": "string"
+        },
+        "tasks": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Tasks",
+          "type": "array"
+        },
+        "modalities": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Modalities",
+          "type": "array"
+        },
+        "languages": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Languages",
+          "type": "array"
+        },
+        "links": {
+          "$ref": "#/$defs/ResourceLinks"
+        },
+        "license": {
+          "$ref": "#/$defs/LicenseInfo"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/Relation"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "provenance": {
+          "$ref": "#/$defs/Provenance"
+        },
+        "curation": {
+          "$ref": "#/$defs/Curation"
+        },
+        "provider": {
+          "title": "Provider",
+          "type": "string"
+        },
+        "repository_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Repository Id"
+        },
+        "parameter_count": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Parameter Count"
+        },
+        "open_weights": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Open Weights"
+        },
+        "deployment": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Deployment",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "name",
+        "released_at",
+        "added_at",
+        "last_verified_at",
+        "links",
+        "provenance",
+        "curation",
+        "provider"
+      ],
+      "title": "ModelResource",
+      "type": "object"
+    },
+    "PaperResource": {
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": {
+          "const": 1,
+          "default": 1,
+          "title": "Schema Version",
+          "type": "integer"
+        },
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "kind": {
+          "const": "paper",
+          "title": "Kind",
+          "type": "string"
+        },
+        "name": {
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "released_at": {
+          "$ref": "#/$defs/PartialDate"
+        },
+        "added_at": {
+          "format": "date",
+          "title": "Added At",
+          "type": "string"
+        },
+        "last_verified_at": {
+          "format": "date",
+          "title": "Last Verified At",
+          "type": "string"
+        },
+        "summary": {
+          "default": "",
+          "title": "Summary",
+          "type": "string"
+        },
+        "tasks": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Tasks",
+          "type": "array"
+        },
+        "modalities": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Modalities",
+          "type": "array"
+        },
+        "languages": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Languages",
+          "type": "array"
+        },
+        "links": {
+          "$ref": "#/$defs/ResourceLinks"
+        },
+        "license": {
+          "$ref": "#/$defs/LicenseInfo"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/Relation"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "provenance": {
+          "$ref": "#/$defs/Provenance"
+        },
+        "curation": {
+          "$ref": "#/$defs/Curation"
+        },
+        "authors": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Authors",
+          "type": "array"
+        },
+        "year": {
+          "title": "Year",
+          "type": "integer"
+        },
+        "venue": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Venue"
+        },
+        "publication_status": {
+          "default": "unknown",
+          "enum": [
+            "preprint",
+            "accepted",
+            "published",
+            "unknown"
+          ],
+          "title": "Publication Status",
+          "type": "string"
+        },
+        "arxiv_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Arxiv Id"
+        },
+        "doi": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Doi"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "name",
+        "released_at",
+        "added_at",
+        "last_verified_at",
+        "links",
+        "provenance",
+        "curation",
+        "authors",
+        "year"
+      ],
+      "title": "PaperResource",
+      "type": "object"
+    },
+    "PartialDate": {
+      "additionalProperties": false,
+      "properties": {
+        "value": {
+          "title": "Value",
+          "type": "string"
+        },
+        "precision": {
+          "$ref": "#/$defs/DatePrecision"
+        }
+      },
+      "required": [
+        "value",
+        "precision"
+      ],
+      "title": "PartialDate",
+      "type": "object"
+    },
+    "PlatformResource": {
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": {
+          "const": 1,
+          "default": 1,
+          "title": "Schema Version",
+          "type": "integer"
+        },
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "kind": {
+          "const": "platform",
+          "title": "Kind",
+          "type": "string"
+        },
+        "name": {
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "released_at": {
+          "$ref": "#/$defs/PartialDate"
+        },
+        "added_at": {
+          "format": "date",
+          "title": "Added At",
+          "type": "string"
+        },
+        "last_verified_at": {
+          "format": "date",
+          "title": "Last Verified At",
+          "type": "string"
+        },
+        "summary": {
+          "default": "",
+          "title": "Summary",
+          "type": "string"
+        },
+        "tasks": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Tasks",
+          "type": "array"
+        },
+        "modalities": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Modalities",
+          "type": "array"
+        },
+        "languages": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Languages",
+          "type": "array"
+        },
+        "links": {
+          "$ref": "#/$defs/ResourceLinks"
+        },
+        "license": {
+          "$ref": "#/$defs/LicenseInfo"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/Relation"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "provenance": {
+          "$ref": "#/$defs/Provenance"
+        },
+        "curation": {
+          "$ref": "#/$defs/Curation"
+        },
+        "provider": {
+          "title": "Provider",
+          "type": "string"
+        },
+        "regions": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Regions",
+          "type": "array"
+        },
+        "delivery_modes": {
+          "items": {
+            "enum": [
+              "api",
+              "saas",
+              "on-premise",
+              "sdk"
+            ],
+            "type": "string"
+          },
+          "title": "Delivery Modes",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "name",
+        "released_at",
+        "added_at",
+        "last_verified_at",
+        "links",
+        "provenance",
+        "curation",
+        "provider",
+        "regions",
+        "delivery_modes"
+      ],
+      "title": "PlatformResource",
+      "type": "object"
+    },
+    "Provenance": {
+      "additionalProperties": true,
+      "properties": {
+        "canonical_source": {
+          "format": "uri",
+          "maxLength": 2083,
+          "minLength": 1,
+          "title": "Canonical Source",
+          "type": "string"
+        },
+        "discovered_via": {
+          "title": "Discovered Via",
+          "type": "string"
+        },
+        "discovered_at": {
+          "format": "date",
+          "title": "Discovered At",
+          "type": "string"
+        },
+        "source_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Source Id"
+        },
+        "source_metadata": {
+          "additionalProperties": true,
+          "title": "Source Metadata",
+          "type": "object"
+        },
+        "legacy": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/LegacyProvenance"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "legacy_duplicates": {
+          "items": {
+            "$ref": "#/$defs/LegacyProvenance"
+          },
+          "title": "Legacy Duplicates",
+          "type": "array"
+        }
+      },
+      "required": [
+        "canonical_source",
+        "discovered_via",
+        "discovered_at"
+      ],
+      "title": "Provenance",
+      "type": "object"
+    },
+    "Relation": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "type": {
+          "title": "Type",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "type"
+      ],
+      "title": "Relation",
+      "type": "object"
+    },
+    "ResourceLinks": {
+      "additionalProperties": true,
+      "properties": {
+        "canonical": {
+          "format": "uri",
+          "maxLength": 2083,
+          "minLength": 1,
+          "title": "Canonical",
+          "type": "string"
+        },
+        "homepage": {
+          "anyOf": [
+            {
+              "format": "uri",
+              "maxLength": 2083,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Homepage"
+        },
+        "paper": {
+          "anyOf": [
+            {
+              "format": "uri",
+              "maxLength": 2083,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Paper"
+        },
+        "code": {
+          "anyOf": [
+            {
+              "format": "uri",
+              "maxLength": 2083,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Code"
+        },
+        "model": {
+          "anyOf": [
+            {
+              "format": "uri",
+              "maxLength": 2083,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Model"
+        },
+        "dataset": {
+          "anyOf": [
+            {
+              "format": "uri",
+              "maxLength": 2083,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Dataset"
+        },
+        "documentation": {
+          "anyOf": [
+            {
+              "format": "uri",
+              "maxLength": 2083,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Documentation"
+        }
+      },
+      "required": [
+        "canonical"
+      ],
+      "title": "ResourceLinks",
+      "type": "object"
+    },
+    "SkillCapabilities": {
+      "additionalProperties": false,
+      "properties": {
+        "executes_commands": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Executes Commands"
+        },
+        "network_access": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Network Access"
+        },
+        "requires_credentials": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Requires Credentials"
+        }
+      },
+      "title": "SkillCapabilities",
+      "type": "object"
+    },
+    "SkillResource": {
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": {
+          "const": 1,
+          "default": 1,
+          "title": "Schema Version",
+          "type": "integer"
+        },
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "kind": {
+          "const": "skill",
+          "title": "Kind",
+          "type": "string"
+        },
+        "name": {
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "released_at": {
+          "$ref": "#/$defs/PartialDate"
+        },
+        "added_at": {
+          "format": "date",
+          "title": "Added At",
+          "type": "string"
+        },
+        "last_verified_at": {
+          "format": "date",
+          "title": "Last Verified At",
+          "type": "string"
+        },
+        "summary": {
+          "default": "",
+          "title": "Summary",
+          "type": "string"
+        },
+        "tasks": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Tasks",
+          "type": "array"
+        },
+        "modalities": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Modalities",
+          "type": "array"
+        },
+        "languages": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Languages",
+          "type": "array"
+        },
+        "links": {
+          "$ref": "#/$defs/ResourceLinks"
+        },
+        "license": {
+          "$ref": "#/$defs/LicenseInfo"
+        },
+        "relations": {
+          "items": {
+            "$ref": "#/$defs/Relation"
+          },
+          "title": "Relations",
+          "type": "array"
+        },
+        "provenance": {
+          "$ref": "#/$defs/Provenance"
+        },
+        "curation": {
+          "$ref": "#/$defs/Curation"
+        },
+        "ecosystem": {
+          "title": "Ecosystem",
+          "type": "string"
+        },
+        "repository": {
+          "title": "Repository",
+          "type": "string"
+        },
+        "manifest_path": {
+          "title": "Manifest Path",
+          "type": "string"
+        },
+        "install": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Install"
+        },
+        "capabilities": {
+          "$ref": "#/$defs/SkillCapabilities"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "name",
+        "released_at",
+        "added_at",
+        "last_verified_at",
+        "links",
+        "provenance",
+        "curation",
+        "ecosystem",
+        "repository",
+        "manifest_path"
+      ],
+      "title": "SkillResource",
+      "type": "object"
+    }
+  },
+  "discriminator": {
+    "mapping": {
+      "code": "#/$defs/CodeResource",
+      "dataset": "#/$defs/DatasetResource",
+      "model": "#/$defs/ModelResource",
+      "paper": "#/$defs/PaperResource",
+      "platform": "#/$defs/PlatformResource",
+      "skill": "#/$defs/SkillResource"
+    },
+    "propertyName": "kind"
+  },
+  "oneOf": [
+    {
+      "$ref": "#/$defs/PaperResource"
+    },
+    {
+      "$ref": "#/$defs/ModelResource"
+    },
+    {
+      "$ref": "#/$defs/DatasetResource"
+    },
+    {
+      "$ref": "#/$defs/CodeResource"
+    },
+    {
+      "$ref": "#/$defs/SkillResource"
+    },
+    {
+      "$ref": "#/$defs/PlatformResource"
+    }
+  ]
+}

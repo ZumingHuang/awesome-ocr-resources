@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2017:textboxes-a-fast-text-detector-with-a-single-deep-neural-network
+kind: paper
+name: 'TextBoxes: A Fast Text Detector with a Single Deep Neural Network'
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295
+  paper: http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 187
+    section: '2017'
+    title: 'TextBoxes: A Fast Text Detector with a Single Deep Neural Network'
+    authors: Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu
+    tags:
+    - text-detection
+    - text-recognition
+    links:
+    - label: AAAI
+      url: http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295
+    raw:
+    - '**TextBoxes: A Fast Text Detector with a Single Deep Neural Network**  '
+    - 'Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu  '
+    - \[[AAAI](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295)\]\[text-detection\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Minghui Liao
+- Baoguang Shi
+- Xiang Bai
+- Xinggang Wang
+- Wenyu Liu
+year: 2017
+venue: AAAI
+publication_status: published

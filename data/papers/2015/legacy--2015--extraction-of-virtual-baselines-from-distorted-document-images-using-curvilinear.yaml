@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:legacy:2015:extraction-of-virtual-baselines-from-distorted-document-images-using-curvilinear
+kind: paper
+name: Extraction of Virtual Baselines from Distorted Document Images Using Curvilinear Projection
+released_at:
+  value: '2015'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Meng_Extraction_of_Virtual_ICCV_2015_paper.pdf
+  paper: https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Meng_Extraction_of_Virtual_ICCV_2015_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Meng_Extraction_of_Virtual_ICCV_2015_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 285
+    section: '2015'
+    title: Extraction of Virtual Baselines from Distorted Document Images Using Curvilinear Projection
+    authors: Gaofeng Meng, Zuming Huang, Yonghong Song, Shiming Xiang, Chunhong Pan
+    tags:
+    - text-image-processing
+    links:
+    - label: ICCV
+      url: https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Meng_Extraction_of_Virtual_ICCV_2015_paper.pdf
+    raw:
+    - '**Extraction of Virtual Baselines from Distorted Document Images Using Curvilinear Projection**  '
+    - 'Gaofeng Meng, Zuming Huang, Yonghong Song, Shiming Xiang, Chunhong Pan  '
+    - \[[ICCV](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Meng_Extraction_of_Virtual_ICCV_2015_paper.pdf)\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Gaofeng Meng
+- Zuming Huang
+- Yonghong Song
+- Shiming Xiang
+- Chunhong Pan
+year: 2015
+venue: ICCV
+publication_status: published

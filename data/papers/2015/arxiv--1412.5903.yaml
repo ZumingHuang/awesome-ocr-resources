@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:1412.5903
+kind: paper
+name: Deep Structured Output Learning for Unconstrained Text Recognition
+released_at:
+  value: '2015'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1412.5903
+  paper: https://arxiv.org/abs/1412.5903
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1412.5903
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 301
+    section: '2015'
+    title: Deep Structured Output Learning for Unconstrained Text Recognition
+    authors: Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman
+    tags:
+    - ICLR
+    - text-recognition
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1412.5903
+    - label: slides
+      url: https://iclr.cc/archive/www/lib/exe/fetch.php%3Fmedia=iclr2015:jaderbergetal-iclr2015.pdf
+    - label: video
+      url: https://www.youtube.com/watch?v=NYkG38RCoRg&feature=youtu.be
+    raw:
+    - '**Deep Structured Output Learning for Unconstrained Text Recognition**  '
+    - 'Max Jaderberg, Karen Simonyan, Andrea Vedaldi, Andrew Zisserman  '
+    - \[ICLR\]\[[arXiv](https://arxiv.org/abs/1412.5903)\]\[[slides](https://iclr.cc/archive/www/lib/exe/fetch.php%3Fmedia=iclr2015:jaderbergetal-iclr2015.pdf)\]\[[video](https://www.youtube.com/watch?v=NYkG38RCoRg&feature=youtu.be)\]\[text-recognition\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Max Jaderberg
+- Karen Simonyan
+- Andrea Vedaldi
+- Andrew Zisserman
+year: 2015
+venue: ICLR
+publication_status: published
+arxiv_id: '1412.5903'

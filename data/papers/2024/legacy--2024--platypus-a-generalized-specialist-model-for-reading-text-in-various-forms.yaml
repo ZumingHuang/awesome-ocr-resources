@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:legacy:2024:platypus-a-generalized-specialist-model-for-reading-text-in-various-forms
+kind: paper
+name: 'Platypus: A Generalized Specialist Model for Reading Text in Various Forms'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05143.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05143.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05143.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 42
+    section: '2024'
+    title: 'Platypus: A Generalized Specialist Model for Reading Text in Various Forms'
+    authors: Peng Wang, Zhaohai Li, Jun Tang, Humen Zhong, Fei Huang, Zhibo Yang, Cong Yao
+    tags:
+    - end-to-end-ocr
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05143.pdf
+    raw:
+    - '**Platypus: A Generalized Specialist Model for Reading Text in Various Forms**  '
+    - 'Peng Wang, Zhaohai Li, Jun Tang, Humen Zhong, Fei Huang, Zhibo Yang, Cong Yao  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05143.pdf)\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Peng Wang
+- Zhaohai Li
+- Jun Tang
+- Humen Zhong
+- Fei Huang
+- Zhibo Yang
+- Cong Yao
+year: 2024
+venue: ECCV
+publication_status: published

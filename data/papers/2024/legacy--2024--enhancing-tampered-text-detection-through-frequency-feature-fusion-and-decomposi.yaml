@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:legacy:2024:enhancing-tampered-text-detection-through-frequency-feature-fusion-and-decomposi
+kind: paper
+name: Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 30
+    section: '2024'
+    title: Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition
+    authors: Zhongxi Chen, Shen Chen, Taiping Yao, Ke Sun, Shouhong Ding, Xianming Lin, liujuan cao, Rongrong
+      Ji
+    tags:
+    - text-detection
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf
+    raw:
+    - '**Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition**  '
+    - 'Zhongxi Chen, Shen Chen, Taiping Yao, Ke Sun, Shouhong Ding, Xianming Lin, liujuan cao, Rongrong
+      Ji  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Zhongxi Chen
+- Shen Chen
+- Taiping Yao
+- Ke Sun
+- Shouhong Ding
+- Xianming Lin
+- liujuan cao
+- Rongrong Ji
+year: 2024
+venue: ECCV
+publication_status: published

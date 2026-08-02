@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:1811.08605
+kind: paper
+name: Scene Text Detection with Supervised Pyramid Context Network
+released_at:
+  value: '2019'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/pdf/1811.08605.pdf
+  paper: https://arxiv.org/pdf/1811.08605.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/pdf/1811.08605.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 293
+    section: '2019'
+    title: Scene Text Detection with Supervised Pyramid Context Network
+    authors: Enze Xie, Yuhang Zang, Shuai Shao, Gang Yu, Cong Yao, Guangyao Li
+    tags:
+    - AAAI
+    - text-detection
+    links:
+    - label: arXiv
+      url: https://arxiv.org/pdf/1811.08605.pdf
+    raw:
+    - '**Scene Text Detection with Supervised Pyramid Context Network**  '
+    - 'Enze Xie, Yuhang Zang, Shuai Shao, Gang Yu, Cong Yao, Guangyao Li  '
+    - \[AAAI\]\[[arXiv](https://arxiv.org/pdf/1811.08605.pdf)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Enze Xie
+- Yuhang Zang
+- Shuai Shao
+- Gang Yu
+- Cong Yao
+- Guangyao Li
+year: 2019
+venue: AAAI
+publication_status: published
+arxiv_id: '1811.08605'

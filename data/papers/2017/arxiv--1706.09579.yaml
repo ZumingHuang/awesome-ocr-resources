@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:1706.09579
+kind: paper
+name: 'R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection'
+released_at:
+  value: '2017'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/1706.09579
+  paper: https://arxiv.org/abs/1706.09579
+  code: https://github.com/beacandler/R2CNN
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/1706.09579
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 175
+    section: '2017'
+    title: 'R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection'
+    authors: Yingying Jiang, Xiangyu Zhu, Xiaobing Wang, Shuli Yang, Wei Li, Hua Wang, Pei Fu, Zhenbo
+      Luo
+    tags:
+    - text-detection
+    links:
+    - label: arXiv
+      url: https://arxiv.org/abs/1706.09579
+    - label: code
+      url: https://github.com/beacandler/R2CNN
+    raw:
+    - '**R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection**  '
+    - 'Yingying Jiang, Xiangyu Zhu, Xiaobing Wang, Shuli Yang, Wei Li, Hua Wang, Pei Fu, Zhenbo Luo  '
+    - \[[arXiv](https://arxiv.org/abs/1706.09579)\]\[[code](https://github.com/beacandler/R2CNN)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Yingying Jiang
+- Xiangyu Zhu
+- Xiaobing Wang
+- Shuli Yang
+- Wei Li
+- Hua Wang
+- Pei Fu
+- Zhenbo Luo
+year: 2017
+publication_status: unknown
+arxiv_id: '1706.09579'

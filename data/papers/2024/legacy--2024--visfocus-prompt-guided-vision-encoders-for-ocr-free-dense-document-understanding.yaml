@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:legacy:2024:visfocus-prompt-guided-vision-encoders-for-ocr-free-dense-document-understanding
+kind: paper
+name: 'VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01287.pdf
+  paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01287.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01287.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 70
+    section: '2024'
+    title: 'VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding'
+    authors: Ofir Abramovich, Niv Nayman, Sharon Fogel, Inbal Lavi, Ron Litman, Shahar Tsiper, Royee Tichauer,
+      srikar appalaraju, Shai Mazor, R. Manmatha
+    tags:
+    - document-VQA
+    links:
+    - label: ECCV
+      url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01287.pdf
+    raw:
+    - '**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**  '
+    - 'Ofir Abramovich, Niv Nayman, Sharon Fogel, Inbal Lavi, Ron Litman, Shahar Tsiper, Royee Tichauer,
+      srikar appalaraju, Shai Mazor, R. Manmatha  '
+    - \[[ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01287.pdf)\]\[document-VQA\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Ofir Abramovich
+- Niv Nayman
+- Sharon Fogel
+- Inbal Lavi
+- Ron Litman
+- Shahar Tsiper
+- Royee Tichauer
+- srikar appalaraju
+- Shai Mazor
+- R. Manmatha
+year: 2024
+venue: ECCV
+publication_status: published

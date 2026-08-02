@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2022:text-spotting-transformers
+kind: paper
+name: Text Spotting Transformers
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Text_Spotting_Transformers_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Text_Spotting_Transformers_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Text_Spotting_Transformers_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 42
+    section: '2022'
+    title: Text Spotting Transformers
+    authors: Xiang Zhang, Yongwen Su, Subarna Tripathi, Zhuowen Tu
+    tags:
+    - end-to-end-ocr
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Text_Spotting_Transformers_CVPR_2022_paper.pdf
+    raw:
+    - '**Text Spotting Transformers**  '
+    - 'Xiang Zhang, Yongwen Su, Subarna Tripathi, Zhuowen Tu  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Text_Spotting_Transformers_CVPR_2022_paper.pdf)\]\[end-to-end-ocr\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xiang Zhang
+- Yongwen Su
+- Subarna Tripathi
+- Zhuowen Tu
+year: 2022
+venue: CVPR
+publication_status: published

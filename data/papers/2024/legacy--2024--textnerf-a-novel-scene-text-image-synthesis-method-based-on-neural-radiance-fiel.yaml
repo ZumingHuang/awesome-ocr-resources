@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:legacy:2024:textnerf-a-novel-scene-text-image-synthesis-method-based-on-neural-radiance-fiel
+kind: paper
+name: 'TextNeRF: A Novel Scene-Text Image Synthesis Method based on Neural Radiance Fields'
+released_at:
+  value: '2024'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- document-image-restoration
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_TextNeRF_A_Novel_Scene-Text_Image_Synthesis_Method_based_on_Neural_CVPR_2024_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_TextNeRF_A_Novel_Scene-Text_Image_Synthesis_Method_based_on_Neural_CVPR_2024_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_TextNeRF_A_Novel_Scene-Text_Image_Synthesis_Method_based_on_Neural_CVPR_2024_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2023-present.md
+    line: 82
+    section: '2024'
+    title: 'TextNeRF: A Novel Scene-Text Image Synthesis Method based on Neural Radiance Fields'
+    authors: Jialei Cui, Jianwei Du, Wenzhuo Liu, Zhouhui Lian
+    tags:
+    - text-image-processing
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_TextNeRF_A_Novel_Scene-Text_Image_Synthesis_Method_based_on_Neural_CVPR_2024_paper.pdf
+    raw:
+    - '**TextNeRF: A Novel Scene-Text Image Synthesis Method based on Neural Radiance Fields**  '
+    - 'Jialei Cui, Jianwei Du, Wenzhuo Liu, Zhouhui Lian  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_TextNeRF_A_Novel_Scene-Text_Image_Synthesis_Method_based_on_Neural_CVPR_2024_paper.pdf)\]\[text-image-processing\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Jialei Cui
+- Jianwei Du
+- Wenzhuo Liu
+- Zhouhui Lian
+year: 2024
+venue: CVPR
+publication_status: published

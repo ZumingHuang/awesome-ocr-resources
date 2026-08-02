@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:1509.02317
+kind: paper
+name: Object Proposals for Text Extraction in the Wild
+released_at:
+  value: '2015'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/7333753/
+  paper: https://ieeexplore.ieee.org/abstract/document/7333753/
+  code: https://github.com/lluisgomez/TextProposals
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/7333753/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 297
+    section: '2015'
+    title: Object Proposals for Text Extraction in the Wild
+    authors: Lluis Gomez, Dimosthenis Karatzas
+    tags:
+    - text-detection
+    links:
+    - label: ICDAR
+      url: https://ieeexplore.ieee.org/abstract/document/7333753/
+    - label: arXiv
+      url: https://arxiv.org/abs/1509.02317
+    - label: code
+      url: https://github.com/lluisgomez/TextProposals
+    raw:
+    - '**Object Proposals for Text Extraction in the Wild**  '
+    - 'Lluis Gomez, Dimosthenis Karatzas  '
+    - \[[ICDAR](https://ieeexplore.ieee.org/abstract/document/7333753/)\]\[[arXiv](https://arxiv.org/abs/1509.02317)\]\[[code](https://github.com/lluisgomez/TextProposals)\]\[text-detection\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Lluis Gomez
+- Dimosthenis Karatzas
+year: 2015
+venue: ICDAR
+publication_status: published
+arxiv_id: '1509.02317'

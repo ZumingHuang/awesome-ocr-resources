@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:legacy:2002:robust-wide-baseline-stereo-from-maximally-stable-extremal-regions
+kind: paper
+name: Robust Wide-Baseline Stereo From Maximally Stable Extremal Regions
+released_at:
+  value: '2002'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: http://cmp.felk.cvut.cz/~matas/papers/matas-bmvc02.pdf
+  paper: http://cmp.felk.cvut.cz/~matas/papers/matas-bmvc02.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: http://cmp.felk.cvut.cz/~matas/papers/matas-bmvc02.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/before-2010.md
+    line: 6
+    section: Classic Papers
+    title: Robust Wide-Baseline Stereo From Maximally Stable Extremal Regions
+    authors: J. Matas, O. Chum, M. Urban, T. Pajdla
+    tags: []
+    links:
+    - label: BMVC 2002
+      url: http://cmp.felk.cvut.cz/~matas/papers/matas-bmvc02.pdf
+    raw:
+    - '**Robust Wide-Baseline Stereo From Maximally Stable Extremal Regions**  '
+    - 'J. Matas, O. Chum, M. Urban, T. Pajdla  '
+    - \[[BMVC 2002](http://cmp.felk.cvut.cz/~matas/papers/matas-bmvc02.pdf)\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- J. Matas
+- O. Chum
+- M. Urban
+- T. Pajdla
+year: 2002
+venue: BMVC 2002
+publication_status: published

@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:legacy:2016:text-detection-tracking-and-recognition-in-video-a-comprehensive-survey
+kind: paper
+name: 'Text Detection, Tracking and Recognition in Video: A Comprehensive Survey'
+released_at:
+  value: '2016'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- text-detection
+- text-recognition
+- video-ocr
+- benchmark
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://ieeexplore.ieee.org/abstract/document/7452620/
+  paper: https://ieeexplore.ieee.org/abstract/document/7452620/
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://ieeexplore.ieee.org/abstract/document/7452620/
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2015-2018.md
+    line: 268
+    section: '2016'
+    title: 'Text Detection, Tracking and Recognition in Video: A Comprehensive Survey'
+    authors: Xu-Cheng Yin, Ze-Yu Zuo, Shu Tian
+    tags:
+    - text-detection
+    - text-recognition
+    - video-ocr
+    - overview
+    links:
+    - label: TIP
+      url: https://ieeexplore.ieee.org/abstract/document/7452620/
+    raw:
+    - '**Text Detection, Tracking and Recognition in Video: A Comprehensive Survey**  '
+    - 'Xu-Cheng Yin, Ze-Yu Zuo, Shu Tian  '
+    - \[[TIP](https://ieeexplore.ieee.org/abstract/document/7452620/)\]\[text-detection\]\[text-recognition\]\[video-ocr\]\[overview\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Xu-Cheng Yin
+- Ze-Yu Zuo
+- Shu Tian
+year: 2016
+venue: TIP
+publication_status: published

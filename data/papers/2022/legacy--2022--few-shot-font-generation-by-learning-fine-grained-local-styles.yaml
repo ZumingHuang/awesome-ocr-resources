@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:legacy:2022:few-shot-font-generation-by-learning-fine-grained-local-styles
+kind: paper
+name: Few-Shot Font Generation by Learning Fine-Grained Local Styles
+released_at:
+  value: '2022'
+  precision: year
+added_at: '2026-07-26'
+last_verified_at: '2026-07-26'
+summary: ''
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few-Shot_Font_Generation_by_Learning_Fine-Grained_Local_Styles_CVPR_2022_paper.pdf
+  paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few-Shot_Font_Generation_by_Learning_Fine-Grained_Local_Styles_CVPR_2022_paper.pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few-Shot_Font_Generation_by_Learning_Fine-Grained_Local_Styles_CVPR_2022_paper.pdf
+  discovered_via: legacy-markdown
+  discovered_at: '2026-07-26'
+  source_metadata: {}
+  legacy:
+    file: legacy/papers/papers_by_year/2019-2022.md
+    line: 86
+    section: '2022'
+    title: Few-Shot Font Generation by Learning Fine-Grained Local Styles
+    authors: Licheng Tang, Yiyang Cai, Jiaming Liu, Zhibin Hong, Mingming Gong, Minhu Fan, Junyu Han,
+      Jingtuo Liu, Errui Ding, Jingdong Wang
+    tags:
+    - others
+    links:
+    - label: CVPR
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few-Shot_Font_Generation_by_Learning_Fine-Grained_Local_Styles_CVPR_2022_paper.pdf
+    raw:
+    - '**Few-Shot Font Generation by Learning Fine-Grained Local Styles**  '
+    - 'Licheng Tang, Yiyang Cai, Jiaming Liu, Zhibin Hong, Mingming Gong, Minhu Fan, Junyu Han, Jingtuo
+      Liu, Errui Ding, Jingdong Wang  '
+    - \[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few-Shot_Font_Generation_by_Learning_Fine-Grained_Local_Styles_CVPR_2022_paper.pdf)\]\[others\]
+  legacy_duplicates: []
+curation:
+  status: needs-review
+authors:
+- Licheng Tang
+- Yiyang Cai
+- Jiaming Liu
+- Zhibin Hong
+- Mingming Gong
+- Minhu Fan
+- Junyu Han
+- Jingtuo Liu
+- Errui Ding
+- Jingdong Wang
+year: 2022
+venue: CVPR
+publication_status: published
