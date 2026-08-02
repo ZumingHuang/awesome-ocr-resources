@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:Topdu/OpenOCR:docs-skill-md
+kind: skill
+name: Topdu/OpenOCR / docs/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Topdu/OpenOCR/blob/0d522801ec6dc1df852c6b6d4ed6a08f5127ed97/docs/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Topdu/OpenOCR/blob/0d522801ec6dc1df852c6b6d4ed6a08f5127ed97/docs/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: Topdu/OpenOCR:docs/SKILL.md
+  source_metadata:
+    repository: Topdu/OpenOCR
+    manifest_path: docs/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: Topdu/OpenOCR
+manifest_path: docs/SKILL.md
+capabilities: {}

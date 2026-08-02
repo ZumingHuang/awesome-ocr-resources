@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:LuYanFCP/common-skills:use-ocr-skill-md
+kind: skill
+name: LuYanFCP/common-skills / use-ocr/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/LuYanFCP/common-skills/blob/feec1afaa6ffd8f4a665f92f9709b135240f1f85/use-ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/LuYanFCP/common-skills/blob/feec1afaa6ffd8f4a665f92f9709b135240f1f85/use-ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: LuYanFCP/common-skills:use-ocr/SKILL.md
+  source_metadata:
+    repository: LuYanFCP/common-skills
+    manifest_path: use-ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: LuYanFCP/common-skills
+manifest_path: use-ocr/SKILL.md
+capabilities: {}

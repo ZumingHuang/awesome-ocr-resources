@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:joseconti/declaracion-renta-espana:skill-md
+kind: skill
+name: joseconti/declaracion-renta-espana / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/joseconti/declaracion-renta-espana/blob/d60ef599fd5d87eda3c887bef206a5e2504d7294/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/joseconti/declaracion-renta-espana/blob/d60ef599fd5d87eda3c887bef206a5e2504d7294/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: joseconti/declaracion-renta-espana:SKILL.md
+  source_metadata:
+    repository: joseconti/declaracion-renta-espana
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: joseconti/declaracion-renta-espana
+manifest_path: SKILL.md
+capabilities: {}

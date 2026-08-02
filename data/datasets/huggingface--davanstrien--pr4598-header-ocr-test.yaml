@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:davanstrien/pr4598-header-ocr-test
+kind: dataset
+name: davanstrien/pr4598-header-ocr-test
+released_at:
+  value: '2026-07-29'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR using Unlimited-OCR\n\t\n\nThis dataset contains OCR results\
+  \ for davanstrien/bhl-impact-groundtruth\nproduced by baidu/Unlimited-OCR with vLLM.\n\n\t\n\t\t\n\t\
+  \n\t\n\t\tProcessing Details\n\t\n\n\nSource Dataset: davanstrien/bhl-impact-groundtruth\nModel: baidu/Unlimited-OCR\n\
+  Number of Samples: 10\nProcessing Time: 2.6 min\nProcessing Date: 2026-07-29 10:44 UTC\nOutput Column:\
+  \ markdown\nSplit: train\n\n\n\t\n\t\t\n\t\n\t\n\t\tOutput\n\t\n\nThe column holds the model's raw layout-grounded\
+  \ markdown: text spans tagged… See the full description on the dataset page: https://huggingface.co/datasets/davanstrien/pr4598-header-ocr-test."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/davanstrien/pr4598-header-ocr-test
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/davanstrien/pr4598-header-ocr-test
+  discovered_via: huggingface
+  discovered_at: '2026-08-02'
+  source_id: davanstrien/pr4598-header-ocr-test
+  source_metadata:
+    repository_id: davanstrien/pr4598-header-ocr-test
+    downloads: 28
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: davanstrien
+repository_id: davanstrien/pr4598-header-ocr-test
+usage: []
+annotations: []
+access: unknown

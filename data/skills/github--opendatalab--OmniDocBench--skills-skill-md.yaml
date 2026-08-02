@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:opendatalab/OmniDocBench:skills-skill-md
+kind: skill
+name: opendatalab/OmniDocBench / skills/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/opendatalab/OmniDocBench/blob/193627ae9e97d89188468ed1ee3b7a856ff76044/skills/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/opendatalab/OmniDocBench/blob/193627ae9e97d89188468ed1ee3b7a856ff76044/skills/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: opendatalab/OmniDocBench:skills/SKILL.md
+  source_metadata:
+    repository: opendatalab/OmniDocBench
+    manifest_path: skills/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: opendatalab/OmniDocBench
+manifest_path: skills/SKILL.md
+capabilities: {}

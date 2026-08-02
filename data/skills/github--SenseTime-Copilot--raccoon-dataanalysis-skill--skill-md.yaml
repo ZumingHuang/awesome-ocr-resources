@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:SenseTime-Copilot/raccoon-dataanalysis-skill:skill-md
+kind: skill
+name: SenseTime-Copilot/raccoon-dataanalysis-skill / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/SenseTime-Copilot/raccoon-dataanalysis-skill/blob/ae3ee2bd1bf1b287f61e73d2c014582a43d865aa/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/SenseTime-Copilot/raccoon-dataanalysis-skill/blob/ae3ee2bd1bf1b287f61e73d2c014582a43d865aa/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: SenseTime-Copilot/raccoon-dataanalysis-skill:SKILL.md
+  source_metadata:
+    repository: SenseTime-Copilot/raccoon-dataanalysis-skill
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: SenseTime-Copilot/raccoon-dataanalysis-skill
+manifest_path: SKILL.md
+capabilities: {}

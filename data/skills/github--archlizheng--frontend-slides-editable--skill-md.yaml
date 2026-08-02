@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:archlizheng/frontend-slides-editable:skill-md
+kind: skill
+name: archlizheng/frontend-slides-editable / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/archlizheng/frontend-slides-editable/blob/e5663e6a0bdc2c2a673198bab3fb61036a7f20ee/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/archlizheng/frontend-slides-editable/blob/e5663e6a0bdc2c2a673198bab3fb61036a7f20ee/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: archlizheng/frontend-slides-editable:SKILL.md
+  source_metadata:
+    repository: archlizheng/frontend-slides-editable
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: archlizheng/frontend-slides-editable
+manifest_path: SKILL.md
+capabilities: {}

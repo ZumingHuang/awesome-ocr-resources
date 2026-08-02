@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:CaseMark/legal-plugin:ocr-skill-md
+kind: skill
+name: CaseMark/legal-plugin / ocr/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/CaseMark/legal-plugin/blob/a949418eb67f129763ba47a54da74fd0a070eeb9/ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/CaseMark/legal-plugin/blob/a949418eb67f129763ba47a54da74fd0a070eeb9/ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: CaseMark/legal-plugin:ocr/SKILL.md
+  source_metadata:
+    repository: CaseMark/legal-plugin
+    manifest_path: ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: CaseMark/legal-plugin
+manifest_path: ocr/SKILL.md
+capabilities: {}

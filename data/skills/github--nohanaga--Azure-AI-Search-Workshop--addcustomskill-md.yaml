@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:nohanaga/Azure-AI-Search-Workshop:addcustomskill-md
+kind: skill
+name: nohanaga/Azure-AI-Search-Workshop / AddCustomSkill.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/nohanaga/Azure-AI-Search-Workshop/blob/b85363c7a6a31c6e6ded74b61808d945b99ce252/AddCustomSkill.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/nohanaga/Azure-AI-Search-Workshop/blob/b85363c7a6a31c6e6ded74b61808d945b99ce252/AddCustomSkill.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: nohanaga/Azure-AI-Search-Workshop:AddCustomSkill.md
+  source_metadata:
+    repository: nohanaga/Azure-AI-Search-Workshop
+    manifest_path: AddCustomSkill.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: nohanaga/Azure-AI-Search-Workshop
+manifest_path: AddCustomSkill.md
+capabilities: {}

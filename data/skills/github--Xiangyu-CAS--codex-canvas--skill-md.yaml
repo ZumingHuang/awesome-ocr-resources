@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:Xiangyu-CAS/codex-canvas:skill-md
+kind: skill
+name: Xiangyu-CAS/codex-canvas / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Xiangyu-CAS/codex-canvas/blob/6917ba4dfeb700501eae3a9aaed5727ebb787233/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Xiangyu-CAS/codex-canvas/blob/6917ba4dfeb700501eae3a9aaed5727ebb787233/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: Xiangyu-CAS/codex-canvas:SKILL.md
+  source_metadata:
+    repository: Xiangyu-CAS/codex-canvas
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: Xiangyu-CAS/codex-canvas
+manifest_path: SKILL.md
+capabilities: {}

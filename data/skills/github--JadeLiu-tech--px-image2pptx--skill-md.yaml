@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:JadeLiu-tech/px-image2pptx:skill-md
+kind: skill
+name: JadeLiu-tech/px-image2pptx / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/JadeLiu-tech/px-image2pptx/blob/6f4ad9fa27173388c0dc3a63710a2832fb2c3b1b/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/JadeLiu-tech/px-image2pptx/blob/6f4ad9fa27173388c0dc3a63710a2832fb2c3b1b/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: JadeLiu-tech/px-image2pptx:SKILL.md
+  source_metadata:
+    repository: JadeLiu-tech/px-image2pptx
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: JadeLiu-tech/px-image2pptx
+manifest_path: SKILL.md
+capabilities: {}

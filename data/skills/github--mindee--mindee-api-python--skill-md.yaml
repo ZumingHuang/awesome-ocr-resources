@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:mindee/mindee-api-python:skill-md
+kind: skill
+name: mindee/mindee-api-python / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/mindee/mindee-api-python/blob/c87840380bdaa9bbd04477fc5c0015e6921c0068/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/mindee/mindee-api-python/blob/c87840380bdaa9bbd04477fc5c0015e6921c0068/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: mindee/mindee-api-python:SKILL.md
+  source_metadata:
+    repository: mindee/mindee-api-python
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: mindee/mindee-api-python
+manifest_path: SKILL.md
+capabilities: {}

@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:vaishnavi0901/student-answer-ocr
+kind: dataset
+name: vaishnavi0901/student-answer-ocr
+released_at:
+  value: '2026-07-30'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/vaishnavi0901/student-answer-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/vaishnavi0901/student-answer-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-02'
+  source_id: vaishnavi0901/student-answer-ocr
+  source_metadata:
+    repository_id: vaishnavi0901/student-answer-ocr
+    downloads: 29
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: vaishnavi0901
+repository_id: vaishnavi0901/student-answer-ocr
+usage: []
+annotations: []
+access: unknown

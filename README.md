@@ -12,16 +12,16 @@ A structured and human-curated collection of OCR and Document AI resources. Auto
 
 | Category | Count | Description |
 | --- | ---: | --- |
-| [Papers](papers/README.md) | 232 | Research on OCR, document parsing, layout analysis, and document understanding |
-| [Models](models/README.md) | 0 | Public model cards, weights, APIs, and official model releases |
-| [Datasets](datasets/README.md) | 27 | Training datasets and evaluation benchmarks |
-| [Codes](codes/README.md) | 0 | Notable OCR and Document AI codebases |
-| [Skills](skills/README.md) | 0 | Installable agent skills for OCR and document workflows |
+| [Papers](papers/README.md) | 235 | Research on OCR, document parsing, layout analysis, and document understanding |
+| [Models](models/README.md) | 42 | Public model cards, weights, APIs, and official model releases |
+| [Datasets](datasets/README.md) | 38 | Training datasets and evaluation benchmarks |
+| [Codes](codes/README.md) | 1 | Notable OCR and Document AI codebases |
+| [Skills](skills/README.md) | 100 | Installable agent skills for OCR and document workflows |
 | [Platforms](platforms/README.md) | 0 | Domestic and international OCR platforms and services |
 
 ## Latest Updates
 
-The structured baseline is being established. Daily update notes will appear here after new resources are approved.
+- [2026-08-02](updates/2026/2026-08-02.md)
 
 ## Maintenance
 

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:dtyq/magic:backend-super-magic-agents-skills-document-converter-skill-md
+kind: skill
+name: dtyq/magic / backend/super-magic/agents/skills/document-converter/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/dtyq/magic/blob/41d7ef4bd44f7afb73860618ab75528578af4d5f/backend/super-magic/agents/skills/document-converter/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/dtyq/magic/blob/41d7ef4bd44f7afb73860618ab75528578af4d5f/backend/super-magic/agents/skills/document-converter/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: dtyq/magic:backend/super-magic/agents/skills/document-converter/SKILL.md
+  source_metadata:
+    repository: dtyq/magic
+    manifest_path: backend/super-magic/agents/skills/document-converter/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: dtyq/magic
+manifest_path: backend/super-magic/agents/skills/document-converter/SKILL.md
+capabilities: {}

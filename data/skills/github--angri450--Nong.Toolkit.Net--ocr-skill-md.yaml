@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:angri450/Nong.Toolkit.Net:ocr-skill-md
+kind: skill
+name: angri450/Nong.Toolkit.Net / ocr/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/angri450/Nong.Toolkit.Net/blob/4573074de945af7a97c8930ac3564cea5acbc862/ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/angri450/Nong.Toolkit.Net/blob/4573074de945af7a97c8930ac3564cea5acbc862/ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: angri450/Nong.Toolkit.Net:ocr/SKILL.md
+  source_metadata:
+    repository: angri450/Nong.Toolkit.Net
+    manifest_path: ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: angri450/Nong.Toolkit.Net
+manifest_path: ocr/SKILL.md
+capabilities: {}

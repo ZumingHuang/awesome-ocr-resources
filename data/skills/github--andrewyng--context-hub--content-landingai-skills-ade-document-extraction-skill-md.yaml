@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:andrewyng/context-hub:content-landingai-skills-ade-document-extraction-skill-md
+kind: skill
+name: andrewyng/context-hub / content/landingai/skills/ade/document-extraction/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/andrewyng/context-hub/blob/67dcbeb2eb42c808549f08397920ad58be7c2206/content/landingai/skills/ade/document-extraction/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/andrewyng/context-hub/blob/67dcbeb2eb42c808549f08397920ad58be7c2206/content/landingai/skills/ade/document-extraction/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: andrewyng/context-hub:content/landingai/skills/ade/document-extraction/SKILL.md
+  source_metadata:
+    repository: andrewyng/context-hub
+    manifest_path: content/landingai/skills/ade/document-extraction/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: andrewyng/context-hub
+manifest_path: content/landingai/skills/ade/document-extraction/SKILL.md
+capabilities: {}

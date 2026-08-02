@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:sakib04/Bangla-OCR-TrOCR
+kind: model
+name: sakib04/Bangla-OCR-TrOCR
+released_at:
+  value: '2026-08-01'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/sakib04/Bangla-OCR-TrOCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/sakib04/Bangla-OCR-TrOCR
+  discovered_via: huggingface
+  discovered_at: '2026-08-02'
+  source_id: sakib04/Bangla-OCR-TrOCR
+  source_metadata:
+    repository_id: sakib04/Bangla-OCR-TrOCR
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: sakib04
+repository_id: sakib04/Bangla-OCR-TrOCR
+deployment: []

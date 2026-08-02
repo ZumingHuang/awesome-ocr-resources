@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:2607.27902
+kind: paper
+name: 'One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting'
+released_at:
+  value: '2026-07-30'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: Scene text spotting requires high-precision alignment between textual recognition and spatial
+  localization. While visual-token grounding has emerged as a promising formulation for Multimodal Large
+  Language Models (MLLMs), the previous multi-patch paradigm often introduces redundant noise and localization
+  ambiguity, particularly for dense or small text instances. To address this, we propose Single-Patch
+  Text Spotting (SPaTS), a vision-centric framework that routes each text instance through a single anchor
+  visual token and then recovers geometry via full-image refinement. To accurately identify this anchor
+  without oracle labels, we introduce Single-Patch Selective Optimization (SPaSO), a reinforcement learning
+  framework that optimizes discrete visual-token selection using patch-level rewards. To further improve
+  representation robustness and localization precision, we introduce Directional Embedding Alignment (DEA)
+  to suppress unstable norm bias by decoupling feature magnitude and direction, and Patch-Enhanced Decoding
+  (PED) to fuse the routed anchor with language semantics and cross-attend over the full-image feature
+  map for geometry-aware boundary regression beyond coordinate-space surrogates. Extensive experiments
+  demonstrate that SPaTS consistently and significantly outperforms both frontier closed-source MLLMs
+  and OCR MLLMs. Code will be released soon.
+tasks:
+- formula-recognition
+- text-spotting
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2607.27902
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2607.27902
+  discovered_via: arxiv
+  discovered_at: '2026-08-02'
+  source_id: '2607.27902'
+  source_metadata:
+    arxiv_id: '2607.27902'
+    doi: 10.1145/3767308.3835174
+    query: all:"text spotting"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Rui Tang
+- Wentao Yang
+- Peirong Zhang
+- Yongxin Shi
+- Shun Zhang
+- Huiguo He
+- Lianwen Jin
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2607.27902'
+doi: 10.1145/3767308.3835174

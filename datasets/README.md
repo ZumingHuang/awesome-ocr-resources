@@ -4,6 +4,193 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SeeWye/Nondeterministic_Finite_Automata_OCR_v2](https://huggingface.co/datasets/SeeWye/Nondeterministic_Finite_Automata_OCR_v2) | 2026-08-02 | text-recognition | candidate | — |
+| [mossbee/hippocamp_ocr](https://huggingface.co/datasets/mossbee/hippocamp_ocr) | 2026-08-01 | text-recognition | candidate | — |
+| [mimimimi2002/license-detection-paligemma-ocr](https://huggingface.co/datasets/mimimimi2002/license-detection-paligemma-ocr) | 2026-08-01 | text-recognition | candidate | — |
+| [vaishnavi0901/student-answer-ocr-v2](https://huggingface.co/datasets/vaishnavi0901/student-answer-ocr-v2) | 2026-07-31 | text-recognition | candidate | — |
+| [vaishnavi0901/student-answer-ocr-notebook](https://huggingface.co/datasets/vaishnavi0901/student-answer-ocr-notebook) | 2026-07-31 | text-recognition | candidate | — |
+| [vaishnavi0901/student-answer-ocr](https://huggingface.co/datasets/vaishnavi0901/student-answer-ocr) | 2026-07-30 | text-recognition | candidate | — |
+| [mustaphaelkady/arabic-ocr-books](https://huggingface.co/datasets/mustaphaelkady/arabic-ocr-books) | 2026-07-30 | document-parsing, text-recognition | candidate | 
+	
+		
+	
+	
+		Scanned Book Page Images
+	
+
+This dataset contains page images rendered from 9 PDF file(s).
+
+	
+		
+	
+	
+		Dataset structure
+	
+
+
+One image per PDF page.
+One subfolder per source PDF.
+data/metadata.jsonl contains technical provenance for each page.
+
+
+	
+		
+	
+	
+		Image settings
+	
+
+
+DPI: 300
+Maximum width: 1600
+Grayscale: True
+Contrast factor: 1.4
+JPEG quality: 95
+White-margin cropping: True
+
+
+	
+		
+	
+	
+		Intended use
+	
+
+OCR, document understanding, knowledge extraction, fine-tuning,
+and… See the full description on the dataset page: https://huggingface.co/datasets/mustaphaelkady/arabic-ocr-books. |
+| [egolqa/ocrv2](https://huggingface.co/datasets/egolqa/ocrv2) | 2026-07-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR
+	
+
+The primary artifact is ocr.jsonl
+
+	
+		
+	
+	
+		ocr.jsonl
+	
+
+Each line is one OCRFragment, a visible text region in one keyframe.
+Common fields:
+
+fragment_id: stable OCR observation identifier
+video_id: source video identifier
+time_span: [timestamp_ms, timestamp_ms] in source video time
+text: recognized visible text
+bbox: normalized text region with x_min, y_min, x_max, and y_max
+
+There is no placeholder for frames without text and no fabricated confidence score. Join OCR with… See the full description on the dataset page: https://huggingface.co/datasets/egolqa/ocrv2. |
+| [egolqa/ocr](https://huggingface.co/datasets/egolqa/ocr) | 2026-07-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR
+	
+
+The primary artifact is ocr.jsonl còn artifact_metadata.jsonl records the input, model, prompt version, subset, and Git lineage
+
+	
+		
+	
+	
+		ocr.jsonl
+	
+
+Each line is one OCRFragment, a visible text region in one keyframe.
+Common fields:
+
+fragment_id: OCR observation identifier
+video_id: source video identifier
+time_span: [timestamp_ms, timestamp_ms] in source video time
+text: recognized visible text
+bbox: normalized text region with x_min, y_min, x_max, and y_max
+
+There is… See the full description on the dataset page: https://huggingface.co/datasets/egolqa/ocr. |
+| [davanstrien/pr4598-header-ocr-test](https://huggingface.co/datasets/davanstrien/pr4598-header-ocr-test) | 2026-07-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using Unlimited-OCR
+	
+
+This dataset contains OCR results for davanstrien/bhl-impact-groundtruth
+produced by baidu/Unlimited-OCR with vLLM.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: davanstrien/bhl-impact-groundtruth
+Model: baidu/Unlimited-OCR
+Number of Samples: 10
+Processing Time: 2.6 min
+Processing Date: 2026-07-29 10:44 UTC
+Output Column: markdown
+Split: train
+
+
+	
+		
+	
+	
+		Output
+	
+
+The column holds the model's raw layout-grounded markdown: text spans tagged… See the full description on the dataset page: https://huggingface.co/datasets/davanstrien/pr4598-header-ocr-test. |
+| [Arko007/assistive-ocr-data-acquisition](https://huggingface.co/datasets/Arko007/assistive-ocr-data-acquisition) | 2026-07-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		Assistive OCR Benchmark Data
+	
+
+Multilingual OCR benchmark for visually impaired assistance — Indian medicine labels, packaged goods, and signage in Bengali, Hindi, and English.
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+
+	
+		
+Property
+Value
+
+
+		
+Total images
+7,004 rows in manifest
+
+
+Image sources
+images/hf_medicines/, images/openfoodfacts/, images/synthetic/
+
+
+Domains
+medicine_packaging (6,588), packaged_goods (386), signage (30)
+
+
+Languages
+bn+en (5,337), hi+en (868), en (799)
+
+
+Splits
+dev… See the full description on the dataset page: https://huggingface.co/datasets/Arko007/assistive-ocr-data-acquisition. |
 | [Wukong-OCR](https://wukong-dataset.github.io/wukong-dataset/) | unknown | text-recognition | needs-review | — |
 | [TextVQA](https://textvqa.org/dataset/) | unknown | document-vqa | needs-review | — |
 | [TextOCR](https://textvqa.org/textocr/dataset/) | unknown | text-recognition | needs-review | — |

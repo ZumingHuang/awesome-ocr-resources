@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:vigorX777/content-collector-skill:skill-md
+kind: skill
+name: vigorX777/content-collector-skill / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/vigorX777/content-collector-skill/blob/88edfb4673169f554ae71f73d1b88a4a3186fa47/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/vigorX777/content-collector-skill/blob/88edfb4673169f554ae71f73d1b88a4a3186fa47/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: vigorX777/content-collector-skill:SKILL.md
+  source_metadata:
+    repository: vigorX777/content-collector-skill
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: vigorX777/content-collector-skill
+manifest_path: SKILL.md
+capabilities: {}
