@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:majiayu000/claude-skill-registry:skills-other-compdf-skills-skill-md
+kind: skill
+name: majiayu000/claude-skill-registry / skills/other/compdf-skills/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/majiayu000/claude-skill-registry/blob/1a37ad9cf71865c1026212f16a250814f549e61c/skills/other/compdf-skills/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/majiayu000/claude-skill-registry/blob/1a37ad9cf71865c1026212f16a250814f549e61c/skills/other/compdf-skills/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: majiayu000/claude-skill-registry:skills/other/compdf-skills/SKILL.md
+  source_metadata:
+    repository: majiayu000/claude-skill-registry
+    manifest_path: skills/other/compdf-skills/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: majiayu000/claude-skill-registry
+manifest_path: skills/other/compdf-skills/SKILL.md
+capabilities: {}

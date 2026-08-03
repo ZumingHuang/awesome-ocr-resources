@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:ZhanlinCui/Agent-Skills-Hunter:docs-pdf-skill-md
+kind: skill
+name: ZhanlinCui/Agent-Skills-Hunter / docs/pdf/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ZhanlinCui/Agent-Skills-Hunter/blob/849c38a32dbbbf47f95b931d6d694aa105a37f76/docs/pdf/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ZhanlinCui/Agent-Skills-Hunter/blob/849c38a32dbbbf47f95b931d6d694aa105a37f76/docs/pdf/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: ZhanlinCui/Agent-Skills-Hunter:docs/pdf/SKILL.md
+  source_metadata:
+    repository: ZhanlinCui/Agent-Skills-Hunter
+    manifest_path: docs/pdf/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: ZhanlinCui/Agent-Skills-Hunter
+manifest_path: docs/pdf/SKILL.md
+capabilities: {}

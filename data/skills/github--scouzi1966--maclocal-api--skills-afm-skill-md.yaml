@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:scouzi1966/maclocal-api:skills-afm-skill-md
+kind: skill
+name: scouzi1966/maclocal-api / skills/afm/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/scouzi1966/maclocal-api/blob/1c80712c32e7bfa93b22aa498e29a7903031bfa0/skills/afm/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/scouzi1966/maclocal-api/blob/1c80712c32e7bfa93b22aa498e29a7903031bfa0/skills/afm/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: scouzi1966/maclocal-api:skills/afm/SKILL.md
+  source_metadata:
+    repository: scouzi1966/maclocal-api
+    manifest_path: skills/afm/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: scouzi1966/maclocal-api
+manifest_path: skills/afm/SKILL.md
+capabilities: {}

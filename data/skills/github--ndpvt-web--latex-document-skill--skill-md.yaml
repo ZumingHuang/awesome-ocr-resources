@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:ndpvt-web/latex-document-skill:skill-md
+kind: skill
+name: ndpvt-web/latex-document-skill / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ndpvt-web/latex-document-skill/blob/f6328a6395c7b6dc27892d3ef6affc247d255488/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ndpvt-web/latex-document-skill/blob/f6328a6395c7b6dc27892d3ef6affc247d255488/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: ndpvt-web/latex-document-skill:SKILL.md
+  source_metadata:
+    repository: ndpvt-web/latex-document-skill
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: ndpvt-web/latex-document-skill
+manifest_path: SKILL.md
+capabilities: {}

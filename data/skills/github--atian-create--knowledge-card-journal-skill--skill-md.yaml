@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:atian-create/knowledge-card-journal-skill:skill-md
+kind: skill
+name: atian-create/knowledge-card-journal-skill / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/atian-create/knowledge-card-journal-skill/blob/9d2aac6c224458775a69a7afe25acc5ad44b0649/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/atian-create/knowledge-card-journal-skill/blob/9d2aac6c224458775a69a7afe25acc5ad44b0649/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: atian-create/knowledge-card-journal-skill:SKILL.md
+  source_metadata:
+    repository: atian-create/knowledge-card-journal-skill
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: atian-create/knowledge-card-journal-skill
+manifest_path: SKILL.md
+capabilities: {}

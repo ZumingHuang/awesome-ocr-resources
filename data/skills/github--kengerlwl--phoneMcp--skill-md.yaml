@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:kengerlwl/phoneMcp:skill-md
+kind: skill
+name: kengerlwl/phoneMcp / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/kengerlwl/phoneMcp/blob/2f41018f1568001c2117704be246a02b6716bb4a/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/kengerlwl/phoneMcp/blob/2f41018f1568001c2117704be246a02b6716bb4a/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: kengerlwl/phoneMcp:SKILL.md
+  source_metadata:
+    repository: kengerlwl/phoneMcp
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: kengerlwl/phoneMcp
+manifest_path: SKILL.md
+capabilities: {}

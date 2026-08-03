@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:PaddlePaddle/PaddleOCR:skills-paddleocr-doc-parsing-skill-md
+kind: skill
+name: PaddlePaddle/PaddleOCR / skills/paddleocr-doc-parsing/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/PaddlePaddle/PaddleOCR/blob/2661c7c0ef5c613e8f93c6e93b2e052399f0f854/skills/paddleocr-doc-parsing/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/PaddlePaddle/PaddleOCR/blob/2661c7c0ef5c613e8f93c6e93b2e052399f0f854/skills/paddleocr-doc-parsing/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: PaddlePaddle/PaddleOCR:skills/paddleocr-doc-parsing/SKILL.md
+  source_metadata:
+    repository: PaddlePaddle/PaddleOCR
+    manifest_path: skills/paddleocr-doc-parsing/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: PaddlePaddle/PaddleOCR
+manifest_path: skills/paddleocr-doc-parsing/SKILL.md
+capabilities: {}

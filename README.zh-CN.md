@@ -12,16 +12,16 @@
 
 | 分类 | 数量 | 说明 |
 | --- | ---: | --- |
-| [论文](papers/README.md) | 232 | OCR、文档解析、版面分析和文档理解研究 |
-| [模型](models/README.md) | 0 | 具有模型卡、权重、API 或正式发布页的模型 |
-| [数据集](datasets/README.md) | 27 | 训练、预训练和评测数据集 |
-| [代码](codes/README.md) | 0 | 著名 OCR 与 Document AI 项目 |
-| [Skills](skills/README.md) | 0 | 可安装、可复用的 OCR/文档 Agent Skills |
+| [论文](papers/README.md) | 235 | OCR、文档解析、版面分析和文档理解研究 |
+| [模型](models/README.md) | 42 | 具有模型卡、权重、API 或正式发布页的模型 |
+| [数据集](datasets/README.md) | 38 | 训练、预训练和评测数据集 |
+| [代码](codes/README.md) | 1 | 著名 OCR 与 Document AI 项目 |
+| [Skills](skills/README.md) | 100 | 可安装、可复用的 OCR/文档 Agent Skills |
 | [平台](platforms/README.md) | 0 | 国内外 OCR 平台、服务及介绍 |
 
 ## 最近更新
 
-正在建立结构化基线；首批新资源审核合并后，这里会显示每日更新记录。
+- [2026-08-02](updates/2026/2026-08-02.md)
 
 ## 维护方式
 

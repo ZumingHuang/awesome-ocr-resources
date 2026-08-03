@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:cinience/alicloud-skills:skills-ai-multimodal-aliyun-qwen-ocr-skill-md
+kind: skill
+name: cinience/alicloud-skills / skills/ai/multimodal/aliyun-qwen-ocr/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/cinience/alicloud-skills/blob/b22dc0abe54cd63c65af78bfdf71d4911eef6c1b/skills/ai/multimodal/aliyun-qwen-ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/cinience/alicloud-skills/blob/b22dc0abe54cd63c65af78bfdf71d4911eef6c1b/skills/ai/multimodal/aliyun-qwen-ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: cinience/alicloud-skills:skills/ai/multimodal/aliyun-qwen-ocr/SKILL.md
+  source_metadata:
+    repository: cinience/alicloud-skills
+    manifest_path: skills/ai/multimodal/aliyun-qwen-ocr/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: cinience/alicloud-skills
+manifest_path: skills/ai/multimodal/aliyun-qwen-ocr/SKILL.md
+capabilities: {}

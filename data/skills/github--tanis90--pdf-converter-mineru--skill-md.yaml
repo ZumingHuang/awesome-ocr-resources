@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:tanis90/pdf-converter-mineru:skill-md
+kind: skill
+name: tanis90/pdf-converter-mineru / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/tanis90/pdf-converter-mineru/blob/464314156f604943f8373d7701bbb3a521ed3092/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/tanis90/pdf-converter-mineru/blob/464314156f604943f8373d7701bbb3a521ed3092/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: tanis90/pdf-converter-mineru:SKILL.md
+  source_metadata:
+    repository: tanis90/pdf-converter-mineru
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: tanis90/pdf-converter-mineru
+manifest_path: SKILL.md
+capabilities: {}

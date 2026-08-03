@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2607.24077
+kind: paper
+name: 'When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical
+  Uruguayan Documents'
+released_at:
+  value: '2026-07-27'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: Optical Character Recognition (OCR) is a key component in the digitization of historical archives.
+  Recently, Vision-Language Models (VLMs) have emerged as strong alternatives to traditional OCR systems,
+  achieving state-of-the-art performance on standard benchmarks. However, their suitability for archival
+  transcription remains insufficiently understood. In this work, we benchmark traditional OCR systems
+  and VLM-based approaches on the Berrutti dataset, a challenging collection of Uruguayan dictatorship-era
+  documents derived from microfilm scans. While VLMs consistently outperform traditional methods in terms
+  of Character Error Rate (CER) and Word Error Rate (WER), we show that these improvements hide a more
+  complex picture. Through a detailed qualitative analysis, we uncover systematic failure modes that are
+  invisible to standard metrics, including orthographic normalization, spurious content generation, and
+  semantic substitutions that preserve fluency while altering meaning. Errors affecting named entities
+  are particularly critical, as they can introduce substantial semantic distortions with minimal impact
+  on CER and WER. These findings reveal a critical gap between quantitative OCR performance and transcription
+  fidelity in real-world archival settings, and highlight the need for evaluation frameworks that go beyond
+  character-level accuracy to capture the semantic reliability of generated transcriptions.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2607.24077
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2607.24077
+  discovered_via: arxiv
+  discovered_at: '2026-08-02'
+  source_id: '2607.24077'
+  source_metadata:
+    arxiv_id: '2607.24077'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Marina Gardella
+- Camilo Mari{ñ}o
+- Diego Belzarena
+- Ignacio Ram{í}rez
+- Gregory Randall
+- Jean-Michel Morel
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2607.24077'

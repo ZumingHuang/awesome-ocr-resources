@@ -1,5 +1,18 @@
 <!-- Generated from data/*.yaml. Do not edit directly. -->
 
+## 2026
+**Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels**
+Zhuchenyang Liu, Yao Zhang, Yu Xiao
+\[document-parsing\]
+
+**One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting**
+Rui Tang, Wentao Yang, Peirong Zhang, Yongxin Shi, Shun Zhang, Huiguo He, Lianwen Jin
+\[formula-recognition\]\[text-spotting\]\[text-recognition\]
+
+**When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents**
+Marina Gardella, Camilo Mari{ñ}o, Diego Belzarena, Ignacio Ram{í}rez, Gregory Randall, Jean-Michel Morel
+\[text-recognition\]
+
 ## 2024
 **An Empirical Study of Scaling Law for Scene Text Recognition**
 Miao Rang, Zhenni Bi, Chuanjian Liu, Yunhe Wang, Kai Han

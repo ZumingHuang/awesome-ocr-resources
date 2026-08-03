@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:egolqa/ocr
+kind: dataset
+name: egolqa/ocr
+released_at:
+  value: '2026-07-30'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR\n\t\n\nThe primary artifact is ocr.jsonl còn artifact_metadata.jsonl\
+  \ records the input, model, prompt version, subset, and Git lineage\n\n\t\n\t\t\n\t\n\t\n\t\tocr.jsonl\n\
+  \t\n\nEach line is one OCRFragment, a visible text region in one keyframe.\nCommon fields:\n\nfragment_id:\
+  \ OCR observation identifier\nvideo_id: source video identifier\ntime_span: [timestamp_ms, timestamp_ms]\
+  \ in source video time\ntext: recognized visible text\nbbox: normalized text region with x_min, y_min,\
+  \ x_max, and y_max\n\nThere is… See the full description on the dataset page: https://huggingface.co/datasets/egolqa/ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/egolqa/ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/egolqa/ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-02'
+  source_id: egolqa/ocr
+  source_metadata:
+    repository_id: egolqa/ocr
+    downloads: 19
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: egolqa
+repository_id: egolqa/ocr
+usage: []
+annotations: []
+access: unknown

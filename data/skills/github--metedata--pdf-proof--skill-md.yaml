@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:metedata/pdf-proof:skill-md
+kind: skill
+name: metedata/pdf-proof / SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/metedata/pdf-proof/blob/8ba4cf66645958d2b25eec874afe0a0442287b9e/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/metedata/pdf-proof/blob/8ba4cf66645958d2b25eec874afe0a0442287b9e/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: metedata/pdf-proof:SKILL.md
+  source_metadata:
+    repository: metedata/pdf-proof
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: metedata/pdf-proof
+manifest_path: SKILL.md
+capabilities: {}

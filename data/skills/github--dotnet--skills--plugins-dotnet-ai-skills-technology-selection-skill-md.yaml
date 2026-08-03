@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:dotnet/skills:plugins-dotnet-ai-skills-technology-selection-skill-md
+kind: skill
+name: dotnet/skills / plugins/dotnet-ai/skills/technology-selection/SKILL.md
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-02'
+last_verified_at: '2026-08-02'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/dotnet/skills/blob/ad0cfe87350789a1f2459b09eb5eeebe7e0e98ab/plugins/dotnet-ai/skills/technology-selection/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/dotnet/skills/blob/ad0cfe87350789a1f2459b09eb5eeebe7e0e98ab/plugins/dotnet-ai/skills/technology-selection/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-02'
+  source_id: dotnet/skills:plugins/dotnet-ai/skills/technology-selection/SKILL.md
+  source_metadata:
+    repository: dotnet/skills
+    manifest_path: plugins/dotnet-ai/skills/technology-selection/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: dotnet/skills
+manifest_path: plugins/dotnet-ai/skills/technology-selection/SKILL.md
+capabilities: {}
