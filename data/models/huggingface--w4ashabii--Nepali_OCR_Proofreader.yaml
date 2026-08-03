@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:w4ashabii/Nepali_OCR_Proofreader
+kind: model
+name: w4ashabii/Nepali_OCR_Proofreader
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-03'
+last_verified_at: '2026-08-03'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/w4ashabii/Nepali_OCR_Proofreader
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/w4ashabii/Nepali_OCR_Proofreader
+  discovered_via: huggingface
+  discovered_at: '2026-08-03'
+  source_id: w4ashabii/Nepali_OCR_Proofreader
+  source_metadata:
+    repository_id: w4ashabii/Nepali_OCR_Proofreader
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: w4ashabii
+repository_id: w4ashabii/Nepali_OCR_Proofreader
+deployment: []

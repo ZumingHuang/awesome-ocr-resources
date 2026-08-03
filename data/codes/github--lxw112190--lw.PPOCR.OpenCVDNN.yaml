@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:lxw112190/lw.PPOCR.OpenCVDNN
+kind: code
+name: lxw112190/lw.PPOCR.OpenCVDNN
+released_at:
+  value: '2026-07-31'
+  precision: day
+added_at: '2026-08-03'
+last_verified_at: '2026-08-03'
+summary: 精简、跨平台的 OpenCV DNN PP-OCR 推理项目，提供稳定 C ABI、C/C#/Python 示例、HTTP 服务、Web UI，以及 Windows Service/systemd
+  部署。Minimal cross-platform PP-OCR inference powered by OpenCV DNN.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/lxw112190/lw.PPOCR.OpenCVDNN
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/lxw112190/lw.PPOCR.OpenCVDNN
+  discovered_via: github
+  discovered_at: '2026-08-03'
+  source_id: R_kgDOTpWb4g
+  source_metadata:
+    repository: lxw112190/lw.PPOCR.OpenCVDNN
+    stars: 10
+    language: C++
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: lxw112190/lw.PPOCR.OpenCVDNN
+landmark: false
+programming_languages:
+- C++
+maintenance_status: active

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:BDRC/tibetan-ocr-diagnostic-benchmark
+kind: dataset
+name: BDRC/tibetan-ocr-diagnostic-benchmark
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-03'
+last_verified_at: '2026-08-03'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tTibetan OCR Diagnostic Benchmark (OFAT)\n\t\n\nA small, controlled diagnostic\
+  \ OCR benchmark of 300 synthetic Tibetan pecha-page images with exact, noise-free ground truth.\nIt\
+  \ is a scientific instrument for measuring how OCR character error rate (CER) responds to individual\
+  \ difficulty factors one at a time (OFAT) — not a coverage-maximizing training set.\nCode & regeneration:\
+  \ https://github.com/buda-base/synthetic-ocr-benchmark-tools (diagnostic_benchmark/)\n\n\t\n\t\t\n\t\
+  \n\t\n\t\tWhat's inside… See the full description on the dataset page: https://huggingface.co/datasets/BDRC/tibetan-ocr-diagnostic-benchmark."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/BDRC/tibetan-ocr-diagnostic-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/BDRC/tibetan-ocr-diagnostic-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-08-03'
+  source_id: BDRC/tibetan-ocr-diagnostic-benchmark
+  source_metadata:
+    repository_id: BDRC/tibetan-ocr-diagnostic-benchmark
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: BDRC
+repository_id: BDRC/tibetan-ocr-diagnostic-benchmark
+usage: []
+annotations: []
+access: unknown

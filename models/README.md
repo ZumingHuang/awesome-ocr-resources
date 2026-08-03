@@ -4,7 +4,11 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [zeyadtarek03/alpr-ocr](https://huggingface.co/zeyadtarek03/alpr-ocr) | 2026-08-02 | text-recognition | candidate | — |
+| [w4ashabii/Nepali_OCR_Proofreader](https://huggingface.co/w4ashabii/Nepali_OCR_Proofreader) | 2026-08-02 | text-recognition | candidate | — |
 | [GTO83/Unlimited-OCR](https://huggingface.co/GTO83/Unlimited-OCR) | 2026-08-02 | text-recognition | candidate | — |
+| [cstr/nanonets-ocr2-1.5b-crispembed-GGUF](https://huggingface.co/cstr/nanonets-ocr2-1.5b-crispembed-GGUF) | 2026-08-02 | text-recognition | candidate | — |
+| [cstr/german-ocr-3.1-crispembed-GGUF](https://huggingface.co/cstr/german-ocr-3.1-crispembed-GGUF) | 2026-08-02 | text-recognition | candidate | — |
 | [varadsrivastava/finchart-ocr-qwen3vl-4b-lora](https://huggingface.co/varadsrivastava/finchart-ocr-qwen3vl-4b-lora) | 2026-08-01 | text-recognition | candidate | — |
 | [sakib04/Bangla-OCR-TrOCR](https://huggingface.co/sakib04/Bangla-OCR-TrOCR) | 2026-08-01 | text-recognition | candidate | — |
 | [lookx2/cbook-manga-ocr](https://huggingface.co/lookx2/cbook-manga-ocr) | 2026-08-01 | text-recognition | candidate | — |
