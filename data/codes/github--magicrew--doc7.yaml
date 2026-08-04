@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:magicrew/doc7
+kind: code
+name: magicrew/doc7
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-03'
+last_verified_at: '2026-08-03'
+summary: Turn documents into AI-ready Markdown with visual understanding
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/magicrew/doc7
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/magicrew/doc7
+  discovered_via: github
+  discovered_at: '2026-08-03'
+  source_id: R_kgDOTrFMbQ
+  source_metadata:
+    repository: magicrew/doc7
+    stars: 20
+    language: Go
+    archived: false
+    query: '"document AI" in:name,description,readme'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: magicrew/doc7
+landmark: false
+programming_languages:
+- Go
+maintenance_status: active

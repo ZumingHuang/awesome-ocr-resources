@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:mrpulor-gh/nuphus-mcp
+kind: code
+name: mrpulor-gh/nuphus-mcp
+released_at:
+  value: '2026-08-01'
+  precision: day
+added_at: '2026-08-03'
+last_verified_at: '2026-08-03'
+summary: 'Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard,
+  and Chrome via Model Context Protocol (stdio)'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/mrpulor-gh/nuphus-mcp
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/mrpulor-gh/nuphus-mcp
+  discovered_via: github
+  discovered_at: '2026-08-03'
+  source_id: R_kgDOTp_Gdw
+  source_metadata:
+    repository: mrpulor-gh/nuphus-mcp
+    stars: 27
+    language: Rust
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: mrpulor-gh/nuphus-mcp
+landmark: false
+programming_languages:
+- Rust
+maintenance_status: active

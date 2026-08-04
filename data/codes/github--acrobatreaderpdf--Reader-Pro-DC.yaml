@@ -1,0 +1,44 @@
+schema_version: 1
+id: code:github:acrobatreaderpdf/Reader-Pro-DC
+kind: code
+name: acrobatreaderpdf/Reader-Pro-DC
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-03'
+last_verified_at: '2026-08-03'
+summary: Pro DC Reader v26.001.21771 free download - best PDF editor for Windows 11/10 and top Adobe Acrobat
+  alternative. Edit text in PDFs, convert to Word, merge files, compress documents, add signatures and
+  fill forms. Reddit recommended as the best free option. Works offline, supports OCR for scanned pages.
+  No subscription required.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/acrobatreaderpdf/Reader-Pro-DC
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/acrobatreaderpdf/Reader-Pro-DC
+  discovered_via: github
+  discovered_at: '2026-08-03'
+  source_id: R_kgDOTrWvpQ
+  source_metadata:
+    repository: acrobatreaderpdf/Reader-Pro-DC
+    stars: 15
+    language: C#
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: acrobatreaderpdf/Reader-Pro-DC
+landmark: false
+programming_languages:
+- C#
+maintenance_status: active
