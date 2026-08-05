@@ -4,6 +4,52 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SeeWye/Nondeterministic_Finite_Automata_OCR_vtest](https://huggingface.co/datasets/SeeWye/Nondeterministic_Finite_Automata_OCR_vtest) | 2026-08-04 | text-recognition | candidate | — |
+| [p4ulbr4dl3y/passport-ocr-vlm](https://huggingface.co/datasets/p4ulbr4dl3y/passport-ocr-vlm) | 2026-08-04 | text-recognition | candidate | — |
+| [christinamaria/cord-v2-ocr](https://huggingface.co/datasets/christinamaria/cord-v2-ocr) | 2026-08-04 | text-recognition | candidate | 
+	
+		
+	
+	
+		CORD-v2 text-only — receipt OCR text → structured JSON
+	
+
+A text-only derivative of CORD-v2 (Consolidated Receipt Dataset; Park et al., 2019), the standard benchmark for document information extraction used by Donut and similar models. The original dataset pairs 1,000 receipt photos with a rich ground-truth schema (~30 field types across 4 groups, including menu line items). This version drops the images and pairs the OCR text of each receipt with its target parse, so text-only… See the full description on the dataset page: https://huggingface.co/datasets/christinamaria/cord-v2-ocr. |
+| [arolstar52/ocr-synthetic-multilingual-v1-tokenized-zh-hans](https://huggingface.co/datasets/arolstar52/ocr-synthetic-multilingual-v1-tokenized-zh-hans) | 2026-08-04 | text-recognition | candidate | — |
+| [Zeldeo/ocr-handwritten-receipt](https://huggingface.co/datasets/Zeldeo/ocr-handwritten-receipt) | 2026-08-03 | handwriting-recognition, text-recognition | candidate | — |
+| [Zeldeo/ocr-handwritten-labeled](https://huggingface.co/datasets/Zeldeo/ocr-handwritten-labeled) | 2026-08-03 | handwriting-recognition, text-recognition | candidate | — |
+| [swastikgahukar007/odia-ocr-benchmark](https://huggingface.co/datasets/swastikgahukar007/odia-ocr-benchmark) | 2026-08-03 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Odia OCR Benchmark Dataset
+	
+
+
+	
+		
+	
+	
+		Description
+	
+
+A curated benchmark dataset for evaluating OCR models on Odia (Oriya) text recognition.
+Contains handwritten, printed, scene text, newspaper, books, and digital categories,
+including both short samples and long-text examples for OCR evaluation.
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+
+id: Unique identifier for each sample
+image: The input image (PIL Image)
+ground_truth: The correct Odia text transcription
+category: Type of text… See the full description on the dataset page: https://huggingface.co/datasets/swastikgahukar007/odia-ocr-benchmark. |
 | [SeeWye/Nondeterministic_Finite_Automata_OCR_v2](https://huggingface.co/datasets/SeeWye/Nondeterministic_Finite_Automata_OCR_v2) | 2026-08-02 | text-recognition | candidate | — |
 | [BDRC/tibetan-ocr-diagnostic-benchmark](https://huggingface.co/datasets/BDRC/tibetan-ocr-diagnostic-benchmark) | 2026-08-02 | text-recognition | candidate | 
 	

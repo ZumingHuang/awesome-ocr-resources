@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Flippd/pinball-score-ocr
+kind: model
+name: Flippd/pinball-score-ocr
+released_at:
+  value: '2026-08-03'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Flippd/pinball-score-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Flippd/pinball-score-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-05'
+  source_id: Flippd/pinball-score-ocr
+  source_metadata:
+    repository_id: Flippd/pinball-score-ocr
+    downloads: 6
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: Flippd
+repository_id: Flippd/pinball-score-ocr
+deployment: []

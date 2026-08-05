@@ -4,6 +4,8 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [majiayu000/claude-skill-registry / skills/testing/casely/SKILL.md](https://github.com/majiayu000/claude-skill-registry/blob/b8100d817612892a8ea7613c13b5b8249b3af1b5/skills/testing/casely/SKILL.md) | 2026-08-05 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [majiayu000/claude-skill-registry / skills/other/compdf-toolkit/SKILL.md](https://github.com/majiayu000/claude-skill-registry/blob/b8100d817612892a8ea7613c13b5b8249b3af1b5/skills/other/compdf-toolkit/SKILL.md) | 2026-08-05 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [zhulei227/EasyMLOps / skills/SKILL.md](https://github.com/zhulei227/EasyMLOps/blob/50a136ddd1d1e67c2bcaca0949406800cff6a4e1/skills/SKILL.md) | 2026-08-02 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [ZhanlinCui/Agent-Skills-Hunter / docs/pdf/SKILL.md](https://github.com/ZhanlinCui/Agent-Skills-Hunter/blob/849c38a32dbbbf47f95b931d6d694aa105a37f76/docs/pdf/SKILL.md) | 2026-08-02 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [yaklang/hack-skills / skills/upload-insecure-files/SKILL.md](https://github.com/yaklang/hack-skills/blob/c9a4b9ee8645eb60763eb4eef172f1ecb0a5b3e8/skills/upload-insecure-files/SKILL.md) | 2026-08-02 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

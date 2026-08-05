@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:firecrawl/anydoc
+kind: code
+name: firecrawl/anydoc
+released_at:
+  value: '2026-08-03'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built
+  in Rust, with Node.js and Python bindings.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/firecrawl/anydoc
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/firecrawl/anydoc
+  discovered_via: github
+  discovered_at: '2026-08-05'
+  source_id: R_kgDOTsxOiw
+  source_metadata:
+    repository: firecrawl/anydoc
+    stars: 2082
+    language: Rust
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: firecrawl/anydoc
+landmark: false
+programming_languages:
+- Rust
+maintenance_status: active

@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:swastikgahukar007/odia-ocr-benchmark
+kind: dataset
+name: swastikgahukar007/odia-ocr-benchmark
+released_at:
+  value: '2026-08-03'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOdia OCR Benchmark Dataset\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDescription\n\
+  \t\n\nA curated benchmark dataset for evaluating OCR models on Odia (Oriya) text recognition.\nContains\
+  \ handwritten, printed, scene text, newspaper, books, and digital categories,\nincluding both short\
+  \ samples and long-text examples for OCR evaluation.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\
+  \n\nid: Unique identifier for each sample\nimage: The input image (PIL Image)\nground_truth: The correct\
+  \ Odia text transcription\ncategory: Type of text… See the full description on the dataset page: https://huggingface.co/datasets/swastikgahukar007/odia-ocr-benchmark."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/swastikgahukar007/odia-ocr-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/swastikgahukar007/odia-ocr-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-08-05'
+  source_id: swastikgahukar007/odia-ocr-benchmark
+  source_metadata:
+    repository_id: swastikgahukar007/odia-ocr-benchmark
+    downloads: 9
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: swastikgahukar007
+repository_id: swastikgahukar007/odia-ocr-benchmark
+usage: []
+annotations: []
+access: unknown

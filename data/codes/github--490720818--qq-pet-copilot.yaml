@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:490720818/qq-pet-copilot
+kind: code
+name: 490720818/qq-pet-copilot
+released_at:
+  value: '2026-07-31'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: 基于 uiautomator2 控件定位 + RapidOCR 文字识别的 QQ 宠物自动托管工具
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/490720818/qq-pet-copilot
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/490720818/qq-pet-copilot
+  discovered_via: github
+  discovered_at: '2026-08-05'
+  source_id: R_kgDOTpWrTA
+  source_metadata:
+    repository: 490720818/qq-pet-copilot
+    stars: 10
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: 490720818/qq-pet-copilot
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

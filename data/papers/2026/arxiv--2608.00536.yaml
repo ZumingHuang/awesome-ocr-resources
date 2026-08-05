@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:2608.00536
+kind: paper
+name: 'DocPO: Advancing Document Policy Optimization via Tailored Step-Aware Rewards'
+released_at:
+  value: '2026-08-01'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: 'Reinforcement learning (RL) for document parsing often relies on reference-based rewards rooted
+  in edit distance (e.g., tree edit distance), yet it remains hard to optimize in the high-accuracy regime
+  because such rewards become weakly discriminative: near-correct outputs receive very similar scores,
+  providing limited learning signal for hard cases. We propose Step-Aware Annealing (SAA), a plug-and-play
+  reward sharpening mechanism that progressively increases reward curvature during training, amplifying
+  subtle quality differences among high-scoring samples while preserving stability in early learning.
+  Built on SAA, we introduce DocPO, a document policy optimization framework with element-specific, reference-based
+  rewards anchored by edit-distance signals: normalized string edit distance (NED) for text, tree edit
+  distance similarity (TEDS) for tables, and a hybrid Rubric+edit reward for formulas. Experiments on
+  OmniDocBench and DocElemHard show that SAA consistently improves GRPO-style RL across document elements
+  over non-annealed rewards, without requiring additional human supervision for reward construction.'
+tasks:
+- formula-recognition
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.00536
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.00536
+  discovered_via: arxiv
+  discovered_at: '2026-08-05'
+  source_id: '2608.00536'
+  source_metadata:
+    arxiv_id: '2608.00536'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Yunhao Wang
+- Binghong Wu
+- Zhenyu Huang
+- Jiacheng Shi
+- Shuo Huang
+- Tinghao Yu
+- Feng Zhang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.00536'

@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:arxiv:2608.01565
+kind: paper
+name: 'DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document
+  Question Answering'
+released_at:
+  value: '2026-08-03'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: Answering complex questions over large document collections requires assembling complementary
+  evidence across sections and documents. GraphRAG offers structured retrieval but typically uses fixed
+  traversal, while agentic RAG operates over weakly structured interfaces. Our key insight is that agents
+  should navigate document structure within and across documents rather than repeatedly search from scratch.
+  We introduce DocNavRAG, which organizes document hierarchies and cross-region relations into a navigable
+  graph, exposes graph operations for locating, navigating, expanding, and fetching, and maintains an
+  evolving evidence state to guide retrieval until sufficient evidence is collected. Across four long-
+  and multi-document QA benchmarks, DocNavRAG improves answer quality and context sufficiency over the
+  strongest baseline by 7.8\% and 17.7\% on average.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.01565
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.01565
+  discovered_via: arxiv
+  discovered_at: '2026-08-05'
+  source_id: '2608.01565'
+  source_metadata:
+    arxiv_id: '2608.01565'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Dongyang Xie
+- Yao Tian
+- Hao Zhang
+- Yifei Yuan
+- Tieyun Qian
+- Ming Zhong
+- Jiawei Jiang
+- Yuanyuan Zhu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.01565'

@@ -1,0 +1,40 @@
+schema_version: 1
+id: code:github:RoyJHQin/OnmyojiClicker-Releases
+kind: code
+name: RoyJHQin/OnmyojiClicker-Releases
+released_at:
+  value: '2026-07-30'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: A lightweight configurable Onmyoji game click utility for macOS. 阴阳师自动战斗助手：OCR识别、界面和图形识别、点击配置、悬浮窗实时监控。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/RoyJHQin/OnmyojiClicker-Releases
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/RoyJHQin/OnmyojiClicker-Releases
+  discovered_via: github
+  discovered_at: '2026-08-05'
+  source_id: R_kgDOTntizg
+  source_metadata:
+    repository: RoyJHQin/OnmyojiClicker-Releases
+    stars: 10
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: RoyJHQin/OnmyojiClicker-Releases
+landmark: false
+programming_languages: []
+maintenance_status: active

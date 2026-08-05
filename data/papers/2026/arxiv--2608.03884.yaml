@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2608.03884
+kind: paper
+name: 'BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language
+  Models'
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: 'In-the-wild Bengali scene text recognition is largely unmeasured: existing resources target
+  handwritten documents or constrained sign-board parsing, report only aggregate edit-distance metrics,
+  and evaluate either conventional OCR or VLMs, never both on the same in-the-wild data. To address this
+  gap, we introduce BANGLAWILD, a benchmark of 2,535 Bengali scene text images, each paired with a verbatim
+  gold transcription, two categorical axes, four diagnostic attributes, and an orthographically standard
+  form where the in-image text deviates from canonical spelling. We evaluate fifteen VLMs and three conventional
+  OCR systems under three prompting strategies, fine-tune 6 open-source models with LoRA, and complement
+  edit-distance metrics with an LLM-as-a-Judge evaluation. Our results reveal a persistent gap in which
+  larger models within the same family do not outperform smaller ones. Our fifteen-class error taxonomy
+  shows that visual mis-recognition accounts for ~60% of errors in the strongest systems, while conjunct-related
+  errors contribute under 2%, challenging a long-standing assumption in Bengali OCR research; the same
+  visual dominant profile also holds across architectures, including the one conventional baseline that
+  reads Bengali reliably. Prompt language mainly affects cross-script drift and LoRA reduces catastrophic
+  failures in weak models without lifting the ceiling on already competent ones. Code and data will be
+  publicly released.'
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.03884
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.03884
+  discovered_via: arxiv
+  discovered_at: '2026-08-05'
+  source_id: '2608.03884'
+  source_metadata:
+    arxiv_id: '2608.03884'
+    doi: null
+    query: all:"scene text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Sadab Shiper
+- Tawsif Tashwar Dipto
+- Mir Md Inzamam
+- Eshat Tanzeem
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.03884'

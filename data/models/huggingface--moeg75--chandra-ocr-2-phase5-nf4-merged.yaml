@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:moeg75/chandra-ocr-2-phase5-nf4-merged
+kind: model
+name: moeg75/chandra-ocr-2-phase5-nf4-merged
+released_at:
+  value: '2026-08-03'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/moeg75/chandra-ocr-2-phase5-nf4-merged
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/moeg75/chandra-ocr-2-phase5-nf4-merged
+  discovered_via: huggingface
+  discovered_at: '2026-08-05'
+  source_id: moeg75/chandra-ocr-2-phase5-nf4-merged
+  source_metadata:
+    repository_id: moeg75/chandra-ocr-2-phase5-nf4-merged
+    downloads: 8
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: moeg75
+repository_id: moeg75/chandra-ocr-2-phase5-nf4-merged
+deployment: []

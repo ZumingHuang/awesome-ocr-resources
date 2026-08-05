@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:cinderprovostdepict/id-document-verification-guide
+kind: code
+name: cinderprovostdepict/id-document-verification-guide
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: A developer guide to ID document verification with OCR, MRZ parsing, authenticity checks, face
+  matching, and liveness detection
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/cinderprovostdepict/id-document-verification-guide
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/cinderprovostdepict/id-document-verification-guide
+  discovered_via: github
+  discovered_at: '2026-08-05'
+  source_id: R_kgDOTuJ86Q
+  source_metadata:
+    repository: cinderprovostdepict/id-document-verification-guide
+    stars: 15
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: cinderprovostdepict/id-document-verification-guide
+landmark: false
+programming_languages: []
+maintenance_status: active

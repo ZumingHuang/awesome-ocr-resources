@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:arxiv:2608.03161
+kind: paper
+name: Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: Lecture videos distribute knowledge across speech, slide text, diagrams, equations, and presentation
+  order, which transcript-only retrieval does not fully preserve. This paper presents an evidence-grounded
+  multimodal pipeline that transcribes lectures, selects semantic anchors, applies optical character recognition
+  (OCR), and uses a vision-language model to extract only concepts and typed relationships supported by
+  transcript, OCR, or visual evidence. Mentions are validated and canonicalized into a provenance-rich
+  knowledge graph. On three neural-network lectures, the pipeline processed 3,118 frames, 756 transcript
+  segments, and 559 anchors. It retained 1,022 concept and 312 relationship mentions, yielding 172 canonical
+  concepts and 282 relationships with 90.38% endpoint coverage. A preliminary three question retrieval
+  test achieved 100% top-1 and top-3 accuracy and 100% mean top-5 recall. The contribution is an auditable
+  construction method rather than a state-of-the-art performance claim.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.03161
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.03161
+  discovered_via: arxiv
+  discovered_at: '2026-08-05'
+  source_id: '2608.03161'
+  source_metadata:
+    arxiv_id: '2608.03161'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Sahil Al Farib
+- Momota Ahsana Meem
+- Sheikh Redwanul Islam
+- Md. Tanvir Raihan
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.03161'

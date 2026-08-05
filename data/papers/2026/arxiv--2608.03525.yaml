@@ -1,0 +1,102 @@
+schema_version: 1
+id: paper:arxiv:2608.03525
+kind: paper
+name: 'MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition'
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: 'In organic chemistry papers and patents, molecular structures, reaction schemes, and experimental
+  conditions are often presented as molecular structure depictions, reaction diagrams, and complex tables
+  or figures. Such information is difficult for general-purpose document parsing systems to directly convert
+  into machine-readable data. This limits data production for organic chemistry knowledge base construction
+  and for AI for Chemistry tasks such as reaction prediction, retrosynthesis, condition recommendation,
+  molecular property prediction, and drug molecule design. This report introduces MinerU.Chem, a document
+  parsing system for organic chemistry literature integrated into the MinerU online platform. Built on
+  top of MinerU''s general document parsing pipeline, MinerU.Chem adds five chemistry-specific modules:
+  chemistry relevance filtering, molecular structure detection, molecule identifier extraction, molecular
+  structure recognition, and reaction scheme parsing. Together, these modules convert organic-chemistry-related
+  image regions in documents into a Molecule Summary List and a Reaction Summary List. For molecular structure
+  recognition, MinerU.Chem uses CARBON (Complex Atomic Representation and Bonding Object Notation) as
+  its core representation. CARBON enables recognition results to preserve both the visual layout of the
+  original image and complex chemical semantics, while supporting the export of standard downstream formats
+  such as MolFile and SMILES. On the SMILES-evaluable subset of MolRecBench-Wild (N=2,392), MinerU.Chem''s
+  molecular structure recognition module achieves a SMILES exact-match accuracy of 93.02%, outperforming
+  the best evaluated comparison system, GPT-5.6-Sol (74.87%), by 18.15 percentage points. The system has
+  been integrated into the MinerU online platform and is available at https://mineru.net/OpenSourceTools/Extractor
+  .'
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.03525
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.03525
+  discovered_via: arxiv
+  discovered_at: '2026-08-05'
+  source_id: '2608.03525'
+  source_metadata:
+    arxiv_id: '2608.03525'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Haote Yang
+- Jiang Wu
+- Jingchao Wang
+- Xingjian Wei
+- Lixin Ma
+- Linye Li
+- Chen Zhu
+- Xiaolong Wu
+- Yuheng Lu
+- Ziran Zhu
+- Junyuan Gao
+- Lingli Ge
+- Yuan Xu
+- Huijie Ao
+- QianQian Wu
+- Dechen Lin
+- Huaiyu Gu
+- Lu Chen
+- Shengxin Lu
+- ShaSha Wang
+- Yuanyuan Cao
+- Zhejia Yu
+- Ruijie Zhang
+- Zimai Tian
+- Jiaxing Sun
+- Yinfan Wang
+- Jiahe Song
+- Chuang Wang
+- Yubin Wang
+- Rui Nie
+- Hao Zheng
+- Bowen Jiang
+- Hongbin Lai
+- Yifan He
+- Chengjin Liu
+- Tingting Zhang
+- Liqun Wei
+- Lijun Wu
+- Bin Wang
+- Yuqiang Li
+- Guangyu Wang
+- Wei Li
+- Bowen Zhou
+- Dahua Lin
+- Conghui He
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.03525'
