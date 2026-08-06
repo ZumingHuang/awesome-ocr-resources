@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:aniket-junghare/qwen2.5-vl-spanish-ocr-lora
+kind: model
+name: aniket-junghare/qwen2.5-vl-spanish-ocr-lora
+released_at:
+  value: '2026-08-05'
+  precision: day
+added_at: '2026-08-06'
+last_verified_at: '2026-08-06'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/aniket-junghare/qwen2.5-vl-spanish-ocr-lora
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/aniket-junghare/qwen2.5-vl-spanish-ocr-lora
+  discovered_via: huggingface
+  discovered_at: '2026-08-06'
+  source_id: aniket-junghare/qwen2.5-vl-spanish-ocr-lora
+  source_metadata:
+    repository_id: aniket-junghare/qwen2.5-vl-spanish-ocr-lora
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: aniket-junghare
+repository_id: aniket-junghare/qwen2.5-vl-spanish-ocr-lora
+deployment: []

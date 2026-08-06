@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:jswhitworth/ocr-demo-documents
+kind: dataset
+name: jswhitworth/ocr-demo-documents
+released_at:
+  value: '2026-08-05'
+  precision: day
+added_at: '2026-08-06'
+last_verified_at: '2026-08-06'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR Demo Documents — state court opinions\n\t\n\nPublic state appellate\
+  \ opinions parsed with\nbaidu/Unlimited-OCR, served on\nvLLM. Each document is published as the original\
+  \ PDF, the raw model output,\nthe converted HTML, and the PDF's own text layer.\n\n\t\n\t\t\n\t\n\t\n\
+  \t\tLayout\n\t\n\n\n\t\n\t\t\nPath\nContents\n\n\n\t\t\npdf/\nSource PDFs, exactly as downloaded from\
+  \ the court\n\n\npages/\nPage images fed to the model (PNG, 300 dpi)\n\n\nraw/\nUnmodified model output,\
+  \ including <|det|> layout markers\n\n\nhtml/\nConverted… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/jswhitworth/ocr-demo-documents."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/jswhitworth/ocr-demo-documents
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/jswhitworth/ocr-demo-documents
+  discovered_via: huggingface
+  discovered_at: '2026-08-06'
+  source_id: jswhitworth/ocr-demo-documents
+  source_metadata:
+    repository_id: jswhitworth/ocr-demo-documents
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: jswhitworth
+repository_id: jswhitworth/ocr-demo-documents
+usage: []
+annotations: []
+access: unknown

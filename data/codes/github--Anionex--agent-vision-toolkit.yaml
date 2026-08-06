@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:Anionex/agent-vision-toolkit
+kind: code
+name: Anionex/agent-vision-toolkit
+released_at:
+  value: '2026-08-01'
+  precision: day
+added_at: '2026-08-06'
+last_verified_at: '2026-08-06'
+summary: '给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi
+  ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG
+  - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Anionex/agent-vision-toolkit
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Anionex/agent-vision-toolkit
+  discovered_via: github
+  discovered_at: '2026-08-06'
+  source_id: R_kgDOTqEB_Q
+  source_metadata:
+    repository: Anionex/agent-vision-toolkit
+    stars: 306
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Anionex/agent-vision-toolkit
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

@@ -4,6 +4,84 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [PersianML/persian-ocr-benchmark](https://huggingface.co/datasets/PersianML/persian-ocr-benchmark) | 2026-08-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		Persian OCR Evaluation Dataset
+	
+
+This benchmark contains paired Persian document images and UTF-8 transcription
+targets for OCR evaluation. Each JSONL row references one image under
+bench_data/images/ and contains its transcription in the text field.
+
+	
+		
+	
+	
+		Schema
+	
+
+
+image: image path relative to the repository
+id: stable image identifier
+page: page number, currently 1
+type: evaluation item type, currently transcription
+text: reference transcription
+language: fa
+checked:… See the full description on the dataset page: https://huggingface.co/datasets/PersianML/persian-ocr-benchmark. |
+| [jswhitworth/ocr-demo-documents](https://huggingface.co/datasets/jswhitworth/ocr-demo-documents) | 2026-08-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR Demo Documents — state court opinions
+	
+
+Public state appellate opinions parsed with
+baidu/Unlimited-OCR, served on
+vLLM. Each document is published as the original PDF, the raw model output,
+the converted HTML, and the PDF's own text layer.
+
+	
+		
+	
+	
+		Layout
+	
+
+
+	
+		
+Path
+Contents
+
+
+		
+pdf/
+Source PDFs, exactly as downloaded from the court
+
+
+pages/
+Page images fed to the model (PNG, 300 dpi)
+
+
+raw/
+Unmodified model output, including <|det|> layout markers
+
+
+html/
+Converted… See the full description on the dataset page: https://huggingface.co/datasets/jswhitworth/ocr-demo-documents. |
+| [bhumika-tewari-282006/assistive-ocr-benchmark-results](https://huggingface.co/datasets/bhumika-tewari-282006/assistive-ocr-benchmark-results) | 2026-08-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		Assistive OCR — Benchmark Results
+	
+
+Real, reproducible benchmark results for the assistive OCR wearable module (offline, multilingual — English, Bengali+English, Hindi+English). This repository is self-contained: it holds the results, the ground-truth manifest, and the 98 real images they were computed from, so it can be run and demoed directly with no other dataset needed. (The same images are also published at Arko007/assistive-ocr-data-acquisition, folder… See the full description on the dataset page: https://huggingface.co/datasets/bhumika-tewari-282006/assistive-ocr-benchmark-results. |
 | [SeeWye/Nondeterministic_Finite_Automata_OCR_vtest](https://huggingface.co/datasets/SeeWye/Nondeterministic_Finite_Automata_OCR_vtest) | 2026-08-04 | text-recognition | candidate | — |
 | [p4ulbr4dl3y/passport-ocr-vlm](https://huggingface.co/datasets/p4ulbr4dl3y/passport-ocr-vlm) | 2026-08-04 | text-recognition | candidate | — |
 | [christinamaria/cord-v2-ocr](https://huggingface.co/datasets/christinamaria/cord-v2-ocr) | 2026-08-04 | text-recognition | candidate | 

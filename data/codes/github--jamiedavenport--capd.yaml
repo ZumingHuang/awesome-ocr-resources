@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:jamiedavenport/capd
+kind: code
+name: jamiedavenport/capd
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-06'
+last_verified_at: '2026-08-06'
+summary: Open-source native macOS capture and bookmarking app. A Pinboard successor with a menu-bar app
+  and CLI.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/jamiedavenport/capd
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/jamiedavenport/capd
+  discovered_via: github
+  discovered_at: '2026-08-06'
+  source_id: R_kgDOTrIrKg
+  source_metadata:
+    repository: jamiedavenport/capd
+    stars: 11
+    language: HTML
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: jamiedavenport/capd
+landmark: false
+programming_languages:
+- HTML
+maintenance_status: active
