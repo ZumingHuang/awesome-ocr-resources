@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:arxiv:2608.03617
+kind: paper
+name: A machine-readable catalogue of the Tsiolkovsky papers (fond 555, Archive of the Russian Academy
+  of Sciences), and a way to measure how well its handwriting can be read
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: 'The personal archive of Konstantin Tsiolkovsky (1857-1935) is held as fond 555 of the Archive
+  of the Russian Academy of Sciences. The archive scanned the fond and published the images, but with
+  no queryable catalogue, no full-text search and no dataset: the holdings can only be browsed one page
+  at a time. This paper describes a machine-readable catalogue of all 2,019 files and 51,008 scans, a
+  dating for 1,969 files taken from the archive''s own descriptions, a page-level classification of every
+  scan into handwriting and typescript, and a growing corpus of machine transcriptions (currently 322
+  files, 5,454 scans). It also reports a way to measure handwritten-text-recognition accuracy in an archive
+  with no ground truth. Archives of the typewriter era often preserve one text twice, as manuscript and
+  as a typed copy; transcribing both and comparing isolates the reading error, since source and pipeline
+  are identical and only page difficulty differs. Across 294 such pairs from 27 files, two readings of
+  a handwritten page agree on a median 37% of words. On two files that also have a published edition the
+  estimate can be checked against ground truth: it is unbiased to within a percentage point and ranks
+  pages as the truth does (rank correlation 0.92 where the edition is a faithful witness). This bounds
+  use: two variants of one work here share 19% of words, below the rate at which two readings of a single
+  page agree, so the redactions cannot be collated word by word at this quality. That negative result
+  is reported as such, and the constraint is built into the tool.'
+tasks:
+- handwriting-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.03617
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.03617
+  discovered_via: arxiv
+  discovered_at: '2026-08-05'
+  source_id: '2608.03617'
+  source_metadata:
+    arxiv_id: '2608.03617'
+    doi: null
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Vladimir Beskorovainyi
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.03617'

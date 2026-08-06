@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Bottomsuclimb/document-verification-explained
+kind: code
+name: Bottomsuclimb/document-verification-explained
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: A practitioner guide to document verification signals, failure modes, and design choices for
+  KYC, identity verification, and AML onboarding
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Bottomsuclimb/document-verification-explained
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Bottomsuclimb/document-verification-explained
+  discovered_via: github
+  discovered_at: '2026-08-05'
+  source_id: R_kgDOTtwEIA
+  source_metadata:
+    repository: Bottomsuclimb/document-verification-explained
+    stars: 15
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Bottomsuclimb/document-verification-explained
+landmark: false
+programming_languages: []
+maintenance_status: active

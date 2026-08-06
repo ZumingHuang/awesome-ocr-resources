@@ -1,0 +1,63 @@
+schema_version: 1
+id: paper:arxiv:2608.03292
+kind: paper
+name: 'DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning'
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: 'Long Document Visual Question Answering (LongDocVQA) requires Multimodal Large Language Models
+  (MLLMs) to locate, integrate, and reason over heterogeneous document elements distributed across multiple
+  pages. Existing approaches, including end-to-end MLLMs, retrieval-augmented generation (RAG) pipelines,
+  and document agents, often lack explicit mechanisms to represent and verify how grounded evidence is
+  progressively composed during reasoning, limiting both answer accuracy and traceability. In this paper,
+  we cast LongDocVQA as an explicit evidence graph reasoning problem rather than implicit answer prediction.
+  To this end, we propose DocTrace, a hierarchical framework that progressively performs evidence localization,
+  structured document parsing, and evidence graph reasoning to enable explicit evidence provenance. To
+  effectively learn these capabilities, we develop a two-stage training framework: joint Supervised Fine-Tuning
+  (SFT) first initializes evidence localization and graph reasoning abilities, followed by task-specific
+  Group Relative Policy Optimization (GRPO) with dedicated rewards to further optimize these capabilities.
+  Extensive experiments on MMLongBench-Doc, LongDocURL, and SlideVQA demonstrate that DocTrace consistently
+  outperforms both existing open-source baselines and proprietary MLLMs. Compared with the Qwen3-VL-8B-Instruct
+  backbone, DocTrace achieves absolute improvements of 14.4, 11.3, and 11.7 points on the three benchmarks,
+  respectively. Beyond competitive performance, DocTrace constructs traceable evidence graphs with explicit
+  node-level provenance, enabling transparent and verifiable reasoning for long document understanding.'
+tasks:
+- document-vqa
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.03292
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.03292
+  discovered_via: arxiv
+  discovered_at: '2026-08-05'
+  source_id: '2608.03292'
+  source_metadata:
+    arxiv_id: '2608.03292'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Le Xiang
+- Zhicheng Guan
+- Hong Chen
+- Xiaocong Lin
+- Zhenghua Lei
+- Teng Hu
+- Bolei He
+- Long Zeng
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.03292'

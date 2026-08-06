@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:danielwestofh4362/ebcc-field-assistant-app
+kind: code
+name: danielwestofh4362/ebcc-field-assistant-app
+released_at:
+  value: '2026-08-02'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: EBCC Field Assistant is a browser-based field operations PWA for construction foremen and crews,
+  combining job cost calculations, truck ticket OCR, load monitoring, and synchronized records in a 2026
+  release.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/danielwestofh4362/ebcc-field-assistant-app
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/danielwestofh4362/ebcc-field-assistant-app
+  discovered_via: github
+  discovered_at: '2026-08-05'
+  source_id: R_kgDOTrJpzw
+  source_metadata:
+    repository: danielwestofh4362/ebcc-field-assistant-app
+    stars: 40
+    language: HTML
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: danielwestofh4362/ebcc-field-assistant-app
+landmark: false
+programming_languages:
+- HTML
+maintenance_status: active

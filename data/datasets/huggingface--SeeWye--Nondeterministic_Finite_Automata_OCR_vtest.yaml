@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:SeeWye/Nondeterministic_Finite_Automata_OCR_vtest
+kind: dataset
+name: SeeWye/Nondeterministic_Finite_Automata_OCR_vtest
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/SeeWye/Nondeterministic_Finite_Automata_OCR_vtest
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/SeeWye/Nondeterministic_Finite_Automata_OCR_vtest
+  discovered_via: huggingface
+  discovered_at: '2026-08-05'
+  source_id: SeeWye/Nondeterministic_Finite_Automata_OCR_vtest
+  source_metadata:
+    repository_id: SeeWye/Nondeterministic_Finite_Automata_OCR_vtest
+    downloads: 2
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: SeeWye
+repository_id: SeeWye/Nondeterministic_Finite_Automata_OCR_vtest
+usage: []
+annotations: []
+access: unknown

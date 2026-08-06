@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Ohmmy3847/hurricane-ocr-tlpr-v1-LoRA
+kind: model
+name: Ohmmy3847/hurricane-ocr-tlpr-v1-LoRA
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Ohmmy3847/hurricane-ocr-tlpr-v1-LoRA
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Ohmmy3847/hurricane-ocr-tlpr-v1-LoRA
+  discovered_via: huggingface
+  discovered_at: '2026-08-05'
+  source_id: Ohmmy3847/hurricane-ocr-tlpr-v1-LoRA
+  source_metadata:
+    repository_id: Ohmmy3847/hurricane-ocr-tlpr-v1-LoRA
+    downloads: 5
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: Ohmmy3847
+repository_id: Ohmmy3847/hurricane-ocr-tlpr-v1-LoRA
+deployment: []

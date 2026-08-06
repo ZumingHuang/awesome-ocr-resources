@@ -1,13 +1,45 @@
 <!-- Generated from data/*.yaml. Do not edit directly. -->
 
 ## 2026
+**A machine-readable catalogue of the Tsiolkovsky papers (fond 555, Archive of the Russian Academy of Sciences), and a way to measure how well its handwriting can be read**
+Vladimir Beskorovainyi
+\[handwriting-recognition\]
+
+**BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models**
+Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
+\[handwriting-recognition\]\[text-recognition\]
+
+**DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**
+Dongyang Xie, Yao Tian, Hao Zhang, Yifei Yuan, Tieyun Qian, Ming Zhong, Jiawei Jiang, Yuanyuan Zhu
+\[document-vqa\]
+
+**DocPO: Advancing Document Policy Optimization via Tailored Step-Aware Rewards**
+Yunhao Wang, Binghong Wu, Zhenyu Huang, Jiacheng Shi, Shuo Huang, Tinghao Yu, Feng Zhang
+\[formula-recognition\]\[document-parsing\]
+
+**DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning**
+Le Xiang, Zhicheng Guan, Hong Chen, Xiaocong Lin, Zhenghua Lei, Teng Hu, Bolei He, Long Zeng
+\[document-vqa\]\[document-parsing\]
+
 **Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels**
 Zhuchenyang Liu, Yao Zhang, Yu Xiao
+\[document-parsing\]
+
+**Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning**
+Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan
+\[text-recognition\]
+
+**MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition**
+Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu, Xiaolong Wu, Yuheng Lu, Ziran Zhu, Junyuan Gao, Lingli Ge, Yuan Xu, Huijie Ao, QianQian Wu, Dechen Lin, Huaiyu Gu, Lu Chen, Shengxin Lu, ShaSha Wang, Yuanyuan Cao, Zhejia Yu, Ruijie Zhang, Zimai Tian, Jiaxing Sun, Yinfan Wang, Jiahe Song, Chuang Wang, Yubin Wang, Rui Nie, Hao Zheng, Bowen Jiang, Hongbin Lai, Yifan He, Chengjin Liu, Tingting Zhang, Liqun Wei, Lijun Wu, Bin Wang, Yuqiang Li, Guangyu Wang, Wei Li, Bowen Zhou, Dahua Lin, Conghui He
 \[document-parsing\]
 
 **One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting**
 Rui Tang, Wentao Yang, Peirong Zhang, Yongxin Shi, Shun Zhang, Huiguo He, Lianwen Jin
 \[formula-recognition\]\[text-spotting\]\[text-recognition\]
+
+**Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
+Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang
+\[handwriting-recognition\]\[text-recognition\]
 
 **When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents**
 Marina Gardella, Camilo Mari{ñ}o, Diego Belzarena, Ignacio Ram{í}rez, Gregory Randall, Jean-Michel Morel

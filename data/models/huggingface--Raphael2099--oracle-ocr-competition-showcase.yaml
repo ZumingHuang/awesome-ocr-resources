@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Raphael2099/oracle-ocr-competition-showcase
+kind: model
+name: Raphael2099/oracle-ocr-competition-showcase
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Raphael2099/oracle-ocr-competition-showcase
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Raphael2099/oracle-ocr-competition-showcase
+  discovered_via: huggingface
+  discovered_at: '2026-08-05'
+  source_id: Raphael2099/oracle-ocr-competition-showcase
+  source_metadata:
+    repository_id: Raphael2099/oracle-ocr-competition-showcase
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Raphael2099
+repository_id: Raphael2099/oracle-ocr-competition-showcase
+deployment: []

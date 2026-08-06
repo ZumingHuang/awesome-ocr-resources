@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:jwangkun/stepfun-vision-skill
+kind: code
+name: jwangkun/stepfun-vision-skill
+released_at:
+  value: '2026-08-03'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: Codex Skill：让纯文本模型（DeepSeek）借助 StepFun step-3.7-flash 获得看图能力 | Give text-only Codex models (DeepSeek)
+  image understanding via StepFun step-3.7-flash
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/jwangkun/stepfun-vision-skill
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/jwangkun/stepfun-vision-skill
+  discovered_via: github
+  discovered_at: '2026-08-05'
+  source_id: R_kgDOTsfB0A
+  source_metadata:
+    repository: jwangkun/stepfun-vision-skill
+    stars: 11
+    language: JavaScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: jwangkun/stepfun-vision-skill
+landmark: false
+programming_languages:
+- JavaScript
+maintenance_status: active

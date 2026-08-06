@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:eriklorenz84/bidguard-tender-comparison-hub
+kind: code
+name: eriklorenz84/bidguard-tender-comparison-hub
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: Offline-first desktop application designed for analyzing procurement tender documents, flagging
+  bid-rigging risks, identifying file contradictions, and exporting verified evidence reports locally.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/eriklorenz84/bidguard-tender-comparison-hub
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/eriklorenz84/bidguard-tender-comparison-hub
+  discovered_via: github
+  discovered_at: '2026-08-05'
+  source_id: R_kgDOTtwKjw
+  source_metadata:
+    repository: eriklorenz84/bidguard-tender-comparison-hub
+    stars: 47
+    language: HTML
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: eriklorenz84/bidguard-tender-comparison-hub
+landmark: false
+programming_languages:
+- HTML
+maintenance_status: active

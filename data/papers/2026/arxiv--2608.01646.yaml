@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:arxiv:2608.01646
+kind: paper
+name: 'Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition'
+released_at:
+  value: '2026-08-03'
+  precision: day
+added_at: '2026-08-05'
+last_verified_at: '2026-08-05'
+summary: 'Handwritten Text Recognition (HTR) is computationally imbalanced in two ways: most image pixels
+  are background, and many width-axis sequence positions are blank-dominated. This creates a mismatch
+  for Spiking Neural Networks (SNNs): handwriting is observed as a static image, whereas spiking computation
+  unfolds over timesteps. We propose Spike-HTR, a hybrid spiking recognizer that controls both the number
+  of spiking steps and the number of width positions processed by the deep sequence mixer. To make a static
+  image suitable for short-horizon spiking inference, InkCoder converts it into a coarse-to-fine input
+  stream, where early steps cover broad stroke regions and later steps emphasize sharper stroke details.
+  To reduce sequence computation, a CTC-guided length reducer keeps likely character or uncertain positions
+  and compresses long blank-dominated stretches before deep mixing. With $T{=}2$, Spike-HTR trains only
+  on target data, decodes without language models or lexicons, and reaches validation/test CERs of 3.5/5.4,
+  2.3/2.5, and 4.2/3.9 on IAM, LAM, and READ2016. Codes are available at https://github.com/QomolangmaH/SpikeHTR.'
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.01646
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.01646
+  discovered_via: arxiv
+  discovered_at: '2026-08-05'
+  source_id: '2608.01646'
+  source_metadata:
+    arxiv_id: '2608.01646'
+    doi: null
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Xiubo Liang
+- Jinxing Han
+- Yuke Li
+- Haoqi Zhu
+- Yu Zhao
+- Hongzhi Wang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.01646'
