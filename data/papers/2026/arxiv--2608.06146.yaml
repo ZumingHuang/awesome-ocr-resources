@@ -1,0 +1,66 @@
+schema_version: 1
+id: paper:arxiv:2608.06146
+kind: paper
+name: 'PaDoc: Layout-Grounded Parallel Decoding for Document Parsing'
+released_at:
+  value: '2026-08-06'
+  precision: day
+added_at: '2026-08-07'
+last_verified_at: '2026-08-07'
+summary: 'End-to-end document parsers provide a unified interface, but serialize page layouts and regional
+  contents into one autoregressive sequence. This formulation forces independent regions onto a decoding
+  path whose length grows with the total content, whereas crop-based two-stage parsers expose region-level
+  parallelism at the cost of repeated visual prefills and fragmented page context. To retain full-page
+  context while removing dependencies, we propose PaDoc, a layout-grounded parser that treats the predicted
+  layout as a branching structure over a shared page representation. Under a region-sufficiency assumption,
+  we derive a prefix-conditioned factorization in which the layout stream and regional content branches
+  advance concurrently, reducing the decoding depth to the longest layout-content path. We realize this
+  factorization within a single MLLM: packed variable-length ancestor attention preserves the visibility
+  under standard next-token training, while masked parallel decoding creates branches that the evaluated
+  vLLM backend serves as concurrent requests with cache-resident shared-prefix reuse. On OmniDocBench
+  Full, PaDoc attains an Overall layout F1 of 91.1 and, among end-to-end parsers, a top-tier Overall score
+  of 94.24 together with the best Text Edit (0.038) and Formula CDM (95.59). On a 384-page subset and
+  one A800 GPU, it is the fastest end-to-end parser at five concurrency levels, improving valid-page throughput
+  by 67.4-118% and reducing P95 latency by 39.2-54.9% relative to a same-backbone Sequential SFT baseline.
+  Code is available at https://github.com/Longin-Yu/Padoc'
+tasks:
+- formula-recognition
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.06146
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.06146
+  discovered_via: arxiv
+  discovered_at: '2026-08-07'
+  source_id: '2608.06146'
+  source_metadata:
+    arxiv_id: '2608.06146'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Hao Yu
+- Jiabo Zhan
+- Kang Liu
+- Linnan Zhao
+- Dongxu Yue
+- Rui Chen
+- Jinglin Wang
+- Chong Sun
+- Chen Li
+- Jing Lyu
+- Chun Yuan
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.06146'

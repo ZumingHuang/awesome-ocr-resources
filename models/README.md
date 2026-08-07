@@ -4,6 +4,8 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8) | 2026-08-06 | text-recognition | candidate | — |
+| [lokeshe09/gemma-4-31B-it-SFT_OCRRR](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRR) | 2026-08-06 | text-recognition | candidate | — |
 | [Saniya-s/qwen2-vl-2b-mulkiya-ocr](https://huggingface.co/Saniya-s/qwen2-vl-2b-mulkiya-ocr) | 2026-08-05 | text-recognition | candidate | — |
 | [Quicksilvera9k8/qwen2.5-vl-spanish-ocr-lora](https://huggingface.co/Quicksilvera9k8/qwen2.5-vl-spanish-ocr-lora) | 2026-08-05 | text-recognition | candidate | — |
 | [phucdu/OCR_vie_v2](https://huggingface.co/phucdu/OCR_vie_v2) | 2026-08-05 | text-recognition | candidate | — |
