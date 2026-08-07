@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [wentorai/Research-Claw / skills/research-tools-router/SKILL.md](https://github.com/wentorai/Research-Claw/blob/de1d1e921ba0526a6437dd9a981e32e3bdc5491e/skills/research-tools-router/SKILL.md) | 2026-08-06 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [majiayu000/claude-skill-registry / skills/testing/casely/SKILL.md](https://github.com/majiayu000/claude-skill-registry/blob/b8100d817612892a8ea7613c13b5b8249b3af1b5/skills/testing/casely/SKILL.md) | 2026-08-05 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [majiayu000/claude-skill-registry / skills/other/compdf-toolkit/SKILL.md](https://github.com/majiayu000/claude-skill-registry/blob/b8100d817612892a8ea7613c13b5b8249b3af1b5/skills/other/compdf-toolkit/SKILL.md) | 2026-08-05 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [zhulei227/EasyMLOps / skills/SKILL.md](https://github.com/zhulei227/EasyMLOps/blob/50a136ddd1d1e67c2bcaca0949406800cff6a4e1/skills/SKILL.md) | 2026-08-02 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

@@ -4,6 +4,16 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Saniya-s/qwen2-vl-2b-mulkiya-ocr](https://huggingface.co/Saniya-s/qwen2-vl-2b-mulkiya-ocr) | 2026-08-05 | text-recognition | candidate | — |
+| [Quicksilvera9k8/qwen2.5-vl-spanish-ocr-lora](https://huggingface.co/Quicksilvera9k8/qwen2.5-vl-spanish-ocr-lora) | 2026-08-05 | text-recognition | candidate | — |
+| [phucdu/OCR_vie_v2](https://huggingface.co/phucdu/OCR_vie_v2) | 2026-08-05 | text-recognition | candidate | — |
+| [not-bhattey/qwen35-nepali-ocr-lora_6000](https://huggingface.co/not-bhattey/qwen35-nepali-ocr-lora_6000) | 2026-08-05 | text-recognition | candidate | — |
+| [kayodet007/cola-qwen2-vl-2b-ocr](https://huggingface.co/kayodet007/cola-qwen2-vl-2b-ocr) | 2026-08-05 | text-recognition | candidate | — |
+| [Intel/ocr-text-recognition](https://huggingface.co/Intel/ocr-text-recognition) | 2026-08-05 | text-recognition | candidate | — |
+| [HamzaBukhari/f3-glm-ocr-engine](https://huggingface.co/HamzaBukhari/f3-glm-ocr-engine) | 2026-08-05 | text-recognition | candidate | — |
+| [cmack64/PP-OCRv6_tiny_rec_onnx](https://huggingface.co/cmack64/PP-OCRv6_tiny_rec_onnx) | 2026-08-05 | text-recognition | candidate | — |
+| [cmack64/PP-OCRv6_tiny_det_onnx](https://huggingface.co/cmack64/PP-OCRv6_tiny_det_onnx) | 2026-08-05 | text-recognition | candidate | — |
+| [aniket-junghare/qwen2.5-vl-spanish-ocr-lora](https://huggingface.co/aniket-junghare/qwen2.5-vl-spanish-ocr-lora) | 2026-08-05 | text-recognition | candidate | — |
 | [Raphael2099/oracle-ocr-competition-showcase](https://huggingface.co/Raphael2099/oracle-ocr-competition-showcase) | 2026-08-04 | text-recognition | candidate | — |
 | [phucdu/Qwen2.5-VL-7B-OCR-vie](https://huggingface.co/phucdu/Qwen2.5-VL-7B-OCR-vie) | 2026-08-04 | text-recognition | candidate | — |
 | [Ohmmy3847/hurricane-ocr-tlpr-v1-LoRA](https://huggingface.co/Ohmmy3847/hurricane-ocr-tlpr-v1-LoRA) | 2026-08-04 | text-recognition | candidate | — |

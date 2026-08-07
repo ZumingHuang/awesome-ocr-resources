@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:wentorai/Research-Claw:skills-research-tools-router-skill-md
+kind: skill
+name: wentorai/Research-Claw / skills/research-tools-router/SKILL.md
+released_at:
+  value: '2026-08-06'
+  precision: day
+added_at: '2026-08-06'
+last_verified_at: '2026-08-06'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/wentorai/Research-Claw/blob/de1d1e921ba0526a6437dd9a981e32e3bdc5491e/skills/research-tools-router/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/wentorai/Research-Claw/blob/de1d1e921ba0526a6437dd9a981e32e3bdc5491e/skills/research-tools-router/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-06'
+  source_id: wentorai/Research-Claw:skills/research-tools-router/SKILL.md
+  source_metadata:
+    repository: wentorai/Research-Claw
+    manifest_path: skills/research-tools-router/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: wentorai/Research-Claw
+manifest_path: skills/research-tools-router/SKILL.md
+capabilities: {}
