@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Moonlit-Pages/AIGC-Detector-Rewriter-Skill / SKILL.md](https://github.com/Moonlit-Pages/AIGC-Detector-Rewriter-Skill/blob/84f93cd4ac15477e363229e0dfa690091bb689d9/SKILL.md) | 2026-08-08 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [wentorai/Research-Claw / skills/research-tools-router/SKILL.md](https://github.com/wentorai/Research-Claw/blob/de1d1e921ba0526a6437dd9a981e32e3bdc5491e/skills/research-tools-router/SKILL.md) | 2026-08-06 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [majiayu000/claude-skill-registry / skills/testing/casely/SKILL.md](https://github.com/majiayu000/claude-skill-registry/blob/b8100d817612892a8ea7613c13b5b8249b3af1b5/skills/testing/casely/SKILL.md) | 2026-08-05 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [majiayu000/claude-skill-registry / skills/other/compdf-toolkit/SKILL.md](https://github.com/majiayu000/claude-skill-registry/blob/b8100d817612892a8ea7613c13b5b8249b3af1b5/skills/other/compdf-toolkit/SKILL.md) | 2026-08-05 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

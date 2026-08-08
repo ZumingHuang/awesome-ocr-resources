@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:developerjeremylive/Unlimited-OCR-etheroi
+kind: model
+name: developerjeremylive/Unlimited-OCR-etheroi
+released_at:
+  value: '2026-08-07'
+  precision: day
+added_at: '2026-08-08'
+last_verified_at: '2026-08-08'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/developerjeremylive/Unlimited-OCR-etheroi
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/developerjeremylive/Unlimited-OCR-etheroi
+  discovered_via: huggingface
+  discovered_at: '2026-08-08'
+  source_id: developerjeremylive/Unlimited-OCR-etheroi
+  source_metadata:
+    repository_id: developerjeremylive/Unlimited-OCR-etheroi
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: developerjeremylive
+repository_id: developerjeremylive/Unlimited-OCR-etheroi
+deployment: []

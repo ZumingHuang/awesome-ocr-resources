@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:musafa901/Unlimited-OCR
+kind: model
+name: musafa901/Unlimited-OCR
+released_at:
+  value: '2026-08-07'
+  precision: day
+added_at: '2026-08-08'
+last_verified_at: '2026-08-08'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/musafa901/Unlimited-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/musafa901/Unlimited-OCR
+  discovered_via: huggingface
+  discovered_at: '2026-08-08'
+  source_id: musafa901/Unlimited-OCR
+  source_metadata:
+    repository_id: musafa901/Unlimited-OCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: musafa901
+repository_id: musafa901/Unlimited-OCR
+deployment: []

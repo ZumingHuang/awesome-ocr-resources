@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
+kind: model
+name: lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
+released_at:
+  value: '2026-08-06'
+  precision: day
+added_at: '2026-08-08'
+last_verified_at: '2026-08-08'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
+  discovered_via: huggingface
+  discovered_at: '2026-08-08'
+  source_id: lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
+  source_metadata:
+    repository_id: lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: lokeshe09
+repository_id: lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
+deployment: []
