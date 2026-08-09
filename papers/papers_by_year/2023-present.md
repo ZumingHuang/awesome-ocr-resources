@@ -37,6 +37,10 @@ Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu,
 Rui Tang, Wentao Yang, Peirong Zhang, Yongxin Shi, Shun Zhang, Huiguo He, Lianwen Jin
 \[formula-recognition\]\[text-spotting\]\[text-recognition\]
 
+**PaDoc: Layout-Grounded Parallel Decoding for Document Parsing**
+Hao Yu, Jiabo Zhan, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
+\[formula-recognition\]\[document-parsing\]
+
 **Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
 Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang
 \[handwriting-recognition\]\[text-recognition\]

@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:menghuanshiguang/deepseek-vision-cli
+kind: code
+name: menghuanshiguang/deepseek-vision-cli
+released_at:
+  value: '2026-08-04'
+  precision: day
+added_at: '2026-08-07'
+last_verified_at: '2026-08-07'
+summary: '🚀 让不支持视觉的大模型获得真·图片理解能力: 零安装、不破解PoW、OpenCV自动过登录验证码、用后即删的 DeepSeek C端识图模式 CLI'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/menghuanshiguang/deepseek-vision-cli
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/menghuanshiguang/deepseek-vision-cli
+  discovered_via: github
+  discovered_at: '2026-08-07'
+  source_id: R_kgDOTtc-OA
+  source_metadata:
+    repository: menghuanshiguang/deepseek-vision-cli
+    stars: 14
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: menghuanshiguang/deepseek-vision-cli
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active
