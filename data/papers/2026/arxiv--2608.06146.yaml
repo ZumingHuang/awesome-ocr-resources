@@ -5,8 +5,8 @@ name: 'PaDoc: Layout-Grounded Parallel Decoding for Document Parsing'
 released_at:
   value: '2026-08-06'
   precision: day
-added_at: '2026-08-07'
-last_verified_at: '2026-08-07'
+added_at: '2026-08-08'
+last_verified_at: '2026-08-08'
 summary: 'End-to-end document parsers provide a unified interface, but serialize page layouts and regional
   contents into one autoregressive sequence. This formulation forces independent regions onto a decoding
   path whose length grows with the total content, whereas crop-based two-stage parsers expose region-level
@@ -38,7 +38,7 @@ relations: []
 provenance:
   canonical_source: https://arxiv.org/abs/2608.06146
   discovered_via: arxiv
-  discovered_at: '2026-08-07'
+  discovered_at: '2026-08-08'
   source_id: '2608.06146'
   source_metadata:
     arxiv_id: '2608.06146'

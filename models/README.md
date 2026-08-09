@@ -4,6 +4,12 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [ragul2607/surya-ocr-2-gguf](https://huggingface.co/ragul2607/surya-ocr-2-gguf) | 2026-08-07 | text-recognition | candidate | — |
+| [musafa901/Unlimited-OCR](https://huggingface.co/musafa901/Unlimited-OCR) | 2026-08-07 | text-recognition | candidate | — |
+| [iaa2005/PP-OCRv5_mobile_det_onnx](https://huggingface.co/iaa2005/PP-OCRv5_mobile_det_onnx) | 2026-08-07 | text-recognition | candidate | — |
+| [iaa2005/GLM-OCR-ONNX](https://huggingface.co/iaa2005/GLM-OCR-ONNX) | 2026-08-07 | text-recognition | candidate | — |
+| [developerjeremylive/Unlimited-OCR-etheroi](https://huggingface.co/developerjeremylive/Unlimited-OCR-etheroi) | 2026-08-07 | text-recognition | candidate | — |
+| [122Uswa/urdu-ocr-codesaviours-si26-uswa](https://huggingface.co/122Uswa/urdu-ocr-codesaviours-si26-uswa) | 2026-08-07 | text-recognition | candidate | — |
 | [lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8) | 2026-08-06 | text-recognition | candidate | — |
 | [lokeshe09/gemma-4-31B-it-SFT_OCRRR](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRR) | 2026-08-06 | text-recognition | candidate | — |
 | [Saniya-s/qwen2-vl-2b-mulkiya-ocr](https://huggingface.co/Saniya-s/qwen2-vl-2b-mulkiya-ocr) | 2026-08-05 | text-recognition | candidate | — |

@@ -5,8 +5,8 @@ name: lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
 released_at:
   value: '2026-08-06'
   precision: day
-added_at: '2026-08-07'
-last_verified_at: '2026-08-07'
+added_at: '2026-08-08'
+last_verified_at: '2026-08-08'
 summary: ''
 tasks:
 - text-recognition
@@ -22,7 +22,7 @@ relations: []
 provenance:
   canonical_source: https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
   discovered_via: huggingface
-  discovered_at: '2026-08-07'
+  discovered_at: '2026-08-08'
   source_id: lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8
   source_metadata:
     repository_id: lokeshe09/gemma-4-31B-it-SFT_OCRRR-INT8

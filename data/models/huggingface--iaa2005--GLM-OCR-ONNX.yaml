@@ -1,9 +1,9 @@
 schema_version: 1
-id: model:huggingface:lokeshe09/gemma-4-31B-it-SFT_OCRRR
+id: model:huggingface:iaa2005/GLM-OCR-ONNX
 kind: model
-name: lokeshe09/gemma-4-31B-it-SFT_OCRRR
+name: iaa2005/GLM-OCR-ONNX
 released_at:
-  value: '2026-08-06'
+  value: '2026-08-07'
   precision: day
 added_at: '2026-08-08'
 last_verified_at: '2026-08-08'
@@ -15,17 +15,17 @@ modalities:
 languages:
 - unspecified
 links:
-  canonical: https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRR
+  canonical: https://huggingface.co/iaa2005/GLM-OCR-ONNX
 license:
   name: NOASSERTION
 relations: []
 provenance:
-  canonical_source: https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRR
+  canonical_source: https://huggingface.co/iaa2005/GLM-OCR-ONNX
   discovered_via: huggingface
   discovered_at: '2026-08-08'
-  source_id: lokeshe09/gemma-4-31B-it-SFT_OCRRR
+  source_id: iaa2005/GLM-OCR-ONNX
   source_metadata:
-    repository_id: lokeshe09/gemma-4-31B-it-SFT_OCRRR
+    repository_id: iaa2005/GLM-OCR-ONNX
     downloads: 0
     likes: 0
     query: OCR
@@ -33,6 +33,6 @@ provenance:
 curation:
   status: candidate
   relevance_score: 82
-provider: lokeshe09
-repository_id: lokeshe09/gemma-4-31B-it-SFT_OCRRR
+provider: iaa2005
+repository_id: iaa2005/GLM-OCR-ONNX
 deployment: []

@@ -4,7 +4,58 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
-| [boffire/adlis-pdfs-ocr-kab](https://huggingface.co/datasets/boffire/adlis-pdfs-ocr-kab) | 2026-08-06 | text-recognition | candidate | — |
+| [jpeglle/epstein-files-ocr-complete](https://huggingface.co/datasets/jpeglle/epstein-files-ocr-complete) | 2026-08-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		Epstein Files — Complete OCR Dataset
+	
+
+
+This is a comprehensive, structured publication of the Epstein Files OCR dataset, significantly expanding upon the earlier Datasets 1-8 release.
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This dataset contains page-level OCR output compiled from an extensive release of documents related to Jeffrey Epstein / the Epstein case.
+Each row in this dataset represents one scanned PDF document from the original release using a proprietary automated OCR pipeline… See the full description on the dataset page: https://huggingface.co/datasets/jpeglle/epstein-files-ocr-complete. |
+| [alphabot2/07-08-2026_OCR_Bimanual](https://huggingface.co/datasets/alphabot2/07-08-2026_OCR_Bimanual) | 2026-08-07 | text-recognition | candidate | This dataset was created using LeRobot.
+
+
+
+
+
+
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    "codebase_version": "v3.0",
+    "robot_type": "aibot2",
+    "total_episodes": 37,
+    "total_frames": 17770,
+    "total_tasks": 1,
+    "chunks_size": 1000,
+    "data_files_size_in_mb": 100,
+    "video_files_size_in_mb": 200,
+    "fps": 10,
+    "splits": {
+        "train": "0:37"
+    },
+    "data_path": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "video_path":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/07-08-2026_OCR_Bimanual. |
 | [PersianML/persian-ocr-benchmark](https://huggingface.co/datasets/PersianML/persian-ocr-benchmark) | 2026-08-05 | text-recognition | candidate | 
 	
 		

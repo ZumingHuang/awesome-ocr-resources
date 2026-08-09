@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:hufeng173/kunpeng-skill
+kind: code
+name: hufeng173/kunpeng-skill
+released_at:
+  value: '2026-08-06'
+  precision: day
+added_at: '2026-08-08'
+last_verified_at: '2026-08-08'
+summary: Kunpeng-Skill is a powerful multimodal distillation toolkit that transforms high-value insights
+  from repositories, websites, UIs, videos, images, and documents into reusable methodologies, model-agnostic
+  regeneration specifications, and more.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/hufeng173/kunpeng-skill
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/hufeng173/kunpeng-skill
+  discovered_via: github
+  discovered_at: '2026-08-08'
+  source_id: R_kgDOTv7XQg
+  source_metadata:
+    repository: hufeng173/kunpeng-skill
+    stars: 13
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: hufeng173/kunpeng-skill
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active
