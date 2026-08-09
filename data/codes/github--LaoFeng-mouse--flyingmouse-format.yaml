@@ -5,29 +5,11 @@ name: LaoFeng-mouse/flyingmouse-format
 released_at:
   value: '2026-08-06'
   precision: day
-added_at: '2026-08-08'
-last_verified_at: '2026-08-08'
-summary: 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS
-  格式互转 + OCR + 批量转换
-tasks:
-- text-recognition
-modalities:
-- unspecified
-languages:
-- unspecified
-links:
-  canonical: https://github.com/LaoFeng-mouse/flyingmouse-format
-license:
-  name: NOASSERTION
-relations: []
-provenance:
-  canonical_source: https://github.com/LaoFeng-mouse/flyingmouse-format
-  discovered_via: github
-  discovered_at: '2026-08-08'
+  discovered_at: '2026-08-07'
   source_id: R_kgDOTvWWMQ
   source_metadata:
     repository: LaoFeng-mouse/flyingmouse-format
-    stars: 41
+    stars: 29
     language: JavaScript
     archived: false
     query: OCR in:name,description,readme

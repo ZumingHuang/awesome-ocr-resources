@@ -22,6 +22,7 @@ A structured and human-curated collection of OCR and Document AI resources. Auto
 ## Latest Updates
 
 - [2026-08-08](updates/2026/2026-08-08.md)
+- [2026-08-07](updates/2026/2026-08-07.md)
 - [2026-08-06](updates/2026/2026-08-06.md)
 - [2026-08-05](updates/2026/2026-08-05.md)
 - [2026-08-03](updates/2026/2026-08-03.md)
