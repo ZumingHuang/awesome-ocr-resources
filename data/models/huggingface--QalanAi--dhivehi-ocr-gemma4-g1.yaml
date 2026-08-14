@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:QalanAi/dhivehi-ocr-gemma4-g1
+kind: model
+name: QalanAi/dhivehi-ocr-gemma4-g1
+released_at:
+  value: '2026-08-13'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/QalanAi/dhivehi-ocr-gemma4-g1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/QalanAi/dhivehi-ocr-gemma4-g1
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: QalanAi/dhivehi-ocr-gemma4-g1
+  source_metadata:
+    repository_id: QalanAi/dhivehi-ocr-gemma4-g1
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: QalanAi
+repository_id: QalanAi/dhivehi-ocr-gemma4-g1
+deployment: []

@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:NeuralMetrics/invoices-and-receipts-ocr-v1
+kind: dataset
+name: NeuralMetrics/invoices-and-receipts-ocr-v1
+released_at:
+  value: '2026-08-09'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: "\n\n\n\t\n\t\t\n\t\n\t\n\t\tNeural Metrics · Receipts too - the hardest easy documents.\n\t\n\
+  \n\n\n\n\n\nInvoices and receipts with OCR annotations. Receipts are deceptively hard: thermal print\
+  \ fades, columns drift, and the total is rarely where you expect it.\nWe use it for: expanding coverage\
+  \ beyond clean A4 invoices - stress-testing line-item table extraction.\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Attribution\n\t\n\nThis is an unmodified fork of mychen76/invoices-and-receipts_ocr_v1, created by the\
+  \ Qwen team.\nAll weights, files and behaviour… See the full description on the dataset page: https://huggingface.co/datasets/NeuralMetrics/invoices-and-receipts-ocr-v1."
+tasks:
+- table-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/NeuralMetrics/invoices-and-receipts-ocr-v1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/NeuralMetrics/invoices-and-receipts-ocr-v1
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: NeuralMetrics/invoices-and-receipts-ocr-v1
+  source_metadata:
+    repository_id: NeuralMetrics/invoices-and-receipts-ocr-v1
+    downloads: 33
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: NeuralMetrics
+repository_id: NeuralMetrics/invoices-and-receipts-ocr-v1
+usage: []
+annotations: []
+access: unknown

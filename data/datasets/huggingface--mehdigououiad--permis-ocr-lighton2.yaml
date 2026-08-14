@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:mehdigououiad/permis-ocr-lighton2
+kind: dataset
+name: mehdigououiad/permis-ocr-lighton2
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR using LightOnOCR-2-1B\n\t\n\nThis dataset contains OCR\
+  \ results from images in mehdigououiad/permis-ocr-bench using LightOnOCR-2, a fast and compact 1B OCR\
+  \ model trained with RLVR.\n\n\t\n\t\t\n\t\n\t\n\t\tProcessing Details\n\t\n\n\nSource Dataset: mehdigououiad/permis-ocr-bench\n\
+  Model: lightonai/LightOnOCR-2-1B\nNumber of Samples: 2\nProcessing Time: 1.8 min\nProcessing Date: 2026-08-11\
+  \ 13:50 UTC\n\n\n\t\n\t\t\n\t\n\t\n\t\tConfiguration\n\t\n\n\nImage Column: image\nOutput Column: markdown\n\
+  Dataset Split: train… See the full description on the dataset page: https://huggingface.co/datasets/mehdigououiad/permis-ocr-lighton2."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/mehdigououiad/permis-ocr-lighton2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/mehdigououiad/permis-ocr-lighton2
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: mehdigououiad/permis-ocr-lighton2
+  source_metadata:
+    repository_id: mehdigououiad/permis-ocr-lighton2
+    downloads: 18
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: mehdigououiad
+repository_id: mehdigououiad/permis-ocr-lighton2
+usage: []
+annotations: []
+access: unknown

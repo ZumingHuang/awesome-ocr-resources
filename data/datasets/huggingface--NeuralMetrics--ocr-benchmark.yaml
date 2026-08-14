@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:NeuralMetrics/ocr-benchmark
+kind: dataset
+name: NeuralMetrics/ocr-benchmark
+released_at:
+  value: '2026-08-09'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: "\n\n\n\t\n\t\t\n\t\n\t\n\t\tNeural Metrics · How good is your OCR, really?\n\t\n\n\n\n\n\n\n\
+  A benchmark of real documents paired with ground-truth JSON, designed to score end-to-end accuracy rather\
+  \ than raw character error rate. That distinction matters: an OCR pass can be 99% correct at the character\
+  \ level and still get the invoice total wrong.\nWe use it for: scoring candidate OCR models on the metric\
+  \ that actually pays the bills - regression testing before a model swap.\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Attribution\n\t\n\nThis is an… See the full description on the dataset page: https://huggingface.co/datasets/NeuralMetrics/ocr-benchmark."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/NeuralMetrics/ocr-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/NeuralMetrics/ocr-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: NeuralMetrics/ocr-benchmark
+  source_metadata:
+    repository_id: NeuralMetrics/ocr-benchmark
+    downloads: 67
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: NeuralMetrics
+repository_id: NeuralMetrics/ocr-benchmark
+usage: []
+annotations: []
+access: unknown

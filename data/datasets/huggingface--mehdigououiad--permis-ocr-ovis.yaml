@@ -1,0 +1,47 @@
+schema_version: 1
+id: dataset:huggingface:mehdigououiad/permis-ocr-ovis
+kind: dataset
+name: mehdigououiad/permis-ocr-ovis
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR using OvisOCR2\n\t\n\nThis dataset contains OCR results\
+  \ from images in mehdigououiad/permis-ocr-bench using OvisOCR2, a compact 0.9B document parsing model\
+  \ (96.58 on OmniDocBench v1.6).\n\n\t\n\t\t\n\t\n\t\n\t\tProcessing Details\n\t\n\n\nSource Dataset:\
+  \ mehdigououiad/permis-ocr-bench\nModel: ATH-MaaS/OvisOCR2\nNumber of Samples: 2\nProcessing Time: 5.4\
+  \ min\nProcessing Date: 2026-08-11 13:57 UTC\n\n\n\t\n\t\t\n\t\n\t\n\t\tConfiguration\n\t\n\n\nImage\
+  \ Column: image\nDataset Split: train\nBatch Size: 16\nMax Model… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/mehdigououiad/permis-ocr-ovis."
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/mehdigououiad/permis-ocr-ovis
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/mehdigououiad/permis-ocr-ovis
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: mehdigououiad/permis-ocr-ovis
+  source_metadata:
+    repository_id: mehdigououiad/permis-ocr-ovis
+    downloads: 20
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: mehdigououiad
+repository_id: mehdigououiad/permis-ocr-ovis
+usage: []
+annotations: []
+access: unknown

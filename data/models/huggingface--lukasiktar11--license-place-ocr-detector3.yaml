@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:lukasiktar11/license-place-ocr-detector3
+kind: model
+name: lukasiktar11/license-place-ocr-detector3
+released_at:
+  value: '2026-08-12'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/lukasiktar11/license-place-ocr-detector3
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/lukasiktar11/license-place-ocr-detector3
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: lukasiktar11/license-place-ocr-detector3
+  source_metadata:
+    repository_id: lukasiktar11/license-place-ocr-detector3
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: lukasiktar11
+repository_id: lukasiktar11/license-place-ocr-detector3
+deployment: []

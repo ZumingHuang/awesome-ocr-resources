@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:zhuq41/huggingface_5318_20260811_cand_ocr_pub_nk9x
+kind: dataset
+name: zhuq41/huggingface_5318_20260811_cand_ocr_pub_nk9x
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/zhuq41/huggingface_5318_20260811_cand_ocr_pub_nk9x
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/zhuq41/huggingface_5318_20260811_cand_ocr_pub_nk9x
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: zhuq41/huggingface_5318_20260811_cand_ocr_pub_nk9x
+  source_metadata:
+    repository_id: zhuq41/huggingface_5318_20260811_cand_ocr_pub_nk9x
+    downloads: 24
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: zhuq41
+repository_id: zhuq41/huggingface_5318_20260811_cand_ocr_pub_nk9x
+usage: []
+annotations: []
+access: unknown

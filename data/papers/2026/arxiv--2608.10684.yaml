@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:2608.10684
+kind: paper
+name: Embedding Rotation Invariance for Provable Multi-Oriented Scene Text Recognition
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: Multi-oriented text is ubiquitous in real-world scenes and remains a major challenge for scene
+  text recognition (STR). Existing rotation-aware methods explicitly estimate text orientation. However,
+  due to the lack of theoretical guarantees, they are prone to error accumulation, increased computational
+  cost, and strong reliance on data. In this work, we incorporate rotation invariance into the STR framework
+  to address these limitations. Specifically, we adopt an encoder-decoder architecture, embedding rotation
+  equivariance in the encoder and rotation invariance in the decoder to construct a fully rotation-invariant
+  network. On the decoder side, we first identify and prove the rotation-invariant property of the cross-attention
+  mechanism and use it to formulate a rotation-invariant text decoder that maps visual features to output
+  text in a rotation-invariant manner. On the encoder side, we propose a rotation-equivariant local-global
+  extraction network that integrates deep equivariant convolutions with self-attention, enabling rotation-equivariant
+  feature extraction while modeling inter-character dependencies and preserving fine-grained visual details.
+  By integrating the encoder and decoder, we obtain an end-to-end Rotation-Invariant Scene Text Recognition
+  network (RISTER). RISTER provides rotation invariance with theoretical guarantees, enhancing robustness
+  on multi-oriented samples without introducing additional inference computation or relying on data-driven
+  orientation correction. Experiments show that RISTER achieves state-of-the-art performance on both standard
+  and multi-oriented benchmarks, surpassing the second-best model by 4.0 percent in accuracy on the general
+  multi-oriented dataset.
+tasks:
+- formula-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.10684
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.10684
+  discovered_via: arxiv
+  discovered_at: '2026-08-14'
+  source_id: '2608.10684'
+  source_metadata:
+    arxiv_id: '2608.10684'
+    doi: null
+    query: all:"scene text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Zhibin Ma
+- Pengwen Dai
+- Yi Liu
+- Xugong Qin
+- Chenyun Yu
+- Xiaochun Cao
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.10684'

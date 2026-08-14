@@ -1,0 +1,40 @@
+schema_version: 1
+id: code:github:caipeng328/NaviDC-OCR
+kind: code
+name: caipeng328/NaviDC-OCR
+released_at:
+  value: '2026-08-13'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/caipeng328/NaviDC-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/caipeng328/NaviDC-OCR
+  discovered_via: github
+  discovered_at: '2026-08-14'
+  source_id: R_kgDOT3H6Rw
+  source_metadata:
+    repository: caipeng328/NaviDC-OCR
+    stars: 10
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+repository: caipeng328/NaviDC-OCR
+landmark: false
+programming_languages: []
+maintenance_status: active

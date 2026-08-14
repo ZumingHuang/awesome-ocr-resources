@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:AEON-7/aeon-magick-ai-computer-control:skill-md
+kind: skill
+name: AEON-7/aeon-magick-ai-computer-control / SKILL.md
+released_at:
+  value: '2026-08-14'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/AEON-7/aeon-magick-ai-computer-control/blob/1662269f4ecdc4e9d5aeb77858c03dab4f29c65c/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/AEON-7/aeon-magick-ai-computer-control/blob/1662269f4ecdc4e9d5aeb77858c03dab4f29c65c/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-14'
+  source_id: AEON-7/aeon-magick-ai-computer-control:SKILL.md
+  source_metadata:
+    repository: AEON-7/aeon-magick-ai-computer-control
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: AEON-7/aeon-magick-ai-computer-control
+manifest_path: SKILL.md
+capabilities: {}

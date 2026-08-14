@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:ilsilfverskiold/ocr-benchmark
+kind: dataset
+name: ilsilfverskiold/ocr-benchmark
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR Benchmark — Documents\n\t\n\nThe 93 document images and ground truth\
+  \ used by the\nocr-benchmark harness.\nThe benchmark code, the reference run results, and the full methodology\
+  \ live\nin the GitHub repo — this dataset is the document corpus only.\n\n\t\n\t\t\n\t\n\t\n\t\tStructure\n\
+  \t\n\nOne train split, 93 rows, one row per document:\n\n\t\n\t\t\nColumn\nType\nDescription\n\n\n\t\
+  \t\nimage\nImage\nThe document page (PNG/JPG)\n\n\nstem\nstring\nFilename stem (e.g. invoice_000)\n\n\
+  \ntier\nstring\nDifficulty: easy, medium, or hard… See the full description on the dataset page: https://huggingface.co/datasets/ilsilfverskiold/ocr-benchmark."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/ilsilfverskiold/ocr-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/ilsilfverskiold/ocr-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: ilsilfverskiold/ocr-benchmark
+  source_metadata:
+    repository_id: ilsilfverskiold/ocr-benchmark
+    downloads: 28
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: ilsilfverskiold
+repository_id: ilsilfverskiold/ocr-benchmark
+usage: []
+annotations: []
+access: unknown

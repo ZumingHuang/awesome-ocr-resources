@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:ussooraj/OCR-bench-Malayalam
+kind: dataset
+name: ussooraj/OCR-bench-Malayalam
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/ussooraj/OCR-bench-Malayalam
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/ussooraj/OCR-bench-Malayalam
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: ussooraj/OCR-bench-Malayalam
+  source_metadata:
+    repository_id: ussooraj/OCR-bench-Malayalam
+    downloads: 306
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: ussooraj
+repository_id: ussooraj/OCR-bench-Malayalam
+usage: []
+annotations: []
+access: unknown

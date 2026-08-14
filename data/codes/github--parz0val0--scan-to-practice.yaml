@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:parz0val0/scan-to-practice
+kind: code
+name: parz0val0/scan-to-practice
+released_at:
+  value: '2026-08-09'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: 'Scan-to-Practice: a field-tested AI skill and methodology for turning scanned learning materials
+  into structured practice products.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/parz0val0/scan-to-practice
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/parz0val0/scan-to-practice
+  discovered_via: github
+  discovered_at: '2026-08-14'
+  source_id: R_kgDOTy50Xw
+  source_metadata:
+    repository: parz0val0/scan-to-practice
+    stars: 28
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: parz0val0/scan-to-practice
+landmark: false
+programming_languages: []
+maintenance_status: active

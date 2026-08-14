@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:2608.13100
+kind: paper
+name: 'Multi-Layer Context Camouflaging: A Semantic Superposition and Contextual Lamination Framework
+  for Malpractice-Resilient Online Assessment'
+released_at:
+  value: '2026-08-13'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: 'Contemporary online assessment systems rely primarily on browser lockdown, webcam monitoring,
+  and behavioural analytics, yet remain vulnerable to attacks that extract the assessment content itself
+  through screenshots, screen sharing, optical character recognition, and automated scraping. This paper
+  extends the Multi-dimensional Spatio-Temporal Context Camouflaging Model (MSCCM) within the MARS (Multi-modal
+  Assessment Resilience Suite) by introducing the Multi-Layer Context Camouflaging Theory (MCCT), a mathematical
+  framework that protects rendered assessment content through semantic superposition. Authentic assessment
+  content and synthetically generated camouflage are represented as a unified rendering while remaining
+  recoverable only by legitimate candidates. The framework models the adversarial extraction process through
+  an explicit extraction-channel operator and develops six coupled constructs: the Context Inversion Operator,
+  Contextual Lamination Operator, Separation Channel, Human Readability Functional, Computational Ambiguity
+  Functional, and Context Camouflage Tensor. Computational ambiguity is formulated using conditional entropy,
+  yielding a closed-form expression that quantifies uncertainty during unauthorized extraction, while
+  legitimate recovery is guaranteed through an exact filtering identity. We further establish theoretical
+  properties governing ambiguity, camouflage density, semantic preservation, multi-observation leakage,
+  and temporal multiplexing, and present a rendering algorithm with computational complexity and a pre-registered
+  evaluation protocol. MCCT provides a mathematically rigorous foundation for behaviorally adaptive, accessibility-aware,
+  and computationally resilient digital assessment by securing rendered assessment content while preserving
+  readability for legitimate users.'
+tasks:
+- formula-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.13100
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.13100
+  discovered_via: arxiv
+  discovered_at: '2026-08-14'
+  source_id: '2608.13100'
+  source_metadata:
+    arxiv_id: '2608.13100'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Gupta Lovi Raj
+- Kaur Kamalpreet
+- Dama Sri Ram
+- Parani Prajithaa
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.13100'

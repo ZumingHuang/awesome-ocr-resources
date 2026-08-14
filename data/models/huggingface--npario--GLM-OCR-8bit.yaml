@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:npario/GLM-OCR-8bit
+kind: model
+name: npario/GLM-OCR-8bit
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/npario/GLM-OCR-8bit
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/npario/GLM-OCR-8bit
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: npario/GLM-OCR-8bit
+  source_metadata:
+    repository_id: npario/GLM-OCR-8bit
+    downloads: 10
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: npario
+repository_id: npario/GLM-OCR-8bit
+deployment: []

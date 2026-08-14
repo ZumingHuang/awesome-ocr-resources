@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:SamMorrowDrums/remarkable-mcp:skill-md
+kind: skill
+name: SamMorrowDrums/remarkable-mcp / SKILL.md
+released_at:
+  value: '2026-08-14'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/SamMorrowDrums/remarkable-mcp/blob/c420288365aaef10304d6b063ad6b79b45277faa/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/SamMorrowDrums/remarkable-mcp/blob/c420288365aaef10304d6b063ad6b79b45277faa/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-14'
+  source_id: SamMorrowDrums/remarkable-mcp:SKILL.md
+  source_metadata:
+    repository: SamMorrowDrums/remarkable-mcp
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: SamMorrowDrums/remarkable-mcp
+manifest_path: SKILL.md
+capabilities: {}

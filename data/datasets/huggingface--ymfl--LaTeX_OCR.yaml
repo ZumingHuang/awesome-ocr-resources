@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:ymfl/LaTeX_OCR
+kind: dataset
+name: ymfl/LaTeX_OCR
+released_at:
+  value: '2026-08-12'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tLaTeX OCR 的数据仓库\n\t\n\n本数据仓库是专为 LaTeX_OCR 及 LaTeX_OCR_PRO 制作的数据，来源于\
+  \ https://zenodo.org/record/56198#.V2p0KTXT6eA 以及 https://www.isical.ac.in/~crohme/ 以及我们自己构建。\n如果这个数据仓库有帮助到你的话，请点亮\
+  \ ❤️like ++\n后续追加新的数据也会放在这个仓库 ~~\n\n原始数据仓库在github LinXueyuanStdio/Data-for-LaTeX_OCR.\n\n\n\t\n\t\t\n\
+  \t\n\t\n\t\t数据集\n\t\n\n本仓库有 5 个数据集\n\nsmall 是小数据集，样本数 110 条，用于测试\nfull 是印刷体约 100k 的完整数据集。实际上样本数略小于 100k，因为用\
+  \ LaTeX 的抽象语法树剔除了很多不能渲染的 LaTeX。\nsynthetic_handwrite 是手写体 100k 的完整数据集，基于 full 的公式，使用手写字体合成而来，可以视为人类在纸上的手写体。样本数实际上略小于\
+  \ 100k，理由同上。… See the full description on the dataset page: https://huggingface.co/datasets/ymfl/LaTeX_OCR."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/ymfl/LaTeX_OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/ymfl/LaTeX_OCR
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: ymfl/LaTeX_OCR
+  source_metadata:
+    repository_id: ymfl/LaTeX_OCR
+    downloads: 19
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: ymfl
+repository_id: ymfl/LaTeX_OCR
+usage: []
+annotations: []
+access: unknown
