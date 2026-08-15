@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:maxim/ringbinder:skill-md
+kind: skill
+name: maxim/ringbinder / SKILL.md
+released_at:
+  value: '2026-08-14'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/maxim/ringbinder/blob/b25126646a5d933e3523626e2f5f398b810f1641/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/maxim/ringbinder/blob/b25126646a5d933e3523626e2f5f398b810f1641/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-14'
+  source_id: maxim/ringbinder:SKILL.md
+  source_metadata:
+    repository: maxim/ringbinder
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: maxim/ringbinder
+manifest_path: SKILL.md
+capabilities: {}

@@ -21,6 +21,10 @@ Yunhao Wang, Binghong Wu, Zhenyu Huang, Jiacheng Shi, Shuo Huang, Tinghao Yu, Fe
 Le Xiang, Zhicheng Guan, Hong Chen, Xiaocong Lin, Zhenghua Lei, Teng Hu, Bolei He, Long Zeng
 \[document-vqa\]\[document-parsing\]
 
+**Embedding Rotation Invariance for Provable Multi-Oriented Scene Text Recognition**
+Zhibin Ma, Pengwen Dai, Yi Liu, Xugong Qin, Chenyun Yu, Xiaochun Cao
+\[formula-recognition\]\[text-recognition\]
+
 **Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels**
 Zhuchenyang Liu, Yao Zhang, Yu Xiao
 \[document-parsing\]
@@ -33,6 +37,14 @@ Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan
 Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu, Xiaolong Wu, Yuheng Lu, Ziran Zhu, Junyuan Gao, Lingli Ge, Yuan Xu, Huijie Ao, QianQian Wu, Dechen Lin, Huaiyu Gu, Lu Chen, Shengxin Lu, ShaSha Wang, Yuanyuan Cao, Zhejia Yu, Ruijie Zhang, Zimai Tian, Jiaxing Sun, Yinfan Wang, Jiahe Song, Chuang Wang, Yubin Wang, Rui Nie, Hao Zheng, Bowen Jiang, Hongbin Lai, Yifan He, Chengjin Liu, Tingting Zhang, Liqun Wei, Lijun Wu, Bin Wang, Yuqiang Li, Guangyu Wang, Wei Li, Bowen Zhou, Dahua Lin, Conghui He
 \[document-parsing\]
 
+**Multi-Layer Context Camouflaging: A Semantic Superposition and Contextual Lamination Framework for Malpractice-Resilient Online Assessment**
+Gupta Lovi Raj, Kaur Kamalpreet, Dama Sri Ram, Parani Prajithaa
+\[formula-recognition\]\[text-recognition\]
+
+**NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents**
+Peng Cai, Zhaofan Zou, Shifa Liu, Yikun Wang, Jiawei Tang, Kaicheng Yang, Meng Tong, Zhongjiang He, Hao Sun
+\[table-recognition\]\[formula-recognition\]\[document-layout-analysis\]\[document-parsing\]\[text-recognition\]
+
 **One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting**
 Rui Tang, Wentao Yang, Peirong Zhang, Yongxin Shi, Shun Zhang, Huiguo He, Lianwen Jin
 \[formula-recognition\]\[text-spotting\]\[text-recognition\]
@@ -44,6 +56,10 @@ Hao Yu, Jiabo Zhan, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, C
 **Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
 Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang
 \[handwriting-recognition\]\[text-recognition\]
+
+**TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents**
+Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi Peng, Minghui Liao, Lianwen Jin
+\[text-recognition\]
 
 **When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents**
 Marina Gardella, Camilo Mari{ñ}o, Diego Belzarena, Ignacio Ram{í}rez, Gregory Randall, Jean-Michel Morel

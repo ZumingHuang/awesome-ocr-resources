@@ -1,0 +1,63 @@
+schema_version: 1
+id: paper:arxiv:2608.07917
+kind: paper
+name: 'TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents'
+released_at:
+  value: '2026-08-08'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: 'Chinese historical documents preserve valuable cultural heritage, but many collections remain
+  accessible only as scanned page images, preventing full-text retrieval, collation, and computational
+  analysis. Optical character recognition (OCR) can bridge this gap, but accurate transcription remains
+  challenging because historical documents often contain complex layouts, rare characters, and nontrivial
+  reading orders. We propose TongGuOCR, a layout-aware and token-augmented multimodal large language model
+  (MLLM) for OCR of Chinese historical documents. First, a Layout-Aware Preprocessing module constructs
+  and refines locally coherent recognition blocks to preserve local context while reducing interference
+  across regions. Second, a Token-Augmented Recognition module augments the transcription target at two
+  complementary levels: character-level vocabulary expansion gives each rare glyph a direct one-token
+  representation and shortens its decoding path, while line-to-line transition modeling injects discrete
+  spatial displacement tokens that guide the decoder along complex reading paths without requiring precise
+  coordinates. Experiments on two Chinese historical document OCR benchmarks show that TongGuOCR outperforms
+  representative traditional task-specific OCR models, general-purpose MLLMs, and OCR-oriented MLLMs.
+  On the more challenging M5HisDoc benchmark, TongGuOCR achieves 93.76 AR and reduces NED from 10.43 to
+  6.15 and RO-ED from 7.53 to 3.49 relative to the best competing score for each metric. An online demo
+  is available at https://jzzh2004.github.io/TongGuOCR.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.07917
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.07917
+  discovered_via: arxiv
+  discovered_at: '2026-08-14'
+  source_id: '2608.07917'
+  source_metadata:
+    arxiv_id: '2608.07917'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Zhongheng Zhou
+- Yi Sun
+- Huiguo He
+- Yuyi Zhang
+- Peirong Zhang
+- Yulin Fang
+- Dezhi Peng
+- Minghui Liao
+- Lianwen Jin
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.07917'

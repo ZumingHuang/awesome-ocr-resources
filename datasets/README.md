@@ -4,6 +4,415 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [OCR-Data/dataset](https://huggingface.co/datasets/OCR-Data/dataset) | 2026-08-13 | text-recognition | candidate | — |
+| [ymfl/LaTeX_OCR](https://huggingface.co/datasets/ymfl/LaTeX_OCR) | 2026-08-12 | text-recognition | candidate | 
+	
+		
+	
+	
+		LaTeX OCR 的数据仓库
+	
+
+本数据仓库是专为 LaTeX_OCR 及 LaTeX_OCR_PRO 制作的数据，来源于 https://zenodo.org/record/56198#.V2p0KTXT6eA 以及 https://www.isical.ac.in/~crohme/ 以及我们自己构建。
+如果这个数据仓库有帮助到你的话，请点亮 ❤️like ++
+后续追加新的数据也会放在这个仓库 ~~
+
+原始数据仓库在github LinXueyuanStdio/Data-for-LaTeX_OCR.
+
+
+	
+		
+	
+	
+		数据集
+	
+
+本仓库有 5 个数据集
+
+small 是小数据集，样本数 110 条，用于测试
+full 是印刷体约 100k 的完整数据集。实际上样本数略小于 100k，因为用 LaTeX 的抽象语法树剔除了很多不能渲染的 LaTeX。
+synthetic_handwrite 是手写体 100k 的完整数据集，基于 full 的公式，使用手写字体合成而来，可以视为人类在纸上的手写体。样本数实际上略小于 100k，理由同上。… See the full description on the dataset page: https://huggingface.co/datasets/ymfl/LaTeX_OCR. |
+| [SeeWye/Nondeterministic_Finite_Automata_OCR_Conversations_Format2](https://huggingface.co/datasets/SeeWye/Nondeterministic_Finite_Automata_OCR_Conversations_Format2) | 2026-08-12 | text-recognition | candidate | — |
+| [Roy229/hf7192-ocr-testsuite-504791](https://huggingface.co/datasets/Roy229/hf7192-ocr-testsuite-504791) | 2026-08-12 | text-recognition | candidate | — |
+| [kdeng03/mol-rep-ocr-v1](https://huggingface.co/datasets/kdeng03/mol-rep-ocr-v1) | 2026-08-12 | text-recognition | candidate | — |
+| [zhuq41/huggingface_5318_20260811_cand_ocr_pub_nk9x](https://huggingface.co/datasets/zhuq41/huggingface_5318_20260811_cand_ocr_pub_nk9x) | 2026-08-11 | text-recognition | candidate | — |
+| [ussooraj/OCR-bench-Malayalam](https://huggingface.co/datasets/ussooraj/OCR-bench-Malayalam) | 2026-08-11 | text-recognition | candidate | — |
+| [mehdigououiad/permis-ocr-surya](https://huggingface.co/datasets/mehdigououiad/permis-ocr-surya) | 2026-08-11 | text-recognition | candidate | 
+	
+		
+	
+	
+		Surya OCR 2 (ocr) on mehdigououiad/permis-ocr-bench
+	
+
+Full-page ocr (structured html + bounding boxes) over images in
+mehdigououiad/permis-ocr-bench using
+Surya OCR 2 (650M, Qwen3.5-based) by Datalab, via the
+surya-ocr package, run as offline vLLM batch
+inference on Hugging Face Jobs.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: mehdigououiad/permis-ocr-bench
+Model: datalab-to/surya-ocr-2
+Task: ocr
+Input column: image (image)
+Text column: markdown (flattened, reading-order… See the full description on the dataset page: https://huggingface.co/datasets/mehdigououiad/permis-ocr-surya. |
+| [mehdigououiad/permis-ocr-ppocrv6](https://huggingface.co/datasets/mehdigououiad/permis-ocr-ppocrv6) | 2026-08-11 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR with PP-OCRv6 Medium
+	
+
+Plain-text OCR results for images from mehdigououiad/permis-ocr-bench, produced by
+PaddlePaddle's PP-OCRv6
+medium pipeline (34.5M (22M det + 19M rec)).
+
+	
+		
+	
+	
+		Processing details
+	
+
+
+Source: mehdigououiad/permis-ocr-bench
+Model: PP-OCRv6_medium (PP-OCRv6_medium_det + PP-OCRv6_medium_rec)
+Tier: medium (34.5M (22M det + 19M rec))
+Recognition accuracy: 83.2%
+Languages: 50 languages (zh, zh-Hant, en, ja + 46 Latin-script)
+Engine: paddle_static
+Samples: 2… See the full description on the dataset page: https://huggingface.co/datasets/mehdigououiad/permis-ocr-ppocrv6. |
+| [mehdigououiad/permis-ocr-ovis](https://huggingface.co/datasets/mehdigououiad/permis-ocr-ovis) | 2026-08-11 | document-parsing, text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using OvisOCR2
+	
+
+This dataset contains OCR results from images in mehdigououiad/permis-ocr-bench using OvisOCR2, a compact 0.9B document parsing model (96.58 on OmniDocBench v1.6).
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: mehdigououiad/permis-ocr-bench
+Model: ATH-MaaS/OvisOCR2
+Number of Samples: 2
+Processing Time: 5.4 min
+Processing Date: 2026-08-11 13:57 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Dataset Split: train
+Batch Size: 16
+Max Model… See the full description on the dataset page: https://huggingface.co/datasets/mehdigououiad/permis-ocr-ovis. |
+| [mehdigououiad/permis-ocr-nuextract3](https://huggingface.co/datasets/mehdigououiad/permis-ocr-nuextract3) | 2026-08-11 | document-parsing, text-recognition | candidate | 
+	
+		
+	
+	
+		NuExtract3 on mehdigououiad/permis-ocr-bench
+	
+
+This dataset contains outputs from mehdigououiad/permis-ocr-bench processed with NuExtract3, a 4B vision-language model for document understanding.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: mehdigououiad/permis-ocr-bench
+Model: numind/NuExtract3
+Mode: markdown
+Number of Samples: 2
+Processing Time: 4.4 min
+Processing Date: 2026-08-11 13:55 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Output Column: markdown
+Dataset… See the full description on the dataset page: https://huggingface.co/datasets/mehdigououiad/permis-ocr-nuextract3. |
+| [mehdigououiad/permis-ocr-lighton2](https://huggingface.co/datasets/mehdigououiad/permis-ocr-lighton2) | 2026-08-11 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using LightOnOCR-2-1B
+	
+
+This dataset contains OCR results from images in mehdigououiad/permis-ocr-bench using LightOnOCR-2, a fast and compact 1B OCR model trained with RLVR.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: mehdigououiad/permis-ocr-bench
+Model: lightonai/LightOnOCR-2-1B
+Number of Samples: 2
+Processing Time: 1.8 min
+Processing Date: 2026-08-11 13:50 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Output Column: markdown
+Dataset Split: train… See the full description on the dataset page: https://huggingface.co/datasets/mehdigououiad/permis-ocr-lighton2. |
+| [mehdigououiad/permis-ocr-glm](https://huggingface.co/datasets/mehdigououiad/permis-ocr-glm) | 2026-08-11 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using GLM-OCR
+	
+
+This dataset contains OCR results from images in mehdigououiad/permis-ocr-bench using GLM-OCR, a compact 0.9B OCR model achieving SOTA performance.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: mehdigououiad/permis-ocr-bench
+Model: zai-org/GLM-OCR
+Task: text recognition
+Number of Samples: 2
+Processing Time: 1.3 min
+Processing Date: 2026-08-11 13:48 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Output Column: markdown
+Dataset Split: train… See the full description on the dataset page: https://huggingface.co/datasets/mehdigououiad/permis-ocr-glm. |
+| [ilsilfverskiold/ocr-benchmark](https://huggingface.co/datasets/ilsilfverskiold/ocr-benchmark) | 2026-08-11 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR Benchmark — Documents
+	
+
+The 93 document images and ground truth used by the
+ocr-benchmark harness.
+The benchmark code, the reference run results, and the full methodology live
+in the GitHub repo — this dataset is the document corpus only.
+
+	
+		
+	
+	
+		Structure
+	
+
+One train split, 93 rows, one row per document:
+
+	
+		
+Column
+Type
+Description
+
+
+		
+image
+Image
+The document page (PNG/JPG)
+
+
+stem
+string
+Filename stem (e.g. invoice_000)
+
+
+tier
+string
+Difficulty: easy, medium, or hard… See the full description on the dataset page: https://huggingface.co/datasets/ilsilfverskiold/ocr-benchmark. |
+| [alphabot2/07-08-2026_OCR_Bimanual_no_depth](https://huggingface.co/datasets/alphabot2/07-08-2026_OCR_Bimanual_no_depth) | 2026-08-11 | text-recognition | candidate | This dataset was created using LeRobot.
+
+
+
+
+
+
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    "codebase_version": "v3.0",
+    "robot_type": "aibot2",
+    "total_episodes": 37,
+    "total_frames": 19053,
+    "total_tasks": 1,
+    "chunks_size": 1000,
+    "data_files_size_in_mb": 100,
+    "video_files_size_in_mb": 200,
+    "fps": 10,
+    "splits": {
+        "train": "0:37"
+    },
+    "data_path": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "video_path":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/07-08-2026_OCR_Bimanual_no_depth. |
+| [kdeng03/mol-rep-ocr-v0](https://huggingface.co/datasets/kdeng03/mol-rep-ocr-v0) | 2026-08-10 | text-recognition | candidate | — |
+| [ha684/nxscan-ocr-dataset-v7](https://huggingface.co/datasets/ha684/nxscan-ocr-dataset-v7) | 2026-08-10 | text-recognition | candidate | — |
+| [NeuralMetrics/ocr-benchmark](https://huggingface.co/datasets/NeuralMetrics/ocr-benchmark) | 2026-08-09 | text-recognition | candidate | 
+
+
+	
+		
+	
+	
+		Neural Metrics · How good is your OCR, really?
+	
+
+
+
+
+
+
+A benchmark of real documents paired with ground-truth JSON, designed to score end-to-end accuracy rather than raw character error rate. That distinction matters: an OCR pass can be 99% correct at the character level and still get the invoice total wrong.
+We use it for: scoring candidate OCR models on the metric that actually pays the bills - regression testing before a model swap.
+
+
+	
+		
+	
+	
+		Attribution
+	
+
+This is an… See the full description on the dataset page: https://huggingface.co/datasets/NeuralMetrics/ocr-benchmark. |
+| [NeuralMetrics/invoices-and-receipts-ocr-v1](https://huggingface.co/datasets/NeuralMetrics/invoices-and-receipts-ocr-v1) | 2026-08-09 | table-recognition, text-recognition | candidate | 
+
+
+	
+		
+	
+	
+		Neural Metrics · Receipts too - the hardest easy documents.
+	
+
+
+
+
+
+
+Invoices and receipts with OCR annotations. Receipts are deceptively hard: thermal print fades, columns drift, and the total is rarely where you expect it.
+We use it for: expanding coverage beyond clean A4 invoices - stress-testing line-item table extraction.
+
+
+	
+		
+	
+	
+		Attribution
+	
+
+This is an unmodified fork of mychen76/invoices-and-receipts_ocr_v1, created by the Qwen team.
+All weights, files and behaviour… See the full description on the dataset page: https://huggingface.co/datasets/NeuralMetrics/invoices-and-receipts-ocr-v1. |
+| [harsha-desaraju/telugu-line-ocr-bench](https://huggingface.co/datasets/harsha-desaraju/telugu-line-ocr-bench) | 2026-08-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Telugu Wikisource OCR — human-verified line crops
+	
+
+1044 single-line crops from Telugu Wikisource page scans, each with a
+transcription checked against the image by a human. Grayscale, height 64px,
+width a multiple of 8 — the form the encoder consumes.
+
+	
+		
+	
+	
+		Columns
+	
+
+
+	
+		
+column
+meaning
+
+
+		
+image
+the line crop
+
+
+text
+gold transcription, human-verified
+
+
+n_graphemes
+akshara count of text (regex.\X)
+
+
+has_english
+text contains a Latin-script letter. Digits/punctuation do… See the full description on the dataset page: https://huggingface.co/datasets/harsha-desaraju/telugu-line-ocr-bench. |
+| [Ba2han/trl-ocr-dataset](https://huggingface.co/datasets/Ba2han/trl-ocr-dataset) | 2026-08-09 | text-recognition | candidate | — |
+| [themohal/saraiki-synthetic-ocr-dataset](https://huggingface.co/datasets/themohal/saraiki-synthetic-ocr-dataset) | 2026-08-08 | text-recognition | candidate | — |
+| [SeeWye/Nondeterministic_Finite_Automata_OCR_Conversations_Format](https://huggingface.co/datasets/SeeWye/Nondeterministic_Finite_Automata_OCR_Conversations_Format) | 2026-08-08 | text-recognition | candidate | — |
 | [jpeglle/epstein-files-ocr-complete](https://huggingface.co/datasets/jpeglle/epstein-files-ocr-complete) | 2026-08-08 | text-recognition | candidate | 
 	
 		
@@ -25,6 +434,7 @@ This is a comprehensive, structured publication of the Epstein Files OCR dataset
 
 This dataset contains page-level OCR output compiled from an extensive release of documents related to Jeffrey Epstein / the Epstein case.
 Each row in this dataset represents one scanned PDF document from the original release using a proprietary automated OCR pipeline… See the full description on the dataset page: https://huggingface.co/datasets/jpeglle/epstein-files-ocr-complete. |
+| [Congo-digital-service/ocr-lingala-dataset-augmented](https://huggingface.co/datasets/Congo-digital-service/ocr-lingala-dataset-augmented) | 2026-08-08 | text-recognition | candidate | — |
 | [alphabot2/07-08-2026_OCR_Bimanual](https://huggingface.co/datasets/alphabot2/07-08-2026_OCR_Bimanual) | 2026-08-07 | text-recognition | candidate | This dataset was created using LeRobot.
 
 

@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:harsha-desaraju/telugu-line-ocr-bench
+kind: dataset
+name: harsha-desaraju/telugu-line-ocr-bench
+released_at:
+  value: '2026-08-09'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tTelugu Wikisource OCR — human-verified line crops\n\t\n\n1044 single-line\
+  \ crops from Telugu Wikisource page scans, each with a\ntranscription checked against the image by a\
+  \ human. Grayscale, height 64px,\nwidth a multiple of 8 — the form the encoder consumes.\n\n\t\n\t\t\
+  \n\t\n\t\n\t\tColumns\n\t\n\n\n\t\n\t\t\ncolumn\nmeaning\n\n\n\t\t\nimage\nthe line crop\n\n\ntext\n\
+  gold transcription, human-verified\n\n\nn_graphemes\nakshara count of text (regex.\\X)\n\n\nhas_english\n\
+  text contains a Latin-script letter. Digits/punctuation do… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/harsha-desaraju/telugu-line-ocr-bench."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/harsha-desaraju/telugu-line-ocr-bench
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/harsha-desaraju/telugu-line-ocr-bench
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: harsha-desaraju/telugu-line-ocr-bench
+  source_metadata:
+    repository_id: harsha-desaraju/telugu-line-ocr-bench
+    downloads: 41
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: harsha-desaraju
+repository_id: harsha-desaraju/telugu-line-ocr-bench
+usage: []
+annotations: []
+access: unknown

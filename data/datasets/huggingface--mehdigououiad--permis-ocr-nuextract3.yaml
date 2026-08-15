@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:mehdigououiad/permis-ocr-nuextract3
+kind: dataset
+name: mehdigououiad/permis-ocr-nuextract3
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tNuExtract3 on mehdigououiad/permis-ocr-bench\n\t\n\nThis dataset contains\
+  \ outputs from mehdigououiad/permis-ocr-bench processed with NuExtract3, a 4B vision-language model\
+  \ for document understanding.\n\n\t\n\t\t\n\t\n\t\n\t\tProcessing Details\n\t\n\n\nSource Dataset: mehdigououiad/permis-ocr-bench\n\
+  Model: numind/NuExtract3\nMode: markdown\nNumber of Samples: 2\nProcessing Time: 4.4 min\nProcessing\
+  \ Date: 2026-08-11 13:55 UTC\n\n\n\t\n\t\t\n\t\n\t\n\t\tConfiguration\n\t\n\n\nImage Column: image\n\
+  Output Column: markdown\nDataset… See the full description on the dataset page: https://huggingface.co/datasets/mehdigououiad/permis-ocr-nuextract3."
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/mehdigououiad/permis-ocr-nuextract3
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/mehdigououiad/permis-ocr-nuextract3
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: mehdigououiad/permis-ocr-nuextract3
+  source_metadata:
+    repository_id: mehdigououiad/permis-ocr-nuextract3
+    downloads: 21
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: mehdigououiad
+repository_id: mehdigououiad/permis-ocr-nuextract3
+usage: []
+annotations: []
+access: unknown

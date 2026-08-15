@@ -1,0 +1,40 @@
+schema_version: 1
+id: code:github:sanyijia-del/Historical-Source-Toolkit
+kind: code
+name: sanyijia-del/Historical-Source-Toolkit
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: A reproducible preprocessing toolkit for OCR-based historical sources.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/sanyijia-del/Historical-Source-Toolkit
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/sanyijia-del/Historical-Source-Toolkit
+  discovered_via: github
+  discovered_at: '2026-08-14'
+  source_id: R_kgDOT1COpg
+  source_metadata:
+    repository: sanyijia-del/Historical-Source-Toolkit
+    stars: 61
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: sanyijia-del/Historical-Source-Toolkit
+landmark: false
+programming_languages: []
+maintenance_status: active

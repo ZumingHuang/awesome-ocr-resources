@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:mupozg823/timecode-agent:skill-skill-md
+kind: skill
+name: mupozg823/timecode-agent / skill/SKILL.md
+released_at:
+  value: '2026-08-14'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/mupozg823/timecode-agent/blob/02f7c5a9ce1c09b4ba49177d2a4dc8e9ee1bbc03/skill/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/mupozg823/timecode-agent/blob/02f7c5a9ce1c09b4ba49177d2a4dc8e9ee1bbc03/skill/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-14'
+  source_id: mupozg823/timecode-agent:skill/SKILL.md
+  source_metadata:
+    repository: mupozg823/timecode-agent
+    manifest_path: skill/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: mupozg823/timecode-agent
+manifest_path: skill/SKILL.md
+capabilities: {}

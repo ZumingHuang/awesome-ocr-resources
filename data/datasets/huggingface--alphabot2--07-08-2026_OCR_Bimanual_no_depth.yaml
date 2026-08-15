@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:alphabot2/07-08-2026_OCR_Bimanual_no_depth
+kind: dataset
+name: alphabot2/07-08-2026_OCR_Bimanual_no_depth
+released_at:
+  value: '2026-08-11'
+  precision: day
+added_at: '2026-08-14'
+last_verified_at: '2026-08-14'
+summary: "This dataset was created using LeRobot.\n\n\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\
+  \t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v3.0\",\n    \"robot_type\": \"aibot2\",\n   \
+  \ \"total_episodes\": 37,\n    \"total_frames\": 19053,\n    \"total_tasks\": 1,\n    \"chunks_size\"\
+  : 1000,\n    \"data_files_size_in_mb\": 100,\n    \"video_files_size_in_mb\": 200,\n    \"fps\": 10,\n\
+  \    \"splits\": {\n        \"train\": \"0:37\"\n    },\n    \"data_path\": \"data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet\"\
+  ,\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/07-08-2026_OCR_Bimanual_no_depth."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/alphabot2/07-08-2026_OCR_Bimanual_no_depth
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/alphabot2/07-08-2026_OCR_Bimanual_no_depth
+  discovered_via: huggingface
+  discovered_at: '2026-08-14'
+  source_id: alphabot2/07-08-2026_OCR_Bimanual_no_depth
+  source_metadata:
+    repository_id: alphabot2/07-08-2026_OCR_Bimanual_no_depth
+    downloads: 36
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: alphabot2
+repository_id: alphabot2/07-08-2026_OCR_Bimanual_no_depth
+usage: []
+annotations: []
+access: unknown
