@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Roy229/huggingface_9058_jvc8be_cand_svc-ocr
+kind: model
+name: Roy229/huggingface_9058_jvc8be_cand_svc-ocr
+released_at:
+  value: '2026-08-15'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Roy229/huggingface_9058_jvc8be_cand_svc-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Roy229/huggingface_9058_jvc8be_cand_svc-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-18'
+  source_id: Roy229/huggingface_9058_jvc8be_cand_svc-ocr
+  source_metadata:
+    repository_id: Roy229/huggingface_9058_jvc8be_cand_svc-ocr
+    downloads: 8
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: Roy229
+repository_id: Roy229/huggingface_9058_jvc8be_cand_svc-ocr
+deployment: []

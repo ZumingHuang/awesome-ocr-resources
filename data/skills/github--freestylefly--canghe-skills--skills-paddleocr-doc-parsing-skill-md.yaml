@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:freestylefly/canghe-skills:skills-paddleocr-doc-parsing-skill-md
+kind: skill
+name: freestylefly/canghe-skills / skills/paddleocr-doc-parsing/SKILL.md
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/freestylefly/canghe-skills/blob/dd0bf355955b4c82b764740b4183c86a72ba0e0c/skills/paddleocr-doc-parsing/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/freestylefly/canghe-skills/blob/dd0bf355955b4c82b764740b4183c86a72ba0e0c/skills/paddleocr-doc-parsing/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-18'
+  source_id: freestylefly/canghe-skills:skills/paddleocr-doc-parsing/SKILL.md
+  source_metadata:
+    repository: freestylefly/canghe-skills
+    manifest_path: skills/paddleocr-doc-parsing/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: freestylefly/canghe-skills
+manifest_path: skills/paddleocr-doc-parsing/SKILL.md
+capabilities: {}

@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:Flyvhidbwo/dsh-vision-proxy
+kind: code
+name: Flyvhidbwo/dsh-vision-proxy
+released_at:
+  value: '2026-08-13'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: DeepSeek Harness 插件：DeepSeek 大脑 + 自动识图。GUI 附加图片自动经 OpenAI 兼容 VLM 转译成文字后交给 DeepSeek 作答；支持百炼/智谱/OpenRouter
+  等任意 OpenAI 兼容端点（默认 qwen3.7-flash），无 key 自动探测本地 Ollama（图片不出本机）；安装时有一问式确认
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Flyvhidbwo/dsh-vision-proxy
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Flyvhidbwo/dsh-vision-proxy
+  discovered_via: github
+  discovered_at: '2026-08-18'
+  source_id: R_kgDOT3bpkw
+  source_metadata:
+    repository: Flyvhidbwo/dsh-vision-proxy
+    stars: 11
+    language: JavaScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Flyvhidbwo/dsh-vision-proxy
+landmark: false
+programming_languages:
+- JavaScript
+maintenance_status: active

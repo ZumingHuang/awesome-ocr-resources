@@ -4,6 +4,215 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [vaishnavi0901/kannada-ocr-dataset](https://huggingface.co/datasets/vaishnavi0901/kannada-ocr-dataset) | 2026-08-17 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Kannada OCR Fine-Tuning Dataset
+	
+
+Fine-tuning dataset for training vision-language models to read handwritten Kannada text from historical birth and death register images.
+
+	
+		
+	
+	
+		Dataset Description
+	
+
+This dataset pairs scanned register page images with structured JSON ground truth extracted from verified source data. The goal is to fine-tune a model that can look at a register page and output the correct field values for every row on that page.
+
+	
+		
+	
+	
+		Source… See the full description on the dataset page: https://huggingface.co/datasets/vaishnavi0901/kannada-ocr-dataset. |
+| [nubuwwat/khatme-nubuwwat-ocr-dataset](https://huggingface.co/datasets/nubuwwat/khatme-nubuwwat-ocr-dataset) | 2026-08-17 | text-recognition | candidate | 
+	
+		
+	
+	
+		Khatme-Nubuwwat Urdu OCR Corpus
+	
+
+This is a structure-aware, fully OCR'd text dataset of around 215 Urdu Khatme Nubuwat books/volumes (approximately 86,557 pages of text). The text dataset is paried with source-page scans.
+The books are composed of Nastaliq prose with heavy references to Quran and Hadith. Effort was made to ensure that the OCR pipeline transcribed the text verbatim without any modifications. The transcribed pages were passed through a multi-signal accuracy layer… See the full description on the dataset page: https://huggingface.co/datasets/nubuwwat/khatme-nubuwwat-ocr-dataset. |
+| [hotsheep/legal-ocr](https://huggingface.co/datasets/hotsheep/legal-ocr) | 2026-08-17 | text-recognition | candidate | — |
+| [formospeech/yttd_ocrcap](https://huggingface.co/datasets/formospeech/yttd_ocrcap) | 2026-08-16 | text-recognition | candidate | 
+	
+		
+	
+	
+		TRAIN
+	
+
+
+	
+		
+Subset
+lang_name
+hours
+n_utts
+n_chars_in_utts
+secs/utt
+chars/sec
+n_sents
+n_chars_in_sents
+
+
+		
+nan_tw
+Taigi
+97.87
+169,038
+1,540,824
+2.08
+4.37
+0
+0
+
+
+Total
+-
+97.87
+169,038
+1,540,824
+2.08
+4.37
+0
+0
+
+
+	
+
+ |
+| [remots/ocr-corrections-digar-est](https://huggingface.co/datasets/remots/ocr-corrections-digar-est) | 2026-08-15 | text-recognition | candidate | — |
+| [kdeng03/mol-rep-ocr-v1.1](https://huggingface.co/datasets/kdeng03/mol-rep-ocr-v1.1) | 2026-08-14 | text-recognition | candidate | — |
+| [alphabot2/14_RGB_OCR](https://huggingface.co/datasets/alphabot2/14_RGB_OCR) | 2026-08-14 | text-recognition | candidate | This dataset was created using LeRobot.
+
+
+
+
+
+
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    "codebase_version": "v3.0",
+    "robot_type": "aibot2",
+    "total_episodes": 62,
+    "total_frames": 25168,
+    "total_tasks": 1,
+    "chunks_size": 1000,
+    "data_files_size_in_mb": 100,
+    "video_files_size_in_mb": 200,
+    "fps": 10,
+    "splits": {
+        "train": "0:62"
+    },
+    "data_path": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "video_path":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/14_RGB_OCR. |
+| [alphabot2/14_Merged_RGB_ocr](https://huggingface.co/datasets/alphabot2/14_Merged_RGB_ocr) | 2026-08-14 | text-recognition | candidate | This dataset was created using LeRobot.
+
+
+
+
+
+
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    "codebase_version": "v3.0",
+    "robot_type": "aibot2",
+    "total_episodes": 126,
+    "total_frames": 54648,
+    "total_tasks": 3,
+    "chunks_size": 1000,
+    "data_files_size_in_mb": 100,
+    "video_files_size_in_mb": 200,
+    "fps": 10,
+    "splits": {
+        "train": "0:126"
+    },
+    "data_path": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "video_path":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/14_Merged_RGB_ocr. |
+| [alphabot2/14_Merged_Depth_ocr](https://huggingface.co/datasets/alphabot2/14_Merged_Depth_ocr) | 2026-08-14 | text-recognition | candidate | This dataset was created using LeRobot.
+
+
+
+
+
+
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    "codebase_version": "v3.0",
+    "robot_type": "aibot2",
+    "total_episodes": 126,
+    "total_frames": 52829,
+    "total_tasks": 3,
+    "chunks_size": 1000,
+    "data_files_size_in_mb": 100,
+    "video_files_size_in_mb": 200,
+    "fps": 10,
+    "splits": {
+        "train": "0:126"
+    },
+    "data_path": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "video_path":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/14_Merged_Depth_ocr. |
+| [alphabot2/14_Depth_OCR](https://huggingface.co/datasets/alphabot2/14_Depth_OCR) | 2026-08-14 | text-recognition | candidate | This dataset was created using LeRobot.
+
+
+
+
+
+
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    "codebase_version": "v3.0",
+    "robot_type": "aibot2",
+    "total_episodes": 62,
+    "total_frames": 24846,
+    "total_tasks": 1,
+    "chunks_size": 1000,
+    "data_files_size_in_mb": 100,
+    "video_files_size_in_mb": 200,
+    "fps": 10,
+    "splits": {
+        "train": "0:62"
+    },
+    "data_path": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "video_path":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/14_Depth_OCR. |
 | [OCR-Data/dataset](https://huggingface.co/datasets/OCR-Data/dataset) | 2026-08-13 | text-recognition | candidate | — |
 | [ymfl/LaTeX_OCR](https://huggingface.co/datasets/ymfl/LaTeX_OCR) | 2026-08-12 | text-recognition | candidate | 
 	

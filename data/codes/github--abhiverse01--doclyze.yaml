@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:abhiverse01/doclyze
+kind: code
+name: abhiverse01/doclyze
+released_at:
+  value: '2026-08-13'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: Document intelligence that ingests any file and returns clean, spreadsheet-grade structured data
+  plus narrative insight — no black boxes, no mocks, no lorem ipsum.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/abhiverse01/doclyze
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/abhiverse01/doclyze
+  discovered_via: github
+  discovered_at: '2026-08-18'
+  source_id: R_kgDOT3Mogw
+  source_metadata:
+    repository: abhiverse01/doclyze
+    stars: 15
+    language: JavaScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: abhiverse01/doclyze
+landmark: false
+programming_languages:
+- JavaScript
+maintenance_status: active

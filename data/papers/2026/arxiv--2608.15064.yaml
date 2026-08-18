@@ -1,0 +1,66 @@
+schema_version: 1
+id: paper:arxiv:2608.15064
+kind: paper
+name: 'LongDocBench: Benchmarking TOC Hierarchy and Contextual Relationship Recovery in Long Documents'
+released_at:
+  value: '2026-08-15'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: 'Parsing visual documents into machine-readable representations is fundamental to document intelligence.
+  Existing benchmarks focus on page-level element recognition, reading order, formula recognition, and
+  table structure. Long documents, however, also require document-level structure recovery. This includes
+  reconstructing cross-page table-of-contents (TOC) hierarchies and identifying typed links from tables
+  and figures to their captions, notes, and sources, often in one-to-many form. Because these structures
+  are covered only partially or subsumed within broader parsing protocols, existing benchmarks cannot
+  directly evaluate two key document-level tasks: \emph{Table-of-Contents Hierarchy Recovery} and \emph{Contextual
+  Relationship Recovery}. To benchmark these two tasks, we introduce \textsc{LongDocBench}, comprising
+  85 real-world financial reports, textbooks, and academic papers spanning 2,582 pages, with up to 105
+  pages per document. It provides human-verified annotations for 3,937 heading nodes (mean node depth
+  3.55; maximum depth 9) and 3,258 contextual relationships annotated across 2,680 table and figure objects.
+  We further evaluate both the downstream utility and recoverability of these structures. Long-document
+  question-answering experiments show that human-verified TOC hierarchies and contextual relationships
+  improve reasoning, with their combination providing complementary benefits. Meanwhile, representative
+  document parsers remain limited on both recovery tasks despite strong page-level performance. To support
+  further progress, we publicly release \textsc{LongDocBench} and its evaluation protocol and reproducible
+  testbed for advancing document-level structure recovery in long documents.'
+tasks:
+- document-vqa
+- table-recognition
+- formula-recognition
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.15064
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.15064
+  discovered_via: arxiv
+  discovered_at: '2026-08-18'
+  source_id: '2608.15064'
+  source_metadata:
+    arxiv_id: '2608.15064'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Yuefeng Zou
+- Yichen Lu
+- Jingxiao Yang
+- Bingtao Fu
+- Gaoyang Zhang
+- Xiongfei Bai
+- Tian Chen
+- Xiang Qi
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.15064'
