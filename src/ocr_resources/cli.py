@@ -94,7 +94,13 @@ def discover_command(
     if report["source_errors"]:
         for error in report["source_errors"]:
             typer.echo(f"SOURCE ERROR ({error['source']}): {error['error']}", err=True)
-        raise typer.Exit(code=2)
+        # Only a total blackout is fatal; otherwise keep the healthy sources' results.
+        if not report["sources_ok"]:
+            raise typer.Exit(code=2)
+        typer.echo(
+            f"DEGRADED: continuing without {', '.join(report['sources_failed'])}.",
+            err=True,
+        )
 
 
 @app.command("audit-links")
