@@ -52,6 +52,7 @@ jobs:
           uv python install 3.12
           uv sync --frozen --all-groups
       - name: Discover candidates
+        id: discover
         shell: bash
         run: |
           args=()
@@ -63,6 +64,15 @@ jobs:
             args+=(--dry-run)
           fi
           uv run ocr-resources discover --lookback-days "$LOOKBACK_DAYS" "${args[@]}"
+          report="reports/discovery-$(date -u +%F).json"
+          degraded=""
+          if [[ -f "$report" ]]; then
+            degraded="$(python3 -c 'import json,sys; print(", ".join(json.load(open(sys.argv[1])).get("sources_failed", [])))' "$report")"
+          fi
+          echo "degraded=${degraded}" >> "$GITHUB_OUTPUT"
+          if [[ -n "$degraded" ]]; then
+            echo "::warning::Discovery completed with degraded sources: ${degraded}"
+          fi
       - name: Validate candidate branch
         run: |
           uv run ruff check .
@@ -84,6 +94,8 @@ jobs:
       - name: Create or update Draft PR
         if: steps.changes.outputs.has_changes == 'true' && env.DRY_RUN != 'true'
         shell: bash
+        env:
+          DEGRADED_SOURCES: ${{ steps.discover.outputs.degraded }}
         run: |
           day="$(date -u +%F)"
           branch="automation/daily-${day}"
@@ -97,6 +109,13 @@ jobs:
           {
             echo "Automated candidate discovery for ${day}."
             echo
+            if [[ -n "$DEGRADED_SOURCES" ]]; then
+              echo "> [!WARNING]"
+              echo "> These sources were unavailable during this run: ${DEGRADED_SOURCES}."
+              echo "> Their resources are missing from this PR. The next successful run"
+              echo "> re-covers them within the seven-day lookback window."
+              echo
+            fi
             echo "All lint, type, test, schema, resource, and render checks completed in this workflow."
             echo "Review every candidate and change its curation status before merging."
             echo

@@ -3,7 +3,12 @@ from __future__ import annotations
 import json
 from datetime import date
 from pathlib import Path
+from typing import Any
 
+import pytest
+from typer.testing import CliRunner
+
+from ocr_resources import cli as cli_module
 from ocr_resources.discovery.base import DiscoveryWindow, RawCandidate
 from ocr_resources.discovery.runner import discover_resources
 from ocr_resources.models import ResourceKind
@@ -59,7 +64,7 @@ def _minimal_root(tmp_path: Path) -> None:
         (tmp_path / "data" / directory).mkdir(parents=True, exist_ok=True)
 
 
-def test_source_failure_prevents_partial_writes(tmp_path: Path) -> None:
+def test_source_failure_still_writes_healthy_sources(tmp_path: Path) -> None:
     _minimal_root(tmp_path)
     report = discover_resources(
         tmp_path,
@@ -67,9 +72,74 @@ def test_source_failure_prevents_partial_writes(tmp_path: Path) -> None:
         collectors=[FixtureCollector(), FailingCollector()],
     )
     assert report["matched"] == 1
-    assert report["added"] == 0
+    assert report["added"] == 1
     assert report["source_errors"] == [{"source": "failing", "error": "temporary source failure"}]
+    assert report["sources_attempted"] == ["fixture", "failing"]
+    assert report["sources_ok"] == ["fixture"]
+    assert report["sources_failed"] == ["failing"]
+    assert list((tmp_path / "data/papers").glob("**/*.yaml"))
+    update = (tmp_path / "updates/2026/2026-07-26.md").read_text(encoding="utf-8")
+    assert "Degraded Sources" in update
+    assert "failing" in update
+
+
+def test_every_source_failing_reports_no_healthy_source(tmp_path: Path) -> None:
+    _minimal_root(tmp_path)
+    report = discover_resources(
+        tmp_path,
+        until=date(2026, 7, 26),
+        collectors=[FailingCollector()],
+    )
+    assert report["added"] == 0
+    assert report["sources_ok"] == []
+    assert report["sources_failed"] == ["failing"]
     assert not list((tmp_path / "data/papers").glob("**/*.yaml"))
+
+
+def _stub_report(**overrides: Any) -> dict[str, Any]:
+    report: dict[str, Any] = {
+        "sources": {},
+        "matched": 0,
+        "added": 0,
+        "source_errors": [],
+        "sources_ok": [],
+        "sources_failed": [],
+    }
+    report.update(overrides)
+    return report
+
+
+@pytest.mark.parametrize(
+    ("report", "expected_code"),
+    [
+        (
+            _stub_report(
+                source_errors=[{"source": "arxiv", "error": "429 Rate exceeded"}],
+                sources_ok=["huggingface"],
+                sources_failed=["arxiv"],
+                sources={"huggingface": 12},
+                matched=12,
+                added=12,
+            ),
+            0,
+        ),
+        (
+            _stub_report(
+                source_errors=[{"source": "arxiv", "error": "429 Rate exceeded"}],
+                sources_ok=[],
+                sources_failed=["arxiv"],
+            ),
+            2,
+        ),
+    ],
+    ids=["one-source-down-is-degraded", "every-source-down-is-fatal"],
+)
+def test_discover_cli_fails_only_when_every_source_fails(
+    monkeypatch: pytest.MonkeyPatch, report: dict[str, Any], expected_code: int
+) -> None:
+    monkeypatch.setattr(cli_module, "discover_resources", lambda *args, **kwargs: report)
+    result = CliRunner().invoke(cli_module.app, ["discover"])
+    assert result.exit_code == expected_code
 
 
 def test_fixture_discovery_is_idempotent(tmp_path: Path) -> None:

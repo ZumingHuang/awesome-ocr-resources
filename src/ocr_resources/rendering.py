@@ -174,6 +174,7 @@ def write_daily_update(
     update_date: date,
     *,
     source_summary: dict[str, int] | None = None,
+    source_errors: list[dict[str, str]] | None = None,
 ) -> Path | None:
     if not resources:
         return None
@@ -188,6 +189,7 @@ def write_daily_update(
             update_date=update_date.isoformat(),
             grouped=dict(grouped),
             source_summary=source_summary or {},
+            source_errors=source_errors or [],
         ),
         encoding="utf-8",
     )

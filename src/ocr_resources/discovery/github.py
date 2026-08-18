@@ -2,7 +2,12 @@ from __future__ import annotations
 
 import httpx
 
-from ocr_resources.discovery.base import DiscoveryWindow, RawCandidate, parse_datetime
+from ocr_resources.discovery.base import (
+    DiscoveryWindow,
+    RawCandidate,
+    get_with_retry,
+    parse_datetime,
+)
 from ocr_resources.models import ResourceKind
 
 
@@ -45,11 +50,11 @@ class GitHubCollector:
                 f"{query} created:{window.since.isoformat()}..{window.until.isoformat()} "
                 f"stars:>={self.minimum_stars} fork:false"
             )
-            response = self.client.get(
+            response = get_with_retry(
+                self.client,
                 f"{self.endpoint}/search/repositories",
                 params={"q": qualified, "sort": "updated", "per_page": window.limit},
             )
-            response.raise_for_status()
             payload = response.json()
             for item in payload.get("items", []):
                 if item.get("fork"):
@@ -81,11 +86,11 @@ class GitHubCollector:
     def _collect_skills(self, window: DiscoveryWindow) -> list[RawCandidate]:
         candidates: list[RawCandidate] = []
         for query in self.skill_queries:
-            response = self.client.get(
+            response = get_with_retry(
+                self.client,
                 f"{self.endpoint}/search/code",
                 params={"q": query, "per_page": min(window.limit, 100)},
             )
-            response.raise_for_status()
             payload = response.json()
             for item in payload.get("items", []):
                 repository = item["repository"]

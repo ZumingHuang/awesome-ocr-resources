@@ -4,7 +4,12 @@ from datetime import UTC
 
 import httpx
 
-from ocr_resources.discovery.base import DiscoveryWindow, RawCandidate, parse_datetime
+from ocr_resources.discovery.base import (
+    DiscoveryWindow,
+    RawCandidate,
+    get_with_retry,
+    parse_datetime,
+)
 from ocr_resources.models import ResourceKind
 
 
@@ -33,7 +38,8 @@ class HuggingFaceCollector:
             (ResourceKind.DATASET, "datasets"),
         ):
             for query in self.queries:
-                response = self.client.get(
+                response = get_with_retry(
+                    self.client,
                     f"{self.endpoint}/{api_path}",
                     params={
                         "search": query,
@@ -43,7 +49,6 @@ class HuggingFaceCollector:
                         "full": "true",
                     },
                 )
-                response.raise_for_status()
                 for item in response.json():
                     repository_id = item.get("id") or item.get("modelId")
                     if not repository_id:

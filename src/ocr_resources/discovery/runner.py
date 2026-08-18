@@ -209,6 +209,7 @@ def discover_resources(
         until=until,
     )
     collectors = collectors if collectors is not None else build_collectors(root, selected_sources)
+    attempted_sources = [collector.name for collector in collectors]
     rules = _load_yaml(root / "config" / "quality_rules.yaml")
     existing_keys = {canonical_key(resource) for resource in load_resources(root)}
     rejected = load_rejected(root)
@@ -255,19 +256,31 @@ def discover_resources(
                     additions.append(resource)
                     seen_candidate_keys.add(key)
             candidate_rows.append(row)
+    # A single throttled source must not discard what the healthy ones found; the
+    # seven-day lookback re-covers the gap on the next successful run.
     added_count = 0
-    if not dry_run and not source_errors:
+    if not dry_run:
         for resource in additions:
             write_resource(root, resource)
         added_count = len(additions)
         if additions:
-            write_daily_update(root, additions, until, source_summary=dict(source_counts))
+            write_daily_update(
+                root,
+                additions,
+                until,
+                source_summary=dict(source_counts),
+                source_errors=source_errors,
+            )
             render_repository(root)
+    failed_sources = [error["source"] for error in source_errors]
     report: dict[str, Any] = {
         "date": until.isoformat(),
         "window": {"since": window.since.isoformat(), "until": window.until.isoformat()},
         "dry_run": dry_run,
         "sources": dict(source_counts),
+        "sources_attempted": attempted_sources,
+        "sources_ok": [name for name in attempted_sources if name not in failed_sources],
+        "sources_failed": failed_sources,
         "source_errors": source_errors,
         "matched": len(additions),
         "added": added_count,

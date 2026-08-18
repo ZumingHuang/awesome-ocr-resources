@@ -19,3 +19,14 @@
 {% else %}
 - Added through maintainer review.
 {% endif %}
+{% if source_errors %}
+
+### Degraded Sources
+
+{% for error in source_errors -%}
+- {{ error.source }}: unavailable — {{ error.error }}
+{% endfor %}
+
+This update is incomplete for the sources listed above. The next successful run re-covers them
+within the seven-day lookback window.
+{% endif %}

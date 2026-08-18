@@ -1,17 +1,27 @@
 from __future__ import annotations
 
 import re
+import time
 import xml.etree.ElementTree as ET
+from collections.abc import Callable
 from urllib.parse import urlencode
 
 import httpx
 
-from ocr_resources.discovery.base import DiscoveryWindow, RawCandidate, parse_datetime
+from ocr_resources.discovery.base import (
+    DiscoveryWindow,
+    RawCandidate,
+    get_with_retry,
+    parse_datetime,
+)
 from ocr_resources.identity import normalize_arxiv_id
 from ocr_resources.models import ResourceKind
 
 ATOM = "{http://www.w3.org/2005/Atom}"
 ARXIV = "{http://arxiv.org/schemas/atom}"
+
+# arXiv's Terms of Use ask for no more than one request every three seconds.
+ARXIV_MIN_INTERVAL_SECONDS = 3.0
 
 
 class ArxivCollector:
@@ -24,14 +34,29 @@ class ArxivCollector:
         *,
         client: httpx.Client | None = None,
         user_agent: str = "awesome-ocr-resources/0.1 (metadata curation)",
+        min_interval: float = ARXIV_MIN_INTERVAL_SECONDS,
+        sleep: Callable[[float], None] = time.sleep,
+        monotonic: Callable[[], float] = time.monotonic,
     ) -> None:
         self.endpoint = endpoint
         self.queries = queries
+        self.min_interval = min_interval
+        self._sleep = sleep
+        self._monotonic = monotonic
+        self._last_request_at: float | None = None
         self.client = client or httpx.Client(
-            timeout=30,
+            timeout=httpx.Timeout(connect=10.0, read=30.0, write=10.0, pool=10.0),
             follow_redirects=True,
             headers={"User-Agent": user_agent},
         )
+
+    def _throttle(self) -> None:
+        """Space consecutive calls by at least ``min_interval`` seconds."""
+        if self._last_request_at is not None:
+            elapsed = self._monotonic() - self._last_request_at
+            if elapsed < self.min_interval:
+                self._sleep(self.min_interval - elapsed)
+        self._last_request_at = self._monotonic()
 
     def collect(self, window: DiscoveryWindow) -> list[RawCandidate]:
         candidates: dict[str, RawCandidate] = {}
@@ -43,8 +68,12 @@ class ArxivCollector:
                 "sortBy": "submittedDate",
                 "sortOrder": "descending",
             }
-            response = self.client.get(f"{self.endpoint}?{urlencode(params)}")
-            response.raise_for_status()
+            self._throttle()
+            response = get_with_retry(
+                self.client,
+                f"{self.endpoint}?{urlencode(params)}",
+                sleep=self._sleep,
+            )
             root = ET.fromstring(response.text)
             for entry in root.findall(f"{ATOM}entry"):
                 identifier_url = (entry.findtext(f"{ATOM}id") or "").strip()

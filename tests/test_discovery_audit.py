@@ -3,10 +3,11 @@ from __future__ import annotations
 from datetime import date
 
 import httpx
+import pytest
 
 from ocr_resources.audit import validate_public_url
 from ocr_resources.discovery.arxiv import ArxivCollector
-from ocr_resources.discovery.base import DiscoveryWindow, RawCandidate
+from ocr_resources.discovery.base import DiscoveryWindow, RawCandidate, get_with_retry
 from ocr_resources.discovery.github import GitHubCollector
 from ocr_resources.discovery.huggingface import HuggingFaceCollector
 from ocr_resources.discovery.scoring import score_candidate
@@ -32,6 +33,75 @@ def test_arxiv_collector_parses_atom_response() -> None:
     assert len(values) == 1
     assert values[0].source_id == "2607.12345"
     assert values[0].authors == ["Alice Example"]
+
+
+def test_arxiv_collector_paces_requests_per_terms_of_use() -> None:
+    empty = '<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"/>'
+    client = httpx.Client(transport=httpx.MockTransport(lambda _: httpx.Response(200, text=empty)))
+    slept: list[float] = []
+    collector = ArxivCollector(
+        "https://example.test/query",
+        ["all:a", "all:b", "all:c"],
+        client=client,
+        sleep=slept.append,
+        monotonic=lambda: 0.0,
+    )
+    collector.collect(DiscoveryWindow(date(2026, 7, 20), date(2026, 7, 26)))
+    assert slept == [3.0, 3.0]
+
+
+def test_get_with_retry_recovers_from_throttling() -> None:
+    replies = [httpx.Response(429, text="Rate exceeded."), httpx.Response(200, text="ok")]
+    client = httpx.Client(transport=httpx.MockTransport(lambda _: replies.pop(0)))
+    slept: list[float] = []
+    response = get_with_retry(client, "https://example.test/q", sleep=slept.append)
+    assert response.status_code == 200
+    assert len(slept) == 1
+
+
+def test_get_with_retry_honours_retry_after() -> None:
+    replies = [
+        httpx.Response(429, headers={"Retry-After": "7"}, text="Rate exceeded."),
+        httpx.Response(200, text="ok"),
+    ]
+    client = httpx.Client(transport=httpx.MockTransport(lambda _: replies.pop(0)))
+    slept: list[float] = []
+    get_with_retry(client, "https://example.test/q", sleep=slept.append)
+    assert slept == [7.0]
+
+
+def test_get_with_retry_reraises_persistent_throttling() -> None:
+    client = httpx.Client(
+        transport=httpx.MockTransport(lambda _: httpx.Response(429, text="Rate exceeded."))
+    )
+    slept: list[float] = []
+    with pytest.raises(httpx.HTTPStatusError):
+        get_with_retry(client, "https://example.test/q", attempts=3, sleep=slept.append)
+    assert len(slept) == 2
+
+
+def test_get_with_retry_reraises_timeouts() -> None:
+    def handler(request: httpx.Request) -> httpx.Response:
+        raise httpx.ReadTimeout("The read operation timed out", request=request)
+
+    client = httpx.Client(transport=httpx.MockTransport(handler))
+    slept: list[float] = []
+    with pytest.raises(httpx.ReadTimeout):
+        get_with_retry(client, "https://example.test/q", attempts=2, sleep=slept.append)
+    assert len(slept) == 1
+
+
+def test_get_with_retry_does_not_retry_client_errors() -> None:
+    calls: list[str] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        calls.append(request.url.path)
+        return httpx.Response(404)
+
+    client = httpx.Client(transport=httpx.MockTransport(handler))
+    with pytest.raises(httpx.HTTPStatusError):
+        get_with_retry(client, "https://example.test/q", sleep=lambda _: None)
+    assert len(calls) == 1
 
 
 def test_huggingface_collector_handles_models_and_datasets() -> None:
