@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:florapeterpaul3/geeklink-ocr-benchmark
+kind: dataset
+name: florapeterpaul3/geeklink-ocr-benchmark
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-19'
+last_verified_at: '2026-08-19'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGeekLink OCR Benchmark\n\t\n\nA benchmark for burned-in video subtitle\
+  \ OCR: 600 subtitle images across\n6 languages (English, Spanish, Japanese, Korean, Chinese, Greek),\
+  \ rendered\nonto real film footage with exact known ground truth — so there's no\nambiguity about what\
+  \ the \"correct\" answer is, and no privacy or copyright\nrisk in the images themselves.\nUnlike document-OCR\
+  \ benchmarks (scanned pages, receipts, street signs), this\ntargets the specific failure modes of subtitle\
+  \ OCR in video:… See the full description on the dataset page: https://huggingface.co/datasets/florapeterpaul3/geeklink-ocr-benchmark."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/florapeterpaul3/geeklink-ocr-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/florapeterpaul3/geeklink-ocr-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-08-19'
+  source_id: florapeterpaul3/geeklink-ocr-benchmark
+  source_metadata:
+    repository_id: florapeterpaul3/geeklink-ocr-benchmark
+    downloads: 1
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: florapeterpaul3
+repository_id: florapeterpaul3/geeklink-ocr-benchmark
+usage: []
+annotations: []
+access: unknown

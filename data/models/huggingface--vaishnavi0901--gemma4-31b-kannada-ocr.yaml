@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:vaishnavi0901/gemma4-31b-kannada-ocr
+kind: model
+name: vaishnavi0901/gemma4-31b-kannada-ocr
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-19'
+last_verified_at: '2026-08-19'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/vaishnavi0901/gemma4-31b-kannada-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/vaishnavi0901/gemma4-31b-kannada-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-19'
+  source_id: vaishnavi0901/gemma4-31b-kannada-ocr
+  source_metadata:
+    repository_id: vaishnavi0901/gemma4-31b-kannada-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: vaishnavi0901
+repository_id: vaishnavi0901/gemma4-31b-kannada-ocr
+deployment: []

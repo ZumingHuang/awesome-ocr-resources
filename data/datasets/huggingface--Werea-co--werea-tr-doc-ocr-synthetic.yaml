@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:Werea-co/werea-tr-doc-ocr-synthetic
+kind: dataset
+name: Werea-co/werea-tr-doc-ocr-synthetic
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-19'
+last_verified_at: '2026-08-19'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tWerea Turkish Enterprise Documents \U0001F4C4\U0001F1F9\U0001F1F7\n\t\
+  \n\nTürkçe kurumsal belge OCR eğitimi için tamamı sentetik sayfa görüntüleri ve\nbirebir eşleşen markdown\
+  \ ground-truth metinleri. Werea\ntarafından Werea-DocOCR modellerinin eğitimi için üretilmiştir.\n\n\
+  \t\n\t\t\n\t\n\t\n\t\tBelge türleri\n\t\n\n\n\t\n\t\t\nTür\nTrain\nTest\nİçerik\n\n\n\t\t\nGenel vekaletname\n\
+  500\n50\nNoter başlığı, taraflar, yetki maddeleri, noter şerhi\n\n\nDASK poliçesi\n500\n50\nPoliçe/sigortalı/bina\
+  \ bilgileri, prim tablosu\n\n\ne-Arşiv fatura\n500\n50\nSatıcı/alıcı… See the full description on the\
+  \ dataset page: https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-synthetic."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-synthetic
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-synthetic
+  discovered_via: huggingface
+  discovered_at: '2026-08-19'
+  source_id: Werea-co/werea-tr-doc-ocr-synthetic
+  source_metadata:
+    repository_id: Werea-co/werea-tr-doc-ocr-synthetic
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Werea-co
+repository_id: Werea-co/werea-tr-doc-ocr-synthetic
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:circulus/PP-OCRv6-tiny-int8-ov
+kind: model
+name: circulus/PP-OCRv6-tiny-int8-ov
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-19'
+last_verified_at: '2026-08-19'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/circulus/PP-OCRv6-tiny-int8-ov
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/circulus/PP-OCRv6-tiny-int8-ov
+  discovered_via: huggingface
+  discovered_at: '2026-08-19'
+  source_id: circulus/PP-OCRv6-tiny-int8-ov
+  source_metadata:
+    repository_id: circulus/PP-OCRv6-tiny-int8-ov
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: circulus
+repository_id: circulus/PP-OCRv6-tiny-int8-ov
+deployment: []

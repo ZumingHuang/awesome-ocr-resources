@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2608.17184
+kind: paper
+name: 'AISA: AI Safety Assistant Framework for Continuous Improvement of Highway Construction'
+released_at:
+  value: '2026-08-17'
+  precision: day
+added_at: '2026-08-19'
+last_verified_at: '2026-08-19'
+summary: Job Safety Analysis (JSA) and pre-task planning can benefit from prior incident records, yet
+  historical accident data is often stored as unstructured narratives that are difficult to consult at
+  the point of planning. A novel framework centered on large language models (LLMs) for highway construction
+  safety reporting and planning is proposed as a foundation for future agentic applications, prioritizing
+  deterministic, local inferencing. The first aim is to enable classification and quality scoring of incident
+  narratives for existing and future reporting purposes. The second is to evaluate retrieval of relevant
+  historical accidents, related imagery, and trusted industry documents for incorporation into daily safety
+  plans. Neural probes were trained to classify incidents along four multiclass and two binary Occupational
+  Injury and Illness Classification System (OIICS) fields and to derive an overall quality score, evaluated
+  on a test set of over 15,000 narratives and a held-out set of 100 author-labeled records, benchmarked
+  against a majority-vote LLM ensemble. The retrieval of historical accidents, reference imagery, and
+  industry documents was benchmarked across embedding models using standard information retrieval metrics.
+  OIICS classification reached 75% held-out accuracy, though the two binary flags were degenerate. The
+  quality score, while meaningful on one database, was distorted on out-of-distribution fatalities in
+  the held-out dataset. Accident retrieval recovered relevant incidents far above chance, performing best
+  on lexically distinct construction activities. On document question answering, an open-weight decoder
+  embedding model surpassed proprietary models. Overall, this work provides a new framework rooted in
+  local inferencing and text embedding models for future agentic applications, with emphasis on bridging
+  external data to JSA reports.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.17184
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.17184
+  discovered_via: arxiv
+  discovered_at: '2026-08-19'
+  source_id: '2608.17184'
+  source_metadata:
+    arxiv_id: '2608.17184'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Mason Smetana
+- Trevor Neece
+- Lev Khazanovich
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.17184'

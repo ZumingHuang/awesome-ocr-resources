@@ -5,9 +5,17 @@
 Vladimir Beskorovainyi
 \[handwriting-recognition\]
 
+**AISA: AI Safety Assistant Framework for Continuous Improvement of Highway Construction**
+Mason Smetana, Trevor Neece, Lev Khazanovich
+\[document-vqa\]
+
 **BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models**
 Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
 \[handwriting-recognition\]\[text-recognition\]
+
+**Code as Representation: A Compilable Parsing Paradigm for Academic Documents**
+Rihui Jin, Jun Wang, chengyuan zhu, Liang Mingyu, Yue Gao, Li Yunxuan, Kuicai Dong, Guilin Qi, Lin Ren, Yongrui Chen, Xinbang Dai, Jiaqi Li, Tongtong Wu, Gholamreza Haffari
+\[formula-recognition\]\[document-parsing\]
 
 **DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**
 Dongyang Xie, Yao Tian, Hao Zhang, Yifei Yuan, Tieyun Qian, Ming Zhong, Jiawei Jiang, Yuanyuan Zhu

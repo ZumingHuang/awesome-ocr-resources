@@ -1,0 +1,44 @@
+schema_version: 1
+id: code:github:ollmo-go/ollmo
+kind: code
+name: ollmo-go/ollmo
+released_at:
+  value: '2026-08-14'
+  precision: day
+added_at: '2026-08-19'
+last_verified_at: '2026-08-19'
+summary: 'Free and open-source production-grade RAG platform that converts documents into conversational
+  AI assistants. Enable private deployment for data security. Features hybrid retrieval, multi-tenant
+  isolation, streaming chat, auto document parsing, visual Agent & ingestion pipeline canvas, GraphRAG
+  and automatic memory. '
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ollmo-go/ollmo
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ollmo-go/ollmo
+  discovered_via: github
+  discovered_at: '2026-08-19'
+  source_id: R_kgDOT4XF6A
+  source_metadata:
+    repository: ollmo-go/ollmo
+    stars: 12
+    language: Go
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: ollmo-go/ollmo
+landmark: false
+programming_languages:
+- Go
+maintenance_status: active
