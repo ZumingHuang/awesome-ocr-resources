@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:wulaosiji/skills:pdf-skill-md
+kind: skill
+name: wulaosiji/skills / pdf/SKILL.md
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/wulaosiji/skills/blob/5ca2e0dbcf43d99a24ebfb8f214d1398c0feda3b/pdf/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/wulaosiji/skills/blob/5ca2e0dbcf43d99a24ebfb8f214d1398c0feda3b/pdf/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-18'
+  source_id: wulaosiji/skills:pdf/SKILL.md
+  source_metadata:
+    repository: wulaosiji/skills
+    manifest_path: pdf/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: wulaosiji/skills
+manifest_path: pdf/SKILL.md
+capabilities: {}

@@ -1,0 +1,42 @@
+schema_version: 1
+id: dataset:huggingface:formospeech/yttd_ocrcap
+kind: dataset
+name: formospeech/yttd_ocrcap
+released_at:
+  value: '2026-08-16'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tTRAIN\n\t\n\n\n\t\n\t\t\nSubset\nlang_name\nhours\nn_utts\nn_chars_in_utts\n\
+  secs/utt\nchars/sec\nn_sents\nn_chars_in_sents\n\n\n\t\t\nnan_tw\nTaigi\n97.87\n169,038\n1,540,824\n\
+  2.08\n4.37\n0\n0\n\n\nTotal\n-\n97.87\n169,038\n1,540,824\n2.08\n4.37\n0\n0\n\n\n\t\n\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/formospeech/yttd_ocrcap
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/formospeech/yttd_ocrcap
+  discovered_via: huggingface
+  discovered_at: '2026-08-18'
+  source_id: formospeech/yttd_ocrcap
+  source_metadata:
+    repository_id: formospeech/yttd_ocrcap
+    downloads: 9
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: formospeech
+repository_id: formospeech/yttd_ocrcap
+usage: []
+annotations: []
+access: unknown

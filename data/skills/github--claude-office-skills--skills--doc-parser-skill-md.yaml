@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:claude-office-skills/skills:doc-parser-skill-md
+kind: skill
+name: claude-office-skills/skills / doc-parser/SKILL.md
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/claude-office-skills/skills/blob/9c4c7d5cd2813a8936bf2c9fdb174ea883b85a11/doc-parser/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/claude-office-skills/skills/blob/9c4c7d5cd2813a8936bf2c9fdb174ea883b85a11/doc-parser/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-18'
+  source_id: claude-office-skills/skills:doc-parser/SKILL.md
+  source_metadata:
+    repository: claude-office-skills/skills
+    manifest_path: doc-parser/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: claude-office-skills/skills
+manifest_path: doc-parser/SKILL.md
+capabilities: {}

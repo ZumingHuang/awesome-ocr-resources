@@ -4,9 +4,17 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [panupongkongkate/win-ocr](https://github.com/panupongkongkate/win-ocr) | 2026-08-17 | text-recognition | candidate | — |
+| [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) | 2026-08-15 | other | candidate | Evidence-first deep reading for AI agents — trace claims, evidence, confidence and knowledge maps across articles, books and PDFs. |
+| [Yts1919/dsh-vision-complete](https://github.com/Yts1919/dsh-vision-complete) | 2026-08-14 | text-recognition | candidate | 给 DeepSeek 补上「眼睛和耳朵」的多模态视觉插件：看图 / OCR / 物体检测 / 视频理解 / 语音转写 / 截图直读，一键安装（DSH 插件）。 |
+| [CraZY222123/dsh-ocr-plugin](https://github.com/CraZY222123/dsh-ocr-plugin) | 2026-08-14 | text-recognition | candidate | — |
+| [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 2026-08-13 | text-recognition | candidate | Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns. |
 | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | 2026-08-13 | other | candidate | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| [Flyvhidbwo/dsh-vision-proxy](https://github.com/Flyvhidbwo/dsh-vision-proxy) | 2026-08-13 | text-recognition | candidate | DeepSeek Harness 插件：DeepSeek 大脑 + 自动识图。GUI 附加图片自动经 OpenAI 兼容 VLM 转译成文字后交给 DeepSeek 作答；支持百炼/智谱/OpenRouter 等任意 OpenAI 兼容端点（默认 qwen3.7-flash），无 key 自动探测本地 Ollama（图片不出本机）；安装时有一问式确认 |
 | [caipeng328/NaviDC-OCR](https://github.com/caipeng328/NaviDC-OCR) | 2026-08-13 | text-recognition | candidate | — |
 | [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 2026-08-13 | text-recognition | candidate | 让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI. |
+| [abhiverse01/doclyze](https://github.com/abhiverse01/doclyze) | 2026-08-13 | other | candidate | Document intelligence that ingests any file and returns clean, spreadsheet-grade structured data plus narrative insight — no black boxes, no mocks, no lorem ipsum. |
+| [StabRise/n8n-nodes-pdf-redaction](https://github.com/StabRise/n8n-nodes-pdf-redaction) | 2026-08-12 | other | candidate | n8n node for PDF Redaction - AI-powered sensitive data detection and redaction in pdf |
 | [Batushn/coldmill](https://github.com/Batushn/coldmill) | 2026-08-12 | other | candidate | Offline batch file converter for audio, video, images, documents and 3D models. Drag, drop, done - No uploads, no settings maze. |
 | [z15114664687-dot/hr-onboarding-agent](https://github.com/z15114664687-dot/hr-onboarding-agent) | 2026-08-11 | text-recognition | candidate | Open-source AI-assisted HR onboarding for Feishu/Lark: configurable workflows, document OCR and review, Bitable sync, reminders, and a zero-credential demo. |
 | [sanyijia-del/Historical-Source-Toolkit](https://github.com/sanyijia-del/Historical-Source-Toolkit) | 2026-08-11 | text-recognition | candidate | A reproducible preprocessing toolkit for OCR-based historical sources. |

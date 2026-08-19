@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:NayYeZaw/burmese-kraken-ocr-android
+kind: model
+name: NayYeZaw/burmese-kraken-ocr-android
+released_at:
+  value: '2026-08-14'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/NayYeZaw/burmese-kraken-ocr-android
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/NayYeZaw/burmese-kraken-ocr-android
+  discovered_via: huggingface
+  discovered_at: '2026-08-18'
+  source_id: NayYeZaw/burmese-kraken-ocr-android
+  source_metadata:
+    repository_id: NayYeZaw/burmese-kraken-ocr-android
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: NayYeZaw
+repository_id: NayYeZaw/burmese-kraken-ocr-android
+deployment: []

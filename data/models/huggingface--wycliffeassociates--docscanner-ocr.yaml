@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:wycliffeassociates/docscanner-ocr
+kind: model
+name: wycliffeassociates/docscanner-ocr
+released_at:
+  value: '2026-08-14'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/wycliffeassociates/docscanner-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/wycliffeassociates/docscanner-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-18'
+  source_id: wycliffeassociates/docscanner-ocr
+  source_metadata:
+    repository_id: wycliffeassociates/docscanner-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: wycliffeassociates
+repository_id: wycliffeassociates/docscanner-ocr
+deployment: []

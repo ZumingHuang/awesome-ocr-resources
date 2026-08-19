@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:vaishnavi0901/kannada-ocr-dataset
+kind: dataset
+name: vaishnavi0901/kannada-ocr-dataset
+released_at:
+  value: '2026-08-17'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKannada OCR Fine-Tuning Dataset\n\t\n\nFine-tuning dataset for training\
+  \ vision-language models to read handwritten Kannada text from historical birth and death register images.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nThis dataset pairs scanned register page images with\
+  \ structured JSON ground truth extracted from verified source data. The goal is to fine-tune a model\
+  \ that can look at a register page and output the correct field values for every row on that page.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tSource… See the full description on the dataset page: https://huggingface.co/datasets/vaishnavi0901/kannada-ocr-dataset."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/vaishnavi0901/kannada-ocr-dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/vaishnavi0901/kannada-ocr-dataset
+  discovered_via: huggingface
+  discovered_at: '2026-08-18'
+  source_id: vaishnavi0901/kannada-ocr-dataset
+  source_metadata:
+    repository_id: vaishnavi0901/kannada-ocr-dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: vaishnavi0901
+repository_id: vaishnavi0901/kannada-ocr-dataset
+usage: []
+annotations: []
+access: unknown

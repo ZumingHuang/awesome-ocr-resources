@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:nubuwwat/khatme-nubuwwat-ocr-dataset
+kind: dataset
+name: nubuwwat/khatme-nubuwwat-ocr-dataset
+released_at:
+  value: '2026-08-17'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKhatme-Nubuwwat Urdu OCR Corpus\n\t\n\nThis is a structure-aware, fully\
+  \ OCR'd text dataset of around 215 Urdu Khatme Nubuwat books/volumes (approximately 86,557 pages of\
+  \ text). The text dataset is paried with source-page scans.\nThe books are composed of Nastaliq prose\
+  \ with heavy references to Quran and Hadith. Effort was made to ensure that the OCR pipeline transcribed\
+  \ the text verbatim without any modifications. The transcribed pages were passed through a multi-signal\
+  \ accuracy layer… See the full description on the dataset page: https://huggingface.co/datasets/nubuwwat/khatme-nubuwwat-ocr-dataset."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/nubuwwat/khatme-nubuwwat-ocr-dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/nubuwwat/khatme-nubuwwat-ocr-dataset
+  discovered_via: huggingface
+  discovered_at: '2026-08-18'
+  source_id: nubuwwat/khatme-nubuwwat-ocr-dataset
+  source_metadata:
+    repository_id: nubuwwat/khatme-nubuwwat-ocr-dataset
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: nubuwwat
+repository_id: nubuwwat/khatme-nubuwwat-ocr-dataset
+usage: []
+annotations: []
+access: unknown

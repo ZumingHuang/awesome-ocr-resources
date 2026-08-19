@@ -33,6 +33,10 @@ Zhuchenyang Liu, Yao Zhang, Yu Xiao
 Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan
 \[text-recognition\]
 
+**LongDocBench: Benchmarking TOC Hierarchy and Contextual Relationship Recovery in Long Documents**
+Yuefeng Zou, Yichen Lu, Jingxiao Yang, Bingtao Fu, Gaoyang Zhang, Xiongfei Bai, Tian Chen, Xiang Qi
+\[document-vqa\]\[table-recognition\]\[formula-recognition\]\[document-parsing\]
+
 **MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition**
 Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu, Xiaolong Wu, Yuheng Lu, Ziran Zhu, Junyuan Gao, Lingli Ge, Yuan Xu, Huijie Ao, QianQian Wu, Dechen Lin, Huaiyu Gu, Lu Chen, Shengxin Lu, ShaSha Wang, Yuanyuan Cao, Zhejia Yu, Ruijie Zhang, Zimai Tian, Jiaxing Sun, Yinfan Wang, Jiahe Song, Chuang Wang, Yubin Wang, Rui Nie, Hao Zheng, Bowen Jiang, Hongbin Lai, Yifan He, Chengjin Liu, Tingting Zhang, Liqun Wei, Lijun Wu, Bin Wang, Yuqiang Li, Guangyu Wang, Wei Li, Bowen Zhou, Dahua Lin, Conghui He
 \[document-parsing\]
@@ -52,6 +56,10 @@ Rui Tang, Wentao Yang, Peirong Zhang, Yongxin Shi, Shun Zhang, Huiguo He, Lianwe
 **PaDoc: Layout-Grounded Parallel Decoding for Document Parsing**
 Hao Yu, Jiabo Zhan, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
 \[formula-recognition\]\[document-parsing\]
+
+**PhysTrackX: Open-Source Software for Kinematics Tracking for the Physics Laboratory**
+Isam Abdullah Balghari, Muhammad Sabieh Anwar
+\[text-recognition\]
 
 **Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
 Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang

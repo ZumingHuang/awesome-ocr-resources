@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:NewTurn2017/fast-pdf-to-markdown:skill-md
+kind: skill
+name: NewTurn2017/fast-pdf-to-markdown / SKILL.md
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/NewTurn2017/fast-pdf-to-markdown/blob/3654c4389c33c7658ad4f537fe1784b40cd1c461/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/NewTurn2017/fast-pdf-to-markdown/blob/3654c4389c33c7658ad4f537fe1784b40cd1c461/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-18'
+  source_id: NewTurn2017/fast-pdf-to-markdown:SKILL.md
+  source_metadata:
+    repository: NewTurn2017/fast-pdf-to-markdown
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: NewTurn2017/fast-pdf-to-markdown
+manifest_path: SKILL.md
+capabilities: {}

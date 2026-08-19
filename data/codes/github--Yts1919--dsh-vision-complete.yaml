@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Yts1919/dsh-vision-complete
+kind: code
+name: Yts1919/dsh-vision-complete
+released_at:
+  value: '2026-08-14'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: 给 DeepSeek 补上「眼睛和耳朵」的多模态视觉插件：看图 / OCR / 物体检测 / 视频理解 / 语音转写 / 截图直读，一键安装（DSH 插件）。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Yts1919/dsh-vision-complete
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Yts1919/dsh-vision-complete
+  discovered_via: github
+  discovered_at: '2026-08-18'
+  source_id: R_kgDOT4fyIg
+  source_metadata:
+    repository: Yts1919/dsh-vision-complete
+    stars: 36
+    language: PowerShell
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Yts1919/dsh-vision-complete
+landmark: false
+programming_languages:
+- PowerShell
+maintenance_status: active

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:YSX-Luvletter/Qwen2-VL-OCR-2B-Instruct
+kind: model
+name: YSX-Luvletter/Qwen2-VL-OCR-2B-Instruct
+released_at:
+  value: '2026-08-17'
+  precision: day
+added_at: '2026-08-18'
+last_verified_at: '2026-08-18'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/YSX-Luvletter/Qwen2-VL-OCR-2B-Instruct
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/YSX-Luvletter/Qwen2-VL-OCR-2B-Instruct
+  discovered_via: huggingface
+  discovered_at: '2026-08-18'
+  source_id: YSX-Luvletter/Qwen2-VL-OCR-2B-Instruct
+  source_metadata:
+    repository_id: YSX-Luvletter/Qwen2-VL-OCR-2B-Instruct
+    downloads: 37
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: YSX-Luvletter
+repository_id: YSX-Luvletter/Qwen2-VL-OCR-2B-Instruct
+deployment: []
