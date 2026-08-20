@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:Kathir0118/nemotron-ocr-v2
+kind: model
+name: Kathir0118/nemotron-ocr-v2
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-20'
+last_verified_at: '2026-08-20'
+summary: ''
+tasks:
+- document-layout-analysis
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Kathir0118/nemotron-ocr-v2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Kathir0118/nemotron-ocr-v2
+  discovered_via: huggingface
+  discovered_at: '2026-08-20'
+  source_id: Kathir0118/nemotron-ocr-v2
+  source_metadata:
+    repository_id: Kathir0118/nemotron-ocr-v2
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Kathir0118
+repository_id: Kathir0118/nemotron-ocr-v2
+deployment: []

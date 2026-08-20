@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:kagamill/qwen3-vl-2b-latex-ocr-grpo
+kind: model
+name: kagamill/qwen3-vl-2b-latex-ocr-grpo
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-20'
+last_verified_at: '2026-08-20'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/kagamill/qwen3-vl-2b-latex-ocr-grpo
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/kagamill/qwen3-vl-2b-latex-ocr-grpo
+  discovered_via: huggingface
+  discovered_at: '2026-08-20'
+  source_id: kagamill/qwen3-vl-2b-latex-ocr-grpo
+  source_metadata:
+    repository_id: kagamill/qwen3-vl-2b-latex-ocr-grpo
+    downloads: 14
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: kagamill
+repository_id: kagamill/qwen3-vl-2b-latex-ocr-grpo
+deployment: []

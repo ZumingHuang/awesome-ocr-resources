@@ -1,0 +1,67 @@
+schema_version: 1
+id: paper:arxiv:2608.17550
+kind: paper
+name: 'Code as Representation: A Compilable Parsing Paradigm for Academic Documents'
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-20'
+last_verified_at: '2026-08-20'
+summary: 'Academic papers are a primary carrier of scientific knowledge, yet most of this knowledge remains
+  locked in PDFs that are optimized for human reading rather than machine use. For Multimodal Large Language
+  Models (MLLMs), the core challenge is not only perception, but representation: scientific pages interleave
+  text with Structured Academic Elements (SAEs) such as tables, formulas, charts, and pseudocode, whose
+  structure, data, and logic are poorly preserved by common surrogates like Markdown. We therefore propose
+  Compilable Academic Document Parsing (CADP), a paradigm that reconstructs a full page as contextual
+  \LaTeX{} plus executable Python, so that structure-preserving elements and executable chart representations
+  can be reconstructed, recompiled, and directly verified against the source page. To support this setting,
+  we introduce CADP-Bench, an expert-verified benchmark of full academic pages containing tightly coupled
+  text and multiple SAE types, evaluated through a re-injection compilation protocol. We further study
+  current capabilities using SOTA MLLMs and an exploratory multi-agent baseline that incorporates common
+  agentic techniques. Results show that even frontier models still struggle to produce high-fidelity executable
+  reconstructions, highlighting substantial room for improvement in structure-aware scientific document
+  parsing. CADP-Bench is released for future research.'
+tasks:
+- formula-recognition
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.17550
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.17550
+  discovered_via: arxiv
+  discovered_at: '2026-08-20'
+  source_id: '2608.17550'
+  source_metadata:
+    arxiv_id: '2608.17550'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Rihui Jin
+- Jun Wang
+- chengyuan zhu
+- Liang Mingyu
+- Yue Gao
+- Li Yunxuan
+- Kuicai Dong
+- Guilin Qi
+- Lin Ren
+- Yongrui Chen
+- Xinbang Dai
+- Jiaqi Li
+- Tongtong Wu
+- Gholamreza Haffari
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.17550'

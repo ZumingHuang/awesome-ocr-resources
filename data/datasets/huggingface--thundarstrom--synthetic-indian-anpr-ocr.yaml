@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:thundarstrom/synthetic-indian-anpr-ocr
+kind: dataset
+name: thundarstrom/synthetic-indian-anpr-ocr
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-20'
+last_verified_at: '2026-08-20'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSynthetic Indian License Plate Character Generator Corpus\n\t\n\nPart\
+  \ of the Edge-AI Traffic & Vehicle Analytics System repository by thundarstrom.\n\n\t\n\t\t\n\t\n\t\n\
+  \t\tDataset Summary\n\t\n\n18,000 synthetically generated Indian plate crops covering all 36 Indian\
+  \ states and Union Territories with diverse fonts, spacing, distortion, and noise.\nIdeal for pretraining\
+  \ sequence recognition models on rare RTO state codes before real data fine-tuning.\n\n\n\t\n\t\t\n\t\
+  \n\t\n\t\tHow to Access and Download… See the full description on the dataset page: https://huggingface.co/datasets/thundarstrom/synthetic-indian-anpr-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/thundarstrom/synthetic-indian-anpr-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/thundarstrom/synthetic-indian-anpr-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-20'
+  source_id: thundarstrom/synthetic-indian-anpr-ocr
+  source_metadata:
+    repository_id: thundarstrom/synthetic-indian-anpr-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: thundarstrom
+repository_id: thundarstrom/synthetic-indian-anpr-ocr
+usage: []
+annotations: []
+access: unknown

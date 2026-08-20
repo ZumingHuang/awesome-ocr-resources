@@ -5,9 +5,21 @@
 Vladimir Beskorovainyi
 \[handwriting-recognition\]
 
+**AISA: AI Safety Assistant Framework for Continuous Improvement of Highway Construction**
+Mason Smetana, Trevor Neece, Lev Khazanovich
+\[document-vqa\]
+
 **BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models**
 Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
 \[handwriting-recognition\]\[text-recognition\]
+
+**Code as Representation: A Compilable Parsing Paradigm for Academic Documents**
+Rihui Jin, Jun Wang, chengyuan zhu, Liang Mingyu, Yue Gao, Li Yunxuan, Kuicai Dong, Guilin Qi, Lin Ren, Yongrui Chen, Xinbang Dai, Jiaqi Li, Tongtong Wu, Gholamreza Haffari
+\[formula-recognition\]\[document-parsing\]
+
+**DocClaw: A Unified Agentic System for Intelligent Document Processing**
+Siqi Xiang, Zhipeng Xu, Yufei Liu, Junhao Ji, Qing Liu, Zulong Chen, Zhibo Yang, Chunyan Miao, Shijian Lu
+\[document-vqa\]\[formula-recognition\]\[text-recognition\]
 
 **DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**
 Dongyang Xie, Yao Tian, Hao Zhang, Yifei Yuan, Tieyun Qian, Ming Zhong, Jiawei Jiang, Yuanyuan Zhu
@@ -25,12 +37,24 @@ Le Xiang, Zhicheng Guan, Hong Chen, Xiaocong Lin, Zhenghua Lei, Teng Hu, Bolei H
 Zhibin Ma, Pengwen Dai, Yi Liu, Xugong Qin, Chenyun Yu, Xiaochun Cao
 \[formula-recognition\]\[text-recognition\]
 
+**Evaluating Structured Information Extraction with Open Models in a High Risk Public Sector Application**
+Elias Schubert, Felix Bießmann
+\[text-recognition\]
+
 **Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels**
 Zhuchenyang Liu, Yao Zhang, Yu Xiao
 \[document-parsing\]
 
 **Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning**
 Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan
+\[text-recognition\]
+
+**Institutional Books - Visual Elements: An open-source pipeline for extracting, classifying, deduplicating, and captioning visual elements from digital book collections**
+Jimmy Mendez, Matteo Cargnelutti, David Lowry-Duda, Catherine Brobston, Salwa Ismail, Greg Leppert, Amanda Watson, Jonathan Zittrain
+\[text-recognition\]
+
+**Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers**
+Matteo Cargnelutti, Catherine Brobston, Eben English, Jake Sadow, Kacie Bailey, Greg Leppert, Amanda Watson, Jessica Chapel, Jonathan Zittrain
 \[text-recognition\]
 
 **LongDocBench: Benchmarking TOC Hierarchy and Contextual Relationship Recovery in Long Documents**
@@ -48,6 +72,10 @@ Gupta Lovi Raj, Kaur Kamalpreet, Dama Sri Ram, Parani Prajithaa
 **NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents**
 Peng Cai, Zhaofan Zou, Shifa Liu, Yikun Wang, Jiawei Tang, Kaicheng Yang, Meng Tong, Zhongjiang He, Hao Sun
 \[table-recognition\]\[formula-recognition\]\[document-layout-analysis\]\[document-parsing\]\[text-recognition\]
+
+**OmniHandwritingOCR: A Diagnostic Benchmark for Evaluating Multimodal LLMs in Handwritten OCR Scenarios**
+Zinuo Guo, Min Zhang, Bo Jiang
+\[formula-recognition\]\[handwriting-recognition\]\[text-recognition\]
 
 **One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting**
 Rui Tang, Wentao Yang, Peirong Zhang, Yongxin Shi, Shun Zhang, Huiguo He, Lianwen Jin

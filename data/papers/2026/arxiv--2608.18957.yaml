@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:2608.18957
+kind: paper
+name: 'Institutional Books - Visual Elements: An open-source pipeline for extracting, classifying, deduplicating,
+  and captioning visual elements from digital book collections'
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-20'
+last_verified_at: '2026-08-20'
+summary: 'Historical book collections contain rich visual elements - such as illustrations, photographs,
+  engravings, and decorative art - that are frequently under-explored in large-scale digitization projects.
+  While Optical Character Recognition (OCR) has standardized the extraction of textual content, these
+  visual components offer a layer of nuance and context that remains largely untapped by automated text
+  extraction workflows. This technical report introduces Institutional Books - Visual Elements, an open-source
+  end-to-end pipeline for detecting, classifying, deduplicating, and captioning visual elements from historical
+  book collections. Alongside this pipeline, we release an initial dataset of 22.6 million visual elements
+  extracted from the 983,004 scanned volumes that comprise the Institutional Books: Harvard Library dataset.
+  This work contributes to ongoing, community-wide efforts to enable new use cases for digitized library
+  collections through computational access, from artificial intelligence model training to digital humanities
+  research.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.18957
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.18957
+  discovered_via: arxiv
+  discovered_at: '2026-08-20'
+  source_id: '2608.18957'
+  source_metadata:
+    arxiv_id: '2608.18957'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Jimmy Mendez
+- Matteo Cargnelutti
+- David Lowry-Duda
+- Catherine Brobston
+- Salwa Ismail
+- Greg Leppert
+- Amanda Watson
+- Jonathan Zittrain
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.18957'
