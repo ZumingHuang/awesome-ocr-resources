@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:hienhayho/swift_ocr_qwen_all_steps_86_328
+kind: model
+name: hienhayho/swift_ocr_qwen_all_steps_86_328
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-20'
+last_verified_at: '2026-08-20'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/hienhayho/swift_ocr_qwen_all_steps_86_328
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/hienhayho/swift_ocr_qwen_all_steps_86_328
+  discovered_via: huggingface
+  discovered_at: '2026-08-20'
+  source_id: hienhayho/swift_ocr_qwen_all_steps_86_328
+  source_metadata:
+    repository_id: hienhayho/swift_ocr_qwen_all_steps_86_328
+    downloads: 45
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: hienhayho
+repository_id: hienhayho/swift_ocr_qwen_all_steps_86_328
+deployment: []

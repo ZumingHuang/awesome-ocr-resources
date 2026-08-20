@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:thrive2308/Rapid_OCR_Document_To_Markdown_Models
+kind: model
+name: thrive2308/Rapid_OCR_Document_To_Markdown_Models
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-20'
+last_verified_at: '2026-08-20'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/thrive2308/Rapid_OCR_Document_To_Markdown_Models
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/thrive2308/Rapid_OCR_Document_To_Markdown_Models
+  discovered_via: huggingface
+  discovered_at: '2026-08-20'
+  source_id: thrive2308/Rapid_OCR_Document_To_Markdown_Models
+  source_metadata:
+    repository_id: thrive2308/Rapid_OCR_Document_To_Markdown_Models
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: thrive2308
+repository_id: thrive2308/Rapid_OCR_Document_To_Markdown_Models
+deployment: []

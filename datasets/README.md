@@ -4,6 +4,208 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Yesianrohn/ocr_image_urls](https://huggingface.co/datasets/Yesianrohn/ocr_image_urls) | 2026-08-19 | text-recognition | candidate | — |
+| [Werea-co/werea-tr-doc-ocr-enterprise-v2](https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-enterprise-v2) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Werea Turkish Enterprise Documents v2 📄🇹🇷
+	
+
+v1 setinin
+enterprise sürümü: 12 belge türü × 3 çekim koşulu, 12.960 train + 900 test
+sayfası. Werea-DocOCR v2 modellerinin eğitimi için üretilmiştir.
+
+	
+		
+	
+	
+		Belge türleri (12)
+	
+
+Genel vekaletname · DASK poliçesi · e-Arşiv fatura · Konut kira sözleşmesi ·
+Banka dekontu · Tapu senedi · Maaş bordrosu · Kasko poliçesi · Araç tescil
+bilgi formu · Resmî kurum yazısı · Ticaret sicil ilanı · SGK hizmet dökümü
+
+	
+		
+	
+	
+		Çekim… See the full description on the dataset page: https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-enterprise-v2. |
+| [thundarstrom/synthetic-indian-anpr-ocr](https://huggingface.co/datasets/thundarstrom/synthetic-indian-anpr-ocr) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Synthetic Indian License Plate Character Generator Corpus
+	
+
+Part of the Edge-AI Traffic & Vehicle Analytics System repository by thundarstrom.
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+18,000 synthetically generated Indian plate crops covering all 36 Indian states and Union Territories with diverse fonts, spacing, distortion, and noise.
+Ideal for pretraining sequence recognition models on rare RTO state codes before real data fine-tuning.
+
+
+	
+		
+	
+	
+		How to Access and Download… See the full description on the dataset page: https://huggingface.co/datasets/thundarstrom/synthetic-indian-anpr-ocr. |
+| [thundarstrom/indian-anpr-ocr-corpus](https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-corpus) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Indian License Plate Character Recognition (PARSeq & LMDB)
+	
+
+Part of the Edge-AI Traffic & Vehicle Analytics System repository by thundarstrom.
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A curated dataset of 18,537 normalized license plate image crops aligned strictly with Indian Motor Vehicle Act alphanumeric formats (^[A-Z]{2}[0-9]{1,2}[A-Z]{1,3}[0-9]{4}$).
+
+	
+		
+	
+	
+		Formats Provided
+	
+
+
+Raw Crops & Ground Truth: parseq_dataset/ with gt.txt (Tab-delimited: filename \t text).… See the full description on the dataset page: https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-corpus. |
+| [thundarstrom/indian-anpr-ocr-benchmark](https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-benchmark) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		DashCop Real-World Out-of-Distribution ANPR Benchmark
+	
+
+Part of the Edge-AI Traffic & Vehicle Analytics System repository by thundarstrom.
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A frozen evaluation benchmark of 3,034 real dashcam plate crops captured in challenging conditions (low resolution median 56x34 px, motion blur, direct sunlight, rain).
+
+	
+		
+	
+	
+		Policy
+	
+
+
+FROZEN TEST SET: Never train, augment, or fine-tune models on this dataset.
+Use exclusively to evaluate zero-shot… See the full description on the dataset page: https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-benchmark. |
+| [Ericu950/litteraturbanken-ocr-corpus](https://huggingface.co/datasets/Ericu950/litteraturbanken-ocr-corpus) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Litteraturbanken OCR Corpus
+	
+
+Machine-read text of Litteraturbanken's facsimile collection, produced by a fine-tuned
+vision-language OCR model (see
+Ericu950/swedish-print-ocr-3b).
+13,647 works, 2,260,417 pages, 2.95 billion characters, one row per printed page, keyed by
+the catalogue's own page name. 179,768 of those pages (247.6 million characters) predate 1800,
+including the 1541 Gustav Vasa Bible in full and all five volumes of Rudbeck's Atlantica
+(1679–1702).
+This is the only… See the full description on the dataset page: https://huggingface.co/datasets/Ericu950/litteraturbanken-ocr-corpus. |
+| [Werea-co/werea-tr-doc-ocr-synthetic](https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-synthetic) | 2026-08-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Werea Turkish Enterprise Documents 📄🇹🇷
+	
+
+Türkçe kurumsal belge OCR eğitimi için tamamı sentetik sayfa görüntüleri ve
+birebir eşleşen markdown ground-truth metinleri. Werea
+tarafından Werea-DocOCR modellerinin eğitimi için üretilmiştir.
+
+	
+		
+	
+	
+		Belge türleri
+	
+
+
+	
+		
+Tür
+Train
+Test
+İçerik
+
+
+		
+Genel vekaletname
+500
+50
+Noter başlığı, taraflar, yetki maddeleri, noter şerhi
+
+
+DASK poliçesi
+500
+50
+Poliçe/sigortalı/bina bilgileri, prim tablosu
+
+
+e-Arşiv fatura
+500
+50
+Satıcı/alıcı… See the full description on the dataset page: https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-synthetic. |
+| [themohal/saraiki-ocr-poetry-dataset](https://huggingface.co/datasets/themohal/saraiki-ocr-poetry-dataset) | 2026-08-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Saraiki OCR Poetry Dataset (Gemini-generated, Jataki dialect)
+	
+
+Original Jataki Saraiki poems generated by Gemini, quality/dialect-purity judged, then rendered as images with the Mehr Nastaliq Saraiki font (RAQM-shaped for correct Perso-Arabic joining) -- for OCR / text-recognition training.
+Row format:
+{"id": ..., "image": <PIL image>, "text": "<poem, \n-separated lines>",
+  "length_category": "short|medium|long", "line_count": ..., "word_count": ..., "judge_score": ...}… See the full description on the dataset page: https://huggingface.co/datasets/themohal/saraiki-ocr-poetry-dataset. |
+| [rocky1410/goat-ocr-color-synth-300k-v0](https://huggingface.co/datasets/rocky1410/goat-ocr-color-synth-300k-v0) | 2026-08-18 | text-recognition | candidate | — |
+| [hydroshiba/aic26-b1-ocr](https://huggingface.co/datasets/hydroshiba/aic26-b1-ocr) | 2026-08-18 | text-recognition | candidate | — |
+| [florapeterpaul3/geeklink-ocr-benchmark](https://huggingface.co/datasets/florapeterpaul3/geeklink-ocr-benchmark) | 2026-08-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		GeekLink OCR Benchmark
+	
+
+A benchmark for burned-in video subtitle OCR: 600 subtitle images across
+6 languages (English, Spanish, Japanese, Korean, Chinese, Greek), rendered
+onto real film footage with exact known ground truth — so there's no
+ambiguity about what the "correct" answer is, and no privacy or copyright
+risk in the images themselves.
+Unlike document-OCR benchmarks (scanned pages, receipts, street signs), this
+targets the specific failure modes of subtitle OCR in video:… See the full description on the dataset page: https://huggingface.co/datasets/florapeterpaul3/geeklink-ocr-benchmark. |
 | [vaishnavi0901/kannada-ocr-dataset](https://huggingface.co/datasets/vaishnavi0901/kannada-ocr-dataset) | 2026-08-17 | handwriting-recognition, text-recognition | candidate | 
 	
 		
