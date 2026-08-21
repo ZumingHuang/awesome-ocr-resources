@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:ucmao/juziscan
+kind: code
+name: ucmao/juziscan
+released_at:
+  value: '2026-08-17'
+  precision: day
+added_at: '2026-08-21'
+last_verified_at: '2026-08-21'
+summary: 桔子扫描 (JuZiScan)专为高效办公场景打造的现代化开源智能文档扫描与处理Android应用。基于JetpackCompose + OpenCV + MLKit构建，支持AI深度学习与OpenCV双引擎边缘检测透视矫正、高精离线OCR文字识别、专业证件拼板、PDF/图像工具箱、局域网Wi-Fi直传，并配备轻量级FastAPI后端与Web管理控制台。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ucmao/juziscan
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ucmao/juziscan
+  discovered_via: github
+  discovered_at: '2026-08-21'
+  source_id: R_kgDOT7AFqQ
+  source_metadata:
+    repository: ucmao/juziscan
+    stars: 14
+    language: Kotlin
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: ucmao/juziscan
+landmark: false
+programming_languages:
+- Kotlin
+maintenance_status: active

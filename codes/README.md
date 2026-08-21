@@ -4,8 +4,12 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios) | 2026-08-19 | text-recognition | candidate | DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 21 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on. |
+| [kayurachann/docreconstruct](https://github.com/kayurachann/docreconstruct) | 2026-08-19 | text-recognition | candidate | Model-agnostic high-fidelity reconstruction of PDFs and scans into editable documents |
 | [excitinglava/pdf-to-word-docx-converter](https://github.com/excitinglava/pdf-to-word-docx-converter) | 2026-08-18 | text-recognition | candidate | Convert PDF to editable Word documents (.docx) preserving layout, tables, images, and formatting. OCR mode for scanned PDFs. No file size limit, no wa |
+| [ucmao/juziscan](https://github.com/ucmao/juziscan) | 2026-08-17 | text-recognition | candidate | 桔子扫描 (JuZiScan)专为高效办公场景打造的现代化开源智能文档扫描与处理Android应用。基于JetpackCompose + OpenCV + MLKit构建，支持AI深度学习与OpenCV双引擎边缘检测透视矫正、高精离线OCR文字识别、专业证件拼板、PDF/图像工具箱、局域网Wi-Fi直传，并配备轻量级FastAPI后端与Web管理控制台。 |
 | [panupongkongkate/win-ocr](https://github.com/panupongkongkate/win-ocr) | 2026-08-17 | text-recognition | candidate | — |
+| [Mengqi97/codex-bilingual-reader-for-zotero](https://github.com/Mengqi97/codex-bilingual-reader-for-zotero) | 2026-08-17 | other | candidate | Preserved-layout English-Chinese PDF translation for Zotero using Codex or OpenAI-compatible APIs |
 | [Dicklesworthstone/classic-patents.com](https://github.com/Dicklesworthstone/classic-patents.com) | 2026-08-17 | text-recognition | candidate | An open-source digital museum restoring history's most consequential patents into pristine OCR transcripts, rigorous Plain English engineering breakdowns, and interactive real-time simulations. |
 | [jing-hy/picturereader](https://github.com/jing-hy/picturereader) | 2026-08-16 | text-recognition | candidate | DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR. |
 | [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) | 2026-08-15 | other | candidate | Evidence-first deep reading for AI agents — trace claims, evidence, confidence and knowledge maps across articles, books and PDFs. |

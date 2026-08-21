@@ -4,6 +4,18 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [waroodzkhan/urdu-ocr-si26-model](https://huggingface.co/waroodzkhan/urdu-ocr-si26-model) | 2026-08-20 | text-recognition | candidate | — |
+| [Saima-Manzoor/urdu-ocr-codesaviours-si26-saima](https://huggingface.co/Saima-Manzoor/urdu-ocr-codesaviours-si26-saima) | 2026-08-20 | text-recognition | candidate | — |
+| [saharsahebi/layout-aware-receipt-ocr](https://huggingface.co/saharsahebi/layout-aware-receipt-ocr) | 2026-08-20 | text-recognition | candidate | — |
+| [Moazamzf/urdu-ocr-si26-model](https://huggingface.co/Moazamzf/urdu-ocr-si26-model) | 2026-08-20 | text-recognition | candidate | — |
+| [IHPAN/LightOnOCR-2-1B-ocr-sgkp](https://huggingface.co/IHPAN/LightOnOCR-2-1B-ocr-sgkp) | 2026-08-20 | text-recognition | candidate | — |
+| [halimajaved592/urdu-ocr-trocr](https://huggingface.co/halimajaved592/urdu-ocr-trocr) | 2026-08-20 | text-recognition | candidate | — |
+| [thrive2308/Rapid_OCR_Document_To_Markdown_Models](https://huggingface.co/thrive2308/Rapid_OCR_Document_To_Markdown_Models) | 2026-08-19 | text-recognition | candidate | — |
+| [SeeWye/deepseek_ocr_lora_automataOCR2base](https://huggingface.co/SeeWye/deepseek_ocr_lora_automataOCR2base) | 2026-08-19 | text-recognition | candidate | — |
+| [Kathir0118/nemotron-ocr-v2](https://huggingface.co/Kathir0118/nemotron-ocr-v2) | 2026-08-19 | document-layout-analysis, text-recognition | candidate | — |
+| [htfcteam/pp-ocrv6](https://huggingface.co/htfcteam/pp-ocrv6) | 2026-08-19 | text-recognition | candidate | — |
+| [Ericu950/swedish-print-ocr-3b-benchmark](https://huggingface.co/Ericu950/swedish-print-ocr-3b-benchmark) | 2026-08-19 | text-recognition | candidate | — |
+| [Ericu950/swedish-print-ocr-3b](https://huggingface.co/Ericu950/swedish-print-ocr-3b) | 2026-08-19 | text-recognition | candidate | — |
 | [vaishnavi0901/gemma4-31b-kannada-ocr](https://huggingface.co/vaishnavi0901/gemma4-31b-kannada-ocr) | 2026-08-18 | text-recognition | candidate | — |
 | [shehzadkhalid04/balochi-gemma4-e2b-ocr](https://huggingface.co/shehzadkhalid04/balochi-gemma4-e2b-ocr) | 2026-08-18 | text-recognition | candidate | — |
 | [Shaurya-saini/qwen2.5-coder-7b-ocr-qlora-lora](https://huggingface.co/Shaurya-saini/qwen2.5-coder-7b-ocr-qlora-lora) | 2026-08-18 | text-recognition | candidate | — |

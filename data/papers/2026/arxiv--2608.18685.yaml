@@ -1,0 +1,66 @@
+schema_version: 1
+id: paper:arxiv:2608.18685
+kind: paper
+name: 'DocClaw: A Unified Agentic System for Intelligent Document Processing'
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-21'
+last_verified_at: '2026-08-21'
+summary: Intelligent document processing (IDP) encompasses a broad range of tasks, including optical character
+  recognition (OCR), document question answering (DocQA), and key information extraction (KIE). Despite
+  their distinct objectives, these tasks share a common need to perceive document content, acquire task-relevant
+  information, and progressively refine intermediate results. However, they are typically formulated as
+  separate prediction problems and addressed by task-specific models or processing pipelines. We introduce
+  DocClaw, a unified agentic system that formulates diverse intelligent document processing tasks as a
+  shared process of interaction between an agent and a document. Given a document and a task-specific
+  query, DocClaw follows an appropriate document skill to iteratively identify the information required,
+  invoke relevant tools, and integrate the resulting observations into the desired output. Throughout
+  this process, a structured document state organizes reusable document knowledge and task-specific interaction
+  context, allowing the agent to accumulate, revisit, and progressively refine information as the interaction
+  proceeds. Under this formulation, task-specific requirements are captured by the agent's interpretation
+  of the query objective and the corresponding document skill, while the underlying interaction loop,
+  tool space, and document state are shared across tasks. Extensive experiments across multiple intelligent
+  document processing benchmarks demonstrate that DocClaw effectively handles diverse tasks within a single
+  agentic framework and achieves competitive performance compared with both general-purpose VLMs and task-specific
+  methods.
+tasks:
+- document-vqa
+- formula-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.18685
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.18685
+  discovered_via: arxiv
+  discovered_at: '2026-08-21'
+  source_id: '2608.18685'
+  source_metadata:
+    arxiv_id: '2608.18685'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Siqi Xiang
+- Zhipeng Xu
+- Yufei Liu
+- Junhao Ji
+- Qing Liu
+- Zulong Chen
+- Zhibo Yang
+- Chunyan Miao
+- Shijian Lu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.18685'
