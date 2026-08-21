@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:Werea-co/werea-tr-doc-ocr-enterprise-v2
+kind: dataset
+name: Werea-co/werea-tr-doc-ocr-enterprise-v2
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-21'
+last_verified_at: '2026-08-21'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tWerea Turkish Enterprise Documents v2 \U0001F4C4\U0001F1F9\U0001F1F7\
+  \n\t\n\nv1 setinin\nenterprise sürümü: 12 belge türü × 3 çekim koşulu, 12.960 train + 900 test\nsayfası.\
+  \ Werea-DocOCR v2 modellerinin eğitimi için üretilmiştir.\n\n\t\n\t\t\n\t\n\t\n\t\tBelge türleri (12)\n\
+  \t\n\nGenel vekaletname · DASK poliçesi · e-Arşiv fatura · Konut kira sözleşmesi ·\nBanka dekontu ·\
+  \ Tapu senedi · Maaş bordrosu · Kasko poliçesi · Araç tescil\nbilgi formu · Resmî kurum yazısı · Ticaret\
+  \ sicil ilanı · SGK hizmet dökümü\n\n\t\n\t\t\n\t\n\t\n\t\tÇekim… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-enterprise-v2."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-enterprise-v2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-enterprise-v2
+  discovered_via: huggingface
+  discovered_at: '2026-08-21'
+  source_id: Werea-co/werea-tr-doc-ocr-enterprise-v2
+  source_metadata:
+    repository_id: Werea-co/werea-tr-doc-ocr-enterprise-v2
+    downloads: 36
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Werea-co
+repository_id: Werea-co/werea-tr-doc-ocr-enterprise-v2
+usage: []
+annotations: []
+access: unknown

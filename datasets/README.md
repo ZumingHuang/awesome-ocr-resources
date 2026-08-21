@@ -4,6 +4,179 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [lingamvamshikrishnareddy/ramanv-document-ocr-2](https://huggingface.co/datasets/lingamvamshikrishnareddy/ramanv-document-ocr-2) | 2026-08-21 | text-recognition | candidate | — |
+| [lingamvamshikrishnareddy/ramanv-document-ocr](https://huggingface.co/datasets/lingamvamshikrishnareddy/ramanv-document-ocr) | 2026-08-21 | text-recognition | candidate | — |
+| [OCR-Data/dataset_nihal](https://huggingface.co/datasets/OCR-Data/dataset_nihal) | 2026-08-20 | text-recognition | candidate | — |
+| [Ericu950/swedish-print-ocr-training-data](https://huggingface.co/datasets/Ericu950/swedish-print-ocr-training-data) | 2026-08-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		Swedish Print OCR — training and evaluation data
+	
+
+Training mixture and benchmarks for
+Ericu950/swedish-print-ocr-3b (production)
+and
+Ericu950/swedish-print-ocr-3b-benchmark
+(held-out evaluation model). Each training row is a chat-format example:
+{"messages": [{"role": "user", "content": "<image>Transkribera sidans brödtext normaliserat: ..."},
+              {"role": "assistant", "content": "..."}],
+ "images": ["<absolute path on the training cluster>"]}
+
+Images are included under… See the full description on the dataset page: https://huggingface.co/datasets/Ericu950/swedish-print-ocr-training-data. |
+| [Ericu950/swedish-print-ocr-code](https://huggingface.co/datasets/Ericu950/swedish-print-ocr-code) | 2026-08-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		Swedish Print OCR — training and evaluation code
+	
+
+The code behind the paper A Vision–Language OCR Model and an Open Corpus
+(Cullhed). This is the curated pipeline that produced the released models,
+benchmarks and corpus — exploratory and superseded experiment code is not
+included. Comments and docstrings are in Swedish; they document not just what
+each script does but why it is built the way it is.
+
+	
+		
+	
+	
+		Companion repositories
+	
+
+
+Evaluation model:… See the full description on the dataset page: https://huggingface.co/datasets/Ericu950/swedish-print-ocr-code. |
+| [Yesianrohn/ocr_image_urls](https://huggingface.co/datasets/Yesianrohn/ocr_image_urls) | 2026-08-19 | text-recognition | candidate | — |
+| [Werea-co/werea-tr-doc-ocr-enterprise-v2](https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-enterprise-v2) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Werea Turkish Enterprise Documents v2 📄🇹🇷
+	
+
+v1 setinin
+enterprise sürümü: 12 belge türü × 3 çekim koşulu, 12.960 train + 900 test
+sayfası. Werea-DocOCR v2 modellerinin eğitimi için üretilmiştir.
+
+	
+		
+	
+	
+		Belge türleri (12)
+	
+
+Genel vekaletname · DASK poliçesi · e-Arşiv fatura · Konut kira sözleşmesi ·
+Banka dekontu · Tapu senedi · Maaş bordrosu · Kasko poliçesi · Araç tescil
+bilgi formu · Resmî kurum yazısı · Ticaret sicil ilanı · SGK hizmet dökümü
+
+	
+		
+	
+	
+		Çekim… See the full description on the dataset page: https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-enterprise-v2. |
+| [thundarstrom/synthetic-indian-anpr-ocr](https://huggingface.co/datasets/thundarstrom/synthetic-indian-anpr-ocr) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Synthetic Indian License Plate Character Generator Corpus
+	
+
+Part of the Edge-AI Traffic & Vehicle Analytics System repository by thundarstrom.
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+18,000 synthetically generated Indian plate crops covering all 36 Indian states and Union Territories with diverse fonts, spacing, distortion, and noise.
+Ideal for pretraining sequence recognition models on rare RTO state codes before real data fine-tuning.
+
+
+	
+		
+	
+	
+		How to Access and Download… See the full description on the dataset page: https://huggingface.co/datasets/thundarstrom/synthetic-indian-anpr-ocr. |
+| [thundarstrom/indian-anpr-ocr-corpus](https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-corpus) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Indian License Plate Character Recognition (PARSeq & LMDB)
+	
+
+Part of the Edge-AI Traffic & Vehicle Analytics System repository by thundarstrom.
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A curated dataset of 18,537 normalized license plate image crops aligned strictly with Indian Motor Vehicle Act alphanumeric formats (^[A-Z]{2}[0-9]{1,2}[A-Z]{1,3}[0-9]{4}$).
+
+	
+		
+	
+	
+		Formats Provided
+	
+
+
+Raw Crops & Ground Truth: parseq_dataset/ with gt.txt (Tab-delimited: filename \t text).… See the full description on the dataset page: https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-corpus. |
+| [thundarstrom/indian-anpr-ocr-benchmark](https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-benchmark) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		DashCop Real-World Out-of-Distribution ANPR Benchmark
+	
+
+Part of the Edge-AI Traffic & Vehicle Analytics System repository by thundarstrom.
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A frozen evaluation benchmark of 3,034 real dashcam plate crops captured in challenging conditions (low resolution median 56x34 px, motion blur, direct sunlight, rain).
+
+	
+		
+	
+	
+		Policy
+	
+
+
+FROZEN TEST SET: Never train, augment, or fine-tune models on this dataset.
+Use exclusively to evaluate zero-shot… See the full description on the dataset page: https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-benchmark. |
+| [Peterleo5/uae-ocr-gemma4](https://huggingface.co/datasets/Peterleo5/uae-ocr-gemma4) | 2026-08-19 | text-recognition | candidate | — |
+| [Ericu950/litteraturbanken-ocr-corpus](https://huggingface.co/datasets/Ericu950/litteraturbanken-ocr-corpus) | 2026-08-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Litteraturbanken OCR Corpus
+	
+
+Machine-read text of Litteraturbanken's facsimile collection, produced by a fine-tuned
+vision-language OCR model (see
+Ericu950/swedish-print-ocr-3b).
+13,647 works, 2,260,417 pages, 2.95 billion characters, one row per printed page, keyed by
+the catalogue's own page name. 179,768 of those pages (247.6 million characters) predate 1800,
+including the 1541 Gustav Vasa Bible in full and all five volumes of Rudbeck's Atlantica
+(1679–1702).
+This is the only… See the full description on the dataset page: https://huggingface.co/datasets/Ericu950/litteraturbanken-ocr-corpus. |
 | [BIUS-batch1/ocr-1fps](https://huggingface.co/datasets/BIUS-batch1/ocr-1fps) | 2026-08-19 | text-recognition | candidate | — |
 | [Werea-co/werea-tr-doc-ocr-synthetic](https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-synthetic) | 2026-08-18 | text-recognition | candidate | 
 	

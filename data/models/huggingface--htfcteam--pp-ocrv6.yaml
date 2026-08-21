@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:htfcteam/pp-ocrv6
+kind: model
+name: htfcteam/pp-ocrv6
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-21'
+last_verified_at: '2026-08-21'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/htfcteam/pp-ocrv6
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/htfcteam/pp-ocrv6
+  discovered_via: huggingface
+  discovered_at: '2026-08-21'
+  source_id: htfcteam/pp-ocrv6
+  source_metadata:
+    repository_id: htfcteam/pp-ocrv6
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: htfcteam
+repository_id: htfcteam/pp-ocrv6
+deployment: []

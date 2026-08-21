@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:thundarstrom/indian-anpr-ocr-corpus
+kind: dataset
+name: thundarstrom/indian-anpr-ocr-corpus
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-21'
+last_verified_at: '2026-08-21'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tIndian License Plate Character Recognition (PARSeq & LMDB)\n\t\n\nPart\
+  \ of the Edge-AI Traffic & Vehicle Analytics System repository by thundarstrom.\n\n\t\n\t\t\n\t\n\t\n\
+  \t\tDataset Summary\n\t\n\nA curated dataset of 18,537 normalized license plate image crops aligned\
+  \ strictly with Indian Motor Vehicle Act alphanumeric formats (^[A-Z]{2}[0-9]{1,2}[A-Z]{1,3}[0-9]{4}$).\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tFormats Provided\n\t\n\n\nRaw Crops & Ground Truth: parseq_dataset/ with gt.txt\
+  \ (Tab-delimited: filename \\t text).… See the full description on the dataset page: https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-corpus."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-corpus
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/thundarstrom/indian-anpr-ocr-corpus
+  discovered_via: huggingface
+  discovered_at: '2026-08-21'
+  source_id: thundarstrom/indian-anpr-ocr-corpus
+  source_metadata:
+    repository_id: thundarstrom/indian-anpr-ocr-corpus
+    downloads: 9
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: thundarstrom
+repository_id: thundarstrom/indian-anpr-ocr-corpus
+usage: []
+annotations: []
+access: unknown
