@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:HongMing-Huang/dsh-file-upload
+kind: code
+name: HongMing-Huang/dsh-file-upload
+released_at:
+  value: '2026-08-15'
+  precision: day
+added_at: '2026-08-19'
+last_verified_at: '2026-08-19'
+summary: 'DeepSeek Harness (dsh) file-message plugin: Claude-style drag-and-drop / paperclip upload, content
+  sniffing, document-to-Markdown via Microsoft MarkItDown (with built-in JS fallback), text inlining,
+  read_document tool for agents.'
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/HongMing-Huang/dsh-file-upload
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/HongMing-Huang/dsh-file-upload
+  discovered_via: github
+  discovered_at: '2026-08-19'
+  source_id: R_kgDOT5FImQ
+  source_metadata:
+    repository: HongMing-Huang/dsh-file-upload
+    stars: 10
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: HongMing-Huang/dsh-file-upload
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

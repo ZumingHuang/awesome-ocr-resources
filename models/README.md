@@ -4,14 +4,26 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [vaishnavi0901/gemma4-31b-kannada-ocr](https://huggingface.co/vaishnavi0901/gemma4-31b-kannada-ocr) | 2026-08-18 | text-recognition | candidate | — |
+| [shehzadkhalid04/balochi-gemma4-e2b-ocr](https://huggingface.co/shehzadkhalid04/balochi-gemma4-e2b-ocr) | 2026-08-18 | text-recognition | candidate | — |
 | [Shaurya-saini/qwen2.5-coder-7b-ocr-qlora-lora](https://huggingface.co/Shaurya-saini/qwen2.5-coder-7b-ocr-qlora-lora) | 2026-08-18 | text-recognition | candidate | — |
 | [Shaurya-saini/qwen2.5-coder-7b-ocr-qlora](https://huggingface.co/Shaurya-saini/qwen2.5-coder-7b-ocr-qlora) | 2026-08-18 | text-recognition | candidate | — |
+| [shadowrock-io/Unlimited-OCR-Community-NVFP4](https://huggingface.co/shadowrock-io/Unlimited-OCR-Community-NVFP4) | 2026-08-18 | text-recognition | candidate | — |
+| [shadowrock-io/Unlimited-OCR-Community-FP8-Dynamic](https://huggingface.co/shadowrock-io/Unlimited-OCR-Community-FP8-Dynamic) | 2026-08-18 | text-recognition | candidate | — |
+| [kagamill/qwen3-vl-2b-latex-ocr-grpo](https://huggingface.co/kagamill/qwen3-vl-2b-latex-ocr-grpo) | 2026-08-18 | text-recognition | candidate | — |
+| [hienhayho/swift_ocr_qwen_all_steps_86_328](https://huggingface.co/hienhayho/swift_ocr_qwen_all_steps_86_328) | 2026-08-18 | text-recognition | candidate | — |
+| [hari001chopra/kalam-ocr](https://huggingface.co/hari001chopra/kalam-ocr) | 2026-08-18 | text-recognition | candidate | — |
+| [circulus/PP-OCRv6-tiny-int8-ov](https://huggingface.co/circulus/PP-OCRv6-tiny-int8-ov) | 2026-08-18 | text-recognition | candidate | — |
+| [circulus/PP-OCRv6-small-int8-ov](https://huggingface.co/circulus/PP-OCRv6-small-int8-ov) | 2026-08-18 | text-recognition | candidate | — |
+| [circulus/PP-OCRv6-medium-int8-ov](https://huggingface.co/circulus/PP-OCRv6-medium-int8-ov) | 2026-08-18 | text-recognition | candidate | — |
+| [alphabot2/14_Merged_RGB_ocr_ACT](https://huggingface.co/alphabot2/14_Merged_RGB_ocr_ACT) | 2026-08-18 | text-recognition | candidate | — |
 | [YSX-Luvletter/Qwen2-VL-OCR-2B-Instruct](https://huggingface.co/YSX-Luvletter/Qwen2-VL-OCR-2B-Instruct) | 2026-08-17 | text-recognition | candidate | — |
 | [Roy229/huggingface_terminal_notion_official_3556_9543dd4a_model_invoice-ocr](https://huggingface.co/Roy229/huggingface_terminal_notion_official_3556_9543dd4a_model_invoice-ocr) | 2026-08-17 | text-recognition | candidate | — |
 | [Roy229/ftfp1243-invoice-ocr](https://huggingface.co/Roy229/ftfp1243-invoice-ocr) | 2026-08-17 | text-recognition | candidate | — |
 | [phucdu/Qwen_2.5B_OCR_vie_v4](https://huggingface.co/phucdu/Qwen_2.5B_OCR_vie_v4) | 2026-08-17 | text-recognition | candidate | — |
 | [modrill/CN11-OLMO3-OCR-FC250-COT250-U64](https://huggingface.co/modrill/CN11-OLMO3-OCR-FC250-COT250-U64) | 2026-08-17 | text-recognition | candidate | — |
 | [lukasiktar11/license-plate-ocr-detector-rt-detr](https://huggingface.co/lukasiktar11/license-plate-ocr-detector-rt-detr) | 2026-08-17 | text-recognition | candidate | — |
+| [k-bite-team/K_Bite_OCR](https://huggingface.co/k-bite-team/K_Bite_OCR) | 2026-08-17 | text-recognition | candidate | — |
 | [HJU5022/K_Bite_OCR](https://huggingface.co/HJU5022/K_Bite_OCR) | 2026-08-17 | text-recognition | candidate | — |
 | [kdeng03/MolQwen3-VL-4B-Instruct-SFT-OCR-LoRA-Adapter](https://huggingface.co/kdeng03/MolQwen3-VL-4B-Instruct-SFT-OCR-LoRA-Adapter) | 2026-08-16 | text-recognition | candidate | — |
 | [kdeng03/MolQwen3-VL-4B-Instruct-SFT-OCR](https://huggingface.co/kdeng03/MolQwen3-VL-4B-Instruct-SFT-OCR) | 2026-08-16 | text-recognition | candidate | — |

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:NeuroSkill-com/skill:skill-md
+kind: skill
+name: NeuroSkill-com/skill / SKILL.md
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-19'
+last_verified_at: '2026-08-19'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/NeuroSkill-com/skill/blob/bfe84a981acf5209cba1f43152e4989377f3b19f/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/NeuroSkill-com/skill/blob/bfe84a981acf5209cba1f43152e4989377f3b19f/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-19'
+  source_id: NeuroSkill-com/skill:SKILL.md
+  source_metadata:
+    repository: NeuroSkill-com/skill
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: NeuroSkill-com/skill
+manifest_path: SKILL.md
+capabilities: {}

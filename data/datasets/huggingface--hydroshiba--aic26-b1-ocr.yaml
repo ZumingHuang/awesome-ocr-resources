@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:hydroshiba/aic26-b1-ocr
+kind: dataset
+name: hydroshiba/aic26-b1-ocr
+released_at:
+  value: '2026-08-18'
+  precision: day
+added_at: '2026-08-19'
+last_verified_at: '2026-08-19'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/hydroshiba/aic26-b1-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/hydroshiba/aic26-b1-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-19'
+  source_id: hydroshiba/aic26-b1-ocr
+  source_metadata:
+    repository_id: hydroshiba/aic26-b1-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: hydroshiba
+repository_id: hydroshiba/aic26-b1-ocr
+usage: []
+annotations: []
+access: unknown
