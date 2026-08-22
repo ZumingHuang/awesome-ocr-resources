@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:halimajaved592/urdu-ocr-trocr
+kind: model
+name: halimajaved592/urdu-ocr-trocr
+released_at:
+  value: '2026-08-20'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/halimajaved592/urdu-ocr-trocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/halimajaved592/urdu-ocr-trocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-22'
+  source_id: halimajaved592/urdu-ocr-trocr
+  source_metadata:
+    repository_id: halimajaved592/urdu-ocr-trocr
+    downloads: 17
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: halimajaved592
+repository_id: halimajaved592/urdu-ocr-trocr
+deployment: []

@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [cheatcode-ai/cheatcode / skills/pdf/SKILL.md](https://github.com/cheatcode-ai/cheatcode/blob/41e00142a23d4eb779a1095392c9038197153e04/skills/pdf/SKILL.md) | 2026-08-22 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [NeuroSkill-com/skill / SKILL.md](https://github.com/NeuroSkill-com/skill/blob/bfe84a981acf5209cba1f43152e4989377f3b19f/SKILL.md) | 2026-08-19 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [xiexikang/skill-pdf-content-extractor / SKILL.md](https://github.com/xiexikang/skill-pdf-content-extractor/blob/5eb0e601c07ba286bab34ac9b3b327b1ac3dadde/SKILL.md) | 2026-08-18 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [wulaosiji/skills / pdf/SKILL.md](https://github.com/wulaosiji/skills/blob/5ca2e0dbcf43d99a24ebfb8f214d1398c0feda3b/pdf/SKILL.md) | 2026-08-18 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

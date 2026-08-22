@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:rubberyglimp/Search-Text-in-Scanned-PDF-Tool-2026
+kind: code
+name: rubberyglimp/Search-Text-in-Scanned-PDF-Tool-2026
+released_at:
+  value: '2026-08-20'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: Search Text in Scanned PDF Tool for Windows. OCR and search text inside scanned PDFs, image-based
+  PDFs, and documents.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/rubberyglimp/Search-Text-in-Scanned-PDF-Tool-2026
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/rubberyglimp/Search-Text-in-Scanned-PDF-Tool-2026
+  discovered_via: github
+  discovered_at: '2026-08-22'
+  source_id: R_kgDOT_FFog
+  source_metadata:
+    repository: rubberyglimp/Search-Text-in-Scanned-PDF-Tool-2026
+    stars: 18
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: rubberyglimp/Search-Text-in-Scanned-PDF-Tool-2026
+landmark: false
+programming_languages: []
+maintenance_status: active

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:cheatcode-ai/cheatcode:skills-pdf-skill-md
+kind: skill
+name: cheatcode-ai/cheatcode / skills/pdf/SKILL.md
+released_at:
+  value: '2026-08-22'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/cheatcode-ai/cheatcode/blob/41e00142a23d4eb779a1095392c9038197153e04/skills/pdf/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/cheatcode-ai/cheatcode/blob/41e00142a23d4eb779a1095392c9038197153e04/skills/pdf/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-22'
+  source_id: cheatcode-ai/cheatcode:skills/pdf/SKILL.md
+  source_metadata:
+    repository: cheatcode-ai/cheatcode
+    manifest_path: skills/pdf/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: cheatcode-ai/cheatcode
+manifest_path: skills/pdf/SKILL.md
+capabilities: {}
