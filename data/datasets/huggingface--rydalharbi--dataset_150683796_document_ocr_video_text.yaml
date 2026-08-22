@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:rydalharbi/dataset_150683796_document_ocr_video_text
+kind: dataset
+name: rydalharbi/dataset_150683796_document_ocr_video_text
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tdataset_150683796_document_ocr_video_text.py\n\t\n\n\n\t\n\t\t\n\t\n\
+  \t\n\t\tDataset Summary\n\t\n\nA document ocr dataset with video text modality, stored in npy sharded\
+  \ format.\n\n\t\n\t\t\n\t\n\t\n\t\tPreprocessing & Augmentation\n\t\n\n\nPreprocessing: domain specific\n\
+  Augmentation: light\n\n\n\t\n\t\t\n\t\n\t\n\t\tSplits & Sampling\n\t\n\n\nSplit strategy: leave one\
+  \ out\nSampling: contrastive\n\n\n\t\n\t\t\n\t\n\t\n\t\tQuality & Labeling\n\t\n\n\nQuality filtering:\
+  \ moderate\nLabeling: semi auto\n\n\n\t\n\t\t\n\t\n\t\n\t\tFiles… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/rydalharbi/dataset_150683796_document_ocr_video_text."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/rydalharbi/dataset_150683796_document_ocr_video_text
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/rydalharbi/dataset_150683796_document_ocr_video_text
+  discovered_via: huggingface
+  discovered_at: '2026-08-22'
+  source_id: rydalharbi/dataset_150683796_document_ocr_video_text
+  source_metadata:
+    repository_id: rydalharbi/dataset_150683796_document_ocr_video_text
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: rydalharbi
+repository_id: rydalharbi/dataset_150683796_document_ocr_video_text
+usage: []
+annotations: []
+access: unknown

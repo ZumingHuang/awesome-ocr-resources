@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Ericu950/swedish-print-ocr-code
+kind: dataset
+name: Ericu950/swedish-print-ocr-code
+released_at:
+  value: '2026-08-20'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSwedish Print OCR — training and evaluation code\n\t\n\nThe code behind\
+  \ the paper A Vision–Language OCR Model and an Open Corpus\n(Cullhed). This is the curated pipeline\
+  \ that produced the released models,\nbenchmarks and corpus — exploratory and superseded experiment\
+  \ code is not\nincluded. Comments and docstrings are in Swedish; they document not just what\neach script\
+  \ does but why it is built the way it is.\n\n\t\n\t\t\n\t\n\t\n\t\tCompanion repositories\n\t\n\n\n\
+  Evaluation model:… See the full description on the dataset page: https://huggingface.co/datasets/Ericu950/swedish-print-ocr-code."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Ericu950/swedish-print-ocr-code
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Ericu950/swedish-print-ocr-code
+  discovered_via: huggingface
+  discovered_at: '2026-08-22'
+  source_id: Ericu950/swedish-print-ocr-code
+  source_metadata:
+    repository_id: Ericu950/swedish-print-ocr-code
+    downloads: 7
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Ericu950
+repository_id: Ericu950/swedish-print-ocr-code
+usage: []
+annotations: []
+access: unknown

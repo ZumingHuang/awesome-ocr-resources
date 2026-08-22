@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Ericu950/litteraturbanken-ocr-corpus
+kind: dataset
+name: Ericu950/litteraturbanken-ocr-corpus
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tLitteraturbanken OCR Corpus\n\t\n\nMachine-read text of Litteraturbanken's\
+  \ facsimile collection, produced by a fine-tuned\nvision-language OCR model (see\nEricu950/swedish-print-ocr-3b).\n\
+  13,647 works, 2,260,417 pages, 2.95 billion characters, one row per printed page, keyed by\nthe catalogue's\
+  \ own page name. 179,768 of those pages (247.6 million characters) predate 1800,\nincluding the 1541\
+  \ Gustav Vasa Bible in full and all five volumes of Rudbeck's Atlantica\n(1679–1702).\nThis is the only…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/Ericu950/litteraturbanken-ocr-corpus."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Ericu950/litteraturbanken-ocr-corpus
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Ericu950/litteraturbanken-ocr-corpus
+  discovered_via: huggingface
+  discovered_at: '2026-08-22'
+  source_id: Ericu950/litteraturbanken-ocr-corpus
+  source_metadata:
+    repository_id: Ericu950/litteraturbanken-ocr-corpus
+    downloads: 11
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Ericu950
+repository_id: Ericu950/litteraturbanken-ocr-corpus
+usage: []
+annotations: []
+access: unknown

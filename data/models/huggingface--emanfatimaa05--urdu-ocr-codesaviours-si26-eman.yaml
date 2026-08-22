@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:emanfatimaa05/urdu-ocr-codesaviours-si26-eman
+kind: model
+name: emanfatimaa05/urdu-ocr-codesaviours-si26-eman
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/emanfatimaa05/urdu-ocr-codesaviours-si26-eman
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/emanfatimaa05/urdu-ocr-codesaviours-si26-eman
+  discovered_via: huggingface
+  discovered_at: '2026-08-22'
+  source_id: emanfatimaa05/urdu-ocr-codesaviours-si26-eman
+  source_metadata:
+    repository_id: emanfatimaa05/urdu-ocr-codesaviours-si26-eman
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: emanfatimaa05
+repository_id: emanfatimaa05/urdu-ocr-codesaviours-si26-eman
+deployment: []

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:michaelwilsonmu/paper_027995280_ocr_freeform
+kind: model
+name: michaelwilsonmu/paper_027995280_ocr_freeform
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/michaelwilsonmu/paper_027995280_ocr_freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/michaelwilsonmu/paper_027995280_ocr_freeform
+  discovered_via: huggingface
+  discovered_at: '2026-08-22'
+  source_id: michaelwilsonmu/paper_027995280_ocr_freeform
+  source_metadata:
+    repository_id: michaelwilsonmu/paper_027995280_ocr_freeform
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: michaelwilsonmu
+repository_id: michaelwilsonmu/paper_027995280_ocr_freeform
+deployment: []

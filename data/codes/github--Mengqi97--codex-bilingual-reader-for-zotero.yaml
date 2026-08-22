@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:Mengqi97/codex-bilingual-reader-for-zotero
+kind: code
+name: Mengqi97/codex-bilingual-reader-for-zotero
+released_at:
+  value: '2026-08-17'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: Preserved-layout English-Chinese PDF translation for Zotero using Codex or OpenAI-compatible
+  APIs
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Mengqi97/codex-bilingual-reader-for-zotero
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Mengqi97/codex-bilingual-reader-for-zotero
+  discovered_via: github
+  discovered_at: '2026-08-22'
+  source_id: R_kgDOT6sTRA
+  source_metadata:
+    repository: Mengqi97/codex-bilingual-reader-for-zotero
+    stars: 11
+    language: JavaScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Mengqi97/codex-bilingual-reader-for-zotero
+landmark: false
+programming_languages:
+- JavaScript
+maintenance_status: active

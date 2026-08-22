@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:IHPAN/LightOnOCR-2-1B-ocr-sgkp
+kind: model
+name: IHPAN/LightOnOCR-2-1B-ocr-sgkp
+released_at:
+  value: '2026-08-20'
+  precision: day
+added_at: '2026-08-22'
+last_verified_at: '2026-08-22'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/IHPAN/LightOnOCR-2-1B-ocr-sgkp
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/IHPAN/LightOnOCR-2-1B-ocr-sgkp
+  discovered_via: huggingface
+  discovered_at: '2026-08-22'
+  source_id: IHPAN/LightOnOCR-2-1B-ocr-sgkp
+  source_metadata:
+    repository_id: IHPAN/LightOnOCR-2-1B-ocr-sgkp
+    downloads: 10
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: IHPAN
+repository_id: IHPAN/LightOnOCR-2-1B-ocr-sgkp
+deployment: []
