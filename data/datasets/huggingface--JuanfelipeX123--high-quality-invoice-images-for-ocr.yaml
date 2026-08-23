@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:JuanfelipeX123/high-quality-invoice-images-for-ocr
+kind: dataset
+name: JuanfelipeX123/high-quality-invoice-images-for-ocr
+released_at:
+  value: '2026-08-23'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for high_quality_invoice_images_ocr\n\t\n\n\nThis is a\
+  \ FiftyOne dataset containing 8,181 high-quality synthetic invoice images for OCR and document understanding\
+  \ tasks. The dataset includes 1,489 fully annotated samples with structured JSON metadata and raw OCR\
+  \ text, plus 6,692 unannotated images for semi-supervised learning or annotation projects.\n\n\t\n\t\
+  \t\n\t\n\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\
+  \n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nimport… See the full description on the dataset page: https://huggingface.co/datasets/JuanfelipeX123/high-quality-invoice-images-for-ocr."
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/JuanfelipeX123/high-quality-invoice-images-for-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/JuanfelipeX123/high-quality-invoice-images-for-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-23'
+  source_id: JuanfelipeX123/high-quality-invoice-images-for-ocr
+  source_metadata:
+    repository_id: JuanfelipeX123/high-quality-invoice-images-for-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: JuanfelipeX123
+repository_id: JuanfelipeX123/high-quality-invoice-images-for-ocr
+usage: []
+annotations: []
+access: unknown

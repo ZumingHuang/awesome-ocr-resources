@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:SeeWye/ocr_merged_automataOCR2baseRand
+kind: model
+name: SeeWye/ocr_merged_automataOCR2baseRand
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/SeeWye/ocr_merged_automataOCR2baseRand
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/SeeWye/ocr_merged_automataOCR2baseRand
+  discovered_via: huggingface
+  discovered_at: '2026-08-23'
+  source_id: SeeWye/ocr_merged_automataOCR2baseRand
+  source_metadata:
+    repository_id: SeeWye/ocr_merged_automataOCR2baseRand
+    downloads: 41
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: SeeWye
+repository_id: SeeWye/ocr_merged_automataOCR2baseRand
+deployment: []

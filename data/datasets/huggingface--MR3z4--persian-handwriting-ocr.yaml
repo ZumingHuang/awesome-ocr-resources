@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:MR3z4/persian-handwriting-ocr
+kind: dataset
+name: MR3z4/persian-handwriting-ocr
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tPersian Handwriting OCR Dataset\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset\
+  \ Summary\n\t\n\nA standardized dataset of Persian (Farsi) handwritten pages with word-level\nbounding-box\
+  \ annotations and transcriptions. The dataset is page-level:\neach sample is a full page scan; annotations\
+  \ are one row per word bbox on\nthat page. This is the most flexible form -- users can train page-level\
+  \ OCR,\nword detection (DBNet/PaddleOCR), or derive word/line crops as needed.\n\nPages: 1115 scanned\
+  \ pages (canonical IDs… See the full description on the dataset page: https://huggingface.co/datasets/MR3z4/persian-handwriting-ocr."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/MR3z4/persian-handwriting-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/MR3z4/persian-handwriting-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-23'
+  source_id: MR3z4/persian-handwriting-ocr
+  source_metadata:
+    repository_id: MR3z4/persian-handwriting-ocr
+    downloads: 19
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: MR3z4
+repository_id: MR3z4/persian-handwriting-ocr
+usage: []
+annotations: []
+access: unknown

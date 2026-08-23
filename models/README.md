@@ -4,6 +4,47 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [phucdu/qwen3_vl_dwconv_bart_ocr](https://huggingface.co/phucdu/qwen3_vl_dwconv_bart_ocr) | 2026-08-23 | text-recognition | candidate | — |
+| [keystats/road-barbados-qwen3vl-8b-ocr](https://huggingface.co/keystats/road-barbados-qwen3vl-8b-ocr) | 2026-08-23 | text-recognition | candidate | — |
+| [ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora](https://huggingface.co/ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora) | 2026-08-23 | text-recognition | candidate | — |
+| [tyoyamamoto/paper_027934319_ocr_freeform](https://huggingface.co/tyoyamamoto/paper_027934319_ocr_freeform) | 2026-08-22 | text-recognition | candidate | — |
+| [MatthewWrighmi/paper_028081111_ocr_freeform](https://huggingface.co/MatthewWrighmi/paper_028081111_ocr_freeform) | 2026-08-22 | text-recognition | candidate | — |
+| [martingonzalez0606/paper_027603436_ocr_freeform](https://huggingface.co/martingonzalez0606/paper_027603436_ocr_freeform) | 2026-08-22 | text-recognition | candidate | — |
+| [longnguyenhew/paper_027078636_ocr_freeform](https://huggingface.co/longnguyenhew/paper_027078636_ocr_freeform) | 2026-08-22 | text-recognition | candidate | — |
+| [longlv2k/OCRTranslatorModel](https://huggingface.co/longlv2k/OCRTranslatorModel) | 2026-08-22 | text-recognition | candidate | — |
+| [konradjr007/NaviDC-OCR-GGUF](https://huggingface.co/konradjr007/NaviDC-OCR-GGUF) | 2026-08-22 | formula-recognition, text-recognition | candidate | — |
+| [amitiyerpaw/paper_027924906_ocr_freeform](https://huggingface.co/amitiyerpaw/paper_027924906_ocr_freeform) | 2026-08-22 | text-recognition | candidate | — |
+| [alinecostape/paper_028102820_ocr_freeform](https://huggingface.co/alinecostape/paper_028102820_ocr_freeform) | 2026-08-22 | text-recognition | candidate | — |
+| [weihuanwan/PP-OCRv6_medium_rec](https://huggingface.co/weihuanwan/PP-OCRv6_medium_rec) | 2026-08-21 | text-recognition | candidate | — |
+| [weihuanwan/PP-OCRv6_medium_det](https://huggingface.co/weihuanwan/PP-OCRv6_medium_det) | 2026-08-21 | text-recognition | candidate | — |
+| [Sohailhosseini/chandra-ocr-2-AWQ-W4A16](https://huggingface.co/Sohailhosseini/chandra-ocr-2-AWQ-W4A16) | 2026-08-21 | text-recognition | candidate | — |
+| [SeeWye/ocr_merged_automataOCR2baseRand](https://huggingface.co/SeeWye/ocr_merged_automataOCR2baseRand) | 2026-08-21 | text-recognition | candidate | — |
+| [SeeWye/deepseek_ocr_lora_automataOCR2baseRand](https://huggingface.co/SeeWye/deepseek_ocr_lora_automataOCR2baseRand) | 2026-08-21 | text-recognition | candidate | — |
+| [rushi82/GLM_OCR_INT8](https://huggingface.co/rushi82/GLM_OCR_INT8) | 2026-08-21 | text-recognition | candidate | — |
+| [rushi82/GLM_OCR_INT4](https://huggingface.co/rushi82/GLM_OCR_INT4) | 2026-08-21 | text-recognition | candidate | — |
+| [Rfiyer07/paper_027888883_ocr_freeform](https://huggingface.co/Rfiyer07/paper_027888883_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [michaelwilsonmu/paper_027995280_ocr_freeform](https://huggingface.co/michaelwilsonmu/paper_027995280_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [melissagmg/paper_027887730_ocr_freeform](https://huggingface.co/melissagmg/paper_027887730_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [kovalenkogot/paper_027587875_ocr_freeform](https://huggingface.co/kovalenkogot/paper_027587875_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [kimberlymoorejin/paper_027433202_ocr_freeform](https://huggingface.co/kimberlymoorejin/paper_027433202_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [josephharrisland/paper_027208791_ocr_freeform](https://huggingface.co/josephharrisland/paper_027208791_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [jamesruoc/paper_027899844_ocr_freeform](https://huggingface.co/jamesruoc/paper_027899844_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [Hutapearyan/paper_027118845_ocr_freeform](https://huggingface.co/Hutapearyan/paper_027118845_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [gunawandedi/paper_028101649_ocr_freeform](https://huggingface.co/gunawandedi/paper_028101649_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [francescobianchi/paper_027893213_ocr_freeform](https://huggingface.co/francescobianchi/paper_027893213_ocr_freeform) | 2026-08-21 | text-recognition | candidate | — |
+| [emanfatimaa05/urdu-ocr-codesaviours-si26-eman](https://huggingface.co/emanfatimaa05/urdu-ocr-codesaviours-si26-eman) | 2026-08-21 | text-recognition | candidate | — |
+| [waroodzkhan/urdu-ocr-si26-model](https://huggingface.co/waroodzkhan/urdu-ocr-si26-model) | 2026-08-20 | text-recognition | candidate | — |
+| [Saima-Manzoor/urdu-ocr-codesaviours-si26-saima](https://huggingface.co/Saima-Manzoor/urdu-ocr-codesaviours-si26-saima) | 2026-08-20 | text-recognition | candidate | — |
+| [saharsahebi/layout-aware-receipt-ocr](https://huggingface.co/saharsahebi/layout-aware-receipt-ocr) | 2026-08-20 | text-recognition | candidate | — |
+| [Moazamzf/urdu-ocr-si26-model](https://huggingface.co/Moazamzf/urdu-ocr-si26-model) | 2026-08-20 | text-recognition | candidate | — |
+| [IHPAN/LightOnOCR-2-1B-ocr-sgkp](https://huggingface.co/IHPAN/LightOnOCR-2-1B-ocr-sgkp) | 2026-08-20 | text-recognition | candidate | — |
+| [halimajaved592/urdu-ocr-trocr](https://huggingface.co/halimajaved592/urdu-ocr-trocr) | 2026-08-20 | text-recognition | candidate | — |
+| [thrive2308/Rapid_OCR_Document_To_Markdown_Models](https://huggingface.co/thrive2308/Rapid_OCR_Document_To_Markdown_Models) | 2026-08-19 | text-recognition | candidate | — |
+| [SeeWye/deepseek_ocr_lora_automataOCR2base](https://huggingface.co/SeeWye/deepseek_ocr_lora_automataOCR2base) | 2026-08-19 | text-recognition | candidate | — |
+| [Kathir0118/nemotron-ocr-v2](https://huggingface.co/Kathir0118/nemotron-ocr-v2) | 2026-08-19 | document-layout-analysis, text-recognition | candidate | — |
+| [htfcteam/pp-ocrv6](https://huggingface.co/htfcteam/pp-ocrv6) | 2026-08-19 | text-recognition | candidate | — |
+| [Ericu950/swedish-print-ocr-3b-benchmark](https://huggingface.co/Ericu950/swedish-print-ocr-3b-benchmark) | 2026-08-19 | text-recognition | candidate | — |
+| [Ericu950/swedish-print-ocr-3b](https://huggingface.co/Ericu950/swedish-print-ocr-3b) | 2026-08-19 | text-recognition | candidate | — |
 | [vaishnavi0901/gemma4-31b-kannada-ocr](https://huggingface.co/vaishnavi0901/gemma4-31b-kannada-ocr) | 2026-08-18 | text-recognition | candidate | — |
 | [shehzadkhalid04/balochi-gemma4-e2b-ocr](https://huggingface.co/shehzadkhalid04/balochi-gemma4-e2b-ocr) | 2026-08-18 | text-recognition | candidate | — |
 | [Shaurya-saini/qwen2.5-coder-7b-ocr-qlora-lora](https://huggingface.co/Shaurya-saini/qwen2.5-coder-7b-ocr-qlora-lora) | 2026-08-18 | text-recognition | candidate | — |

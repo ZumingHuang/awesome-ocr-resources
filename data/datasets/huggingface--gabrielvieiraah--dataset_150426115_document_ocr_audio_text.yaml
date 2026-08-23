@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:gabrielvieiraah/dataset_150426115_document_ocr_audio_text
+kind: dataset
+name: gabrielvieiraah/dataset_150426115_document_ocr_audio_text
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tdataset_150426115_document_ocr_audio_text.py\n\t\n\n\n\t\n\t\t\n\t\n\
+  \t\n\t\tDataset Summary\n\t\n\nA document ocr dataset with audio text modality, stored in jsonl format.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tPreprocessing & Augmentation\n\t\n\n\nPreprocessing: adaptive\nAugmentation:\
+  \ randaugment\n\n\n\t\n\t\t\n\t\n\t\n\t\tSplits & Sampling\n\t\n\n\nSplit strategy: temporal\nSampling:\
+  \ curriculum\n\n\n\t\n\t\t\n\t\n\t\n\t\tQuality & Labeling\n\t\n\n\nQuality filtering: moderate\nLabeling:\
+  \ manual\n\n\n\t\n\t\t\n\t\n\t\n\t\tFiles\n\t\n\n\ndataset_150426115_document_ocr_audio_text.py — main…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/gabrielvieiraah/dataset_150426115_document_ocr_audio_text."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/gabrielvieiraah/dataset_150426115_document_ocr_audio_text
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/gabrielvieiraah/dataset_150426115_document_ocr_audio_text
+  discovered_via: huggingface
+  discovered_at: '2026-08-23'
+  source_id: gabrielvieiraah/dataset_150426115_document_ocr_audio_text
+  source_metadata:
+    repository_id: gabrielvieiraah/dataset_150426115_document_ocr_audio_text
+    downloads: 13
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: gabrielvieiraah
+repository_id: gabrielvieiraah/dataset_150426115_document_ocr_audio_text
+usage: []
+annotations: []
+access: unknown

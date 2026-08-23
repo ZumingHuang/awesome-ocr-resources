@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:IshaanKaur/dataset_152150257_document_ocr_image_depth
+kind: dataset
+name: IshaanKaur/dataset_152150257_document_ocr_image_depth
+released_at:
+  value: '2026-08-22'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tdataset_152150257_document_ocr_image_depth.py\n\t\n\n\n\t\n\t\t\n\t\n\
+  \t\n\t\tDataset Summary\n\t\n\nA document ocr dataset with image depth modality, stored in parquet format.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tPreprocessing & Augmentation\n\t\n\n\nPreprocessing: aggressive\nAugmentation:\
+  \ autoaugment\n\n\n\t\n\t\t\n\t\n\t\n\t\tSplits & Sampling\n\t\n\n\nSplit strategy: stratified 90 10\n\
+  Sampling: balanced\n\n\n\t\n\t\t\n\t\n\t\n\t\tQuality & Labeling\n\t\n\n\nQuality filtering: adaptive\n\
+  Labeling: weak supervision\n\n\n\t\n\t\t\n\t\n\t\n\t\tFiles… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/IshaanKaur/dataset_152150257_document_ocr_image_depth."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/IshaanKaur/dataset_152150257_document_ocr_image_depth
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/IshaanKaur/dataset_152150257_document_ocr_image_depth
+  discovered_via: huggingface
+  discovered_at: '2026-08-23'
+  source_id: IshaanKaur/dataset_152150257_document_ocr_image_depth
+  source_metadata:
+    repository_id: IshaanKaur/dataset_152150257_document_ocr_image_depth
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: IshaanKaur
+repository_id: IshaanKaur/dataset_152150257_document_ocr_image_depth
+usage: []
+annotations: []
+access: unknown

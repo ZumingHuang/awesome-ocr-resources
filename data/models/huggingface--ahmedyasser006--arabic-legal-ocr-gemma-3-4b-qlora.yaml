@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora
+kind: model
+name: ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora
+released_at:
+  value: '2026-08-23'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora
+  discovered_via: huggingface
+  discovered_at: '2026-08-23'
+  source_id: ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora
+  source_metadata:
+    repository_id: ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: ahmedyasser006
+repository_id: ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora
+deployment: []

@@ -1,0 +1,64 @@
+schema_version: 1
+id: paper:arxiv:2608.18972
+kind: paper
+name: 'Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers'
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: 'Historical newspapers are an abundant record of public life, but their dense, irregular and
+  sometimes noisy layouts make computational access to these materials both challenging and limited. We
+  present the Institutional Newspapers Pipeline, a modular system we jointly designed with Boston Public
+  Library to extract high-quality, structured datasets from historical newspaper scans. It was architected
+  so that each step remains interpretable and customizable, and so that the pipeline as a whole remains
+  computationally frugal enough to run on workstation-level hardware. The pipeline runs each scan through
+  a multi-step process: it segments scans into individual type-agnostic crops and performs OCR on each
+  resulting segment before then performing text analysis, type classification, reading order detection,
+  named entities recognition, subject classification, language detection, and pre-computed embeddings
+  generation on every crop. We ran this pipeline against a portion of Boston Public Library''s holdings
+  and released the results as an open dataset. The optical character recognition (OCR) output represents
+  16.3 billion o200k_base tokens across 83.1 million individual crops, extracted from 1,473,635 public
+  domain newspaper scans published between 1795 and 1930. This report describes our methods for each processing
+  step, the small models we trained, as well as the evaluation results and dataset-scale measurements
+  we collected in the process. It accompanies the release of the pipeline, models, and dataset. We position
+  this work as a substantial step towards unlocking high-quality data from tens of millions of newspaper
+  scans.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.18972
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.18972
+  discovered_via: arxiv
+  discovered_at: '2026-08-23'
+  source_id: '2608.18972'
+  source_metadata:
+    arxiv_id: '2608.18972'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Matteo Cargnelutti
+- Catherine Brobston
+- Eben English
+- Jake Sadow
+- Kacie Bailey
+- Greg Leppert
+- Amanda Watson
+- Jessica Chapel
+- Jonathan Zittrain
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.18972'
