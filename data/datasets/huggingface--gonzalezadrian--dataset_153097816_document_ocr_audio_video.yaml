@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:gonzalezadrian/dataset_153097816_document_ocr_audio_video
+kind: dataset
+name: gonzalezadrian/dataset_153097816_document_ocr_audio_video
+released_at:
+  value: '2026-08-22'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tdataset_153097816_document_ocr_audio_video.py\n\t\n\n\n\t\n\t\t\n\t\n\
+  \t\n\t\tDataset Summary\n\t\n\nA document ocr dataset with audio video modality, stored in huggingface\
+  \ format.\n\n\t\n\t\t\n\t\n\t\n\t\tPreprocessing & Augmentation\n\t\n\n\nPreprocessing: adaptive\nAugmentation:\
+  \ mixup cutmix\n\n\n\t\n\t\t\n\t\n\t\n\t\tSplits & Sampling\n\t\n\n\nSplit strategy: temporal\nSampling:\
+  \ random\n\n\n\t\n\t\t\n\t\n\t\n\t\tQuality & Labeling\n\t\n\n\nQuality filtering: strict\nLabeling:\
+  \ semi auto\n\n\n\t\n\t\t\n\t\n\t\n\t\tFiles\n\t\n\n\ndataset_153097816_document_ocr_audio_video.py\
+  \ —… See the full description on the dataset page: https://huggingface.co/datasets/gonzalezadrian/dataset_153097816_document_ocr_audio_video."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/gonzalezadrian/dataset_153097816_document_ocr_audio_video
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/gonzalezadrian/dataset_153097816_document_ocr_audio_video
+  discovered_via: huggingface
+  discovered_at: '2026-08-23'
+  source_id: gonzalezadrian/dataset_153097816_document_ocr_audio_video
+  source_metadata:
+    repository_id: gonzalezadrian/dataset_153097816_document_ocr_audio_video
+    downloads: 7
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: gonzalezadrian
+repository_id: gonzalezadrian/dataset_153097816_document_ocr_audio_video
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Lexombien/lemyloi-dichvideos
+kind: code
+name: Lexombien/lemyloi-dichvideos
+released_at:
+  value: '2026-08-22'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: Trình chỉnh sửa video local-first với ASR, OCR phụ đề gốc, dịch và thuyết minh.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Lexombien/lemyloi-dichvideos
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Lexombien/lemyloi-dichvideos
+  discovered_via: github
+  discovered_at: '2026-08-23'
+  source_id: R_kgDOUAaYRA
+  source_metadata:
+    repository: Lexombien/lemyloi-dichvideos
+    stars: 17
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Lexombien/lemyloi-dichvideos
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

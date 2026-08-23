@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:2608.18586
+kind: paper
+name: 'OmniHandwritingOCR: A Diagnostic Benchmark for Evaluating Multimodal LLMs in Handwritten OCR Scenarios'
+released_at:
+  value: '2026-08-19'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: 'Multimodal large language models (MLLMs) are increasingly used as OCR systems in document and
+  knowledge-processing pipelines, but their ability to faithfully read real handwriting remains underexplored.
+  Existing OCR benchmarks focus largely on printed text or clean single-line inputs, leaving limited coverage
+  of realistic handwritten OCR scenarios such as multilingual handwriting, writer errors, and structurally
+  complex mathematical expressions. We introduce OmniHandwritingOCR, a diagnostic benchmark for evaluating
+  MLLMs and OCR systems on handwritten OCR. It covers handwritten text recognition and handwritten mathematical
+  expression recognition across six subtasks and twelve subsets, totaling 77.57K labeled images from public
+  datasets and newly collected student writings. A key component is a difficulty-stratified multi-line
+  formula corpus designed to test robustness under increasing structural complexity. We evaluate thirteen
+  open- and closed-source systems with five complementary metrics under a unified protocol. Results show
+  that current systems remain far from faithful transcription: performance drops sharply on complex multi-line
+  formulas, model rankings vary across language and formula settings, and several generative models hallucinate
+  plausible but visually unsupported corrections. OmniHandwritingOCR provides a challenging testbed for
+  diagnosing language, content, structural, and visual-grounding failure modes of multimodal models in
+  handwritten OCR scenarios.'
+tasks:
+- formula-recognition
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.18586
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.18586
+  discovered_via: arxiv
+  discovered_at: '2026-08-23'
+  source_id: '2608.18586'
+  source_metadata:
+    arxiv_id: '2608.18586'
+    doi: null
+    query: all:"mathematical expression recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Zinuo Guo
+- Min Zhang
+- Bo Jiang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.18586'

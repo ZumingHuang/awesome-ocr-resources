@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Rfiyer07/paper_027888883_ocr_freeform
+kind: model
+name: Rfiyer07/paper_027888883_ocr_freeform
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-23'
+last_verified_at: '2026-08-23'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Rfiyer07/paper_027888883_ocr_freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Rfiyer07/paper_027888883_ocr_freeform
+  discovered_via: huggingface
+  discovered_at: '2026-08-23'
+  source_id: Rfiyer07/paper_027888883_ocr_freeform
+  source_metadata:
+    repository_id: Rfiyer07/paper_027888883_ocr_freeform
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Rfiyer07
+repository_id: Rfiyer07/paper_027888883_ocr_freeform
+deployment: []
