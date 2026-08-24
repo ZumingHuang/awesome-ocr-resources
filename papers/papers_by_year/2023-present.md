@@ -37,6 +37,10 @@ Le Xiang, Zhicheng Guan, Hong Chen, Xiaocong Lin, Zhenghua Lei, Teng Hu, Bolei H
 Zhibin Ma, Pengwen Dai, Yi Liu, Xugong Qin, Chenyun Yu, Xiaochun Cao
 \[formula-recognition\]\[text-recognition\]
 
+**EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering**
+Xuanyu Meng, Jiashuo Sun, Jash Rajesh Parekh, Jiawei Han
+\[document-vqa\]
+
 **Evaluating Structured Information Extraction with Open Models in a High Risk Public Sector Application**
 Elias Schubert, Felix Bießmann
 \[text-recognition\]
@@ -49,6 +53,10 @@ Zhuchenyang Liu, Yao Zhang, Yu Xiao
 Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan
 \[text-recognition\]
 
+**Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images**
+A. Said Gurbuz, Ahmed Nassar, Christoph Auer, Maksym Lysak, Lucas Morin, Matteo Omenetti, Tim Strohmeyer, Panagiotis Vagenas, Nikolaos Livathinos, Michele Dolfi, Peter Staar
+\[text-recognition\]
+
 **Institutional Books - Visual Elements: An open-source pipeline for extracting, classifying, deduplicating, and captioning visual elements from digital book collections**
 Jimmy Mendez, Matteo Cargnelutti, David Lowry-Duda, Catherine Brobston, Salwa Ismail, Greg Leppert, Amanda Watson, Jonathan Zittrain
 \[text-recognition\]
@@ -57,9 +65,17 @@ Jimmy Mendez, Matteo Cargnelutti, David Lowry-Duda, Catherine Brobston, Salwa Is
 Matteo Cargnelutti, Catherine Brobston, Eben English, Jake Sadow, Kacie Bailey, Greg Leppert, Amanda Watson, Jessica Chapel, Jonathan Zittrain
 \[text-recognition\]
 
+**KoViDoRe: Korean Visual Document Retrieval**
+Yongbin Choi, Yongwoo Song, Mujeen Sung
+\[document-parsing\]
+
 **LongDocBench: Benchmarking TOC Hierarchy and Contextual Relationship Recovery in Long Documents**
 Yuefeng Zou, Yichen Lu, Jingxiao Yang, Bingtao Fu, Gaoyang Zhang, Xiongfei Bai, Tian Chen, Xiang Qi
 \[document-vqa\]\[table-recognition\]\[formula-recognition\]\[document-parsing\]
+
+**Masking Is Not Enough: Generative Restoration for Multimodal De-Identification in Medical AI**
+Shiva Shrestha, Zongxing Xie, Chen Zhao, Liran Ma, Zhipeng Cai, Honghui Xu
+\[document-vqa\]\[text-recognition\]
 
 **MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition**
 Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu, Xiaolong Wu, Yuheng Lu, Ziran Zhu, Junyuan Gao, Lingli Ge, Yuan Xu, Huijie Ao, QianQian Wu, Dechen Lin, Huaiyu Gu, Lu Chen, Shengxin Lu, ShaSha Wang, Yuanyuan Cao, Zhejia Yu, Ruijie Zhang, Zimai Tian, Jiaxing Sun, Yinfan Wang, Jiahe Song, Chuang Wang, Yubin Wang, Rui Nie, Hao Zheng, Bowen Jiang, Hongbin Lai, Yifan He, Chengjin Liu, Tingting Zhang, Liqun Wei, Lijun Wu, Bin Wang, Yuqiang Li, Guangyu Wang, Wei Li, Bowen Zhou, Dahua Lin, Conghui He

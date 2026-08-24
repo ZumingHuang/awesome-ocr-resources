@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:2608.21252
+kind: paper
+name: 'EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering'
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-24'
+last_verified_at: '2026-08-24'
+summary: Question answering (QA) over long, connected documents remains challenging because relevant evidence
+  may span multiple entities and their relationships. Existing retrieval-augmented generation (RAG) methods
+  typically index documents as raw chunks and retrieve them through embedding similarity. Their performance
+  degrades when chunk boundaries separate entities from supporting evidence or when a question requires
+  multi-hop reasoning across the corpus. We propose EnSI-RAG (Entity-Structure-Indexed Retrieval-Augmented
+  Generation), a framework that constructs a query-independent, entity-centered index. Each record (e,
+  t, k, v) represents an entity e, its type t, a semantic category k in {property, relation, aspect},
+  and a value v, while retaining links to the original source passages. At query time, these records serve
+  as retrieval handles, and an LLM synthesizes the retrieved passages into the final answer. This design
+  separates evidence localization from answer synthesis while preserving traceable source evidence. Across
+  Loong and Oolong, EnSI-RAG achieves an average accuracy of 78.24. Relative to the published baseline
+  scores used as references, this is 6.62 points higher, suggesting its effectiveness across these settings.
+  The code is available at https://github.com/RamonMeng/EnSI-RAG.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.21252
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.21252
+  discovered_via: arxiv
+  discovered_at: '2026-08-24'
+  source_id: '2608.21252'
+  source_metadata:
+    arxiv_id: '2608.21252'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Xuanyu Meng
+- Jiashuo Sun
+- Jash Rajesh Parekh
+- Jiawei Han
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.21252'

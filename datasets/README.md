@@ -4,6 +4,65 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [NicholasThomas/dataset_152013975_document_ocr_multimodal3](https://huggingface.co/datasets/NicholasThomas/dataset_152013975_document_ocr_multimodal3) | 2026-08-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		dataset_152013975_document_ocr_multimodal3.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A document ocr dataset with multimodal3 modality, stored in huggingface format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: progressive
+Augmentation: randaugment
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: random 90 10
+Sampling: contrastive
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: lenient
+Labeling: manual
+
+
+	
+		
+	
+	
+		Files… See the full description on the dataset page: https://huggingface.co/datasets/NicholasThomas/dataset_152013975_document_ocr_multimodal3. |
 | [JuanfelipeX123/high-quality-invoice-images-for-ocr](https://huggingface.co/datasets/JuanfelipeX123/high-quality-invoice-images-for-ocr) | 2026-08-23 | document-parsing, text-recognition | candidate | 
 	
 		
@@ -34,6 +93,38 @@ pip install -U fiftyone
 	
 
 import… See the full description on the dataset page: https://huggingface.co/datasets/JuanfelipeX123/high-quality-invoice-images-for-ocr. |
+| [hoainv/ocr-lmdb-vi-sample20pct](https://huggingface.co/datasets/hoainv/ocr-lmdb-vi-sample20pct) | 2026-08-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocr-lmdb-vi (20% random sample)
+	
+
+Random 20% subsample of each LMDB sub-dataset from the
+private hoainv/ocr-lmdb-vi dataset, sampled without replacement with a fixed
+seed (42) for reproducibility. Directory structure and LMDB key
+scheme (image-%09d, label-%09d, wh-%09d, num-samples, 1-indexed)
+are unchanged, so it's a drop-in replacement for LMDBDataSet
+(octools/data/lmdb_dataset.py).
+
+	
+		
+folder
+total samples
+sampled
+
+
+		
+lmdb_pdf/pdf_line_crops_0905
+2169
+434
+
+
+	
+
+ |
+| [context212/atlas-ocr-data](https://huggingface.co/datasets/context212/atlas-ocr-data) | 2026-08-23 | text-recognition | candidate | — |
 | [SeeWye/NFA_OCR_reinforcement_learning_format_TEST3](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST3) | 2026-08-22 | text-recognition | candidate | — |
 | [murchgrey/docparser-ocr-samples](https://huggingface.co/datasets/murchgrey/docparser-ocr-samples) | 2026-08-22 | text-recognition | candidate | — |
 | [IshaanKaur/dataset_152150257_document_ocr_image_depth](https://huggingface.co/datasets/IshaanKaur/dataset_152150257_document_ocr_image_depth) | 2026-08-22 | text-recognition | candidate | 

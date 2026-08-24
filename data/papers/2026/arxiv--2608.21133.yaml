@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2608.21133
+kind: paper
+name: 'Masking Is Not Enough: Generative Restoration for Multimodal De-Identification in Medical AI'
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-24'
+last_verified_at: '2026-08-24'
+summary: 'Medical image-text data can expose protected health information (PHI) through both visible image
+  content as well as accompanying text, creating a barrier to privacy-preserving medical AI systems. This
+  risk is especially prominent in multimodal systems, where images, questions, reports, and clinical context
+  may enter training, evaluation, or inference pipelines. Existing medical vision-language benchmarks
+  primarily emphasize task utility, while de-identification methods are often evaluated separately from
+  downstream reasoning. We introduce ClinX, an end-to-end multimodal PHI sanitization framework for medical
+  image-text data. ClinX detects visible identifiers with optical character recognition (OCR), constructs
+  binary PHI masks, and applies ClinX-PRISM, a no-skip generative restoration module with privacy-oriented
+  post-processing for burned-in identifier suppression. In parallel, text-side PHI is reduced through
+  progressive de-identification levels: regex masking, context-aware masking, and rewrite-based sanitization.
+  We evaluate ClinX in medical visual question answering (MedVQA), jointly measuring PHI leakage and downstream
+  utility across image-side, text-side, and combined de-identification settings. Results show that OCR-only
+  masking is not sufficient as a standalone solution, and restoration-based sanitization better preserves
+  clinically relevant visual context while sharply reducing recoverable PHI.'
+tasks:
+- document-vqa
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.21133
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.21133
+  discovered_via: arxiv
+  discovered_at: '2026-08-24'
+  source_id: '2608.21133'
+  source_metadata:
+    arxiv_id: '2608.21133'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Shiva Shrestha
+- Zongxing Xie
+- Chen Zhao
+- Liran Ma
+- Zhipeng Cai
+- Honghui Xu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.21133'
