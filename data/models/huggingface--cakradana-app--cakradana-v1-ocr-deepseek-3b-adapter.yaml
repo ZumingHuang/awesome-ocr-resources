@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:cakradana-app/cakradana-v1-ocr-deepseek-3b-adapter
+kind: model
+name: cakradana-app/cakradana-v1-ocr-deepseek-3b-adapter
+released_at:
+  value: '2026-08-24'
+  precision: day
+added_at: '2026-08-25'
+last_verified_at: '2026-08-25'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/cakradana-app/cakradana-v1-ocr-deepseek-3b-adapter
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/cakradana-app/cakradana-v1-ocr-deepseek-3b-adapter
+  discovered_via: huggingface
+  discovered_at: '2026-08-25'
+  source_id: cakradana-app/cakradana-v1-ocr-deepseek-3b-adapter
+  source_metadata:
+    repository_id: cakradana-app/cakradana-v1-ocr-deepseek-3b-adapter
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: cakradana-app
+repository_id: cakradana-app/cakradana-v1-ocr-deepseek-3b-adapter
+deployment: []

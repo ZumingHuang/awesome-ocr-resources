@@ -4,6 +4,10 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Hisham20/ocr-bundles](https://huggingface.co/datasets/Hisham20/ocr-bundles) | 2026-08-24 | text-recognition | candidate | — |
+| [elichen-skymizer/GAP-ocrbench-v2](https://huggingface.co/datasets/elichen-skymizer/GAP-ocrbench-v2) | 2026-08-24 | text-recognition | candidate | — |
+| [elichen-skymizer/GAP-ocrbench-v1](https://huggingface.co/datasets/elichen-skymizer/GAP-ocrbench-v1) | 2026-08-24 | text-recognition | candidate | — |
+| [context212/context212-alhazen-ocr-khattmix](https://huggingface.co/datasets/context212/context212-alhazen-ocr-khattmix) | 2026-08-24 | text-recognition | candidate | — |
 | [NicholasThomas/dataset_152013975_document_ocr_multimodal3](https://huggingface.co/datasets/NicholasThomas/dataset_152013975_document_ocr_multimodal3) | 2026-08-23 | text-recognition | candidate | 
 	
 		
@@ -124,6 +128,25 @@ lmdb_pdf/pdf_line_crops_0905
 	
 
  |
+| [context212/context212-alhazen-ocr](https://huggingface.co/datasets/context212/context212-alhazen-ocr) | 2026-08-23 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Alhazen-OCR Data
+	
+
+alhazen-ocr is the training dataset behind
+context212/alhazen-ocr, an
+Arabic-first OCR vision-language model. It combines license-clean Arabic
+OCR sources — synthetic documents, institutional invoices, and handwritten
+text — into a single normalized image + text format, with a held-out eval
+split for CER/WER benchmarking.
+Quick links:
+
+🤗 Model: context212/alhazen-ocr
+🛠️ Code (data pipeline, training, eval): github.com/context212/atlas-ocr
+📊 External… See the full description on the dataset page: https://huggingface.co/datasets/context212/context212-alhazen-ocr. |
 | [context212/atlas-ocr-data](https://huggingface.co/datasets/context212/atlas-ocr-data) | 2026-08-23 | text-recognition | candidate | — |
 | [SeeWye/NFA_OCR_reinforcement_learning_format_TEST3](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST3) | 2026-08-22 | text-recognition | candidate | — |
 | [murchgrey/docparser-ocr-samples](https://huggingface.co/datasets/murchgrey/docparser-ocr-samples) | 2026-08-22 | text-recognition | candidate | — |

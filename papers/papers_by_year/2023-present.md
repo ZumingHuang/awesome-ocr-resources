@@ -53,6 +53,10 @@ Zhuchenyang Liu, Yao Zhang, Yu Xiao
 Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan
 \[text-recognition\]
 
+**FinixDoc: Rethinking Financial Document Parsing Beyond Saturated Benchmarks**
+Hang Wang, Jin Zhang, Guoliang Xu, Pengyue Lu, Yao Li, Zijiao Zhang, Tianyu Huang, Weiqi Xiong, Yulong Wang, Chuqiao Lu, Wenkang Huang, Kai Yang, Yadong Li, Hui Li, Xingzhong Xu, Xiao Xu
+\[document-parsing\]
+
 **Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images**
 A. Said Gurbuz, Ahmed Nassar, Christoph Auer, Maksym Lysak, Lucas Morin, Matteo Omenetti, Tim Strohmeyer, Panagiotis Vagenas, Nikolaos Livathinos, Michele Dolfi, Peter Staar
 \[text-recognition\]
@@ -79,6 +83,10 @@ Shiva Shrestha, Zongxing Xie, Chen Zhao, Liran Ma, Zhipeng Cai, Honghui Xu
 
 **MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition**
 Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu, Xiaolong Wu, Yuheng Lu, Ziran Zhu, Junyuan Gao, Lingli Ge, Yuan Xu, Huijie Ao, QianQian Wu, Dechen Lin, Huaiyu Gu, Lu Chen, Shengxin Lu, ShaSha Wang, Yuanyuan Cao, Zhejia Yu, Ruijie Zhang, Zimai Tian, Jiaxing Sun, Yinfan Wang, Jiahe Song, Chuang Wang, Yubin Wang, Rui Nie, Hao Zheng, Bowen Jiang, Hongbin Lai, Yifan He, Chengjin Liu, Tingting Zhang, Liqun Wei, Lijun Wu, Bin Wang, Yuqiang Li, Guangyu Wang, Wei Li, Bowen Zhou, Dahua Lin, Conghui He
+\[document-parsing\]
+
+**Mitigating Error Propagation in Chain-of-Thought: A Tree-of-Thought Framework for Smart Contract Repair**
+Jingping Zhu, Hongping Wang, Xiaoqi Li
 \[document-parsing\]
 
 **Multi-Layer Context Camouflaging: A Semantic Superposition and Contextual Lamination Framework for Malpractice-Resilient Online Assessment**
@@ -116,6 +124,10 @@ Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi 
 **When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents**
 Marina Gardella, Camilo Mari{ñ}o, Diego Belzarena, Ignacio Ram{í}rez, Gregory Randall, Jean-Michel Morel
 \[text-recognition\]
+
+**WildHandBench: A Benchmark for Handwritten Text Understanding that Challenges MLLMs and Humans**
+Jun Zhang, Qiao Zhao, Cheng Cui, Jianying Qu, Zhongkai Sun, Jianwen Yang, Changda Zhou, ZhuoXin Liu, Shubin Han
+\[formula-recognition\]\[document-parsing\]\[handwriting-recognition\]
 
 ## 2024
 **An Empirical Study of Scaling Law for Scene Text Recognition**
