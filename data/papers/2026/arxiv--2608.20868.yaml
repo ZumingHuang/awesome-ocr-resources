@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:2608.20868
+kind: paper
+name: 'Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images'
+released_at:
+  value: '2026-08-21'
+  precision: day
+added_at: '2026-08-24'
+last_verified_at: '2026-08-24'
+summary: Document processing pipelines traditionally cascade optical character recognition (OCR) engines
+  with downstream models for structured information extraction, leading to multi-stage error propagation.
+  We fine-tune SmolDocling, a compact 256M-parameter vision-language model (VLM), to perform end-to-end
+  key-value extraction directly from document images, jointly solving identification, localization, and
+  association in a single pass without OCR preprocessing. We extend DocTags with specialized key, value,
+  region, and link tags, enabling many-to-many relationships in a unified output sequence. To address
+  data limitations, we design an augmentation pipeline combining synthetic form filling and graph-based
+  crops that preserve complete key-value subgraphs. We further introduce a layout-aware evaluation framework
+  extending text matching with spatial bounding box verification. On FUNSD, XFUND, and a large-scale private
+  dataset, our model outperforms larger zero-shot VLM baselines under layout-aware evaluation, while being
+  27 times smaller than Qwen2.5-VL (7B) and over 5 times faster at inference. The model weights will be
+  released publicly after publication.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.20868
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.20868
+  discovered_via: arxiv
+  discovered_at: '2026-08-24'
+  source_id: '2608.20868'
+  source_metadata:
+    arxiv_id: '2608.20868'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- A. Said Gurbuz
+- Ahmed Nassar
+- Christoph Auer
+- Maksym Lysak
+- Lucas Morin
+- Matteo Omenetti
+- Tim Strohmeyer
+- Panagiotis Vagenas
+- Nikolaos Livathinos
+- Michele Dolfi
+- Peter Staar
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.20868'

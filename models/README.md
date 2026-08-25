@@ -4,8 +4,16 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Monad-dz/qwen-ocr-lora_v3](https://huggingface.co/Monad-dz/qwen-ocr-lora_v3) | 2026-08-24 | text-recognition | candidate | — |
+| [Roy229/nml7324-ocr-extractor](https://huggingface.co/Roy229/nml7324-ocr-extractor) | 2026-08-23 | text-recognition | candidate | — |
 | [phucdu/qwen3_vl_dwconv_bart_ocr](https://huggingface.co/phucdu/qwen3_vl_dwconv_bart_ocr) | 2026-08-23 | text-recognition | candidate | — |
+| [mason1998/kurdish-ocr-test](https://huggingface.co/mason1998/kurdish-ocr-test) | 2026-08-23 | text-recognition | candidate | — |
+| [mason1998/deepseek-finetune-ocr-kurdish](https://huggingface.co/mason1998/deepseek-finetune-ocr-kurdish) | 2026-08-23 | text-recognition | candidate | — |
 | [keystats/road-barbados-qwen3vl-8b-ocr](https://huggingface.co/keystats/road-barbados-qwen3vl-8b-ocr) | 2026-08-23 | text-recognition | candidate | — |
+| [keystats/historical_ocr](https://huggingface.co/keystats/historical_ocr) | 2026-08-23 | text-recognition | candidate | — |
+| [ivantran/paper_027532059_ocr_freeform](https://huggingface.co/ivantran/paper_027532059_ocr_freeform) | 2026-08-23 | text-recognition | candidate | — |
+| [context212/alhazen-ocr](https://huggingface.co/context212/alhazen-ocr) | 2026-08-23 | text-recognition | candidate | — |
+| [anthonyharris/paper_027809210_ocr_freeform](https://huggingface.co/anthonyharris/paper_027809210_ocr_freeform) | 2026-08-23 | text-recognition | candidate | — |
 | [ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora](https://huggingface.co/ahmedyasser006/arabic-legal-ocr-gemma-3-4b-qlora) | 2026-08-23 | text-recognition | candidate | — |
 | [tyoyamamoto/paper_027934319_ocr_freeform](https://huggingface.co/tyoyamamoto/paper_027934319_ocr_freeform) | 2026-08-22 | text-recognition | candidate | — |
 | [MatthewWrighmi/paper_028081111_ocr_freeform](https://huggingface.co/MatthewWrighmi/paper_028081111_ocr_freeform) | 2026-08-22 | text-recognition | candidate | — |

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:hoainv/ocr-lmdb-vi-sample20pct
+kind: dataset
+name: hoainv/ocr-lmdb-vi-sample20pct
+released_at:
+  value: '2026-08-23'
+  precision: day
+added_at: '2026-08-24'
+last_verified_at: '2026-08-24'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tocr-lmdb-vi (20% random sample)\n\t\n\nRandom 20% subsample of each\
+  \ LMDB sub-dataset from the\nprivate hoainv/ocr-lmdb-vi dataset, sampled without replacement with a\
+  \ fixed\nseed (42) for reproducibility. Directory structure and LMDB key\nscheme (image-%09d, label-%09d,\
+  \ wh-%09d, num-samples, 1-indexed)\nare unchanged, so it's a drop-in replacement for LMDBDataSet\n(octools/data/lmdb_dataset.py).\n\
+  \n\t\n\t\t\nfolder\ntotal samples\nsampled\n\n\n\t\t\nlmdb_pdf/pdf_line_crops_0905\n2169\n434\n\n\n\t\
+  \n\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/hoainv/ocr-lmdb-vi-sample20pct
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/hoainv/ocr-lmdb-vi-sample20pct
+  discovered_via: huggingface
+  discovered_at: '2026-08-24'
+  source_id: hoainv/ocr-lmdb-vi-sample20pct
+  source_metadata:
+    repository_id: hoainv/ocr-lmdb-vi-sample20pct
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: hoainv
+repository_id: hoainv/ocr-lmdb-vi-sample20pct
+usage: []
+annotations: []
+access: unknown
