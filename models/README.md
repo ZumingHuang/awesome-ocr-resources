@@ -4,7 +4,12 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [meharuhanzz/malayalam-ocr-models](https://huggingface.co/meharuhanzz/malayalam-ocr-models) | 2026-08-25 | text-recognition | candidate | — |
+| [shubhxho/Unlimited-OCR-MLX](https://huggingface.co/shubhxho/Unlimited-OCR-MLX) | 2026-08-24 | text-recognition | candidate | — |
 | [Monad-dz/qwen-ocr-lora_v3](https://huggingface.co/Monad-dz/qwen-ocr-lora_v3) | 2026-08-24 | text-recognition | candidate | — |
+| [context212/alhazen-ocr-khattmix](https://huggingface.co/context212/alhazen-ocr-khattmix) | 2026-08-24 | text-recognition | candidate | — |
+| [context212/alhazen-ocr-hwmix](https://huggingface.co/context212/alhazen-ocr-hwmix) | 2026-08-24 | text-recognition | candidate | — |
+| [cakradana-app/cakradana-v1-ocr-deepseek-3b-adapter](https://huggingface.co/cakradana-app/cakradana-v1-ocr-deepseek-3b-adapter) | 2026-08-24 | text-recognition | candidate | — |
 | [Roy229/nml7324-ocr-extractor](https://huggingface.co/Roy229/nml7324-ocr-extractor) | 2026-08-23 | text-recognition | candidate | — |
 | [phucdu/qwen3_vl_dwconv_bart_ocr](https://huggingface.co/phucdu/qwen3_vl_dwconv_bart_ocr) | 2026-08-23 | text-recognition | candidate | — |
 | [mason1998/kurdish-ocr-test](https://huggingface.co/mason1998/kurdish-ocr-test) | 2026-08-23 | text-recognition | candidate | — |

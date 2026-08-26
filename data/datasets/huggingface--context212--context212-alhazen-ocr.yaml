@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:context212/context212-alhazen-ocr
+kind: dataset
+name: context212/context212-alhazen-ocr
+released_at:
+  value: '2026-08-23'
+  precision: day
+added_at: '2026-08-25'
+last_verified_at: '2026-08-25'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tAlhazen-OCR Data\n\t\n\nalhazen-ocr is the training dataset behind\n\
+  context212/alhazen-ocr, an\nArabic-first OCR vision-language model. It combines license-clean Arabic\n\
+  OCR sources — synthetic documents, institutional invoices, and handwritten\ntext — into a single normalized\
+  \ image + text format, with a held-out eval\nsplit for CER/WER benchmarking.\nQuick links:\n\n\U0001F917\
+  \ Model: context212/alhazen-ocr\n\U0001F6E0️ Code (data pipeline, training, eval): github.com/context212/atlas-ocr\n\
+  \U0001F4CA External… See the full description on the dataset page: https://huggingface.co/datasets/context212/context212-alhazen-ocr."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/context212/context212-alhazen-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/context212/context212-alhazen-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-25'
+  source_id: context212/context212-alhazen-ocr
+  source_metadata:
+    repository_id: context212/context212-alhazen-ocr
+    downloads: 28
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: context212
+repository_id: context212/context212-alhazen-ocr
+usage: []
+annotations: []
+access: unknown

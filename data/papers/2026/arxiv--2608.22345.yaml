@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:arxiv:2608.22345
+kind: paper
+name: 'Mitigating Error Propagation in Chain-of-Thought: A Tree-of-Thought Framework for Smart Contract
+  Repair'
+released_at:
+  value: '2026-08-23'
+  precision: day
+added_at: '2026-08-25'
+last_verified_at: '2026-08-25'
+summary: Smart contracts power blockchain applications such as DeFi and NFTs. However, once deployed,
+  they cannot be modified. Even minor bugs can result in significant financial losses. Current AI-based
+  repair methods rely on linear reasoning, which leads to the accumulation of errors and unreliable patches.
+  Our method combines document parsing, static analysis, and Tree of Thoughts reasoning. We first convert
+  audit reports into structured data. Then we use Slither to locate the exact vulnerable code. Our three-step
+  framework explores multiple repair paths simultaneously, evaluates options, and eliminates poor choices.
+  Finally, we verify patches through compilation and manual checks. We test our method on 50 real vulnerabilities
+  from Code4Rena. Our method achieves a 62% single success rate and an 84% top-3 success rate, outperforming
+  ContractTinker by 12 and 6 percentage points, respectively. We also increase the proportion of fully
+  effective patches to 44%, while reducing defective patches from 38% to 22% and invalid patches from
+  10% to 4%. This approach overcomes the limitations of linear reasoning and makes smart contract repair
+  more accurate and practical.
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.22345
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.22345
+  discovered_via: arxiv
+  discovered_at: '2026-08-25'
+  source_id: '2608.22345'
+  source_metadata:
+    arxiv_id: '2608.22345'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Jingping Zhu
+- Hongping Wang
+- Xiaoqi Li
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.22345'

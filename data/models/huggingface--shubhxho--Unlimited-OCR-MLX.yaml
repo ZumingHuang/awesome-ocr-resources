@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:shubhxho/Unlimited-OCR-MLX
+kind: model
+name: shubhxho/Unlimited-OCR-MLX
+released_at:
+  value: '2026-08-24'
+  precision: day
+added_at: '2026-08-25'
+last_verified_at: '2026-08-25'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/shubhxho/Unlimited-OCR-MLX
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/shubhxho/Unlimited-OCR-MLX
+  discovered_via: huggingface
+  discovered_at: '2026-08-25'
+  source_id: shubhxho/Unlimited-OCR-MLX
+  source_metadata:
+    repository_id: shubhxho/Unlimited-OCR-MLX
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: shubhxho
+repository_id: shubhxho/Unlimited-OCR-MLX
+deployment: []
