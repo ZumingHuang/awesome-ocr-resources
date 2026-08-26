@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:ecnurobotics/llama-ocr-sandbox
+kind: model
+name: ecnurobotics/llama-ocr-sandbox
+released_at:
+  value: '2026-08-26'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/ecnurobotics/llama-ocr-sandbox
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/ecnurobotics/llama-ocr-sandbox
+  discovered_via: huggingface
+  discovered_at: '2026-08-26'
+  source_id: ecnurobotics/llama-ocr-sandbox
+  source_metadata:
+    repository_id: ecnurobotics/llama-ocr-sandbox
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: ecnurobotics
+repository_id: ecnurobotics/llama-ocr-sandbox
+deployment: []

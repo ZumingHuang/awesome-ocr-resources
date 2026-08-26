@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:carmentran/lstm-ocr
+kind: model
+name: carmentran/lstm-ocr
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/carmentran/lstm-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/carmentran/lstm-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-26'
+  source_id: carmentran/lstm-ocr
+  source_metadata:
+    repository_id: carmentran/lstm-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: carmentran
+repository_id: carmentran/lstm-ocr
+deployment: []

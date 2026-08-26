@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Mohammad200AI/DeepSeek-OCR
+kind: model
+name: Mohammad200AI/DeepSeek-OCR
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Mohammad200AI/DeepSeek-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Mohammad200AI/DeepSeek-OCR
+  discovered_via: huggingface
+  discovered_at: '2026-08-26'
+  source_id: Mohammad200AI/DeepSeek-OCR
+  source_metadata:
+    repository_id: Mohammad200AI/DeepSeek-OCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Mohammad200AI
+repository_id: Mohammad200AI/DeepSeek-OCR
+deployment: []

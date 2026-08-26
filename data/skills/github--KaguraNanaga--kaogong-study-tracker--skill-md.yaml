@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:KaguraNanaga/kaogong-study-tracker:skill-md
+kind: skill
+name: KaguraNanaga/kaogong-study-tracker / SKILL.md
+released_at:
+  value: '2026-08-26'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/KaguraNanaga/kaogong-study-tracker/blob/cf9fafd3c607650f48470c0faced14a2d165cf39/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/KaguraNanaga/kaogong-study-tracker/blob/cf9fafd3c607650f48470c0faced14a2d165cf39/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-26'
+  source_id: KaguraNanaga/kaogong-study-tracker:SKILL.md
+  source_metadata:
+    repository: KaguraNanaga/kaogong-study-tracker
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: KaguraNanaga/kaogong-study-tracker
+manifest_path: SKILL.md
+capabilities: {}

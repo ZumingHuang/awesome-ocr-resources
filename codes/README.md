@@ -4,7 +4,14 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [juliosanzovo/identia](https://github.com/juliosanzovo/identia) | 2026-08-24 | other | candidate | Console interno de KYC com IA: consulta cadastral, análise de documentos e parecer de risco — decisão final do analista com trilha de auditoria. |
+| [Norixor/NorixorTrans](https://github.com/Norixor/NorixorTrans) | 2026-08-23 | text-recognition | candidate | Privacy-conscious Chrome translation extension for webpages, video subtitles, and local OCR. |
+| [l3a0/claude-plugins](https://github.com/l3a0/claude-plugins) | 2026-08-23 | text-recognition | candidate | l3a0's Claude Code plugin marketplace — kindle-highlights: verbatim Kindle highlight extraction with truncation recovery |
+| [epynic/MeterEye](https://github.com/epynic/MeterEye) | 2026-08-23 | text-recognition | candidate | A camera reads my electricity meter's LCD so I don't have to. ESP32-CAM + custom 7-segment decoder, no ML, no cloud |
 | [Lexombien/lemyloi-dichvideos](https://github.com/Lexombien/lemyloi-dichvideos) | 2026-08-22 | text-recognition | candidate | Trình chỉnh sửa video local-first với ASR, OCR phụ đề gốc, dịch và thuyết minh. |
+| [jkf87/gjc-agy-skill](https://github.com/jkf87/gjc-agy-skill) | 2026-08-22 | text-recognition | candidate | GJC(가재코드) 스킬 — Antigravity CLI(agy) 연동: 비전/OCR, 이미지 생성, print 모드 레시피. 실측 기반 함정 문서 포함 |
+| [thiagotigaz/ocr-it](https://github.com/thiagotigaz/ocr-it) | 2026-08-21 | text-recognition | candidate | Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract. |
+| [ellimist-afk/handwriting](https://github.com/ellimist-afk/handwriting) | 2026-08-21 | handwriting-recognition | candidate | — |
 | [crunz-ai/nativePDF-structurer](https://github.com/crunz-ai/nativePDF-structurer) | 2026-08-21 | text-recognition | candidate | 一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。   |
 | [rubberyglimp/Search-Text-in-Scanned-PDF-Tool-2026](https://github.com/rubberyglimp/Search-Text-in-Scanned-PDF-Tool-2026) | 2026-08-20 | text-recognition | candidate | Search Text in Scanned PDF Tool for Windows. OCR and search text inside scanned PDFs, image-based PDFs, and documents. |
 | [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios) | 2026-08-19 | text-recognition | candidate | DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on. |

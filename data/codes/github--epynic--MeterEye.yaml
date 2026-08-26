@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:epynic/MeterEye
+kind: code
+name: epynic/MeterEye
+released_at:
+  value: '2026-08-23'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: A camera reads my electricity meter's LCD so I don't have to. ESP32-CAM + custom 7-segment decoder,
+  no ML, no cloud
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/epynic/MeterEye
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/epynic/MeterEye
+  discovered_via: github
+  discovered_at: '2026-08-26'
+  source_id: R_kgDOUBKJAQ
+  source_metadata:
+    repository: epynic/MeterEye
+    stars: 66
+    language: C
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: epynic/MeterEye
+landmark: false
+programming_languages:
+- C
+maintenance_status: active

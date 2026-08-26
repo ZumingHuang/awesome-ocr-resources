@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:amitiyerpaw/ocr-tryout
+kind: dataset
+name: amitiyerpaw/ocr-tryout
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tprepare.py\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nA traffic\
+  \ dataset with text tabular modality, stored in webdataset format.\n\n\t\n\t\t\n\t\n\t\n\t\tPreprocessing\
+  \ & Augmentation\n\t\n\n\nPreprocessing: progressive\nAugmentation: heavy\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Splits & Sampling\n\t\n\n\nSplit strategy: temporal\nSampling: balanced\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Quality & Labeling\n\t\n\n\nQuality filtering: moderate\nLabeling: weak supervision\n\n\n\t\n\t\t\n\t\
+  \n\t\n\t\tFiles\n\t\n\n\nprepare.py — main artifact of this repository\n\n\n\t\n\t\t\n\t\n\t\n\t\tLicense\n\
+  \t\n\nSee the… See the full description on the dataset page: https://huggingface.co/datasets/amitiyerpaw/ocr-tryout."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/amitiyerpaw/ocr-tryout
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/amitiyerpaw/ocr-tryout
+  discovered_via: huggingface
+  discovered_at: '2026-08-26'
+  source_id: amitiyerpaw/ocr-tryout
+  source_metadata:
+    repository_id: amitiyerpaw/ocr-tryout
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: amitiyerpaw
+repository_id: amitiyerpaw/ocr-tryout
+usage: []
+annotations: []
+access: unknown

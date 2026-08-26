@@ -4,6 +4,732 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [srmistbiolab/ocr-lab56](https://huggingface.co/datasets/srmistbiolab/ocr-lab56) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		dataloader.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A education dataset with image text modality, stored in npy sharded format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: adaptive
+Augmentation: light
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: random 90 10
+Sampling: curriculum
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: lenient
+Labeling: pseudo label
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+dataloader.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License
+	
+
+See… See the full description on the dataset page: https://huggingface.co/datasets/srmistbiolab/ocr-lab56. |
+| [OCR-Data/datatest_nihal](https://huggingface.co/datasets/OCR-Data/datatest_nihal) | 2026-08-25 | text-recognition | candidate | — |
+| [michalkowalski/llm-ocr-lite91](https://huggingface.co/datasets/michalkowalski/llm-ocr-lite91) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		prepare.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A security dataset with pointcloud text modality, stored in lmdb format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: progressive
+Augmentation: heavy
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: temporal
+Sampling: contrastive
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: lenient
+Labeling: pseudo label
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+prepare.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License
+	
+
+See the license… See the full description on the dataset page: https://huggingface.co/datasets/michalkowalski/llm-ocr-lite91. |
+| [lucasvandijk/roberta-ocr](https://huggingface.co/datasets/lucasvandijk/roberta-ocr) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		build_dataset.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A wildlife dataset with video text modality, stored in hdf5 format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: adaptive
+Augmentation: mixup cutmix
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: random 90 10
+Sampling: curriculum
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: moderate
+Labeling: pseudo label
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+build_dataset.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License… See the full description on the dataset page: https://huggingface.co/datasets/lucasvandijk/roberta-ocr. |
+| [kaylaedwa/ocr-lite](https://huggingface.co/datasets/kaylaedwa/ocr-lite) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		prepare.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A memes dataset with image depth modality, stored in csv format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: standard
+Augmentation: light
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: temporal
+Sampling: stratified
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: adaptive
+Labeling: weak supervision
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+prepare.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License
+	
+
+See the license field… See the full description on the dataset page: https://huggingface.co/datasets/kaylaedwa/ocr-lite. |
+| [kaizhangana/ocr](https://huggingface.co/datasets/kaizhangana/ocr) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		loader.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A movie posters dataset with image depth modality, stored in huggingface format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: minimal
+Augmentation: none
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: temporal
+Sampling: active
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: strict
+Labeling: manual
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+loader.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License
+	
+
+See the license field… See the full description on the dataset page: https://huggingface.co/datasets/kaizhangana/ocr. |
+| [Jiangnan-genomics1/ocr-playground](https://huggingface.co/datasets/Jiangnan-genomics1/ocr-playground) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		clean.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A finance dataset with pointcloud text modality, stored in lmdb format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: minimal
+Augmentation: mixup cutmix
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: random 90 10
+Sampling: hard negative
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: lenient
+Labeling: pseudo label
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+clean.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License
+	
+
+See the… See the full description on the dataset page: https://huggingface.co/datasets/Jiangnan-genomics1/ocr-playground. |
+| [dijohnson/ocr-v2](https://huggingface.co/datasets/dijohnson/ocr-v2) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		clean.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A speech dataset with image audio modality, stored in lmdb format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: adaptive
+Augmentation: none
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: stratified 90 10
+Sampling: contrastive
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: strict
+Labeling: manual
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+clean.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License
+	
+
+See the license field above.
+ |
+| [Blrmehta01/ocr-playground](https://huggingface.co/datasets/Blrmehta01/ocr-playground) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		build_dataset.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A robotics dataset with pointcloud text modality, stored in parquet format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: curriculum
+Augmentation: none
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: temporal
+Sampling: hard negative
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: moderate
+Labeling: pseudo label
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+build_dataset.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License… See the full description on the dataset page: https://huggingface.co/datasets/Blrmehta01/ocr-playground. |
+| [amitiyerpaw/ocr-tryout](https://huggingface.co/datasets/amitiyerpaw/ocr-tryout) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		prepare.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A traffic dataset with text tabular modality, stored in webdataset format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: progressive
+Augmentation: heavy
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: temporal
+Sampling: balanced
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: moderate
+Labeling: weak supervision
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+prepare.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License
+	
+
+See the… See the full description on the dataset page: https://huggingface.co/datasets/amitiyerpaw/ocr-tryout. |
+| [Aleksanderszyma/gpt2-ocr-v2](https://huggingface.co/datasets/Aleksanderszyma/gpt2-ocr-v2) | 2026-08-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		preprocess.py
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+A news media dataset with audio text modality, stored in webdataset format.
+
+	
+		
+	
+	
+		Preprocessing & Augmentation
+	
+
+
+Preprocessing: standard
+Augmentation: heavy
+
+
+	
+		
+	
+	
+		Splits & Sampling
+	
+
+
+Split strategy: kfold 5
+Sampling: hard negative
+
+
+	
+		
+	
+	
+		Quality & Labeling
+	
+
+
+Quality filtering: strict
+Labeling: self training
+
+
+	
+		
+	
+	
+		Files
+	
+
+
+preprocess.py — main artifact of this repository
+
+
+	
+		
+	
+	
+		License
+	
+
+See the… See the full description on the dataset page: https://huggingface.co/datasets/Aleksanderszyma/gpt2-ocr-v2. |
 | [Hisham20/ocr-bundles](https://huggingface.co/datasets/Hisham20/ocr-bundles) | 2026-08-24 | text-recognition | candidate | — |
 | [elichen-skymizer/GAP-ocrbench-v2](https://huggingface.co/datasets/elichen-skymizer/GAP-ocrbench-v2) | 2026-08-24 | text-recognition | candidate | — |
 | [elichen-skymizer/GAP-ocrbench-v1](https://huggingface.co/datasets/elichen-skymizer/GAP-ocrbench-v1) | 2026-08-24 | text-recognition | candidate | — |
@@ -620,6 +1346,7 @@ Labeling: pseudo label
 
 dataset_152294269_document_ocr_image_depth.py —… See the full description on the dataset page: https://huggingface.co/datasets/andrewtya04/dataset_152294269_document_ocr_image_depth. |
 | [OCR-Data/dataset_nihal](https://huggingface.co/datasets/OCR-Data/dataset_nihal) | 2026-08-20 | text-recognition | candidate | — |
+| [nikhitrivedi1/OCR4_Base_STRATIFIED_20K](https://huggingface.co/datasets/nikhitrivedi1/OCR4_Base_STRATIFIED_20K) | 2026-08-20 | text-recognition | candidate | — |
 | [Ericu950/swedish-print-ocr-training-data](https://huggingface.co/datasets/Ericu950/swedish-print-ocr-training-data) | 2026-08-20 | text-recognition | candidate | 
 	
 		

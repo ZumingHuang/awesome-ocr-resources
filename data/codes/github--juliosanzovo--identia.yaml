@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:juliosanzovo/identia
+kind: code
+name: juliosanzovo/identia
+released_at:
+  value: '2026-08-24'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: 'Console interno de KYC com IA: consulta cadastral, análise de documentos e parecer de risco
+  — decisão final do analista com trilha de auditoria.'
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/juliosanzovo/identia
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/juliosanzovo/identia
+  discovered_via: github
+  discovered_at: '2026-08-26'
+  source_id: R_kgDOUCJehg
+  source_metadata:
+    repository: juliosanzovo/identia
+    stars: 22
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: juliosanzovo/identia
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active
