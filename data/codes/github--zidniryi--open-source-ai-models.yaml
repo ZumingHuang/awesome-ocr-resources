@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:zidniryi/open-source-ai-models
+kind: code
+name: zidniryi/open-source-ai-models
+released_at:
+  value: '2026-08-26'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: A curated directory of open-source & open-weight AI models — compare params, VRAM, context length,
+  and license before picking a model for coding, OCR, vision, image generation, speech, reasoning, and
+  RAG.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/zidniryi/open-source-ai-models
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/zidniryi/open-source-ai-models
+  discovered_via: github
+  discovered_at: '2026-08-27'
+  source_id: R_kgDOUEhczA
+  source_metadata:
+    repository: zidniryi/open-source-ai-models
+    stars: 13
+    language: null
+    archived: false
+    query: '"document AI" in:name,description,readme'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: zidniryi/open-source-ai-models
+landmark: false
+programming_languages: []
+maintenance_status: active

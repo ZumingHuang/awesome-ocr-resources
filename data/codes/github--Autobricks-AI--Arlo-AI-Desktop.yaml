@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:Autobricks-AI/Arlo-AI-Desktop
+kind: code
+name: Autobricks-AI/Arlo-AI-Desktop
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: Self-hosted AI customer service. Your documents, your database, your data - answered with citations
+  across every channel.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Autobricks-AI/Arlo-AI-Desktop
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Autobricks-AI/Arlo-AI-Desktop
+  discovered_via: github
+  discovered_at: '2026-08-27'
+  source_id: R_kgDOUFnPTQ
+  source_metadata:
+    repository: Autobricks-AI/Arlo-AI-Desktop
+    stars: 20
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Autobricks-AI/Arlo-AI-Desktop
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

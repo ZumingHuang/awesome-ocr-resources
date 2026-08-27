@@ -1,6 +1,10 @@
 <!-- Generated from data/*.yaml. Do not edit directly. -->
 
 ## 2026
+**A Comparative Evaluation of Digitization Pipelines for Historiographical Sources**
+Marina Gómez Rey, Patricia Callejo, Mario Muñoz-Organero, Carlos Alario-Hoyos
+\[document-parsing\]\[text-recognition\]
+
 **A machine-readable catalogue of the Tsiolkovsky papers (fond 555, Archive of the Russian Academy of Sciences), and a way to measure how well its handwriting can be read**
 Vladimir Beskorovainyi
 \[handwriting-recognition\]
@@ -112,6 +116,10 @@ Hao Yu, Jiabo Zhan, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, C
 **PhysTrackX: Open-Source Software for Kinematics Tracking for the Physics Laboratory**
 Isam Abdullah Balghari, Muhammad Sabieh Anwar
 \[text-recognition\]
+
+**RefLAM: A Reference-Grounded Line Annotation Pipeline for Historical Arabic Manuscripts**
+Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
+\[handwriting-recognition\]\[text-recognition\]
 
 **Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
 Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang

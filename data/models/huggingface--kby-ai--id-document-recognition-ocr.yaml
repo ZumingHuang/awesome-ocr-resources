@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:kby-ai/id-document-recognition-ocr
+kind: model
+name: kby-ai/id-document-recognition-ocr
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/kby-ai/id-document-recognition-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/kby-ai/id-document-recognition-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-27'
+  source_id: kby-ai/id-document-recognition-ocr
+  source_metadata:
+    repository_id: kby-ai/id-document-recognition-ocr
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: kby-ai
+repository_id: kby-ai/id-document-recognition-ocr
+deployment: []

@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:minh2128/colab-paddle-env-for-ocr
+kind: dataset
+name: minh2128/colab-paddle-env-for-ocr
+released_at:
+  value: '2026-08-26'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/minh2128/colab-paddle-env-for-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/minh2128/colab-paddle-env-for-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-27'
+  source_id: minh2128/colab-paddle-env-for-ocr
+  source_metadata:
+    repository_id: minh2128/colab-paddle-env-for-ocr
+    downloads: 36
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: minh2128
+repository_id: minh2128/colab-paddle-env-for-ocr
+usage: []
+annotations: []
+access: unknown

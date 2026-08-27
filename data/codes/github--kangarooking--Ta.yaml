@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:kangarooking/Ta
+kind: code
+name: kangarooking/Ta
+released_at:
+  value: '2026-08-23'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: 拓（Ta）— AI 原生截图工具：截图、OCR、AI 识图、翻译、长截图、钉图与标注；AI 美化持续开发中。现支持 macOS，Windows 制作中。（AI-native screenshot
+  tool; Windows in progress.）
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/kangarooking/Ta
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/kangarooking/Ta
+  discovered_via: github
+  discovered_at: '2026-08-27'
+  source_id: R_kgDOUBxHJw
+  source_metadata:
+    repository: kangarooking/Ta
+    stars: 27
+    language: Swift
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: kangarooking/Ta
+landmark: false
+programming_languages:
+- Swift
+maintenance_status: active

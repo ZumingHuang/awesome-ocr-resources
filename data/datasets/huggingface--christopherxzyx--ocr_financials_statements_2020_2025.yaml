@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:christopherxzyx/ocr_financials_statements_2020_2025
+kind: dataset
+name: christopherxzyx/ocr_financials_statements_2020_2025
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t\U0001F4CB Vietnam Annual Financial Statements (2020–2025) (PDF & OCR)\n\
+  \t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\U0001F4CC Overview\n\t\n\nOCR Vietnam Annual Financial Statements (2020–2025)\
+  \ là bộ dữ liệu báo cáo tài chính thường niên của các doanh nghiệp niêm yết tại Việt Nam. Đây là phiên\
+  \ bản được chọn lọc và tinh chỉnh từ bộ dữ liệu gốc TiniX Vietnam OCR Annual Financial Statements do\
+  \ TiniX AI thu thập.\nĐiểm khác biệt của bộ dữ liệu này:\n\nTập trung chuyên sâu vào giai đoạn mới nhất:\
+  \ 2020–2025.\nCung cấp song song cả định… See the full description on the dataset page: https://huggingface.co/datasets/christopherxzyx/ocr_financials_statements_2020_2025."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/christopherxzyx/ocr_financials_statements_2020_2025
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/christopherxzyx/ocr_financials_statements_2020_2025
+  discovered_via: huggingface
+  discovered_at: '2026-08-27'
+  source_id: christopherxzyx/ocr_financials_statements_2020_2025
+  source_metadata:
+    repository_id: christopherxzyx/ocr_financials_statements_2020_2025
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: christopherxzyx
+repository_id: christopherxzyx/ocr_financials_statements_2020_2025
+usage: []
+annotations: []
+access: unknown

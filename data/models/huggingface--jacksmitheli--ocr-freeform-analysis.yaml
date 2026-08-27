@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:jacksmitheli/ocr-freeform-analysis
+kind: model
+name: jacksmitheli/ocr-freeform-analysis
+released_at:
+  value: '2026-08-26'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/jacksmitheli/ocr-freeform-analysis
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/jacksmitheli/ocr-freeform-analysis
+  discovered_via: huggingface
+  discovered_at: '2026-08-27'
+  source_id: jacksmitheli/ocr-freeform-analysis
+  source_metadata:
+    repository_id: jacksmitheli/ocr-freeform-analysis
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: jacksmitheli
+repository_id: jacksmitheli/ocr-freeform-analysis
+deployment: []

@@ -4,6 +4,8 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [jeremylongshore/tons-of-skills-marketplace / plugins/saas-packs/lucidchart-pack/skills/lucidchart-prod-checklist/SKILL.md](https://github.com/jeremylongshore/tons-of-skills-marketplace/blob/680a8ac5a1d8b0c3ac91fb4a467f59e27b0af825/plugins/saas-packs/lucidchart-pack/skills/lucidchart-prod-checklist/SKILL.md) | 2026-08-27 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [infly-ai/INF-MLLM / skills/infinity-parser2/SKILL.md](https://github.com/infly-ai/INF-MLLM/blob/b02df6491700b210d9f1d058151557f924de2f0a/skills/infinity-parser2/SKILL.md) | 2026-08-27 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [yejinlei/pdf-ocr-skill / SKILL.md](https://github.com/yejinlei/pdf-ocr-skill/blob/c44d4e7b758a275fdd578b4132ae9e53cc68164e/SKILL.md) | 2026-08-26 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [KaguraNanaga/kaogong-study-tracker / SKILL.md](https://github.com/KaguraNanaga/kaogong-study-tracker/blob/cf9fafd3c607650f48470c0faced14a2d165cf39/SKILL.md) | 2026-08-26 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [Prismer-AI/PrismerCloud / sdk/prismer-cloud/skill/Skill.md](https://github.com/Prismer-AI/PrismerCloud/blob/e263666c231c8782fee9e3cc561a1c6a06b384d3/sdk/prismer-cloud/skill/Skill.md) | 2026-08-23 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

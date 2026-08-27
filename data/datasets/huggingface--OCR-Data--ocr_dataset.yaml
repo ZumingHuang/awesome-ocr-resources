@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:OCR-Data/ocr_dataset
+kind: dataset
+name: OCR-Data/ocr_dataset
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/OCR-Data/ocr_dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/OCR-Data/ocr_dataset
+  discovered_via: huggingface
+  discovered_at: '2026-08-27'
+  source_id: OCR-Data/ocr_dataset
+  source_metadata:
+    repository_id: OCR-Data/ocr_dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: OCR-Data
+repository_id: OCR-Data/ocr_dataset
+usage: []
+annotations: []
+access: unknown

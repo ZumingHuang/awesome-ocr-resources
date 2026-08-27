@@ -4,6 +4,158 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [OCR-Data/ocr_dataset](https://huggingface.co/datasets/OCR-Data/ocr_dataset) | 2026-08-27 | text-recognition | candidate | — |
+| [christopherxzyx/ocr_financials_statements_2020_2025](https://huggingface.co/datasets/christopherxzyx/ocr_financials_statements_2020_2025) | 2026-08-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		📋 Vietnam Annual Financial Statements (2020–2025) (PDF & OCR)
+	
+
+
+	
+		
+	
+	
+		📌 Overview
+	
+
+OCR Vietnam Annual Financial Statements (2020–2025) là bộ dữ liệu báo cáo tài chính thường niên của các doanh nghiệp niêm yết tại Việt Nam. Đây là phiên bản được chọn lọc và tinh chỉnh từ bộ dữ liệu gốc TiniX Vietnam OCR Annual Financial Statements do TiniX AI thu thập.
+Điểm khác biệt của bộ dữ liệu này:
+
+Tập trung chuyên sâu vào giai đoạn mới nhất: 2020–2025.
+Cung cấp song song cả định… See the full description on the dataset page: https://huggingface.co/datasets/christopherxzyx/ocr_financials_statements_2020_2025. |
+| [alphabot2/Aibot2_27Aug_STEA_Pick_OCR](https://huggingface.co/datasets/alphabot2/Aibot2_27Aug_STEA_Pick_OCR) | 2026-08-27 | text-recognition | candidate | This dataset was created using LeRobot.
+
+
+
+
+
+
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    "codebase_version": "v3.0",
+    "robot_type": "aibot2",
+    "total_episodes": 10,
+    "total_frames": 3891,
+    "total_tasks": 1,
+    "chunks_size": 1000,
+    "data_files_size_in_mb": 100,
+    "video_files_size_in_mb": 200,
+    "fps": 10,
+    "splits": {
+        "train": "0:10"
+    },
+    "data_path": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "video_path":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/Aibot2_27Aug_STEA_Pick_OCR. |
+| [minh2128/colab-paddle-env-for-ocr](https://huggingface.co/datasets/minh2128/colab-paddle-env-for-ocr) | 2026-08-26 | text-recognition | candidate | — |
+| [MingxuChai/SCVER-fr-ocr](https://huggingface.co/datasets/MingxuChai/SCVER-fr-ocr) | 2026-08-26 | text-recognition | candidate | — |
+| [kailasa-ngpt/gemini-3.7-flash-ocr-26-aug-2026](https://huggingface.co/datasets/kailasa-ngpt/gemini-3.7-flash-ocr-26-aug-2026) | 2026-08-26 | text-recognition | candidate | 
+	
+		
+	
+	
+		gemini-3.7-flash-ocr-26-aug-2026
+	
+
+Page-image → transcription pairs for finetuning a vision-language model to OCR
+Devanagari and Tamil printed books.
+These labels are not human ground truth. They are the output of a teacher
+model, so its accuracy is the ceiling for anything trained on them.
+
+	
+		
+	
+	
+		Provenance
+	
+
+
+	
+		
+
+
+
+
+		
+Teacher model
+google/gemini-3.7-flash (via OpenRouter, reasoning.effort=low)
+
+
+Page render
+PyMuPDF at 200 DPI, grayscale JPEG q90
+
+
+Sampling
+stratified —… See the full description on the dataset page: https://huggingface.co/datasets/kailasa-ngpt/gemini-3.7-flash-ocr-26-aug-2026. |
+| [Darmm/darmm-ocr-kazakh-v2](https://huggingface.co/datasets/Darmm/darmm-ocr-kazakh-v2) | 2026-08-26 | text-recognition | candidate | 
+	
+		
+	
+	
+		Darmm Kazakh OCR v2
+	
+
+Synthetic OCR dataset for printed Kazakh (Cyrillic script), built to train and evaluate models on realistic document conditions — scans, photos, and degraded print — not just clean renders. It supersedes Darmm/darmm-ocr-kazakh-cyrillic, which it fully includes as its clean tier.
+Full coverage of the Kazakh-specific letters: Ә Ғ Қ Ң Ө Ұ Ү Һ І (all 17 fonts used were verified to render them).
+
+	
+		
+	
+	
+		Tiers
+	
+
+
+	
+		
+tier
+level
+what it is
+
+
+		
+clean
+word… See the full description on the dataset page: https://huggingface.co/datasets/Darmm/darmm-ocr-kazakh-v2. |
+| [ankitamam/document-ocr-video-text-mini](https://huggingface.co/datasets/ankitamam/document-ocr-video-text-mini) | 2026-08-26 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Video Text metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/ankitamam/document-ocr-video-text-mini. |
 | [srmistbiolab/ocr-lab56](https://huggingface.co/datasets/srmistbiolab/ocr-lab56) | 2026-08-25 | text-recognition | candidate | 
 	
 		

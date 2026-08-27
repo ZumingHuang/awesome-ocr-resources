@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:LucasSls/ocr-freeform-reading
+kind: model
+name: LucasSls/ocr-freeform-reading
+released_at:
+  value: '2026-08-26'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/LucasSls/ocr-freeform-reading
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/LucasSls/ocr-freeform-reading
+  discovered_via: huggingface
+  discovered_at: '2026-08-27'
+  source_id: LucasSls/ocr-freeform-reading
+  source_metadata:
+    repository_id: LucasSls/ocr-freeform-reading
+    downloads: 11
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: LucasSls
+repository_id: LucasSls/ocr-freeform-reading
+deployment: []

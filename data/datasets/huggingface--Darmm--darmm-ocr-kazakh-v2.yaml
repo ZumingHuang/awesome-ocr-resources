@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:Darmm/darmm-ocr-kazakh-v2
+kind: dataset
+name: Darmm/darmm-ocr-kazakh-v2
+released_at:
+  value: '2026-08-26'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDarmm Kazakh OCR v2\n\t\n\nSynthetic OCR dataset for printed Kazakh\
+  \ (Cyrillic script), built to train and evaluate models on realistic document conditions — scans, photos,\
+  \ and degraded print — not just clean renders. It supersedes Darmm/darmm-ocr-kazakh-cyrillic, which\
+  \ it fully includes as its clean tier.\nFull coverage of the Kazakh-specific letters: Ә Ғ Қ Ң Ө Ұ Ү\
+  \ Һ І (all 17 fonts used were verified to render them).\n\n\t\n\t\t\n\t\n\t\n\t\tTiers\n\t\n\n\n\t\n\
+  \t\t\ntier\nlevel\nwhat it is\n\n\n\t\t\nclean\nword… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/Darmm/darmm-ocr-kazakh-v2."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Darmm/darmm-ocr-kazakh-v2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Darmm/darmm-ocr-kazakh-v2
+  discovered_via: huggingface
+  discovered_at: '2026-08-27'
+  source_id: Darmm/darmm-ocr-kazakh-v2
+  source_metadata:
+    repository_id: Darmm/darmm-ocr-kazakh-v2
+    downloads: 36
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Darmm
+repository_id: Darmm/darmm-ocr-kazakh-v2
+usage: []
+annotations: []
+access: unknown

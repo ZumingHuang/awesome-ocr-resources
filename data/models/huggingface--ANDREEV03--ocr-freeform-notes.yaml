@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:ANDREEV03/ocr-freeform-notes
+kind: model
+name: ANDREEV03/ocr-freeform-notes
+released_at:
+  value: '2026-08-26'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/ANDREEV03/ocr-freeform-notes
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/ANDREEV03/ocr-freeform-notes
+  discovered_via: huggingface
+  discovered_at: '2026-08-27'
+  source_id: ANDREEV03/ocr-freeform-notes
+  source_metadata:
+    repository_id: ANDREEV03/ocr-freeform-notes
+    downloads: 11
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: ANDREEV03
+repository_id: ANDREEV03/ocr-freeform-notes
+deployment: []
