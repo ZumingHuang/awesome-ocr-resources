@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:lucasvandijk/roberta-ocr
+kind: dataset
+name: lucasvandijk/roberta-ocr
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tbuild_dataset.py\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\
+  \nA wildlife dataset with video text modality, stored in hdf5 format.\n\n\t\n\t\t\n\t\n\t\n\t\tPreprocessing\
+  \ & Augmentation\n\t\n\n\nPreprocessing: adaptive\nAugmentation: mixup cutmix\n\n\n\t\n\t\t\n\t\n\t\n\
+  \t\tSplits & Sampling\n\t\n\n\nSplit strategy: random 90 10\nSampling: curriculum\n\n\n\t\n\t\t\n\t\n\
+  \t\n\t\tQuality & Labeling\n\t\n\n\nQuality filtering: moderate\nLabeling: pseudo label\n\n\n\t\n\t\t\
+  \n\t\n\t\n\t\tFiles\n\t\n\n\nbuild_dataset.py — main artifact of this repository\n\n\n\t\n\t\t\n\t\n\
+  \t\n\t\tLicense… See the full description on the dataset page: https://huggingface.co/datasets/lucasvandijk/roberta-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/lucasvandijk/roberta-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/lucasvandijk/roberta-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-08-26'
+  source_id: lucasvandijk/roberta-ocr
+  source_metadata:
+    repository_id: lucasvandijk/roberta-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: lucasvandijk
+repository_id: lucasvandijk/roberta-ocr
+usage: []
+annotations: []
+access: unknown

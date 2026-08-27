@@ -4,7 +4,22 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [ecnurobotics/llama-ocr-sandbox](https://huggingface.co/ecnurobotics/llama-ocr-sandbox) | 2026-08-26 | text-recognition | candidate | — |
+| [snowfluke/ppu-paddle-ocr-models](https://huggingface.co/snowfluke/ppu-paddle-ocr-models) | 2026-08-25 | text-recognition | candidate | — |
+| [shrutivsv/resnet-ocr-practice](https://huggingface.co/shrutivsv/resnet-ocr-practice) | 2026-08-25 | text-recognition | candidate | — |
+| [saragon21/ocr-experiments](https://huggingface.co/saragon21/ocr-experiments) | 2026-08-25 | text-recognition | candidate | — |
+| [Mohammad200AI/DeepSeek-OCR](https://huggingface.co/Mohammad200AI/DeepSeek-OCR) | 2026-08-25 | text-recognition | candidate | — |
+| [mohameddalii/ocr-mt-5090](https://huggingface.co/mohameddalii/ocr-mt-5090) | 2026-08-25 | text-recognition | candidate | — |
+| [Mich-aeltb/ocr-test](https://huggingface.co/Mich-aeltb/ocr-test) | 2026-08-25 | text-recognition | candidate | — |
 | [meharuhanzz/malayalam-ocr-models](https://huggingface.co/meharuhanzz/malayalam-ocr-models) | 2026-08-25 | text-recognition | candidate | — |
+| [maianh511/PP_OCRv4_mobile_det_finetune_PortVehicleOCR](https://huggingface.co/maianh511/PP_OCRv4_mobile_det_finetune_PortVehicleOCR) | 2026-08-25 | text-recognition | candidate | — |
+| [jamieh03/Nanonets-OCR2-3B-4bit-fixed](https://huggingface.co/jamieh03/Nanonets-OCR2-3B-4bit-fixed) | 2026-08-25 | text-recognition | candidate | — |
+| [Emmarami/gpt2-ocr-tiny](https://huggingface.co/Emmarami/gpt2-ocr-tiny) | 2026-08-25 | text-recognition | candidate | — |
+| [dmitry-mikhailov/resnet-ocr-scratch](https://huggingface.co/dmitry-mikhailov/resnet-ocr-scratch) | 2026-08-25 | text-recognition | candidate | — |
+| [darrenhuasaw/llm-ocr28](https://huggingface.co/darrenhuasaw/llm-ocr28) | 2026-08-25 | text-recognition | candidate | — |
+| [chencoc1994/unet-ocr](https://huggingface.co/chencoc1994/unet-ocr) | 2026-08-25 | text-recognition | candidate | — |
+| [carmentran/lstm-ocr](https://huggingface.co/carmentran/lstm-ocr) | 2026-08-25 | text-recognition | candidate | — |
+| [Axway/Rukopys-OCR-4B-GGUF](https://huggingface.co/Axway/Rukopys-OCR-4B-GGUF) | 2026-08-25 | handwriting-recognition, text-recognition | candidate | — |
 | [shubhxho/Unlimited-OCR-MLX](https://huggingface.co/shubhxho/Unlimited-OCR-MLX) | 2026-08-24 | text-recognition | candidate | — |
 | [Monad-dz/qwen-ocr-lora_v3](https://huggingface.co/Monad-dz/qwen-ocr-lora_v3) | 2026-08-24 | text-recognition | candidate | — |
 | [context212/alhazen-ocr-khattmix](https://huggingface.co/context212/alhazen-ocr-khattmix) | 2026-08-24 | text-recognition | candidate | — |

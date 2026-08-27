@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:Jiangnan-genomics1/ocr-playground
+kind: dataset
+name: Jiangnan-genomics1/ocr-playground
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tclean.py\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nA finance\
+  \ dataset with pointcloud text modality, stored in lmdb format.\n\n\t\n\t\t\n\t\n\t\n\t\tPreprocessing\
+  \ & Augmentation\n\t\n\n\nPreprocessing: minimal\nAugmentation: mixup cutmix\n\n\n\t\n\t\t\n\t\n\t\n\
+  \t\tSplits & Sampling\n\t\n\n\nSplit strategy: random 90 10\nSampling: hard negative\n\n\n\t\n\t\t\n\
+  \t\n\t\n\t\tQuality & Labeling\n\t\n\n\nQuality filtering: lenient\nLabeling: pseudo label\n\n\n\t\n\
+  \t\t\n\t\n\t\n\t\tFiles\n\t\n\n\nclean.py — main artifact of this repository\n\n\n\t\n\t\t\n\t\n\t\n\
+  \t\tLicense\n\t\n\nSee the… See the full description on the dataset page: https://huggingface.co/datasets/Jiangnan-genomics1/ocr-playground."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Jiangnan-genomics1/ocr-playground
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Jiangnan-genomics1/ocr-playground
+  discovered_via: huggingface
+  discovered_at: '2026-08-26'
+  source_id: Jiangnan-genomics1/ocr-playground
+  source_metadata:
+    repository_id: Jiangnan-genomics1/ocr-playground
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Jiangnan-genomics1
+repository_id: Jiangnan-genomics1/ocr-playground
+usage: []
+annotations: []
+access: unknown

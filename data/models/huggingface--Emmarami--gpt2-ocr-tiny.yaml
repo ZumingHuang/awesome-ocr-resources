@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Emmarami/gpt2-ocr-tiny
+kind: model
+name: Emmarami/gpt2-ocr-tiny
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Emmarami/gpt2-ocr-tiny
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Emmarami/gpt2-ocr-tiny
+  discovered_via: huggingface
+  discovered_at: '2026-08-26'
+  source_id: Emmarami/gpt2-ocr-tiny
+  source_metadata:
+    repository_id: Emmarami/gpt2-ocr-tiny
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Emmarami
+repository_id: Emmarami/gpt2-ocr-tiny
+deployment: []

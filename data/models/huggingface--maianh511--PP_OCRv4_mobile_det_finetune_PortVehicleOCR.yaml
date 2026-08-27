@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:maianh511/PP_OCRv4_mobile_det_finetune_PortVehicleOCR
+kind: model
+name: maianh511/PP_OCRv4_mobile_det_finetune_PortVehicleOCR
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/maianh511/PP_OCRv4_mobile_det_finetune_PortVehicleOCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/maianh511/PP_OCRv4_mobile_det_finetune_PortVehicleOCR
+  discovered_via: huggingface
+  discovered_at: '2026-08-26'
+  source_id: maianh511/PP_OCRv4_mobile_det_finetune_PortVehicleOCR
+  source_metadata:
+    repository_id: maianh511/PP_OCRv4_mobile_det_finetune_PortVehicleOCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: maianh511
+repository_id: maianh511/PP_OCRv4_mobile_det_finetune_PortVehicleOCR
+deployment: []

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:snowfluke/ppu-paddle-ocr-models
+kind: model
+name: snowfluke/ppu-paddle-ocr-models
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-26'
+last_verified_at: '2026-08-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/snowfluke/ppu-paddle-ocr-models
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/snowfluke/ppu-paddle-ocr-models
+  discovered_via: huggingface
+  discovered_at: '2026-08-26'
+  source_id: snowfluke/ppu-paddle-ocr-models
+  source_metadata:
+    repository_id: snowfluke/ppu-paddle-ocr-models
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: snowfluke
+repository_id: snowfluke/ppu-paddle-ocr-models
+deployment: []

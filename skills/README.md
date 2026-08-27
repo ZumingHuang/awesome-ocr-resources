@@ -4,6 +4,8 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [yejinlei/pdf-ocr-skill / SKILL.md](https://github.com/yejinlei/pdf-ocr-skill/blob/c44d4e7b758a275fdd578b4132ae9e53cc68164e/SKILL.md) | 2026-08-26 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [KaguraNanaga/kaogong-study-tracker / SKILL.md](https://github.com/KaguraNanaga/kaogong-study-tracker/blob/cf9fafd3c607650f48470c0faced14a2d165cf39/SKILL.md) | 2026-08-26 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [Prismer-AI/PrismerCloud / sdk/prismer-cloud/skill/Skill.md](https://github.com/Prismer-AI/PrismerCloud/blob/e263666c231c8782fee9e3cc561a1c6a06b384d3/sdk/prismer-cloud/skill/Skill.md) | 2026-08-23 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [cheatcode-ai/cheatcode / skills/pdf/SKILL.md](https://github.com/cheatcode-ai/cheatcode/blob/41e00142a23d4eb779a1095392c9038197153e04/skills/pdf/SKILL.md) | 2026-08-23 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [NeuroSkill-com/skill / SKILL.md](https://github.com/NeuroSkill-com/skill/blob/bfe84a981acf5209cba1f43152e4989377f3b19f/SKILL.md) | 2026-08-19 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
