@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:furkancmc/kadim-ocr-lora
+kind: model
+name: furkancmc/kadim-ocr-lora
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-28'
+last_verified_at: '2026-08-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/furkancmc/kadim-ocr-lora
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/furkancmc/kadim-ocr-lora
+  discovered_via: huggingface
+  discovered_at: '2026-08-28'
+  source_id: furkancmc/kadim-ocr-lora
+  source_metadata:
+    repository_id: furkancmc/kadim-ocr-lora
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: furkancmc
+repository_id: furkancmc/kadim-ocr-lora
+deployment: []

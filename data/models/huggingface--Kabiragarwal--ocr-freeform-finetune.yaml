@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Kabiragarwal/ocr-freeform-finetune
+kind: model
+name: Kabiragarwal/ocr-freeform-finetune
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-28'
+last_verified_at: '2026-08-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Kabiragarwal/ocr-freeform-finetune
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Kabiragarwal/ocr-freeform-finetune
+  discovered_via: huggingface
+  discovered_at: '2026-08-28'
+  source_id: Kabiragarwal/ocr-freeform-finetune
+  source_metadata:
+    repository_id: Kabiragarwal/ocr-freeform-finetune
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Kabiragarwal
+repository_id: Kabiragarwal/ocr-freeform-finetune
+deployment: []

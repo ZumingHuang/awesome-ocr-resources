@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:matthewyrivera/ocr-freeform
+kind: model
+name: matthewyrivera/ocr-freeform
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-28'
+last_verified_at: '2026-08-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/matthewyrivera/ocr-freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/matthewyrivera/ocr-freeform
+  discovered_via: huggingface
+  discovered_at: '2026-08-28'
+  source_id: matthewyrivera/ocr-freeform
+  source_metadata:
+    repository_id: matthewyrivera/ocr-freeform
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: matthewyrivera
+repository_id: matthewyrivera/ocr-freeform
+deployment: []

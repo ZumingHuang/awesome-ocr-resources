@@ -1,0 +1,47 @@
+schema_version: 1
+id: dataset:huggingface:hsbharadwaj/ocr_datasets
+kind: dataset
+name: hsbharadwaj/ocr_datasets
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-28'
+last_verified_at: '2026-08-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tCombined OCR Dataset for Text Recognition\n\t\n\n\n\t\n\t\t\n\t\n\t\n\
+  \t\tDataset Description\n\t\n\nThis is a large-scale dataset (~11M training, ~0.9M validation images)\
+  \ for Optical Character Recognition (OCR), aggregated from several common benchmarks and sources (see\
+  \ Sources below). It includes scene text, handwritten text, and synthetic images with corresponding\
+  \ text labels.\nTraining Code: https://github.com/ducto489/lib_ocr\n\n\t\n\t\t\n\t\n\t\n\t\tDataset\
+  \ Structure\n\t\n\n./data/\n├── train/\n│   ├── images/*.jpg… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/hsbharadwaj/ocr_datasets."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/hsbharadwaj/ocr_datasets
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/hsbharadwaj/ocr_datasets
+  discovered_via: huggingface
+  discovered_at: '2026-08-28'
+  source_id: hsbharadwaj/ocr_datasets
+  source_metadata:
+    repository_id: hsbharadwaj/ocr_datasets
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: hsbharadwaj
+repository_id: hsbharadwaj/ocr_datasets
+usage: []
+annotations: []
+access: unknown

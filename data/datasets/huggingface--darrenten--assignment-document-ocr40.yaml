@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:darrenten/assignment-document-ocr40
+kind: dataset
+name: darrenten/assignment-document-ocr40
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-28'
+last_verified_at: '2026-08-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Sensor Fusion Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nThis data card accompanies a lightweight Document OCR loader for Sensor Fusion\
+  \ metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nprepare.py — loading, cleaning, and split preparation\
+  \ code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small, human-readable\
+  \ records for checking the schema.\nREADME.md —… See the full description on the dataset page: https://huggingface.co/datasets/darrenten/assignment-document-ocr40."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/darrenten/assignment-document-ocr40
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/darrenten/assignment-document-ocr40
+  discovered_via: huggingface
+  discovered_at: '2026-08-28'
+  source_id: darrenten/assignment-document-ocr40
+  source_metadata:
+    repository_id: darrenten/assignment-document-ocr40
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: darrenten
+repository_id: darrenten/assignment-document-ocr40
+usage: []
+annotations: []
+access: unknown

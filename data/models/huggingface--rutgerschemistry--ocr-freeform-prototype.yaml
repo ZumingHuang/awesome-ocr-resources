@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:rutgerschemistry/ocr-freeform-prototype
+kind: model
+name: rutgerschemistry/ocr-freeform-prototype
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-28'
+last_verified_at: '2026-08-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/rutgerschemistry/ocr-freeform-prototype
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/rutgerschemistry/ocr-freeform-prototype
+  discovered_via: huggingface
+  discovered_at: '2026-08-28'
+  source_id: rutgerschemistry/ocr-freeform-prototype
+  source_metadata:
+    repository_id: rutgerschemistry/ocr-freeform-prototype
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: rutgerschemistry
+repository_id: rutgerschemistry/ocr-freeform-prototype
+deployment: []

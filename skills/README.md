@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [databricks/databricks-agent-skills / skills/databricks-ai-functions/SKILL.md](https://github.com/databricks/databricks-agent-skills/blob/ca92a6cf4e0071c8d31dcaedfc1647e1e4f39a78/skills/databricks-ai-functions/SKILL.md) | 2026-08-28 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [jeremylongshore/tons-of-skills-marketplace / plugins/saas-packs/lucidchart-pack/skills/lucidchart-prod-checklist/SKILL.md](https://github.com/jeremylongshore/tons-of-skills-marketplace/blob/680a8ac5a1d8b0c3ac91fb4a467f59e27b0af825/plugins/saas-packs/lucidchart-pack/skills/lucidchart-prod-checklist/SKILL.md) | 2026-08-27 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [infly-ai/INF-MLLM / skills/infinity-parser2/SKILL.md](https://github.com/infly-ai/INF-MLLM/blob/b02df6491700b210d9f1d058151557f924de2f0a/skills/infinity-parser2/SKILL.md) | 2026-08-27 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [yejinlei/pdf-ocr-skill / SKILL.md](https://github.com/yejinlei/pdf-ocr-skill/blob/c44d4e7b758a275fdd578b4132ae9e53cc68164e/SKILL.md) | 2026-08-26 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

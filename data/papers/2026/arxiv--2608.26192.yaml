@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:arxiv:2608.26192
+kind: paper
+name: Comparing Chunking and Embedding Strategies for Turkish RAG Systems
+released_at:
+  value: '2026-08-24'
+  precision: day
+added_at: '2026-08-28'
+last_verified_at: '2026-08-28'
+summary: 'How documents are segmented into retrievable chunks and how those chunks are embedded strongly
+  affect Retrieval-Augmented Generation (RAG) quality, yet neither has been systematically studied for
+  morphologically rich languages such as Turkish. We compare Turkish document question answering across
+  three chunking strategies (fixed-length, semantic, and layout-aware Docling), five embedding models,
+  and two generator LLMs, over three documents with contrasting layouts. The fully crossed design yields
+  9,000 graded question-answer evaluations, each scored by an independent judge model, and component comparisons
+  are tested by paired McNemar tests under Holm correction. Four findings follow. The chunking strategy
+  determines how much the embedding choice matters: layout-aware chunking compresses the spread between
+  the modern embedding models to about a point. The three leading embedding models are statistically indistinguishable,
+  so language specialization yields no measurable retrieval advantage. The faster generator is not the
+  more accurate one. And the preferred configuration depends on content type, since layout-aware chunking
+  helps documents containing tables far more than prose. The best individual components therefore do not
+  compose into the best complete configuration, which reaches 87.0%.'
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.26192
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.26192
+  discovered_via: arxiv
+  discovered_at: '2026-08-28'
+  source_id: '2608.26192'
+  source_metadata:
+    arxiv_id: '2608.26192'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Mustafa Sertaç Türkel
+- Fatma Nur Korkmaz
+- Ahmet Tuğrul Bayrak
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.26192'

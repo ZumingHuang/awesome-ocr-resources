@@ -4,7 +4,215 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SeeWye/NFA_OCR_reinforcement_learning_format_TEST4](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST4) | 2026-08-28 | text-recognition | candidate | — |
+| [kkumarmanoj/document-ocr-pointcloud-text-clean](https://huggingface.co/datasets/kkumarmanoj/document-ocr-pointcloud-text-clean) | 2026-08-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Pointcloud Text metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/kkumarmanoj/document-ocr-pointcloud-text-clean. |
+| [hsbharadwaj/ocr_datasets](https://huggingface.co/datasets/hsbharadwaj/ocr_datasets) | 2026-08-28 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Combined OCR Dataset for Text Recognition
+	
+
+
+	
+		
+	
+	
+		Dataset Description
+	
+
+This is a large-scale dataset (~11M training, ~0.9M validation images) for Optical Character Recognition (OCR), aggregated from several common benchmarks and sources (see Sources below). It includes scene text, handwritten text, and synthetic images with corresponding text labels.
+Training Code: https://github.com/ducto489/lib_ocr
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+./data/
+├── train/
+│   ├── images/*.jpg… See the full description on the dataset page: https://huggingface.co/datasets/hsbharadwaj/ocr_datasets. |
+| [darrenten/assignment-document-ocr40](https://huggingface.co/datasets/darrenten/assignment-document-ocr40) | 2026-08-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Sensor Fusion metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/darrenten/assignment-document-ocr40. |
+| [alphabot2/28_Aug_OCR_Bimanual_Niranjan](https://huggingface.co/datasets/alphabot2/28_Aug_OCR_Bimanual_Niranjan) | 2026-08-28 | text-recognition | candidate | This dataset was created using LeRobot.
+
+
+
+
+
+
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    "codebase_version": "v3.0",
+    "robot_type": "aibot2",
+    "total_episodes": 35,
+    "total_frames": 16309,
+    "total_tasks": 1,
+    "chunks_size": 1000,
+    "data_files_size_in_mb": 100,
+    "video_files_size_in_mb": 200,
+    "fps": 10,
+    "splits": {
+        "train": "0:35"
+    },
+    "data_path": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "video_path":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/28_Aug_OCR_Bimanual_Niranjan. |
+| [Takumiabe0213/document-ocr-pointcloud-text](https://huggingface.co/datasets/Takumiabe0213/document-ocr-pointcloud-text) | 2026-08-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Pointcloud Text records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/Takumiabe0213/document-ocr-pointcloud-text. |
+| [phamrita/study-document-ocr](https://huggingface.co/datasets/phamrita/study-document-ocr) | 2026-08-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Text Tabular Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Text Tabular data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/phamrita/study-document-ocr. |
 | [OCR-Data/ocr_dataset](https://huggingface.co/datasets/OCR-Data/ocr_dataset) | 2026-08-27 | text-recognition | candidate | — |
+| [EDWINSANTOSO/document-ocr-pointcloud-text-benchmark](https://huggingface.co/datasets/EDWINSANTOSO/document-ocr-pointcloud-text-benchmark) | 2026-08-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Pointcloud Text records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the… See the full description on the dataset page: https://huggingface.co/datasets/EDWINSANTOSO/document-ocr-pointcloud-text-benchmark. |
 | [christopherxzyx/ocr_financials_statements_2020_2025](https://huggingface.co/datasets/christopherxzyx/ocr_financials_statements_2020_2025) | 2026-08-27 | text-recognition | candidate | 
 	
 		
