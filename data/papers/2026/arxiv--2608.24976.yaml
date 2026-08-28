@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2608.24976
+kind: paper
+name: A Comparative Evaluation of Digitization Pipelines for Historiographical Sources
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-27'
+last_verified_at: '2026-08-27'
+summary: 'Purpose: The digitization of historical documents presents fundamental challenges for modern
+  information retrieval and Artificial Intelligence (AI) systems. Optical character recognition (OCR)
+  errors in source corpora propagate through retrieval-augmented generation (RAG) pipelines, compromising
+  the factual accuracy of generated outputs. Methods: This study presents a systematic evaluation of PDF-to-text
+  extraction pipelines applied to historiographical secondary sources on the Visigothic period. We assess
+  thirteen distinct approaches spanning three methodological families: direct extraction, Large Language
+  Model (LLM) post-correction, and chunk-and-extract. Documents are stratified into five categories based
+  on production method and visual complexity. Performance is measured using character error rate (CER)
+  and word error rate (WER) against manually corrected ground truth. Results: Results demonstrate that
+  direct extraction with Marker achieves superior performance (98.70% CER accuracy; 97.71% WER accuracy
+  overall), while conventional OCR pipelines exhibit substantial degradation on scanned documents and
+  complex layouts. Embedded-text extraction performs well on digital PDFs but fails on scanned documents.
+  LLM post-correction does not provide systematic improvements and frequently degrades accurate extractions.
+  Conclusion: End-to-end document parsing is the most reliable approach for heterogeneous historical collections.
+  Document characteristics such as scan quality, layout complexity, and the presence of embedded text
+  layers have a significant impact on extraction accuracy. LLM-based post-correction should not be assumed
+  beneficial by default and requires validation before large-scale application.'
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.24976
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.24976
+  discovered_via: arxiv
+  discovered_at: '2026-08-27'
+  source_id: '2608.24976'
+  source_metadata:
+    arxiv_id: '2608.24976'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Marina Gómez Rey
+- Patricia Callejo
+- Mario Muñoz-Organero
+- Carlos Alario-Hoyos
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.24976'

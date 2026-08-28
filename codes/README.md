@@ -4,9 +4,13 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Autobricks-AI/Arlo-AI-Desktop](https://github.com/Autobricks-AI/Arlo-AI-Desktop) | 2026-08-27 | other | candidate | Self-hosted AI customer service. Your documents, your database, your data - answered with citations across every channel. |
+| [zidniryi/open-source-ai-models](https://github.com/zidniryi/open-source-ai-models) | 2026-08-26 | text-recognition | candidate | A curated directory of open-source & open-weight AI models — compare params, VRAM, context length, and license before picking a model for coding, OCR, vision, image generation, speech, reasoning, and RAG. |
+| [lxw112190/lw.PPOCR.C](https://github.com/lxw112190/lw.PPOCR.C) | 2026-08-26 | text-recognition | candidate | 轻量级纯 C PP-OCRv6 Tiny 推理运行时，支持 DET/CLS/REC、完整 OCR、SSE2/AVX2，并提供 C# WinForms 与跨平台 HTTP/Web Demo。Lightweight pure-C PP-OCRv6 Tiny runtime with full OCR, SIMD, C# WinForms and cross-platform HTTP/Web demos. |
 | [juliosanzovo/identia](https://github.com/juliosanzovo/identia) | 2026-08-24 | other | candidate | Console interno de KYC com IA: consulta cadastral, análise de documentos e parecer de risco — decisão final do analista com trilha de auditoria. |
 | [Norixor/NorixorTrans](https://github.com/Norixor/NorixorTrans) | 2026-08-23 | text-recognition | candidate | Privacy-conscious Chrome translation extension for webpages, video subtitles, and local OCR. |
 | [l3a0/claude-plugins](https://github.com/l3a0/claude-plugins) | 2026-08-23 | text-recognition | candidate | l3a0's Claude Code plugin marketplace — kindle-highlights: verbatim Kindle highlight extraction with truncation recovery |
+| [kangarooking/Ta](https://github.com/kangarooking/Ta) | 2026-08-23 | text-recognition | candidate | 拓（Ta）— AI 原生截图工具：截图、OCR、AI 识图、翻译、长截图、钉图与标注；AI 美化持续开发中。现支持 macOS，Windows 制作中。（AI-native screenshot tool; Windows in progress.） |
 | [epynic/MeterEye](https://github.com/epynic/MeterEye) | 2026-08-23 | text-recognition | candidate | A camera reads my electricity meter's LCD so I don't have to. ESP32-CAM + custom 7-segment decoder, no ML, no cloud |
 | [Lexombien/lemyloi-dichvideos](https://github.com/Lexombien/lemyloi-dichvideos) | 2026-08-22 | text-recognition | candidate | Trình chỉnh sửa video local-first với ASR, OCR phụ đề gốc, dịch và thuyết minh. |
 | [jkf87/gjc-agy-skill](https://github.com/jkf87/gjc-agy-skill) | 2026-08-22 | text-recognition | candidate | GJC(가재코드) 스킬 — Antigravity CLI(agy) 연동: 비전/OCR, 이미지 생성, print 모드 레시피. 실측 기반 함정 문서 포함 |

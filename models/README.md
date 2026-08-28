@@ -4,7 +4,24 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Simizuren/ocr-freeform-medium](https://huggingface.co/Simizuren/ocr-freeform-medium) | 2026-08-27 | text-recognition | candidate | — |
+| [Sakuramor6/ocr-freeform-2024](https://huggingface.co/Sakuramor6/ocr-freeform-2024) | 2026-08-27 | text-recognition | candidate | — |
+| [niwalker/ocr-freeform-study](https://huggingface.co/niwalker/ocr-freeform-study) | 2026-08-27 | text-recognition | candidate | — |
+| [Luca-hcosta/review-ocr-freeform](https://huggingface.co/Luca-hcosta/review-ocr-freeform) | 2026-08-27 | text-recognition | candidate | — |
+| [kby-ai/id-document-recognition-ocr](https://huggingface.co/kby-ai/id-document-recognition-ocr) | 2026-08-27 | text-recognition | candidate | — |
+| [Itsnazarpolishchuk/personal-ocr-freeform](https://huggingface.co/Itsnazarpolishchuk/personal-ocr-freeform) | 2026-08-27 | text-recognition | candidate | — |
+| [chenmohan/web-sdk-pp-ocrv6](https://huggingface.co/chenmohan/web-sdk-pp-ocrv6) | 2026-08-27 | text-recognition | candidate | — |
+| [williamsfap/dissertation-ocr-freeform-2024](https://huggingface.co/williamsfap/dissertation-ocr-freeform-2024) | 2026-08-26 | text-recognition | candidate | — |
+| [sophiesmith/ocr-freeform](https://huggingface.co/sophiesmith/ocr-freeform) | 2026-08-26 | text-recognition | candidate | — |
+| [ropatel0206/ocr-freeform-analysis](https://huggingface.co/ropatel0206/ocr-freeform-analysis) | 2026-08-26 | text-recognition | candidate | — |
+| [nalrava/web-ocr-models](https://huggingface.co/nalrava/web-ocr-models) | 2026-08-26 | text-recognition | candidate | — |
+| [mlboydaisuke/manga-ocr-ExecuTorch](https://huggingface.co/mlboydaisuke/manga-ocr-ExecuTorch) | 2026-08-26 | text-recognition | candidate | — |
+| [matthewrivera/ocr-freeform84](https://huggingface.co/matthewrivera/ocr-freeform84) | 2026-08-26 | text-recognition | candidate | — |
+| [LucasSls/ocr-freeform-reading](https://huggingface.co/LucasSls/ocr-freeform-reading) | 2026-08-26 | text-recognition | candidate | — |
+| [JJwachi23/test_ocr](https://huggingface.co/JJwachi23/test_ocr) | 2026-08-26 | text-recognition | candidate | — |
+| [jacksmitheli/ocr-freeform-analysis](https://huggingface.co/jacksmitheli/ocr-freeform-analysis) | 2026-08-26 | text-recognition | candidate | — |
 | [ecnurobotics/llama-ocr-sandbox](https://huggingface.co/ecnurobotics/llama-ocr-sandbox) | 2026-08-26 | text-recognition | candidate | — |
+| [ANDREEV03/ocr-freeform-notes](https://huggingface.co/ANDREEV03/ocr-freeform-notes) | 2026-08-26 | text-recognition | candidate | — |
 | [snowfluke/ppu-paddle-ocr-models](https://huggingface.co/snowfluke/ppu-paddle-ocr-models) | 2026-08-25 | text-recognition | candidate | — |
 | [shrutivsv/resnet-ocr-practice](https://huggingface.co/shrutivsv/resnet-ocr-practice) | 2026-08-25 | text-recognition | candidate | — |
 | [saragon21/ocr-experiments](https://huggingface.co/saragon21/ocr-experiments) | 2026-08-25 | text-recognition | candidate | — |
