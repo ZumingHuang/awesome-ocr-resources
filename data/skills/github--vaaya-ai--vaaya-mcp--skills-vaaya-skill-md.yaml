@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:vaaya-ai/vaaya-mcp:skills-vaaya-skill-md
+kind: skill
+name: vaaya-ai/vaaya-mcp / skills/vaaya/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/vaaya-ai/vaaya-mcp/blob/6f241becca5029a520db199e069677374126f68e/skills/vaaya/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/vaaya-ai/vaaya-mcp/blob/6f241becca5029a520db199e069677374126f68e/skills/vaaya/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: vaaya-ai/vaaya-mcp:skills/vaaya/SKILL.md
+  source_metadata:
+    repository: vaaya-ai/vaaya-mcp
+    manifest_path: skills/vaaya/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: vaaya-ai/vaaya-mcp
+manifest_path: skills/vaaya/SKILL.md
+capabilities: {}

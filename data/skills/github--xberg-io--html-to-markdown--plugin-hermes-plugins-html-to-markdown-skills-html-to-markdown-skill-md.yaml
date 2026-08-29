@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:xberg-io/html-to-markdown:plugin-hermes-plugins-html-to-markdown-skills-html-to-markdown-skill-md
+kind: skill
+name: xberg-io/html-to-markdown / plugin/.hermes/plugins/html-to-markdown/skills/html-to-markdown/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/xberg-io/html-to-markdown/blob/cde97431b40734f94aa6d8de78871225c0eb0eef/plugin/.hermes/plugins/html-to-markdown/skills/html-to-markdown/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/xberg-io/html-to-markdown/blob/cde97431b40734f94aa6d8de78871225c0eb0eef/plugin/.hermes/plugins/html-to-markdown/skills/html-to-markdown/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: xberg-io/html-to-markdown:plugin/.hermes/plugins/html-to-markdown/skills/html-to-markdown/SKILL.md
+  source_metadata:
+    repository: xberg-io/html-to-markdown
+    manifest_path: plugin/.hermes/plugins/html-to-markdown/skills/html-to-markdown/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: xberg-io/html-to-markdown
+manifest_path: plugin/.hermes/plugins/html-to-markdown/skills/html-to-markdown/SKILL.md
+capabilities: {}

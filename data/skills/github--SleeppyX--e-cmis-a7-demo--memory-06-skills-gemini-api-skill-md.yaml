@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:SleeppyX/e-cmis-a7-demo:memory-06-skills-gemini-api-skill-md
+kind: skill
+name: SleeppyX/e-cmis-a7-demo / memory/06-skills/gemini_api/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/SleeppyX/e-cmis-a7-demo/blob/dc35de95528a229816e477f4282a30df212afe3d/memory/06-skills/gemini_api/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/SleeppyX/e-cmis-a7-demo/blob/dc35de95528a229816e477f4282a30df212afe3d/memory/06-skills/gemini_api/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: SleeppyX/e-cmis-a7-demo:memory/06-skills/gemini_api/SKILL.md
+  source_metadata:
+    repository: SleeppyX/e-cmis-a7-demo
+    manifest_path: memory/06-skills/gemini_api/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: SleeppyX/e-cmis-a7-demo
+manifest_path: memory/06-skills/gemini_api/SKILL.md
+capabilities: {}

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:tdimino/claude-code-minoan:skills-research-firecrawl-skill-md
+kind: skill
+name: tdimino/claude-code-minoan / skills/research/firecrawl/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/tdimino/claude-code-minoan/blob/c909695b1533c10949bedd4866f6639cd844fb41/skills/research/firecrawl/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/tdimino/claude-code-minoan/blob/c909695b1533c10949bedd4866f6639cd844fb41/skills/research/firecrawl/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: tdimino/claude-code-minoan:skills/research/firecrawl/SKILL.md
+  source_metadata:
+    repository: tdimino/claude-code-minoan
+    manifest_path: skills/research/firecrawl/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: tdimino/claude-code-minoan
+manifest_path: skills/research/firecrawl/SKILL.md
+capabilities: {}

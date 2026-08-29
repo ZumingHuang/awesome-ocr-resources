@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:diegosouzapw/OmniRoute:skills-omni-inference-skill-md
+kind: skill
+name: diegosouzapw/OmniRoute / skills/omni-inference/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/diegosouzapw/OmniRoute/blob/c705147de20ed72742248504c97f35d86c2d28b6/skills/omni-inference/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/diegosouzapw/OmniRoute/blob/c705147de20ed72742248504c97f35d86c2d28b6/skills/omni-inference/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: diegosouzapw/OmniRoute:skills/omni-inference/SKILL.md
+  source_metadata:
+    repository: diegosouzapw/OmniRoute
+    manifest_path: skills/omni-inference/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: diegosouzapw/OmniRoute
+manifest_path: skills/omni-inference/SKILL.md
+capabilities: {}

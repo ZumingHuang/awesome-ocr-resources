@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:o2925960-cpu/picktranslate
+kind: code
+name: o2925960-cpu/picktranslate
+released_at:
+  value: '2026-08-25'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: 拾译（PickTranslate）：macOS 原生截图翻译工具，框选屏幕文字即可 OCR 并在线翻译
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/o2925960-cpu/picktranslate
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/o2925960-cpu/picktranslate
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: R_kgDOUDctXw
+  source_metadata:
+    repository: o2925960-cpu/picktranslate
+    stars: 16
+    language: Swift
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: o2925960-cpu/picktranslate
+landmark: false
+programming_languages:
+- Swift
+maintenance_status: active

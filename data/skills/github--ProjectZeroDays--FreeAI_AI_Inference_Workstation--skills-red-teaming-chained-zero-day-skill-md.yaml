@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:ProjectZeroDays/FreeAI_AI_Inference_Workstation:skills-red-teaming-chained-zero-day-skill-md
+kind: skill
+name: ProjectZeroDays/FreeAI_AI_Inference_Workstation / skills/red_teaming/chained_zero_day/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ProjectZeroDays/FreeAI_AI_Inference_Workstation/blob/f47811fde36f9e7829d26ab7a0f82353112451bd/skills/red_teaming/chained_zero_day/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ProjectZeroDays/FreeAI_AI_Inference_Workstation/blob/f47811fde36f9e7829d26ab7a0f82353112451bd/skills/red_teaming/chained_zero_day/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: ProjectZeroDays/FreeAI_AI_Inference_Workstation:skills/red_teaming/chained_zero_day/SKILL.md
+  source_metadata:
+    repository: ProjectZeroDays/FreeAI_AI_Inference_Workstation
+    manifest_path: skills/red_teaming/chained_zero_day/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: ProjectZeroDays/FreeAI_AI_Inference_Workstation
+manifest_path: skills/red_teaming/chained_zero_day/SKILL.md
+capabilities: {}

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:affaan-m/ECC:skills-nutrient-document-processing-skill-md
+kind: skill
+name: affaan-m/ECC / skills/nutrient-document-processing/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/affaan-m/ECC/blob/656d4b5746413e4e78f9c62cb34d686515931f4f/skills/nutrient-document-processing/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/affaan-m/ECC/blob/656d4b5746413e4e78f9c62cb34d686515931f4f/skills/nutrient-document-processing/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: affaan-m/ECC:skills/nutrient-document-processing/SKILL.md
+  source_metadata:
+    repository: affaan-m/ECC
+    manifest_path: skills/nutrient-document-processing/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: affaan-m/ECC
+manifest_path: skills/nutrient-document-processing/SKILL.md
+capabilities: {}

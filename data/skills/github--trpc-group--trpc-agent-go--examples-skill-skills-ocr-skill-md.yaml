@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:trpc-group/trpc-agent-go:examples-skill-skills-ocr-skill-md
+kind: skill
+name: trpc-group/trpc-agent-go / examples/skill/skills/ocr/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/trpc-group/trpc-agent-go/blob/91bde85eb243333b2b33fe89061f2218ede00c99/examples/skill/skills/ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/trpc-group/trpc-agent-go/blob/91bde85eb243333b2b33fe89061f2218ede00c99/examples/skill/skills/ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: trpc-group/trpc-agent-go:examples/skill/skills/ocr/SKILL.md
+  source_metadata:
+    repository: trpc-group/trpc-agent-go
+    manifest_path: examples/skill/skills/ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: trpc-group/trpc-agent-go
+manifest_path: examples/skill/skills/ocr/SKILL.md
+capabilities: {}

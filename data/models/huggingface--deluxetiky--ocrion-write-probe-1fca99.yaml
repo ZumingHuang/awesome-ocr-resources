@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:deluxetiky/ocrion-write-probe-1fca99
+kind: model
+name: deluxetiky/ocrion-write-probe-1fca99
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/deluxetiky/ocrion-write-probe-1fca99
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/deluxetiky/ocrion-write-probe-1fca99
+  discovered_via: huggingface
+  discovered_at: '2026-08-29'
+  source_id: deluxetiky/ocrion-write-probe-1fca99
+  source_metadata:
+    repository_id: deluxetiky/ocrion-write-probe-1fca99
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: deluxetiky
+repository_id: deluxetiky/ocrion-write-probe-1fca99
+deployment: []

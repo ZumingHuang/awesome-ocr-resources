@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:stpe-rez86/review-ocr-freeform
+kind: model
+name: stpe-rez86/review-ocr-freeform
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/stpe-rez86/review-ocr-freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/stpe-rez86/review-ocr-freeform
+  discovered_via: huggingface
+  discovered_at: '2026-08-29'
+  source_id: stpe-rez86/review-ocr-freeform
+  source_metadata:
+    repository_id: stpe-rez86/review-ocr-freeform
+    downloads: 9
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: stpe-rez86
+repository_id: stpe-rez86/review-ocr-freeform
+deployment: []

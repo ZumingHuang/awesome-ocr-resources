@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:adityaguptaloc/reading-ocr-freeform38
+kind: model
+name: adityaguptaloc/reading-ocr-freeform38
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/adityaguptaloc/reading-ocr-freeform38
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/adityaguptaloc/reading-ocr-freeform38
+  discovered_via: huggingface
+  discovered_at: '2026-08-29'
+  source_id: adityaguptaloc/reading-ocr-freeform38
+  source_metadata:
+    repository_id: adityaguptaloc/reading-ocr-freeform38
+    downloads: 11
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: adityaguptaloc
+repository_id: adityaguptaloc/reading-ocr-freeform38
+deployment: []
