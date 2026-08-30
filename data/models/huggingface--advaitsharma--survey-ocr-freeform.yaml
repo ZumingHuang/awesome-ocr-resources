@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:advaitsharma/survey-ocr-freeform
+kind: model
+name: advaitsharma/survey-ocr-freeform
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/advaitsharma/survey-ocr-freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/advaitsharma/survey-ocr-freeform
+  discovered_via: huggingface
+  discovered_at: '2026-08-30'
+  source_id: advaitsharma/survey-ocr-freeform
+  source_metadata:
+    repository_id: advaitsharma/survey-ocr-freeform
+    downloads: 12
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: advaitsharma
+repository_id: advaitsharma/survey-ocr-freeform
+deployment: []

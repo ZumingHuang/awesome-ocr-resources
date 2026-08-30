@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:privatenumber/mac-ocr:skills-mac-ocr-skill-md
+kind: skill
+name: privatenumber/mac-ocr / skills/mac-ocr/SKILL.md
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/privatenumber/mac-ocr/blob/d9f25baecc7258a3479f3a067e001838ca4e9c71/skills/mac-ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/privatenumber/mac-ocr/blob/d9f25baecc7258a3479f3a067e001838ca4e9c71/skills/mac-ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-30'
+  source_id: privatenumber/mac-ocr:skills/mac-ocr/SKILL.md
+  source_metadata:
+    repository: privatenumber/mac-ocr
+    manifest_path: skills/mac-ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: privatenumber/mac-ocr
+manifest_path: skills/mac-ocr/SKILL.md
+capabilities: {}

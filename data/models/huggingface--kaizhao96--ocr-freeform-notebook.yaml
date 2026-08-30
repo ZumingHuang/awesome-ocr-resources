@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:kaizhao96/ocr-freeform-notebook
+kind: model
+name: kaizhao96/ocr-freeform-notebook
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/kaizhao96/ocr-freeform-notebook
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/kaizhao96/ocr-freeform-notebook
+  discovered_via: huggingface
+  discovered_at: '2026-08-30'
+  source_id: kaizhao96/ocr-freeform-notebook
+  source_metadata:
+    repository_id: kaizhao96/ocr-freeform-notebook
+    downloads: 4
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: kaizhao96
+repository_id: kaizhao96/ocr-freeform-notebook
+deployment: []

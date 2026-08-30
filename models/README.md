@@ -4,13 +4,61 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Legad/hunyuan-ocr-scangas](https://huggingface.co/Legad/hunyuan-ocr-scangas) | 2026-08-30 | text-recognition | candidate | — |
+| [Formian/ocra-v2.1](https://huggingface.co/Formian/ocra-v2.1) | 2026-08-30 | text-recognition | candidate | — |
+| [sarmisarmitha/trocr-sinhala-handwritten-ocr](https://huggingface.co/sarmisarmitha/trocr-sinhala-handwritten-ocr) | 2026-08-29 | handwriting-recognition, text-recognition | candidate | — |
+| [nakanishi08/Qwen3.5-ocr-jp-2b-GGUF](https://huggingface.co/nakanishi08/Qwen3.5-ocr-jp-2b-GGUF) | 2026-08-29 | text-recognition | candidate | — |
+| [dkovalen/markone-ocr-weights](https://huggingface.co/dkovalen/markone-ocr-weights) | 2026-08-29 | handwriting-recognition, text-recognition | candidate | — |
+| [cadgecharm/PP-OCRv6-tiny-mnn](https://huggingface.co/cadgecharm/PP-OCRv6-tiny-mnn) | 2026-08-29 | text-recognition | candidate | — |
+| [cadgecharm/PP-OCRv6-mnn](https://huggingface.co/cadgecharm/PP-OCRv6-mnn) | 2026-08-29 | text-recognition | candidate | — |
+| [adityarajsahu/LaTeX-OCR](https://huggingface.co/adityarajsahu/LaTeX-OCR) | 2026-08-29 | text-recognition | candidate | — |
+| [tianliu1011x/ocr-freeform-review](https://huggingface.co/tianliu1011x/ocr-freeform-review) | 2026-08-28 | text-recognition | candidate | — |
+| [thaovytran/study-ocr-freeform](https://huggingface.co/thaovytran/study-ocr-freeform) | 2026-08-28 | text-recognition | candidate | — |
+| [surendran0m07/anpr-ocr](https://huggingface.co/surendran0m07/anpr-ocr) | 2026-08-28 | text-recognition | candidate | — |
+| [stpe-rez86/review-ocr-freeform](https://huggingface.co/stpe-rez86/review-ocr-freeform) | 2026-08-28 | text-recognition | candidate | — |
+| [raoankitme/ocr-freeform-review](https://huggingface.co/raoankitme/ocr-freeform-review) | 2026-08-28 | text-recognition | candidate | — |
+| [prithivMLmods/dots.ocr-GGUF](https://huggingface.co/prithivMLmods/dots.ocr-GGUF) | 2026-08-28 | formula-recognition, text-recognition | candidate | — |
+| [phucdu/qwen3-vl-4b-ocr-vietnamese_v1](https://huggingface.co/phucdu/qwen3-vl-4b-ocr-vietnamese_v1) | 2026-08-28 | text-recognition | candidate | — |
+| [NicholasThomas/ocr-freeform-final91](https://huggingface.co/NicholasThomas/ocr-freeform-final91) | 2026-08-28 | text-recognition | candidate | — |
+| [nandraj/NaviDC-OCR-GGUF](https://huggingface.co/nandraj/NaviDC-OCR-GGUF) | 2026-08-28 | formula-recognition, text-recognition | candidate | — |
+| [matthewyrivera/ocr-freeform](https://huggingface.co/matthewyrivera/ocr-freeform) | 2026-08-28 | text-recognition | candidate | — |
+| [leoliveira/survey-ocr-freeform](https://huggingface.co/leoliveira/survey-ocr-freeform) | 2026-08-28 | text-recognition | candidate | — |
+| [khourix/glm-OCR-lab-scans](https://huggingface.co/khourix/glm-OCR-lab-scans) | 2026-08-28 | text-recognition | candidate | — |
+| [kaizhao96/ocr-freeform-notebook](https://huggingface.co/kaizhao96/ocr-freeform-notebook) | 2026-08-28 | text-recognition | candidate | — |
+| [kailasa-ngpt/gemma-4-31b-tamil-devanagari-ocr-fp8](https://huggingface.co/kailasa-ngpt/gemma-4-31b-tamil-devanagari-ocr-fp8) | 2026-08-28 | text-recognition | candidate | — |
+| [kailasa-ngpt/gemma-4-31b-tamil-devanagari-ocr-bf16](https://huggingface.co/kailasa-ngpt/gemma-4-31b-tamil-devanagari-ocr-bf16) | 2026-08-28 | text-recognition | candidate | — |
+| [joshuadavie/ocr-freeform-survey](https://huggingface.co/joshuadavie/ocr-freeform-survey) | 2026-08-28 | text-recognition | candidate | — |
+| [honokasqy/cs229-ocr-freeform](https://huggingface.co/honokasqy/cs229-ocr-freeform) | 2026-08-28 | text-recognition | candidate | — |
+| [furkancmc/kadim-ocr-lora](https://huggingface.co/furkancmc/kadim-ocr-lora) | 2026-08-28 | text-recognition | candidate | — |
+| [fumetodev/PP-OCRv6_small_rec_manga_ONNX](https://huggingface.co/fumetodev/PP-OCRv6_small_rec_manga_ONNX) | 2026-08-28 | text-recognition | candidate | — |
+| [floriankfk/ocr-freeform-2023](https://huggingface.co/floriankfk/ocr-freeform-2023) | 2026-08-28 | text-recognition | candidate | — |
+| [bintangpsl/ocr-freeform](https://huggingface.co/bintangpsl/ocr-freeform) | 2026-08-28 | text-recognition | candidate | — |
 | [Simizuren/ocr-freeform-medium](https://huggingface.co/Simizuren/ocr-freeform-medium) | 2026-08-27 | text-recognition | candidate | — |
+| [SarahHarris/ocr-freeform-v3-2023](https://huggingface.co/SarahHarris/ocr-freeform-v3-2023) | 2026-08-27 | text-recognition | candidate | — |
 | [Sakuramor6/ocr-freeform-2024](https://huggingface.co/Sakuramor6/ocr-freeform-2024) | 2026-08-27 | text-recognition | candidate | — |
+| [rutgerschemistry/ocr-freeform-prototype](https://huggingface.co/rutgerschemistry/ocr-freeform-prototype) | 2026-08-27 | text-recognition | candidate | — |
+| [Omariib-rahim82/ocr-freeform](https://huggingface.co/Omariib-rahim82/ocr-freeform) | 2026-08-27 | text-recognition | candidate | — |
 | [niwalker/ocr-freeform-study](https://huggingface.co/niwalker/ocr-freeform-study) | 2026-08-27 | text-recognition | candidate | — |
 | [Luca-hcosta/review-ocr-freeform](https://huggingface.co/Luca-hcosta/review-ocr-freeform) | 2026-08-27 | text-recognition | candidate | — |
 | [kby-ai/id-document-recognition-ocr](https://huggingface.co/kby-ai/id-document-recognition-ocr) | 2026-08-27 | text-recognition | candidate | — |
+| [JustANormalTinkerer/hayai-ocr-v2-tflite](https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2-tflite) | 2026-08-27 | text-recognition | candidate | — |
+| [jokohutap/ocr-freeform-analysis](https://huggingface.co/jokohutap/ocr-freeform-analysis) | 2026-08-27 | text-recognition | candidate | — |
 | [Itsnazarpolishchuk/personal-ocr-freeform](https://huggingface.co/Itsnazarpolishchuk/personal-ocr-freeform) | 2026-08-27 | text-recognition | candidate | — |
+| [IrieDinamik/ocr-mirror-ppocrv6](https://huggingface.co/IrieDinamik/ocr-mirror-ppocrv6) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/TH__PP-OCRv5_mobile](https://huggingface.co/immich-testing/TH__PP-OCRv5_mobile) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/PP-OCRv6_tiny](https://huggingface.co/immich-testing/PP-OCRv6_tiny) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/PP-OCRv6_small](https://huggingface.co/immich-testing/PP-OCRv6_small) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/PP-OCRv5_mobile](https://huggingface.co/immich-testing/PP-OCRv5_mobile) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/LATIN__PP-OCRv5_mobile](https://huggingface.co/immich-testing/LATIN__PP-OCRv5_mobile) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/KOREAN__PP-OCRv5_mobile](https://huggingface.co/immich-testing/KOREAN__PP-OCRv5_mobile) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/ESLAV__PP-OCRv5_mobile](https://huggingface.co/immich-testing/ESLAV__PP-OCRv5_mobile) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/EN__PP-OCRv5_mobile](https://huggingface.co/immich-testing/EN__PP-OCRv5_mobile) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/EL__PP-OCRv5_mobile](https://huggingface.co/immich-testing/EL__PP-OCRv5_mobile) | 2026-08-27 | text-recognition | candidate | — |
+| [immich-testing/CH__PP-OCRv5_mobile](https://huggingface.co/immich-testing/CH__PP-OCRv5_mobile) | 2026-08-27 | text-recognition | candidate | — |
+| [deluxetiky/ocrion-write-probe-1fca99](https://huggingface.co/deluxetiky/ocrion-write-probe-1fca99) | 2026-08-27 | text-recognition | candidate | — |
 | [chenmohan/web-sdk-pp-ocrv6](https://huggingface.co/chenmohan/web-sdk-pp-ocrv6) | 2026-08-27 | text-recognition | candidate | — |
+| [advaitsharma/survey-ocr-freeform](https://huggingface.co/advaitsharma/survey-ocr-freeform) | 2026-08-27 | text-recognition | candidate | — |
+| [adityaguptaloc/reading-ocr-freeform38](https://huggingface.co/adityaguptaloc/reading-ocr-freeform38) | 2026-08-27 | text-recognition | candidate | — |
 | [williamsfap/dissertation-ocr-freeform-2024](https://huggingface.co/williamsfap/dissertation-ocr-freeform-2024) | 2026-08-26 | text-recognition | candidate | — |
 | [sophiesmith/ocr-freeform](https://huggingface.co/sophiesmith/ocr-freeform) | 2026-08-26 | text-recognition | candidate | — |
 | [ropatel0206/ocr-freeform-analysis](https://huggingface.co/ropatel0206/ocr-freeform-analysis) | 2026-08-26 | text-recognition | candidate | — |

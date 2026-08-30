@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:davanstrien/moh-ocr-sample-20
+kind: dataset
+name: davanstrien/moh-ocr-sample-20
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/davanstrien/moh-ocr-sample-20
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/davanstrien/moh-ocr-sample-20
+  discovered_via: huggingface
+  discovered_at: '2026-08-30'
+  source_id: davanstrien/moh-ocr-sample-20
+  source_metadata:
+    repository_id: davanstrien/moh-ocr-sample-20
+    downloads: 16
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: davanstrien
+repository_id: davanstrien/moh-ocr-sample-20
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Reza2kn/persian-ocr-bench-submitted10-additional4-results
+kind: dataset
+name: Reza2kn/persian-ocr-bench-submitted10-additional4-results
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tPersian OCR benchmark\n\t\n\nThis run evaluates 4 vision OCR lanes over\
+  \ 193 bbox crops from Reza2kn/persian-ocr-bench-submitted10-bbox-crops.\nEach row in results.jsonl preserves\
+  \ the crop identity and current gold content_text, then records the model output, latency, usage, provider\
+  \ hint, HTTP status, and normalized OCR metrics. Failures are retained.\nOpenRouter constraints: Grok\
+  \ uses xai/zdr, GPT uses openai, GLM uses baseten/fp8, Gemma 4 26B uses cloudflare, and Gemma 4 31B\
+  \ uses… See the full description on the dataset page: https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-additional4-results."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-additional4-results
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-additional4-results
+  discovered_via: huggingface
+  discovered_at: '2026-08-30'
+  source_id: Reza2kn/persian-ocr-bench-submitted10-additional4-results
+  source_metadata:
+    repository_id: Reza2kn/persian-ocr-bench-submitted10-additional4-results
+    downloads: 12
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Reza2kn
+repository_id: Reza2kn/persian-ocr-bench-submitted10-additional4-results
+usage: []
+annotations: []
+access: unknown

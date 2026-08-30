@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:2608.26921
+kind: paper
+name: 'AraMS-28k: The Largest Publicly Released Line-Level Dataset of Historical Arabic Manuscripts with
+  Margin and Insertion-Anchor Annotations'
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: We introduce AraMS-28k, the largest publicly released line-level dataset of genuine historical
+  Arabic manuscripts, comprising 14 books, 3,043 pages, and 28,600 annotated text lines (27,971 main-text,
+  629 margin). Thirteen books are hand-copied manuscripts spanning three script traditions -- Naskh, Ruq'ah,
+  and Maghrebi -- and one is a lithographed printed edition included to broaden format diversity. Each
+  line is labelled as main-text or margin, and margin lines that have an unambiguous attachment point
+  in the main text are further annotated with an insertion anchor, recovering the manuscript's true non-linear
+  reading order at line-level granularity -- to our knowledge the first such annotation released for a
+  historical Arabic manuscript corpus. Because reference transcriptions are fully vocalised while manuscript
+  hands are typically undiacritised, we release both the raw diacritised transcription and a diacritic-normalised
+  counterpart for every line. The dataset was constructed with RefLAM, a reference-grounded annotation
+  pipeline that aligns multimodal-LLM OCR against independently sourced clean transcriptions and routes
+  every line through human review, combining automatic verification with expert oversight. We describe
+  the construction and quality-control process, present the annotation schema, report dataset statistics
+  at both the corpus and per-book level, and provide baseline HTR results using Kraken and HATFormer,
+  including a cross-script generalisation gradient from in-distribution pages to fully unseen books. AraMS-28k
+  is released with page images, line-level annotations, and fixed train/val/test splits under CC BY-NC-SA
+  4.0 to support reproducible research on Arabic manuscript recognition, layout analysis, and reading-order
+  recovery.
+tasks:
+- document-layout-analysis
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.26921
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.26921
+  discovered_via: arxiv
+  discovered_at: '2026-08-30'
+  source_id: '2608.26921'
+  source_metadata:
+    arxiv_id: '2608.26921'
+    doi: null
+    query: all:"layout analysis"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Mohamed Guechaoui
+- Mohamed Diaa Zellagui
+- Souleyman Chaib
+- Sahraoui Dhelim
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.26921'

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:VectorSpaceLab/AREX-Skill:skills-repositories-repo-skills-paddleocr-skill-md
+kind: skill
+name: VectorSpaceLab/AREX-Skill / skills/repositories/repo-skills/paddleocr/SKILL.md
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/VectorSpaceLab/AREX-Skill/blob/ddafab136c1b53bb08e238a8dc7e147cf1f3e4b4/skills/repositories/repo-skills/paddleocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/VectorSpaceLab/AREX-Skill/blob/ddafab136c1b53bb08e238a8dc7e147cf1f3e4b4/skills/repositories/repo-skills/paddleocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-30'
+  source_id: VectorSpaceLab/AREX-Skill:skills/repositories/repo-skills/paddleocr/SKILL.md
+  source_metadata:
+    repository: VectorSpaceLab/AREX-Skill
+    manifest_path: skills/repositories/repo-skills/paddleocr/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: VectorSpaceLab/AREX-Skill
+manifest_path: skills/repositories/repo-skills/paddleocr/SKILL.md
+capabilities: {}

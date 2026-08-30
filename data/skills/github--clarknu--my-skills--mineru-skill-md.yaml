@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:clarknu/my-skills:mineru-skill-md
+kind: skill
+name: clarknu/my-skills / mineru/SKILL.md
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/clarknu/my-skills/blob/2d7c08a64993f5ffd147630a74488aaad388bc9f/mineru/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/clarknu/my-skills/blob/2d7c08a64993f5ffd147630a74488aaad388bc9f/mineru/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-30'
+  source_id: clarknu/my-skills:mineru/SKILL.md
+  source_metadata:
+    repository: clarknu/my-skills
+    manifest_path: mineru/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: clarknu/my-skills
+manifest_path: mineru/SKILL.md
+capabilities: {}

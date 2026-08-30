@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:JustANormalTinkerer/hayai-ocr-v2-tflite
+kind: model
+name: JustANormalTinkerer/hayai-ocr-v2-tflite
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2-tflite
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2-tflite
+  discovered_via: huggingface
+  discovered_at: '2026-08-30'
+  source_id: JustANormalTinkerer/hayai-ocr-v2-tflite
+  source_metadata:
+    repository_id: JustANormalTinkerer/hayai-ocr-v2-tflite
+    downloads: 129
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: JustANormalTinkerer
+repository_id: JustANormalTinkerer/hayai-ocr-v2-tflite
+deployment: []

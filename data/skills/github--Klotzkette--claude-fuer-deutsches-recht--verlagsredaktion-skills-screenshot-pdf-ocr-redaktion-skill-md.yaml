@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:Klotzkette/claude-fuer-deutsches-recht:verlagsredaktion-skills-screenshot-pdf-ocr-redaktion-skill-md
+kind: skill
+name: Klotzkette/claude-fuer-deutsches-recht / verlagsredaktion/skills/screenshot-pdf-ocr-redaktion/SKILL.md
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/c8baf729c9469156bc5b03ee8550b0fcac254e4b/verlagsredaktion/skills/screenshot-pdf-ocr-redaktion/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/c8baf729c9469156bc5b03ee8550b0fcac254e4b/verlagsredaktion/skills/screenshot-pdf-ocr-redaktion/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-30'
+  source_id: Klotzkette/claude-fuer-deutsches-recht:verlagsredaktion/skills/screenshot-pdf-ocr-redaktion/SKILL.md
+  source_metadata:
+    repository: Klotzkette/claude-fuer-deutsches-recht
+    manifest_path: verlagsredaktion/skills/screenshot-pdf-ocr-redaktion/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: Klotzkette/claude-fuer-deutsches-recht
+manifest_path: verlagsredaktion/skills/screenshot-pdf-ocr-redaktion/SKILL.md
+capabilities: {}

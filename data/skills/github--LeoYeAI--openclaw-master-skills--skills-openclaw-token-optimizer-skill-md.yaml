@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:LeoYeAI/openclaw-master-skills:skills-openclaw-token-optimizer-skill-md
+kind: skill
+name: LeoYeAI/openclaw-master-skills / skills/openclaw-token-optimizer/SKILL.md
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/openclaw-token-optimizer/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/openclaw-token-optimizer/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-30'
+  source_id: LeoYeAI/openclaw-master-skills:skills/openclaw-token-optimizer/SKILL.md
+  source_metadata:
+    repository: LeoYeAI/openclaw-master-skills
+    manifest_path: skills/openclaw-token-optimizer/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: LeoYeAI/openclaw-master-skills
+manifest_path: skills/openclaw-token-optimizer/SKILL.md
+capabilities: {}

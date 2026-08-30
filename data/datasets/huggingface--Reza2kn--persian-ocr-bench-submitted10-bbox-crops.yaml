@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Reza2kn/persian-ocr-bench-submitted10-bbox-crops
+kind: dataset
+name: Reza2kn/persian-ocr-bench-submitted10-bbox-crops
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tPersian OCR benchmark — selected submitted bbox crops\n\t\n\nThis dataset\
+  \ contains the non-empty OCR bboxes from the ten explicitly selected\nsubmitted pages in persian_ocr_bench_bbox_review.\n\
+  Each row is one PNG crop. gold_text is the current editable OCR content from\nthe live Argilla bbox\
+  \ field (content_text). Geometry is stored both as source\npage pixels and as percentages of the source\
+  \ page. The original record ID,\nexternal ID, bbox ID, source URL, and SHA-256 hashes are included for…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-bbox-crops."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-bbox-crops
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-bbox-crops
+  discovered_via: huggingface
+  discovered_at: '2026-08-30'
+  source_id: Reza2kn/persian-ocr-bench-submitted10-bbox-crops
+  source_metadata:
+    repository_id: Reza2kn/persian-ocr-bench-submitted10-bbox-crops
+    downloads: 49
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Reza2kn
+repository_id: Reza2kn/persian-ocr-bench-submitted10-bbox-crops
+usage: []
+annotations: []
+access: unknown

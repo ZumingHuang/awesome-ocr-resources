@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:sickn33/agentic-awesome-skills:skills-examprep-ai-skill-md
+kind: skill
+name: sickn33/agentic-awesome-skills / skills/examprep-ai/SKILL.md
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/sickn33/agentic-awesome-skills/blob/b0fb807d3cf907330b36223193071dda491d8d62/skills/examprep-ai/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/sickn33/agentic-awesome-skills/blob/b0fb807d3cf907330b36223193071dda491d8d62/skills/examprep-ai/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-30'
+  source_id: sickn33/agentic-awesome-skills:skills/examprep-ai/SKILL.md
+  source_metadata:
+    repository: sickn33/agentic-awesome-skills
+    manifest_path: skills/examprep-ai/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: sickn33/agentic-awesome-skills
+manifest_path: skills/examprep-ai/SKILL.md
+capabilities: {}

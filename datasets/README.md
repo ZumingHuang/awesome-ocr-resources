@@ -4,7 +4,325 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Formian/ocra-v2.1](https://huggingface.co/datasets/Formian/ocra-v2.1) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		O-CRA Model Disposition Scores (V2.1)
+	
+
+Organizational Cognitive Resonance & Alignment (O-CRA) is a framework for measuring the disposition of AI language models — not their benchmark performance, but their underlying behavioural tendencies across six dimensions that determine how they fit into organisations and workflows.
+This dataset contains disposition scores for 135 models from 29 labs, tested under the V2.1 protocol across 203+ scenarios. It is the current public reference… See the full description on the dataset page: https://huggingface.co/datasets/Formian/ocra-v2.1. |
+| [Formian-Labs/ocra-v2.1](https://huggingface.co/datasets/Formian-Labs/ocra-v2.1) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Which AI Model Fits Your Organisation?
+	
+
+Disposition scores for 135 AI language models from 29 labs — O-CRA V2.1
+Organizational Cognitive Resonance & Alignment (O-CRA) is a framework for measuring the disposition of AI language models — not their benchmark performance, but their underlying behavioural tendencies across six dimensions that determine how they fit into organisations and workflows.
+This dataset contains disposition scores for 135 models from 29 labs, tested under the… See the full description on the dataset page: https://huggingface.co/datasets/Formian-Labs/ocra-v2.1. |
+| [abzoo/egyptian-id-ocr](https://huggingface.co/datasets/abzoo/egyptian-id-ocr) | 2026-08-30 | text-recognition | candidate | — |
+| [SeeWye/NFA_OCR_reinforcement_learning_format_TEST6](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST6) | 2026-08-29 | text-recognition | candidate | — |
+| [SeeWye/NFA_OCR_reinforcement_learning_format_TEST5](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST5) | 2026-08-29 | text-recognition | candidate | — |
+| [SeeWye/NFA_OCR_reinforcement_learning_format_TEST4](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST4) | 2026-08-28 | text-recognition | candidate | — |
+| [Reza2kn/persian-ocr-bench-submitted10-bbox-crops](https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-bbox-crops) | 2026-08-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Persian OCR benchmark — selected submitted bbox crops
+	
+
+This dataset contains the non-empty OCR bboxes from the ten explicitly selected
+submitted pages in persian_ocr_bench_bbox_review.
+Each row is one PNG crop. gold_text is the current editable OCR content from
+the live Argilla bbox field (content_text). Geometry is stored both as source
+page pixels and as percentages of the source page. The original record ID,
+external ID, bbox ID, source URL, and SHA-256 hashes are included for… See the full description on the dataset page: https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-bbox-crops. |
+| [Reza2kn/persian-ocr-bench-submitted10-additional4-results](https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-additional4-results) | 2026-08-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Persian OCR benchmark
+	
+
+This run evaluates 4 vision OCR lanes over 193 bbox crops from Reza2kn/persian-ocr-bench-submitted10-bbox-crops.
+Each row in results.jsonl preserves the crop identity and current gold content_text, then records the model output, latency, usage, provider hint, HTTP status, and normalized OCR metrics. Failures are retained.
+OpenRouter constraints: Grok uses xai/zdr, GPT uses openai, GLM uses baseten/fp8, Gemma 4 26B uses cloudflare, and Gemma 4 31B uses… See the full description on the dataset page: https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-additional4-results. |
+| [pan-dece/document-ocr-image-text-v2-2024](https://huggingface.co/datasets/pan-dece/document-ocr-image-text-v2-2024) | 2026-08-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Image Text data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+load_data.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/pan-dece/document-ocr-image-text-v2-2024. |
+| [kkumarmanoj/document-ocr-pointcloud-text-clean](https://huggingface.co/datasets/kkumarmanoj/document-ocr-pointcloud-text-clean) | 2026-08-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Pointcloud Text metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/kkumarmanoj/document-ocr-pointcloud-text-clean. |
+| [Jes-cott/document-ocr-data](https://huggingface.co/datasets/Jes-cott/document-ocr-data) | 2026-08-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Image Audio data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/Jes-cott/document-ocr-data. |
+| [hsbharadwaj/ocr_datasets](https://huggingface.co/datasets/hsbharadwaj/ocr_datasets) | 2026-08-28 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Combined OCR Dataset for Text Recognition
+	
+
+
+	
+		
+	
+	
+		Dataset Description
+	
+
+This is a large-scale dataset (~11M training, ~0.9M validation images) for Optical Character Recognition (OCR), aggregated from several common benchmarks and sources (see Sources below). It includes scene text, handwritten text, and synthetic images with corresponding text labels.
+Training Code: https://github.com/ducto489/lib_ocr
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+./data/
+├── train/
+│   ├── images/*.jpg… See the full description on the dataset page: https://huggingface.co/datasets/hsbharadwaj/ocr_datasets. |
+| [davanstrien/moh-ocr-sample-20](https://huggingface.co/datasets/davanstrien/moh-ocr-sample-20) | 2026-08-28 | text-recognition | candidate | — |
+| [darrenten/assignment-document-ocr40](https://huggingface.co/datasets/darrenten/assignment-document-ocr40) | 2026-08-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Sensor Fusion metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/darrenten/assignment-document-ocr40. |
+| [alphabot2/28_Aug_OCR_Bimanual_Niranjan](https://huggingface.co/datasets/alphabot2/28_Aug_OCR_Bimanual_Niranjan) | 2026-08-28 | text-recognition | candidate | This dataset was created using LeRobot.
+
+
+
+
+
+
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    "codebase_version": "v3.0",
+    "robot_type": "aibot2",
+    "total_episodes": 35,
+    "total_frames": 16309,
+    "total_tasks": 1,
+    "chunks_size": 1000,
+    "data_files_size_in_mb": 100,
+    "video_files_size_in_mb": 200,
+    "fps": 10,
+    "splits": {
+        "train": "0:35"
+    },
+    "data_path": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "video_path":… See the full description on the dataset page: https://huggingface.co/datasets/alphabot2/28_Aug_OCR_Bimanual_Niranjan. |
+| [Takumiabe0213/document-ocr-pointcloud-text](https://huggingface.co/datasets/Takumiabe0213/document-ocr-pointcloud-text) | 2026-08-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Pointcloud Text records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/Takumiabe0213/document-ocr-pointcloud-text. |
+| [phamrita/study-document-ocr](https://huggingface.co/datasets/phamrita/study-document-ocr) | 2026-08-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Text Tabular Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Text Tabular data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/phamrita/study-document-ocr. |
 | [OCR-Data/ocr_dataset](https://huggingface.co/datasets/OCR-Data/ocr_dataset) | 2026-08-27 | text-recognition | candidate | — |
+| [EDWINSANTOSO/document-ocr-pointcloud-text-benchmark](https://huggingface.co/datasets/EDWINSANTOSO/document-ocr-pointcloud-text-benchmark) | 2026-08-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Pointcloud Text records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the… See the full description on the dataset page: https://huggingface.co/datasets/EDWINSANTOSO/document-ocr-pointcloud-text-benchmark. |
 | [christopherxzyx/ocr_financials_statements_2020_2025](https://huggingface.co/datasets/christopherxzyx/ocr_financials_statements_2020_2025) | 2026-08-27 | text-recognition | candidate | 
 	
 		
@@ -156,6 +474,7 @@ preprocess.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.
 README.md —… See the full description on the dataset page: https://huggingface.co/datasets/ankitamam/document-ocr-video-text-mini. |
+| [a7x3a/qai-ocr-dataset-kurdish](https://huggingface.co/datasets/a7x3a/qai-ocr-dataset-kurdish) | 2026-08-26 | text-recognition | candidate | — |
 | [srmistbiolab/ocr-lab56](https://huggingface.co/datasets/srmistbiolab/ocr-lab56) | 2026-08-25 | text-recognition | candidate | 
 	
 		

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:ruvnet/ruflo:plugins-ruflo-workflows-skills-gaia-debugging-skill-md
+kind: skill
+name: ruvnet/ruflo / plugins/ruflo-workflows/skills/gaia-debugging/SKILL.md
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ruvnet/ruflo/blob/d33ef4bf8ab27a8f9ef08352c9c293b53312a861/plugins/ruflo-workflows/skills/gaia-debugging/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ruvnet/ruflo/blob/d33ef4bf8ab27a8f9ef08352c9c293b53312a861/plugins/ruflo-workflows/skills/gaia-debugging/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-30'
+  source_id: ruvnet/ruflo:plugins/ruflo-workflows/skills/gaia-debugging/SKILL.md
+  source_metadata:
+    repository: ruvnet/ruflo
+    manifest_path: plugins/ruflo-workflows/skills/gaia-debugging/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: ruvnet/ruflo
+manifest_path: plugins/ruflo-workflows/skills/gaia-debugging/SKILL.md
+capabilities: {}

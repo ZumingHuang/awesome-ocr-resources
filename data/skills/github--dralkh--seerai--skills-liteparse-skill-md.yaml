@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:dralkh/seerai:skills-liteparse-skill-md
+kind: skill
+name: dralkh/seerai / skills/liteparse/SKILL.md
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-30'
+last_verified_at: '2026-08-30'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/dralkh/seerai/blob/717740c3220f00d2c4df9f0405638ca8a92dd0fb/skills/liteparse/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/dralkh/seerai/blob/717740c3220f00d2c4df9f0405638ca8a92dd0fb/skills/liteparse/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-30'
+  source_id: dralkh/seerai:skills/liteparse/SKILL.md
+  source_metadata:
+    repository: dralkh/seerai
+    manifest_path: skills/liteparse/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: dralkh/seerai
+manifest_path: skills/liteparse/SKILL.md
+capabilities: {}
