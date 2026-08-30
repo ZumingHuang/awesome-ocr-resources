@@ -1,0 +1,67 @@
+schema_version: 1
+id: paper:arxiv:2608.26500
+kind: paper
+name: Systematic Literature Review of Machine Learning Models and Applications for Text Recognition
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: Optical Character Recognition (OCR) for text recognition using machine vision has significantly
+  improved, particularly when handling heterogeneous textual data. Traditional OCR models struggle with
+  script variations, writing styles, and degraded documents. Advancements in technology are leading to
+  new AI models with improved architecture for handling multiple languages and complex data formats. Despite
+  this progress, a comprehensive evaluation of OCR advancements remains limited. Based on the established
+  preferred reporting items for systematic reviews and meta-analysis (PRISMA) guidelines, this literature
+  review presents an extensive assessment of OCR research to trace the evolution of AI models over the
+  past decade. It explores the transition in AI models, application domains, data types, linguistic coverage,
+  and challenges. Through a detailed analysis of 97 selected studies published during January 2015 - January
+  2025, key OCR models are identified, and their performance, strengths, and limitations are analyzed.
+  The findings highlight how OCR technologies have evolved to address structured and unstructured text,
+  scene text recognition, and multilingual processing. Unresolved challenges include limited resources
+  for underrepresented languages, high variability in handwritten text, visual similarity among characters,
+  and constraints in real-time OCR applications. To address these issues, several promising approaches
+  are proposed. Key suggestions include self-supervised learning, multimodal AI, automated machine learning
+  (AutoML), AI-assisted postprocessing, tiny machine learning (TinyML), and the creation of joint corpora
+  for script matching. The future recommendations aim to enhance OCR accuracy and tackle the challenges
+  identified for real-time industrial applications. This study will guide future research and establish
+  a foundation for OCR field.
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.26500
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.26500
+  discovered_via: arxiv
+  discovered_at: '2026-08-29'
+  source_id: '2608.26500'
+  source_metadata:
+    arxiv_id: '2608.26500'
+    doi: 10.1109/ACCESS.2025.3618109
+    query: all:"scene text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Nuzhat Khan
+- Ab Al-Hadi Ab Rahman
+- Shahriyar Masud Rizvi
+- Ibrahim Yousef Alshareef
+- Muhammad Nadzir Marsono
+- Muhammad Paend Bakht
+- Mohd Shahrizal Rusli
+- Shahidatul Sadiah
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.26500'
+doi: 10.1109/ACCESS.2025.3618109

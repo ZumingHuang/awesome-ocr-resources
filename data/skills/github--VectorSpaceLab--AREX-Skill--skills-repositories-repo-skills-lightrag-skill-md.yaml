@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:VectorSpaceLab/AREX-Skill:skills-repositories-repo-skills-lightrag-skill-md
+kind: skill
+name: VectorSpaceLab/AREX-Skill / skills/repositories/repo-skills/lightrag/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/VectorSpaceLab/AREX-Skill/blob/c29af6ca56b0b89814fb4bcff1cbbab0100ff7c9/skills/repositories/repo-skills/lightrag/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/VectorSpaceLab/AREX-Skill/blob/c29af6ca56b0b89814fb4bcff1cbbab0100ff7c9/skills/repositories/repo-skills/lightrag/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: VectorSpaceLab/AREX-Skill:skills/repositories/repo-skills/lightrag/SKILL.md
+  source_metadata:
+    repository: VectorSpaceLab/AREX-Skill
+    manifest_path: skills/repositories/repo-skills/lightrag/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: VectorSpaceLab/AREX-Skill
+manifest_path: skills/repositories/repo-skills/lightrag/SKILL.md
+capabilities: {}

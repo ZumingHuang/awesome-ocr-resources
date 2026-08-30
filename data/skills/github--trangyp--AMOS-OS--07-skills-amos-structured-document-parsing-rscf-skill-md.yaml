@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:trangyp/AMOS-OS:07-skills-amos-structured-document-parsing-rscf-skill-md
+kind: skill
+name: trangyp/AMOS-OS / 07_SKILLS/amos-structured-document-parsing-rscf/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/trangyp/AMOS-OS/blob/a9a88700d3af7d0774ab42e6da81c48ddecfdd5c/07_SKILLS/amos-structured-document-parsing-rscf/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/trangyp/AMOS-OS/blob/a9a88700d3af7d0774ab42e6da81c48ddecfdd5c/07_SKILLS/amos-structured-document-parsing-rscf/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: trangyp/AMOS-OS:07_SKILLS/amos-structured-document-parsing-rscf/SKILL.md
+  source_metadata:
+    repository: trangyp/AMOS-OS
+    manifest_path: 07_SKILLS/amos-structured-document-parsing-rscf/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: trangyp/AMOS-OS
+manifest_path: 07_SKILLS/amos-structured-document-parsing-rscf/SKILL.md
+capabilities: {}

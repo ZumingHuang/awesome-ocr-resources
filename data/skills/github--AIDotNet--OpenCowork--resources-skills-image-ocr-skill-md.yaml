@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:AIDotNet/OpenCowork:resources-skills-image-ocr-skill-md
+kind: skill
+name: AIDotNet/OpenCowork / resources/skills/image-ocr/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/AIDotNet/OpenCowork/blob/a04ae4b4999a9885b530518002142c164bda7729/resources/skills/image-ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/AIDotNet/OpenCowork/blob/a04ae4b4999a9885b530518002142c164bda7729/resources/skills/image-ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: AIDotNet/OpenCowork:resources/skills/image-ocr/SKILL.md
+  source_metadata:
+    repository: AIDotNet/OpenCowork
+    manifest_path: resources/skills/image-ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: AIDotNet/OpenCowork
+manifest_path: resources/skills/image-ocr/SKILL.md
+capabilities: {}

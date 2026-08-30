@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:alibaba/open-code-review:skills-open-code-review-skill-md
+kind: skill
+name: alibaba/open-code-review / skills/open-code-review/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/alibaba/open-code-review/blob/124bfc3b9e978a83eef9692a7f9bdf64617064d1/skills/open-code-review/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/alibaba/open-code-review/blob/124bfc3b9e978a83eef9692a7f9bdf64617064d1/skills/open-code-review/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: alibaba/open-code-review:skills/open-code-review/SKILL.md
+  source_metadata:
+    repository: alibaba/open-code-review
+    manifest_path: skills/open-code-review/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: alibaba/open-code-review
+manifest_path: skills/open-code-review/SKILL.md
+capabilities: {}

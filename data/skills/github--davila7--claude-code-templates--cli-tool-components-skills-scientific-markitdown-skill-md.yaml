@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:davila7/claude-code-templates:cli-tool-components-skills-scientific-markitdown-skill-md
+kind: skill
+name: davila7/claude-code-templates / cli-tool/components/skills/scientific/markitdown/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/davila7/claude-code-templates/blob/6d13d28a05cc12d15895ce4eba48e7b3791f3919/cli-tool/components/skills/scientific/markitdown/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/davila7/claude-code-templates/blob/6d13d28a05cc12d15895ce4eba48e7b3791f3919/cli-tool/components/skills/scientific/markitdown/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: davila7/claude-code-templates:cli-tool/components/skills/scientific/markitdown/SKILL.md
+  source_metadata:
+    repository: davila7/claude-code-templates
+    manifest_path: cli-tool/components/skills/scientific/markitdown/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: davila7/claude-code-templates
+manifest_path: cli-tool/components/skills/scientific/markitdown/SKILL.md
+capabilities: {}

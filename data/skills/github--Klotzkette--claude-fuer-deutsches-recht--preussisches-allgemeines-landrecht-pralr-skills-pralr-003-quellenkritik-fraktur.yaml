@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:Klotzkette/claude-fuer-deutsches-recht:preussisches-allgemeines-landrecht-pralr-skills-pralr-003-quellenkritik-fraktur
+kind: skill
+name: Klotzkette/claude-fuer-deutsches-recht / preussisches-allgemeines-landrecht-pralr/skills/pralr-003-quellenkritik-fraktur-ocr/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/c8baf729c9469156bc5b03ee8550b0fcac254e4b/preussisches-allgemeines-landrecht-pralr/skills/pralr-003-quellenkritik-fraktur-ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/c8baf729c9469156bc5b03ee8550b0fcac254e4b/preussisches-allgemeines-landrecht-pralr/skills/pralr-003-quellenkritik-fraktur-ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: Klotzkette/claude-fuer-deutsches-recht:preussisches-allgemeines-landrecht-pralr/skills/pralr-003-quellenkritik-fraktur-ocr/SKILL.md
+  source_metadata:
+    repository: Klotzkette/claude-fuer-deutsches-recht
+    manifest_path: preussisches-allgemeines-landrecht-pralr/skills/pralr-003-quellenkritik-fraktur-ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: Klotzkette/claude-fuer-deutsches-recht
+manifest_path: preussisches-allgemeines-landrecht-pralr/skills/pralr-003-quellenkritik-fraktur-ocr/SKILL.md
+capabilities: {}

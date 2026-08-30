@@ -9,9 +9,17 @@ Marina Gómez Rey, Patricia Callejo, Mario Muñoz-Organero, Carlos Alario-Hoyos
 Vladimir Beskorovainyi
 \[handwriting-recognition\]
 
+**A Table Is Worth 64 Tokens: Pixel-level Compression for Multi-Table Document Question Answering**
+Iñigo Alonso, Mirella Lapata
+\[document-vqa\]
+
 **AISA: AI Safety Assistant Framework for Continuous Improvement of Highway Construction**
 Mason Smetana, Trevor Neece, Lev Khazanovich
 \[document-vqa\]
+
+**AraMS-28k: The Largest Publicly Released Line-Level Dataset of Historical Arabic Manuscripts with Margin and Insertion-Anchor Annotations**
+Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
+\[document-layout-analysis\]\[text-recognition\]
 
 **BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models**
 Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
@@ -20,6 +28,10 @@ Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
 **Code as Representation: A Compilable Parsing Paradigm for Academic Documents**
 Rihui Jin, Jun Wang, chengyuan zhu, Liang Mingyu, Yue Gao, Li Yunxuan, Kuicai Dong, Guilin Qi, Lin Ren, Yongrui Chen, Xinbang Dai, Jiaqi Li, Tongtong Wu, Gholamreza Haffari
 \[formula-recognition\]\[document-parsing\]
+
+**Comparing Chunking and Embedding Strategies for Turkish RAG Systems**
+Mustafa Sertaç Türkel, Fatma Nur Korkmaz, Ahmet Tuğrul Bayrak
+\[document-vqa\]
 
 **DocClaw: A Unified Agentic System for Intelligent Document Processing**
 Siqi Xiang, Zhipeng Xu, Yufei Liu, Junhao Ji, Qing Liu, Zulong Chen, Zhibo Yang, Chunyan Miao, Shijian Lu
@@ -123,6 +135,10 @@ Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 
 **Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
 Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang
+\[handwriting-recognition\]\[text-recognition\]
+
+**Systematic Literature Review of Machine Learning Models and Applications for Text Recognition**
+Nuzhat Khan, Ab Al-Hadi Ab Rahman, Shahriyar Masud Rizvi, Ibrahim Yousef Alshareef, Muhammad Nadzir Marsono, Muhammad Paend Bakht, Mohd Shahrizal Rusli, Shahidatul Sadiah
 \[handwriting-recognition\]\[text-recognition\]
 
 **TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents**

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:qodex-ai/ai-agent-skills:skills-legal-document-analyzer-skill-md
+kind: skill
+name: qodex-ai/ai-agent-skills / skills/legal-document-analyzer/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/qodex-ai/ai-agent-skills/blob/6ea9f00885c5dc5e6d9435d443dbf7d9ce865e29/skills/legal-document-analyzer/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/qodex-ai/ai-agent-skills/blob/6ea9f00885c5dc5e6d9435d443dbf7d9ce865e29/skills/legal-document-analyzer/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: qodex-ai/ai-agent-skills:skills/legal-document-analyzer/SKILL.md
+  source_metadata:
+    repository: qodex-ai/ai-agent-skills
+    manifest_path: skills/legal-document-analyzer/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: qodex-ai/ai-agent-skills
+manifest_path: skills/legal-document-analyzer/SKILL.md
+capabilities: {}

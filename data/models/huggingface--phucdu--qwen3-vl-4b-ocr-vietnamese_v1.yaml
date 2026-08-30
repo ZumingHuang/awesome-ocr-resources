@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:phucdu/qwen3-vl-4b-ocr-vietnamese_v1
+kind: model
+name: phucdu/qwen3-vl-4b-ocr-vietnamese_v1
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/phucdu/qwen3-vl-4b-ocr-vietnamese_v1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/phucdu/qwen3-vl-4b-ocr-vietnamese_v1
+  discovered_via: huggingface
+  discovered_at: '2026-08-29'
+  source_id: phucdu/qwen3-vl-4b-ocr-vietnamese_v1
+  source_metadata:
+    repository_id: phucdu/qwen3-vl-4b-ocr-vietnamese_v1
+    downloads: 71
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: phucdu
+repository_id: phucdu/qwen3-vl-4b-ocr-vietnamese_v1
+deployment: []

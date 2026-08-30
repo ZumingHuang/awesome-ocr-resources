@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:toon-protocol/toon-meta:skills-search-skill-md
+kind: skill
+name: toon-protocol/toon-meta / skills/search/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/toon-protocol/toon-meta/blob/d0d79ffbe48c143162a1db7456d769c3058e4dca/skills/search/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/toon-protocol/toon-meta/blob/d0d79ffbe48c143162a1db7456d769c3058e4dca/skills/search/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: toon-protocol/toon-meta:skills/search/SKILL.md
+  source_metadata:
+    repository: toon-protocol/toon-meta
+    manifest_path: skills/search/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: toon-protocol/toon-meta
+manifest_path: skills/search/SKILL.md
+capabilities: {}

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:binnugr01/reading-ocr-freeform
+kind: model
+name: binnugr01/reading-ocr-freeform
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/binnugr01/reading-ocr-freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/binnugr01/reading-ocr-freeform
+  discovered_via: huggingface
+  discovered_at: '2026-08-29'
+  source_id: binnugr01/reading-ocr-freeform
+  source_metadata:
+    repository_id: binnugr01/reading-ocr-freeform
+    downloads: 10
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: binnugr01
+repository_id: binnugr01/reading-ocr-freeform
+deployment: []

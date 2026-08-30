@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:K-Dense-AI/scientific-agent-skills:skills-autoskill-skill-md
+kind: skill
+name: K-Dense-AI/scientific-agent-skills / skills/autoskill/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/K-Dense-AI/scientific-agent-skills/blob/895b4be37ef0ca1cd55c6e628e7ff937ba5a1cf1/skills/autoskill/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/K-Dense-AI/scientific-agent-skills/blob/895b4be37ef0ca1cd55c6e628e7ff937ba5a1cf1/skills/autoskill/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: K-Dense-AI/scientific-agent-skills:skills/autoskill/SKILL.md
+  source_metadata:
+    repository: K-Dense-AI/scientific-agent-skills
+    manifest_path: skills/autoskill/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: K-Dense-AI/scientific-agent-skills
+manifest_path: skills/autoskill/SKILL.md
+capabilities: {}

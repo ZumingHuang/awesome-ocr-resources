@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:xberg-io/xberg:plugin-cursor-plugin-skills-extracting-with-ocr-skill-md
+kind: skill
+name: xberg-io/xberg / plugin/.cursor-plugin/skills/extracting-with-ocr/SKILL.md
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/xberg-io/xberg/blob/d8e48153e59a9e22d6b73de288a99ef7affdf79a/plugin/.cursor-plugin/skills/extracting-with-ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/xberg-io/xberg/blob/d8e48153e59a9e22d6b73de288a99ef7affdf79a/plugin/.cursor-plugin/skills/extracting-with-ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-29'
+  source_id: xberg-io/xberg:plugin/.cursor-plugin/skills/extracting-with-ocr/SKILL.md
+  source_metadata:
+    repository: xberg-io/xberg
+    manifest_path: plugin/.cursor-plugin/skills/extracting-with-ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: xberg-io/xberg
+manifest_path: plugin/.cursor-plugin/skills/extracting-with-ocr/SKILL.md
+capabilities: {}

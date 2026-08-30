@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Takumiabe0213/document-ocr-pointcloud-text
+kind: dataset
+name: Takumiabe0213/document-ocr-pointcloud-text
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-29'
+last_verified_at: '2026-08-29'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Pointcloud Text Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\
+  \tDataset summary\n\t\n\nA documented Document OCR data-preparation workflow for Pointcloud Text records.\
+  \ The bundled rows demonstrate the schema and validation path rather than pretending to be a full training\
+  \ corpus.\n\n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nclean.py — loading, cleaning, and split\
+  \ preparation code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small,\
+  \ human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/Takumiabe0213/document-ocr-pointcloud-text."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Takumiabe0213/document-ocr-pointcloud-text
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Takumiabe0213/document-ocr-pointcloud-text
+  discovered_via: huggingface
+  discovered_at: '2026-08-29'
+  source_id: Takumiabe0213/document-ocr-pointcloud-text
+  source_metadata:
+    repository_id: Takumiabe0213/document-ocr-pointcloud-text
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Takumiabe0213
+repository_id: Takumiabe0213/document-ocr-pointcloud-text
+usage: []
+annotations: []
+access: unknown
