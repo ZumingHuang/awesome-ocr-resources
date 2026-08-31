@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:davepoon/buildwithclaude:plugins-all-skills-skills-doc-ocr-skill-md
+kind: skill
+name: davepoon/buildwithclaude / plugins/all-skills/skills/doc-ocr/SKILL.md
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/davepoon/buildwithclaude/blob/87d0fbfb9d0e037958d275c93637095015817845/plugins/all-skills/skills/doc-ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/davepoon/buildwithclaude/blob/87d0fbfb9d0e037958d275c93637095015817845/plugins/all-skills/skills/doc-ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: davepoon/buildwithclaude:plugins/all-skills/skills/doc-ocr/SKILL.md
+  source_metadata:
+    repository: davepoon/buildwithclaude
+    manifest_path: plugins/all-skills/skills/doc-ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: davepoon/buildwithclaude
+manifest_path: plugins/all-skills/skills/doc-ocr/SKILL.md
+capabilities: {}

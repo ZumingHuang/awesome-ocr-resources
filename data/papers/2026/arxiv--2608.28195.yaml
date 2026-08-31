@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:2608.28195
+kind: paper
+name: 'UniLipi: A Unified Multi-Script OCR for Historical Indic Manuscripts'
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: Optical character recognition (OCR) for handwritten Indic manuscripts is essential for large-scale
+  digitization and computational access to manuscript heritage. However, existing approaches are typically
+  developed for one script at a time and require substantial script-specific customization. This limits
+  scalability and practical deployment across diverse collections. We present UniLipi, a unified multi-script
+  OCR model for handwritten Indic manuscripts trained jointly across 13 Indic scripts within a single
+  framework. UniLipi directly handles realistic manuscript conditions, including extreme variation in
+  line geometry, large variation in line length, and partial interruptions caused by non-textual manuscript
+  entities such as holes, stains, or pictorial illustrations. To operate effectively under ultra low-resource
+  conditions, the model leverages script-aware synthetic manuscript data generation, substantially reducing
+  reliance on large volumes of real annotated data. Beyond historical manuscripts, we show that UniLipi
+  serves as an effective foundational pretrained model. Specifically, its learned representations enable
+  good OCR performance for contemporary Indic handwriting and extend to several non-Indic scripts, including
+  Tibetan, Italian, Latin, and Chinese scripts. In addition to transcription, UniLipi predicts script
+  identity and per-line native character counts, supporting practical manuscript cataloging workflows.
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.28195
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.28195
+  discovered_via: arxiv
+  discovered_at: '2026-08-31'
+  source_id: '2608.28195'
+  source_metadata:
+    arxiv_id: '2608.28195'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Tathagata Ghosh
+- Sai Madhusudan Gunda
+- Simran Singh Sandral
+- Ravi Kiran Sarvadevabhatla
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.28195'

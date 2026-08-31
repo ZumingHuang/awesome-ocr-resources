@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:SeeWye/NFA_OCR_qwen_sft_format_test6
+kind: dataset
+name: SeeWye/NFA_OCR_qwen_sft_format_test6
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/SeeWye/NFA_OCR_qwen_sft_format_test6
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/SeeWye/NFA_OCR_qwen_sft_format_test6
+  discovered_via: huggingface
+  discovered_at: '2026-08-31'
+  source_id: SeeWye/NFA_OCR_qwen_sft_format_test6
+  source_metadata:
+    repository_id: SeeWye/NFA_OCR_qwen_sft_format_test6
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: SeeWye
+repository_id: SeeWye/NFA_OCR_qwen_sft_format_test6
+usage: []
+annotations: []
+access: unknown

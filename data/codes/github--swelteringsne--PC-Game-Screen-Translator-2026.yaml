@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:swelteringsne/PC-Game-Screen-Translator-2026
+kind: code
+name: swelteringsne/PC-Game-Screen-Translator-2026
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: Local game translation overlay with screen-region capture, OCR, offline translation models, configurable
+  subtitle panel, game-specific glossary, history, hotkeys, and reusable resolution profiles.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/swelteringsne/PC-Game-Screen-Translator-2026
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/swelteringsne/PC-Game-Screen-Translator-2026
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: R_kgDOUGaMIg
+  source_metadata:
+    repository: swelteringsne/PC-Game-Screen-Translator-2026
+    stars: 21
+    language: PowerShell
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: swelteringsne/PC-Game-Screen-Translator-2026
+landmark: false
+programming_languages:
+- PowerShell
+maintenance_status: active

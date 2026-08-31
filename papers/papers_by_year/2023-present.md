@@ -145,6 +145,14 @@ Nuzhat Khan, Ab Al-Hadi Ab Rahman, Shahriyar Masud Rizvi, Ibrahim Yousef Alshare
 Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi Peng, Minghui Liao, Lianwen Jin
 \[text-recognition\]
 
+**UniLipi: A Unified Multi-Script OCR for Historical Indic Manuscripts**
+Tathagata Ghosh, Sai Madhusudan Gunda, Simran Singh Sandral, Ravi Kiran Sarvadevabhatla
+\[handwriting-recognition\]\[text-recognition\]
+
+**What Can Low Resource Languages Learn From Each Other?**
+Achyuth P, Kahaan Shah, Chetan Arora
+\[text-recognition\]
+
 **When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents**
 Marina Gardella, Camilo Mari{ñ}o, Diego Belzarena, Ignacio Ram{í}rez, Gregory Randall, Jean-Michel Morel
 \[text-recognition\]

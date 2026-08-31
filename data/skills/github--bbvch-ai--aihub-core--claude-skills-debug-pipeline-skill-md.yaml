@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:bbvch-ai/aihub-core:claude-skills-debug-pipeline-skill-md
+kind: skill
+name: bbvch-ai/aihub-core / .claude/skills/debug-pipeline/SKILL.md
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/bbvch-ai/aihub-core/blob/f512be6c0718578998d7d331575dc282c7c8d3e7/.claude/skills/debug-pipeline/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/bbvch-ai/aihub-core/blob/f512be6c0718578998d7d331575dc282c7c8d3e7/.claude/skills/debug-pipeline/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: bbvch-ai/aihub-core:.claude/skills/debug-pipeline/SKILL.md
+  source_metadata:
+    repository: bbvch-ai/aihub-core
+    manifest_path: .claude/skills/debug-pipeline/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: bbvch-ai/aihub-core
+manifest_path: .claude/skills/debug-pipeline/SKILL.md
+capabilities: {}

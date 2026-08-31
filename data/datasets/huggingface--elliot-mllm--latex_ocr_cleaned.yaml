@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:elliot-mllm/latex_ocr_cleaned
+kind: dataset
+name: elliot-mllm/latex_ocr_cleaned
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tlatex_ocr_cleaned\n\t\n\nThe latex_ocr__x family of the ElliotVL supervised-fine-tuning\
+  \ pool, after VLM cleaning.\n\n\t\n\t\t\n\n\n\n\n\t\t\nimages\n72,345\n\n\nQA turns\n132,970\n\n\nanswers\
+  \ rewritten by the cleaning pass\n7,072\n\n\nQA created by the cleaning pass (new_qa)\n66,310 (49.9%)\n\
+  \n\nshards\n1\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tHow this was cleaned\n\t\n\nA vision-language model\
+  \ read each image together with its QA and judged the item. The pass is\nnot a filter that only removes\
+  \ rows — it rewrites answers it finds wrong but… See the full description on the dataset page: https://huggingface.co/datasets/elliot-mllm/latex_ocr_cleaned."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/elliot-mllm/latex_ocr_cleaned
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/elliot-mllm/latex_ocr_cleaned
+  discovered_via: huggingface
+  discovered_at: '2026-08-31'
+  source_id: elliot-mllm/latex_ocr_cleaned
+  source_metadata:
+    repository_id: elliot-mllm/latex_ocr_cleaned
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: elliot-mllm
+repository_id: elliot-mllm/latex_ocr_cleaned
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:elliot-mllm/OCRVQA_RS_nothink
+kind: dataset
+name: elliot-mllm/OCRVQA_RS_nothink
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCRVQA — OCRVQA_RS_nothink\n\t\n\nRejection-sampled from the OCRVQA\
+  \ train split. This split holds the accepted items, answer only.\n\n\t\n\t\t\n\n\n\n\n\t\t\nrows\n450,389\n\
+  \n\nQA pairs\n1,298,217\n\n\nshards\n1959\n\n\naccepted / rejected (whole family)\n1,298,217 / 794,326\n\
+  \n\naccept rate\n62.0%\n\n\nverifier\nanls\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tHow the data was produced\n\
+  \t\n\nA VLM answers every question at temperature 0 with reasoning enabled. Its answer is compared with\n\
+  the official ground truth by the verifier described below;… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/elliot-mllm/OCRVQA_RS_nothink."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/elliot-mllm/OCRVQA_RS_nothink
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/elliot-mllm/OCRVQA_RS_nothink
+  discovered_via: huggingface
+  discovered_at: '2026-08-31'
+  source_id: elliot-mllm/OCRVQA_RS_nothink
+  source_metadata:
+    repository_id: elliot-mllm/OCRVQA_RS_nothink
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: elliot-mllm
+repository_id: elliot-mllm/OCRVQA_RS_nothink
+usage: []
+annotations: []
+access: unknown

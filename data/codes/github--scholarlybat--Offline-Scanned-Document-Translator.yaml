@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:scholarlybat/Offline-Scanned-Document-Translator
+kind: code
+name: scholarlybat/Offline-Scanned-Document-Translator
+released_at:
+  value: '2026-08-28'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: Offline PDF OCR Translator for Windows — extract text from scanned PDFs and images, translate
+  locally, preserve document layout, export translated PDF/DOCX/TXT, process folders in batch, and use
+  custom terminology glossaries.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/scholarlybat/Offline-Scanned-Document-Translator
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/scholarlybat/Offline-Scanned-Document-Translator
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: R_kgDOUGk6Nw
+  source_metadata:
+    repository: scholarlybat/Offline-Scanned-Document-Translator
+    stars: 26
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: scholarlybat/Offline-Scanned-Document-Translator
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active
