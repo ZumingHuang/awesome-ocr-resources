@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:2608.30678
+kind: paper
+name: 'OCR-MetaReasoning Benchmark: Evaluating the Meta-Reasoning Ability of MLLMs in Text-Rich Image
+  Understanding'
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-09-01'
+last_verified_at: '2026-09-01'
+summary: 'Text-rich image understanding requires multimodal large language models (MLLMs) to organize
+  OCR (Optical Character Recognition)-grounded evidence across words, layout, fields, charts, and visual
+  correspondences. Existing evaluations often conflate extraction with reasoning and rarely test whether
+  models follow the required reasoning direction: applying visible rules, abstracting hidden regularities,
+  or recovering missing premises. We introduce OCR-MetaReasoning, a controlled single-image benchmark
+  that treats deduction, induction, and abduction as distinct directions and separates final-answer correctness
+  from reasoning-process compliance. The benchmark contains 1,500 verified samples in a balanced \(3\times5\)
+  taxonomy crossing three reasoning types with five OCR-object categories, along with reference reasoning
+  steps, automatic answer scoring, the Meta-Reasoning Macro Score (MRMS), and the Reasoning Process Compliance
+  Score (RPCS). Experiments with representative closed-source and open-source MLLMs show that OCR-grounded
+  meta-reasoning remains far from saturated: models struggle with visible-rule application and layout-sensitive
+  inference, while process-compliant rationales can accompany incorrect final answers under exact-match
+  evaluation. The code is available at https://github.com/gengxuli/OCR-MetaReasoning.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.30678
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.30678
+  discovered_via: arxiv
+  discovered_at: '2026-09-01'
+  source_id: '2608.30678'
+  source_metadata:
+    arxiv_id: '2608.30678'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Gengxu Li
+- Yuan Wu
+- Yi Chang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.30678'

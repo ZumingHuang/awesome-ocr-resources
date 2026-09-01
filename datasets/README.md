@@ -4,7 +4,289 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [wuvictor/work-document-ocr](https://huggingface.co/datasets/wuvictor/work-document-ocr) | 2026-09-01 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Image Audio records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/wuvictor/work-document-ocr. |
+| [srilubis/document-ocr-corpus50-2023](https://huggingface.co/datasets/srilubis/document-ocr-corpus50-2023) | 2026-09-01 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Sensor Fusion inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/srilubis/document-ocr-corpus50-2023. |
+| [ram-lexsi/curatorkit-testrun-OCR](https://huggingface.co/datasets/ram-lexsi/curatorkit-testrun-OCR) | 2026-09-01 | text-recognition | candidate | 
+  
+    
+      
+        
+      
+    
+  
+
+
+
+	
+		
+	
+	
+		curatorkit-testrun-OCR
+	
+
+Built using CuratorKIT — provenance-grounded curation and synthesis for LLM post-training.
+
+	
+		
+
+
+
+
+		
+Method
+qa
+
+
+Backend
+litellm
+
+
+Model
+openai/Qwen/Qwen2.5-0.5B-Instruct
+
+
+Formats
+—
+
+
+Artifact
+dataset
+
+
+Published
+2026-09-01 06:26 UTC
+
+
+	
+
+
+	
+		
+	
+	
+		Usage
+	
+
+from datasets import load_dataset
+
+ds = load_dataset("ram-lexsi/curatorkit-testrun-OCR")
+
+ |
+| [yadavrajesh/document-ocr-dataset96](https://huggingface.co/datasets/yadavrajesh/document-ocr-dataset96) | 2026-08-31 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Image Text data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md… See the full description on the dataset page: https://huggingface.co/datasets/yadavrajesh/document-ocr-dataset96. |
 | [SeeWye/NFA_OCR_qwen_sft_format_test6](https://huggingface.co/datasets/SeeWye/NFA_OCR_qwen_sft_format_test6) | 2026-08-31 | text-recognition | candidate | — |
+| [large-language-leonid/e_cup_2026_ocr](https://huggingface.co/datasets/large-language-leonid/e_cup_2026_ocr) | 2026-08-31 | text-recognition | candidate | — |
+| [kreativetimebox/ktb-ocr-dataset](https://huggingface.co/datasets/kreativetimebox/ktb-ocr-dataset) | 2026-08-31 | text-recognition | candidate | — |
+| [infokreativetimebox/ktb-ocr-dataset](https://huggingface.co/datasets/infokreativetimebox/ktb-ocr-dataset) | 2026-08-31 | text-recognition | candidate | 
+	
+		
+	
+	
+		PDFA OCR Dataset
+	
+
+Curated and Published by KREATIVE TIME BOX
+This dataset contains document page images along with their corresponding OCR layout bounding box annotations derived from PDFA document extraction pipelines.
+
+
+	
+		
+	
+	
+		Dataset Overview
+	
+
+
+Organization / Creator: KREATIVE TIME BOX
+Total Images: 42,627 PNG files (~19 GB)
+Total JSON Annotations: 42,628 JSON files (~322 MB)
+Image Format: PNG (RGB document page renders)
+Annotation Format: JSON with text lines… See the full description on the dataset page: https://huggingface.co/datasets/infokreativetimebox/ktb-ocr-dataset. |
+| [elliot-mllm/tal_ocr_eng_cleaned](https://huggingface.co/datasets/elliot-mllm/tal_ocr_eng_cleaned) | 2026-08-31 | text-recognition | candidate | 
+	
+		
+	
+	
+		tal_ocr_eng_cleaned
+	
+
+The tal_ocr_eng__x family of the ElliotVL supervised-fine-tuning pool, after VLM cleaning.
+
+	
+		
+
+
+
+
+		
+images
+231,524
+
+
+QA turns
+581,960
+
+
+answers rewritten by the cleaning pass
+111,158
+
+
+QA created by the cleaning pass (new_qa)
+352,691 (60.6%)
+
+
+shards
+9
+
+
+	
+
+
+	
+		
+	
+	
+		How this was cleaned
+	
+
+A vision-language model read each image together with its QA and judged the item. The pass is
+not a filter that only removes rows — it rewrites answers it finds… See the full description on the dataset page: https://huggingface.co/datasets/elliot-mllm/tal_ocr_eng_cleaned. |
+| [elliot-mllm/OCRVQA_RS_think](https://huggingface.co/datasets/elliot-mllm/OCRVQA_RS_think) | 2026-08-31 | text-recognition | candidate | — |
+| [elliot-mllm/OCRVQA_rejected](https://huggingface.co/datasets/elliot-mllm/OCRVQA_rejected) | 2026-08-31 | text-recognition | candidate | — |
+| [elliot-mllm/OCRVQA_longform](https://huggingface.co/datasets/elliot-mllm/OCRVQA_longform) | 2026-08-31 | text-recognition | candidate | — |
+| [elliot-mllm/ocr_cleaned](https://huggingface.co/datasets/elliot-mllm/ocr_cleaned) | 2026-08-31 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocr_cleaned
+	
+
+The ocr__x family of the ElliotVL supervised-fine-tuning pool, after VLM cleaning.
+
+	
+		
+
+
+
+
+		
+images
+234,142
+
+
+QA turns
+1,232,495
+
+
+answers rewritten by the cleaning pass
+0
+
+
+QA created by the cleaning pass (new_qa)
+not measured for this family
+
+
+shards
+172
+
+
+	
+
+
+	
+		
+	
+	
+		How this was cleaned
+	
+
+A vision-language model read each image together with its QA and judged the item. The pass is
+not a filter that only removes rows — it rewrites answers it finds wrong but… See the full description on the dataset page: https://huggingface.co/datasets/elliot-mllm/ocr_cleaned. |
 | [tetrak/armenian-ocr-crops](https://huggingface.co/datasets/tetrak/armenian-ocr-crops) | 2026-08-30 | text-recognition | candidate | 
 	
 		
@@ -82,6 +364,7 @@ Gold and Bina outputs are retained for comparison.
 Koochik 0.1 was not. The first columns are image, gemini_ocr, bina_ocr,
 and gold_text for direct visual and OCR comparison.
  |
+| [Raphael2099/chujian-ocr-sources](https://huggingface.co/datasets/Raphael2099/chujian-ocr-sources) | 2026-08-30 | text-recognition | candidate | — |
 | [Formian/ocra-v2.1](https://huggingface.co/datasets/Formian/ocra-v2.1) | 2026-08-30 | text-recognition | candidate | 
 	
 		
@@ -305,6 +588,51 @@ shards
 A vision-language model read each image together with its QA and judged the item. The pass is
 not a filter that only removes rows — it rewrites… See the full description on the dataset page: https://huggingface.co/datasets/elliot-mllm/invoices-and-receipts_ocr_cleaned. |
 | [abzoo/egyptian-id-ocr](https://huggingface.co/datasets/abzoo/egyptian-id-ocr) | 2026-08-30 | text-recognition | candidate | — |
+| [a7x3a/qai-ocr-v1-small](https://huggingface.co/datasets/a7x3a/qai-ocr-v1-small) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		QAI OCR v1 Small
+	
+
+OCR image-text dataset stored as WebDataset TAR shards.
+
+	
+		
+	
+	
+		Dataset structure
+	
+
+train/
+val/
+test/
+Each split contains TAR shards and metadata.jsonl.
+
+	
+		
+	
+	
+		Sample structure
+	
+
+Each OCR sample contains two files with the SAME key:
+000000000000.jpg
+000000000000.txt
+The TXT file contains only the OCR transcription.
+Labels are stored as UTF-8 text.
+Original metadata is preserved in metadata.jsonl.
+
+	
+		
+	
+	
+		Splits
+	
+
+train - training data
+val -… See the full description on the dataset page: https://huggingface.co/datasets/a7x3a/qai-ocr-v1-small. |
 | [SeeWye/NFA_OCR_reinforcement_learning_format_TEST6](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST6) | 2026-08-29 | text-recognition | candidate | — |
 | [SeeWye/NFA_OCR_reinforcement_learning_format_TEST5](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST5) | 2026-08-29 | text-recognition | candidate | — |
 | [SeeWye/NFA_OCR_reinforcement_learning_format_TEST4](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST4) | 2026-08-28 | text-recognition | candidate | — |

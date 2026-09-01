@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:a7x3a/qai-ocr-v1-small
+kind: dataset
+name: a7x3a/qai-ocr-v1-small
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-09-01'
+last_verified_at: '2026-09-01'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tQAI OCR v1 Small\n\t\n\nOCR image-text dataset stored as WebDataset\
+  \ TAR shards.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset structure\n\t\n\ntrain/\nval/\ntest/\nEach split contains\
+  \ TAR shards and metadata.jsonl.\n\n\t\n\t\t\n\t\n\t\n\t\tSample structure\n\t\n\nEach OCR sample contains\
+  \ two files with the SAME key:\n000000000000.jpg\n000000000000.txt\nThe TXT file contains only the OCR\
+  \ transcription.\nLabels are stored as UTF-8 text.\nOriginal metadata is preserved in metadata.jsonl.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tSplits\n\t\n\ntrain - training data\nval -… See the full description on the\
+  \ dataset page: https://huggingface.co/datasets/a7x3a/qai-ocr-v1-small."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/a7x3a/qai-ocr-v1-small
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/a7x3a/qai-ocr-v1-small
+  discovered_via: huggingface
+  discovered_at: '2026-09-01'
+  source_id: a7x3a/qai-ocr-v1-small
+  source_metadata:
+    repository_id: a7x3a/qai-ocr-v1-small
+    downloads: 59
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: a7x3a
+repository_id: a7x3a/qai-ocr-v1-small
+usage: []
+annotations: []
+access: unknown

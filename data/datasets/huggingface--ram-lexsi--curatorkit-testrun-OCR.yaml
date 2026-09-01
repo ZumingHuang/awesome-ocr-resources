@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:ram-lexsi/curatorkit-testrun-OCR
+kind: dataset
+name: ram-lexsi/curatorkit-testrun-OCR
+released_at:
+  value: '2026-09-01'
+  precision: day
+added_at: '2026-09-01'
+last_verified_at: '2026-09-01'
+summary: "\n  \n    \n      \n        \n      \n    \n  \n\n\n\n\t\n\t\t\n\t\n\t\n\t\tcuratorkit-testrun-OCR\n\
+  \t\n\nBuilt using CuratorKIT — provenance-grounded curation and synthesis for LLM post-training.\n\n\
+  \t\n\t\t\n\n\n\n\n\t\t\nMethod\nqa\n\n\nBackend\nlitellm\n\n\nModel\nopenai/Qwen/Qwen2.5-0.5B-Instruct\n\
+  \n\nFormats\n—\n\n\nArtifact\ndataset\n\n\nPublished\n2026-09-01 06:26 UTC\n\n\n\t\n\n\n\t\n\t\t\n\t\
+  \n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\nds = load_dataset(\"ram-lexsi/curatorkit-testrun-OCR\"\
+  )\n\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/ram-lexsi/curatorkit-testrun-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/ram-lexsi/curatorkit-testrun-OCR
+  discovered_via: huggingface
+  discovered_at: '2026-09-01'
+  source_id: ram-lexsi/curatorkit-testrun-OCR
+  source_metadata:
+    repository_id: ram-lexsi/curatorkit-testrun-OCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: ram-lexsi
+repository_id: ram-lexsi/curatorkit-testrun-OCR
+usage: []
+annotations: []
+access: unknown

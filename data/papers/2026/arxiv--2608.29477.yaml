@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:2608.29477
+kind: paper
+name: 'MUDDLE: Measuring Understanding of Documents under Distractor and Length Effects'
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-09-01'
+last_verified_at: '2026-09-01'
+summary: 'Document question-answering systems increasingly answer questions over collections of retrieved
+  documents rather than one clean source, so robustness to distracting context matters as much as reading
+  ability. When such systems fail, it is often unclear whether the context was too long or the distractors
+  were too close to the topic, because prior work tends to conflate these two effects. We present MUDDLE,
+  a controlled benchmark that separates them. MUDDLE uses 270 human-annotated questions, each tied to
+  a single source document, and instantiates every question in five conditions: the source alone, the
+  source with two or four topically similar hard negatives, and the source with two or four random distractors.
+  The random distractors are matched to the hard negatives in length and provenance, so an accuracy gap
+  between the two arms reflects topical similarity rather than length. All five conditions are rendered
+  in markdown, page images, and raw PDF, but the distractor sweep reported here is run in markdown, since
+  a source plus its distractors exceeds current image and PDF input limits. We score answers with an LLM
+  judge across three model families. In the complete markdown sweep, hard negatives lower accuracy more
+  than length-matched random documents at both context sizes for gpt-5-mini, while random documents stay
+  near the no-distractor baseline. The effect is small but directionally consistent, and for gpt-5-mini
+  hard negatives significantly underperform length-matched random distractors when pooled across context
+  sizes. We release the data and evaluation code for a reproducible study of context degradation.'
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.29477
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.29477
+  discovered_via: arxiv
+  discovered_at: '2026-09-01'
+  source_id: '2608.29477'
+  source_metadata:
+    arxiv_id: '2608.29477'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Jason Luo
+- Saibilila Abudukelimu
+- Judy Song
+- Andrew Feng
+- Shivank Garg
+- Vasu Sharma
+- Kevin Zhu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.29477'

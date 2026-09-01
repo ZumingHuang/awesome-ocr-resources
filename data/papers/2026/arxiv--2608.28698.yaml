@@ -1,0 +1,65 @@
+schema_version: 1
+id: paper:arxiv:2608.28698
+kind: paper
+name: State-Conditioned Visual Evidence Retrieval for Fine-Grained Perception in Document Vision-Language
+  Models
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-09-01'
+last_verified_at: '2026-09-01'
+summary: Compared with typical vision-language tasks, document parsing places stronger demands on fine-grained
+  visual perception. Existing vision-language model (VLM)-based parsing approaches rely on globally compressed
+  visual tokens, where fine-grained details are entangled within a single representation and repeatedly
+  accessed during decoding. However, we observe that the visual evidence for each prediction is typically
+  localized and conditioned on the current decoding state, whereas such representations must be accessed
+  in full at every decoding step, resulting in inefficient computation. To address this mismatch, we formulate
+  perception as state-conditioned visual evidence retrieval (SCVER) during autoregressive decoding. The
+  model operates on a compact global representation for coarse structure and retrieves a small set of
+  relevant high-resolution regions conditioned on the current token state. This coarse-to-fine design
+  enables on-demand access to fine-grained visual cues, relieving globally shared representations from
+  encoding all fine-grained details. We further find that learning such state-conditioned retrieval in
+  VLMs is challenging and unstable. To stabilize this process, we introduce a Spatially-Guided Learning
+  Objective (SGLO) to guide the retrieval process. Experiments on document parsing benchmarks show that
+  SCVER improves robustness under reduced input resolution and achieves a better accuracy-efficiency trade-off,
+  demonstrating the effectiveness of on-demand visual evidence retrieval for fine-grained perception.
+tasks:
+- formula-recognition
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.28698
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.28698
+  discovered_via: arxiv
+  discovered_at: '2026-09-01'
+  source_id: '2608.28698'
+  source_metadata:
+    arxiv_id: '2608.28698'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Mingxu Chai
+- Chenyu Liu
+- Ziyu Shen
+- Jiazheng Zhang
+- Kaidi Zhang
+- Ruoyu Chen
+- Jun Long
+- Jihua Kang
+- Tao Gui
+- Qi Zhang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.28698'
