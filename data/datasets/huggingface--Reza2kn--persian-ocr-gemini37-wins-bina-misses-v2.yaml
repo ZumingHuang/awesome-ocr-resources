@@ -1,0 +1,44 @@
+schema_version: 1
+id: dataset:huggingface:Reza2kn/persian-ocr-gemini37-wins-bina-misses-v2
+kind: dataset
+name: Reza2kn/persian-ocr-gemini37-wins-bina-misses-v2
+released_at:
+  value: '2026-08-30'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGemini 3.7 exact / Bina miss OCR crops\n\t\n\n53 non-empty bbox crops\
+  \ from the PersianVLM submitted-10 benchmark where\ngoogle/gemini-3.7-flash produced a normalized-exact\
+  \ transcription and\nBina Koochik 0.1 did not.\nThis release uses the standard Hugging Face ImageFolder\
+  \ layout. The viewer's\nfirst column is image, followed by ocr containing Gemini's actual output.\n\
+  Gold and Bina outputs are retained for comparison.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Reza2kn/persian-ocr-gemini37-wins-bina-misses-v2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Reza2kn/persian-ocr-gemini37-wins-bina-misses-v2
+  discovered_via: huggingface
+  discovered_at: '2026-08-31'
+  source_id: Reza2kn/persian-ocr-gemini37-wins-bina-misses-v2
+  source_metadata:
+    repository_id: Reza2kn/persian-ocr-gemini37-wins-bina-misses-v2
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Reza2kn
+repository_id: Reza2kn/persian-ocr-gemini37-wins-bina-misses-v2
+usage: []
+annotations: []
+access: unknown

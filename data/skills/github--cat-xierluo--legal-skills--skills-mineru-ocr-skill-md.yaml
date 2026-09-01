@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:cat-xierluo/legal-skills:skills-mineru-ocr-skill-md
+kind: skill
+name: cat-xierluo/legal-skills / skills/mineru-ocr/SKILL.md
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/cat-xierluo/legal-skills/blob/c02bc489d996e2c14504c11f41e4bb644b8038d2/skills/mineru-ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/cat-xierluo/legal-skills/blob/c02bc489d996e2c14504c11f41e4bb644b8038d2/skills/mineru-ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: cat-xierluo/legal-skills:skills/mineru-ocr/SKILL.md
+  source_metadata:
+    repository: cat-xierluo/legal-skills
+    manifest_path: skills/mineru-ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: cat-xierluo/legal-skills
+manifest_path: skills/mineru-ocr/SKILL.md
+capabilities: {}

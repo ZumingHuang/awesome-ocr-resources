@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:ddickmann/latence
+kind: code
+name: ddickmann/latence
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: Turn messy enterprise documents into structured, embedded, provenance-carrying RAG corpus (including
+  PII redaction) and an evidence-linked knowledge graph. All as plain Parquet files you own.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ddickmann/latence
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ddickmann/latence
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: R_kgDOUFvtdw
+  source_metadata:
+    repository: ddickmann/latence
+    stars: 11
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: ddickmann/latence
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

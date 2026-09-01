@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:HybridAIOne/hybridclaw:skills-pdf-skill-md
+kind: skill
+name: HybridAIOne/hybridclaw / skills/pdf/SKILL.md
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/HybridAIOne/hybridclaw/blob/81ba327e666fca2c4c293b3b2f4e6e123825862c/skills/pdf/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/HybridAIOne/hybridclaw/blob/81ba327e666fca2c4c293b3b2f4e6e123825862c/skills/pdf/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: HybridAIOne/hybridclaw:skills/pdf/SKILL.md
+  source_metadata:
+    repository: HybridAIOne/hybridclaw
+    manifest_path: skills/pdf/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: HybridAIOne/hybridclaw
+manifest_path: skills/pdf/SKILL.md
+capabilities: {}

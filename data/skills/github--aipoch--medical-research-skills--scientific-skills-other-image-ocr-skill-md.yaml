@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:aipoch/medical-research-skills:scientific-skills-other-image-ocr-skill-md
+kind: skill
+name: aipoch/medical-research-skills / scientific-skills/Other/image-ocr/SKILL.md
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/aipoch/medical-research-skills/blob/f5ef65b9bea79b6dd9553f52f95b0d08f7d64d26/scientific-skills/Other/image-ocr/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/aipoch/medical-research-skills/blob/f5ef65b9bea79b6dd9553f52f95b0d08f7d64d26/scientific-skills/Other/image-ocr/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: aipoch/medical-research-skills:scientific-skills/Other/image-ocr/SKILL.md
+  source_metadata:
+    repository: aipoch/medical-research-skills
+    manifest_path: scientific-skills/Other/image-ocr/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: aipoch/medical-research-skills
+manifest_path: scientific-skills/Other/image-ocr/SKILL.md
+capabilities: {}

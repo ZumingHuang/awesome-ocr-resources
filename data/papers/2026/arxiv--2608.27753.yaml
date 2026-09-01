@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:2608.27753
+kind: paper
+name: What Can Low Resource Languages Learn From Each Other?
+released_at:
+  value: '2026-08-27'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: 'Despite the rapid advancement of Vision-Language Models (VLMs), their linguistic reach remains
+  largely confined to high-resource languages, leaving the majority of the world''s 7,000+ living languages
+  on the wrong side of a growing digital divide. This disparity is especially pronounced in Optical Character
+  Recognition (OCR), where low-resource scripts lack the massive datasets required for traditional scaling
+  laws. We investigate OCR adaptation in extreme data-scarce regimes (<10K real and <250K synthetic images),
+  demonstrating that conventional fine-tuning strategies often reach a performance ceiling. Our key finding
+  reveals a structural inefficiency in language-specific adaptation: while higher layers of specialized
+  models diverge to capture unique script nuances, the lower layers learn redundant, highly similar features.
+  Motivated by this observation, we propose PSMC (Pre-train, Specialize, Merge, and Co-train), a data-efficient
+  framework that capitalizes on a cross-script "transfer effect". Our approach first derives language-specific
+  experts from a high-resource base model, then employs task arithmetic to fuse these experts into a unified,
+  high-performance multilingual back- bone. Extensive evaluation across 10 Indian scripts (supporting
+  20+ languages) shows that PSMC achieves a ~2% average improvement in Word Recognition Rate (WRR) over
+  individual specialist models without increasing parameter count. Our results indicate that joint training
+  in the merged latent space facilitates a constructive knowledge transfer that benefits all constituent
+  scripts, providing a scalable pathway for inclusive VLM development. Source code and datasets will be
+  released post publication.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2608.27753
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2608.27753
+  discovered_via: arxiv
+  discovered_at: '2026-08-31'
+  source_id: '2608.27753'
+  source_metadata:
+    arxiv_id: '2608.27753'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Achyuth P
+- Kahaan Shah
+- Chetan Arora
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2608.27753'

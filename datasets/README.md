@@ -4,6 +4,309 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SeeWye/NFA_OCR_qwen_sft_format_test6](https://huggingface.co/datasets/SeeWye/NFA_OCR_qwen_sft_format_test6) | 2026-08-31 | text-recognition | candidate | — |
+| [tetrak/armenian-ocr-crops](https://huggingface.co/datasets/tetrak/armenian-ocr-crops) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Tetrak Armenian OCR crops
+	
+
+Training data for tetrak_hy, the Armenian text recogniser we are
+building as an EasyOCR custom model in
+tetrak-hy-trainer
+for Tetrak, an OCR pipeline for community
+archives.
+The dataset has two configurations:
+
+corpus — 1,190 proofread pages of the Armenian Soviet
+Encyclopedia, as plain text with full Wikisource provenance.
+crops — the v0 synthetic pre-training set: 181,800 rendered
+word crops with transcriptions.
+
+
+	
+		
+	
+	
+		The corpus configuration… See the full description on the dataset page: https://huggingface.co/datasets/tetrak/armenian-ocr-crops. |
+| [Reza2kn/persian-ocr-gemini37-wins-bina-misses-viewer](https://huggingface.co/datasets/Reza2kn/persian-ocr-gemini37-wins-bina-misses-viewer) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Gemini 3.7 exact / Bina miss OCR crops
+	
+
+53 non-empty bbox crops from the PersianVLM submitted-10 benchmark where
+google/gemini-3.7-flash was normalized-exact and Bina Koochik 0.1 was not.
+This is a minimal Hugging Face ImageFolder dataset for reliable viewer support.
+It contains exactly two columns: image and ocr. The ocr value is Gemini's
+actual output for the corresponding crop.
+ |
+| [Reza2kn/persian-ocr-gemini37-wins-bina-misses-v2](https://huggingface.co/datasets/Reza2kn/persian-ocr-gemini37-wins-bina-misses-v2) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Gemini 3.7 exact / Bina miss OCR crops
+	
+
+53 non-empty bbox crops from the PersianVLM submitted-10 benchmark where
+google/gemini-3.7-flash produced a normalized-exact transcription and
+Bina Koochik 0.1 did not.
+This release uses the standard Hugging Face ImageFolder layout. The viewer's
+first column is image, followed by ocr containing Gemini's actual output.
+Gold and Bina outputs are retained for comparison.
+ |
+| [Reza2kn/persian-ocr-gemini37-wins-bina-misses-parquet](https://huggingface.co/datasets/Reza2kn/persian-ocr-gemini37-wins-bina-misses-parquet) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Gemini 3.7 exact / Bina miss OCR crops
+	
+
+53 bbox crops. Columns: image and ocr.
+ |
+| [Reza2kn/persian-ocr-gemini37-wins-bina-misses](https://huggingface.co/datasets/Reza2kn/persian-ocr-gemini37-wins-bina-misses) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Gemini 3.7 vs Bina OCR comparison crops
+	
+
+53 non-empty bbox crops where Gemini 3.7 Flash was normalized-exact and Bina
+Koochik 0.1 was not. The first columns are image, gemini_ocr, bina_ocr,
+and gold_text for direct visual and OCR comparison.
+ |
+| [Formian/ocra-v2.1](https://huggingface.co/datasets/Formian/ocra-v2.1) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		O-CRA Model Disposition Scores (V2.1)
+	
+
+Organizational Cognitive Resonance & Alignment (O-CRA) is a framework for measuring the disposition of AI language models — not their benchmark performance, but their underlying behavioural tendencies across six dimensions that determine how they fit into organisations and workflows.
+This dataset contains disposition scores for 135 models from 29 labs, tested under the V2.1 protocol across 203+ scenarios. It is the current public reference… See the full description on the dataset page: https://huggingface.co/datasets/Formian/ocra-v2.1. |
+| [Formian-Labs/ocra-v2.1](https://huggingface.co/datasets/Formian-Labs/ocra-v2.1) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Which AI Model Fits Your Organisation?
+	
+
+Disposition scores for 135 AI language models from 29 labs — O-CRA V2.1
+Organizational Cognitive Resonance & Alignment (O-CRA) is a framework for measuring the disposition of AI language models — not their benchmark performance, but their underlying behavioural tendencies across six dimensions that determine how they fit into organisations and workflows.
+This dataset contains disposition scores for 135 models from 29 labs, tested under the… See the full description on the dataset page: https://huggingface.co/datasets/Formian-Labs/ocra-v2.1. |
+| [Emulated-Inc/captcha-ocr-verifier](https://huggingface.co/datasets/Emulated-Inc/captcha-ocr-verifier) | 2026-08-30 | text-recognition | candidate | — |
+| [elliot-mllm/ureader_ocr_cleaned](https://huggingface.co/datasets/elliot-mllm/ureader_ocr_cleaned) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		ureader_ocr_cleaned
+	
+
+The ureader_ocr__x family of the ElliotVL supervised-fine-tuning pool, after VLM cleaning.
+
+	
+		
+
+
+
+
+		
+images
+862
+
+
+QA turns
+6,038
+
+
+answers rewritten by the cleaning pass
+403
+
+
+QA created by the cleaning pass (new_qa)
+3,952 (65.5%)
+
+
+shards
+1
+
+
+	
+
+
+	
+		
+	
+	
+		How this was cleaned
+	
+
+A vision-language model read each image together with its QA and judged the item. The pass is
+not a filter that only removes rows — it rewrites answers it finds wrong but… See the full description on the dataset page: https://huggingface.co/datasets/elliot-mllm/ureader_ocr_cleaned. |
+| [elliot-mllm/OCRVQA_RS_nothink](https://huggingface.co/datasets/elliot-mllm/OCRVQA_RS_nothink) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCRVQA — OCRVQA_RS_nothink
+	
+
+Rejection-sampled from the OCRVQA train split. This split holds the accepted items, answer only.
+
+	
+		
+
+
+
+
+		
+rows
+450,389
+
+
+QA pairs
+1,298,217
+
+
+shards
+1959
+
+
+accepted / rejected (whole family)
+1,298,217 / 794,326
+
+
+accept rate
+62.0%
+
+
+verifier
+anls
+
+
+	
+
+
+	
+		
+	
+	
+		How the data was produced
+	
+
+A VLM answers every question at temperature 0 with reasoning enabled. Its answer is compared with
+the official ground truth by the verifier described below;… See the full description on the dataset page: https://huggingface.co/datasets/elliot-mllm/OCRVQA_RS_nothink. |
+| [elliot-mllm/latex_ocr_cleaned](https://huggingface.co/datasets/elliot-mllm/latex_ocr_cleaned) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		latex_ocr_cleaned
+	
+
+The latex_ocr__x family of the ElliotVL supervised-fine-tuning pool, after VLM cleaning.
+
+	
+		
+
+
+
+
+		
+images
+72,345
+
+
+QA turns
+132,970
+
+
+answers rewritten by the cleaning pass
+7,072
+
+
+QA created by the cleaning pass (new_qa)
+66,310 (49.9%)
+
+
+shards
+1
+
+
+	
+
+
+	
+		
+	
+	
+		How this was cleaned
+	
+
+A vision-language model read each image together with its QA and judged the item. The pass is
+not a filter that only removes rows — it rewrites answers it finds wrong but… See the full description on the dataset page: https://huggingface.co/datasets/elliot-mllm/latex_ocr_cleaned. |
+| [elliot-mllm/invoices-and-receipts_ocr_cleaned](https://huggingface.co/datasets/elliot-mllm/invoices-and-receipts_ocr_cleaned) | 2026-08-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		invoices-and-receipts_ocr_cleaned
+	
+
+The invoices-and-receipts_ocr__x family of the ElliotVL supervised-fine-tuning pool, after VLM cleaning.
+
+	
+		
+
+
+
+
+		
+images
+2,221
+
+
+QA turns
+7,696
+
+
+answers rewritten by the cleaning pass
+1,517
+
+
+QA created by the cleaning pass (new_qa)
+4,651 (60.4%)
+
+
+shards
+4
+
+
+	
+
+
+	
+		
+	
+	
+		How this was cleaned
+	
+
+A vision-language model read each image together with its QA and judged the item. The pass is
+not a filter that only removes rows — it rewrites… See the full description on the dataset page: https://huggingface.co/datasets/elliot-mllm/invoices-and-receipts_ocr_cleaned. |
+| [abzoo/egyptian-id-ocr](https://huggingface.co/datasets/abzoo/egyptian-id-ocr) | 2026-08-30 | text-recognition | candidate | — |
+| [SeeWye/NFA_OCR_reinforcement_learning_format_TEST6](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST6) | 2026-08-29 | text-recognition | candidate | — |
+| [SeeWye/NFA_OCR_reinforcement_learning_format_TEST5](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST5) | 2026-08-29 | text-recognition | candidate | — |
 | [SeeWye/NFA_OCR_reinforcement_learning_format_TEST4](https://huggingface.co/datasets/SeeWye/NFA_OCR_reinforcement_learning_format_TEST4) | 2026-08-28 | text-recognition | candidate | — |
 | [Reza2kn/persian-ocr-bench-submitted10-bbox-crops](https://huggingface.co/datasets/Reza2kn/persian-ocr-bench-submitted10-bbox-crops) | 2026-08-28 | text-recognition | candidate | 
 	

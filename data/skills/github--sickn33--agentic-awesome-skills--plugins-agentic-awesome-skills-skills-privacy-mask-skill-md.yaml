@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:sickn33/agentic-awesome-skills:plugins-agentic-awesome-skills-skills-privacy-mask-skill-md
+kind: skill
+name: sickn33/agentic-awesome-skills / plugins/agentic-awesome-skills/skills/privacy-mask/SKILL.md
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/sickn33/agentic-awesome-skills/blob/c559ef43b90e9ce4059a50580991f3bad8909ea1/plugins/agentic-awesome-skills/skills/privacy-mask/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/sickn33/agentic-awesome-skills/blob/c559ef43b90e9ce4059a50580991f3bad8909ea1/plugins/agentic-awesome-skills/skills/privacy-mask/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: sickn33/agentic-awesome-skills:plugins/agentic-awesome-skills/skills/privacy-mask/SKILL.md
+  source_metadata:
+    repository: sickn33/agentic-awesome-skills
+    manifest_path: plugins/agentic-awesome-skills/skills/privacy-mask/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: sickn33/agentic-awesome-skills
+manifest_path: plugins/agentic-awesome-skills/skills/privacy-mask/SKILL.md
+capabilities: {}

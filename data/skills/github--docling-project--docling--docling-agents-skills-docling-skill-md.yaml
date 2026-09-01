@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:docling-project/docling:docling-agents-skills-docling-skill-md
+kind: skill
+name: docling-project/docling / docling/.agents/skills/docling/SKILL.md
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/docling-project/docling/blob/d2283addd8b20d8f27dcf8e5f97b958165cbe7ca/docling/.agents/skills/docling/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/docling-project/docling/blob/d2283addd8b20d8f27dcf8e5f97b958165cbe7ca/docling/.agents/skills/docling/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: docling-project/docling:docling/.agents/skills/docling/SKILL.md
+  source_metadata:
+    repository: docling-project/docling
+    manifest_path: docling/.agents/skills/docling/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: docling-project/docling
+manifest_path: docling/.agents/skills/docling/SKILL.md
+capabilities: {}

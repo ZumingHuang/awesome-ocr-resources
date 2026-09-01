@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:PakshalGada/palimind:skills-architecture-skill-md
+kind: skill
+name: PakshalGada/palimind / skills/architecture/SKILL.md
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-08-31'
+last_verified_at: '2026-08-31'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/PakshalGada/palimind/blob/6cde9f36a471991bb06987b5b3f10f7929ab0267/skills/architecture/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/PakshalGada/palimind/blob/6cde9f36a471991bb06987b5b3f10f7929ab0267/skills/architecture/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-08-31'
+  source_id: PakshalGada/palimind:skills/architecture/SKILL.md
+  source_metadata:
+    repository: PakshalGada/palimind
+    manifest_path: skills/architecture/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: PakshalGada/palimind
+manifest_path: skills/architecture/SKILL.md
+capabilities: {}

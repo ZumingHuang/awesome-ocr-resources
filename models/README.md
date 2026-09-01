@@ -4,8 +4,19 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [mohameddalii/ocr-mt-asr-5090](https://huggingface.co/mohameddalii/ocr-mt-asr-5090) | 2026-08-31 | text-recognition | candidate | — |
+| [Yuhdeqa/manga-ocr-key](https://huggingface.co/Yuhdeqa/manga-ocr-key) | 2026-08-30 | text-recognition | candidate | — |
+| [Legad/hunyuan-ocr-scangas](https://huggingface.co/Legad/hunyuan-ocr-scangas) | 2026-08-30 | text-recognition | candidate | — |
+| [JustANormalTinkerer/hayai-ocr-v2-onnx](https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2-onnx) | 2026-08-30 | text-recognition | candidate | — |
+| [Formian/ocra-v2.1](https://huggingface.co/Formian/ocra-v2.1) | 2026-08-30 | text-recognition | candidate | — |
+| [abzoo/gemma4-e2b-egyptian-id-ocr-lora](https://huggingface.co/abzoo/gemma4-e2b-egyptian-id-ocr-lora) | 2026-08-30 | text-recognition | candidate | — |
+| [abzoo/gemma4-e2b-egyptian-id-ocr](https://huggingface.co/abzoo/gemma4-e2b-egyptian-id-ocr) | 2026-08-30 | text-recognition | candidate | — |
+| [sarmisarmitha/trocr-sinhala-handwritten-ocr](https://huggingface.co/sarmisarmitha/trocr-sinhala-handwritten-ocr) | 2026-08-29 | handwriting-recognition, text-recognition | candidate | — |
 | [nakanishi08/Qwen3.5-ocr-jp-2b-GGUF](https://huggingface.co/nakanishi08/Qwen3.5-ocr-jp-2b-GGUF) | 2026-08-29 | text-recognition | candidate | — |
+| [dkovalen/markone-ocr-weights](https://huggingface.co/dkovalen/markone-ocr-weights) | 2026-08-29 | handwriting-recognition, text-recognition | candidate | — |
 | [cadgecharm/PP-OCRv6-tiny-mnn](https://huggingface.co/cadgecharm/PP-OCRv6-tiny-mnn) | 2026-08-29 | text-recognition | candidate | — |
+| [cadgecharm/PP-OCRv6-mnn](https://huggingface.co/cadgecharm/PP-OCRv6-mnn) | 2026-08-29 | text-recognition | candidate | — |
+| [adityarajsahu/LaTeX-OCR](https://huggingface.co/adityarajsahu/LaTeX-OCR) | 2026-08-29 | text-recognition | candidate | — |
 | [tianliu1011x/ocr-freeform-review](https://huggingface.co/tianliu1011x/ocr-freeform-review) | 2026-08-28 | text-recognition | candidate | — |
 | [thaovytran/study-ocr-freeform](https://huggingface.co/thaovytran/study-ocr-freeform) | 2026-08-28 | text-recognition | candidate | — |
 | [surendran0m07/anpr-ocr](https://huggingface.co/surendran0m07/anpr-ocr) | 2026-08-28 | text-recognition | candidate | — |
@@ -24,6 +35,7 @@
 | [joshuadavie/ocr-freeform-survey](https://huggingface.co/joshuadavie/ocr-freeform-survey) | 2026-08-28 | text-recognition | candidate | — |
 | [honokasqy/cs229-ocr-freeform](https://huggingface.co/honokasqy/cs229-ocr-freeform) | 2026-08-28 | text-recognition | candidate | — |
 | [furkancmc/kadim-ocr-lora](https://huggingface.co/furkancmc/kadim-ocr-lora) | 2026-08-28 | text-recognition | candidate | — |
+| [fumetodev/PP-OCRv6_small_rec_manga_ONNX](https://huggingface.co/fumetodev/PP-OCRv6_small_rec_manga_ONNX) | 2026-08-28 | text-recognition | candidate | — |
 | [fumetodev/PP-OCRv6_small_rec_manga](https://huggingface.co/fumetodev/PP-OCRv6_small_rec_manga) | 2026-08-28 | text-recognition | candidate | — |
 | [floriankfk/ocr-freeform-2023](https://huggingface.co/floriankfk/ocr-freeform-2023) | 2026-08-28 | text-recognition | candidate | — |
 | [bintangpsl/ocr-freeform](https://huggingface.co/bintangpsl/ocr-freeform) | 2026-08-28 | text-recognition | candidate | — |
