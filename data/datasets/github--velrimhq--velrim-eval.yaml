@@ -1,0 +1,54 @@
+schema_version: 1
+id: dataset:github:velrimhq/velrim-eval
+kind: dataset
+name: Velrim absent-field extraction bake-off (velrim-eval)
+released_at:
+  value: '2026-09-02'
+  precision: day
+added_at: '2026-09-02'
+last_verified_at: '2026-09-02'
+summary: Pre-registered six-arm benchmark of fabrication on absent fields in schema-guided
+  document extraction, with the eval CLI that scores it. 124 real documents and 2,102 labeled
+  fields from CORD-v2 receipts, DeepForm FCC invoices and VRDU ad-buy contracts and registration
+  forms, hand-audited absent-field labels plus planted probe fields, and every raw per-field output
+  with request IDs from six systems (Gemini 2.5 Flash x2, GPT-5.4-mini x2, Mistral Document AI OCR,
+  Velrim). Analysis plan committed publicly before the first paid call; re-scoring the published
+  outputs needs no API keys. Disclosure - Velrim ran the comparison and is one of the six systems.
+tasks:
+- key-information-extraction
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/velrimhq/velrim-eval
+  homepage: https://velrim.com/research/fabrication-on-absent-fields
+  paper: https://doi.org/10.5281/zenodo.22233430
+  code: https://github.com/velrimhq/velrim-eval
+  dataset: https://github.com/velrimhq/velrim-eval
+license:
+  name: Apache-2.0 (code and results); CC-BY-4.0 / MIT (source corpora, see ATTRIBUTIONS.md)
+  url: https://github.com/velrimhq/velrim-eval/blob/main/ATTRIBUTIONS.md
+relations: []
+provenance:
+  canonical_source: https://github.com/velrimhq/velrim-eval
+  discovered_via: manual
+  discovered_at: '2026-09-02'
+  source_id: velrimhq/velrim-eval
+  source_metadata:
+    repository: velrimhq/velrim-eval
+    doi: 10.5281/zenodo.22233430
+    submitted_by: resource owner (Velrim)
+  legacy_duplicates: []
+curation:
+  status: candidate
+provider: Velrim
+repository_id: velrimhq/velrim-eval
+usage:
+- benchmark
+sample_count: 124
+annotations:
+- per-field golden labels
+- hand-audited absent-field labels
+- planted probe fields
+access: open
