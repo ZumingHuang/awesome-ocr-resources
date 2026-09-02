@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:wuvictor/work-document-ocr
+kind: dataset
+name: wuvictor/work-document-ocr
+released_at:
+  value: '2026-09-01'
+  precision: day
+added_at: '2026-09-01'
+last_verified_at: '2026-09-01'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Image Audio Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nA documented Document OCR data-preparation workflow for Image Audio records.\
+  \ The bundled rows demonstrate the schema and validation path rather than pretending to be a full training\
+  \ corpus.\n\n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nbuild_dataset.py — loading, cleaning,\
+  \ and split preparation code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl\
+  \ — small, human-readable records for checking the schema.… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/wuvictor/work-document-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/wuvictor/work-document-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/wuvictor/work-document-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-01'
+  source_id: wuvictor/work-document-ocr
+  source_metadata:
+    repository_id: wuvictor/work-document-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: wuvictor
+repository_id: wuvictor/work-document-ocr
+usage: []
+annotations: []
+access: unknown

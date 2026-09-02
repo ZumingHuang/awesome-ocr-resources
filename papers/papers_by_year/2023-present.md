@@ -37,6 +37,10 @@ Mustafa Sertaç Türkel, Fatma Nur Korkmaz, Ahmet Tuğrul Bayrak
 Siqi Xiang, Zhipeng Xu, Yufei Liu, Junhao Ji, Qing Liu, Zulong Chen, Zhibo Yang, Chunyan Miao, Shijian Lu
 \[document-vqa\]\[formula-recognition\]\[text-recognition\]
 
+**DocIntent: Answerability-Guided Agentic Restoration for Real-World Document Visual Question Answering**
+Zihan Huang, Shihang Wu, Junle Liu, Peirong Zhang, Yongxin Shi, Xuhan Zheng, Lianwen Jin
+\[document-vqa\]
+
 **DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**
 Dongyang Xie, Yao Tian, Hao Zhang, Yifei Yuan, Tieyun Qian, Ming Zhong, Jiawei Jiang, Yuanyuan Zhu
 \[document-vqa\]
@@ -105,6 +109,10 @@ Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu,
 Jingping Zhu, Hongping Wang, Xiaoqi Li
 \[document-parsing\]
 
+**MUDDLE: Measuring Understanding of Documents under Distractor and Length Effects**
+Jason Luo, Saibilila Abudukelimu, Judy Song, Andrew Feng, Shivank Garg, Vasu Sharma, Kevin Zhu
+\[document-vqa\]
+
 **Multi-Layer Context Camouflaging: A Semantic Superposition and Contextual Lamination Framework for Malpractice-Resilient Online Assessment**
 Gupta Lovi Raj, Kaur Kamalpreet, Dama Sri Ram, Parani Prajithaa
 \[formula-recognition\]\[text-recognition\]
@@ -112,6 +120,10 @@ Gupta Lovi Raj, Kaur Kamalpreet, Dama Sri Ram, Parani Prajithaa
 **NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents**
 Peng Cai, Zhaofan Zou, Shifa Liu, Yikun Wang, Jiawei Tang, Kaicheng Yang, Meng Tong, Zhongjiang He, Hao Sun
 \[table-recognition\]\[formula-recognition\]\[document-layout-analysis\]\[document-parsing\]\[text-recognition\]
+
+**OCR-MetaReasoning Benchmark: Evaluating the Meta-Reasoning Ability of MLLMs in Text-Rich Image Understanding**
+Gengxu Li, Yuan Wu, Yi Chang
+\[text-recognition\]
 
 **OmniHandwritingOCR: A Diagnostic Benchmark for Evaluating Multimodal LLMs in Handwritten OCR Scenarios**
 Zinuo Guo, Min Zhang, Bo Jiang
@@ -136,6 +148,10 @@ Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 **Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
 Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang
 \[handwriting-recognition\]\[text-recognition\]
+
+**State-Conditioned Visual Evidence Retrieval for Fine-Grained Perception in Document Vision-Language Models**
+Mingxu Chai, Chenyu Liu, Ziyu Shen, Jiazheng Zhang, Kaidi Zhang, Ruoyu Chen, Jun Long, Jihua Kang, Tao Gui, Qi Zhang
+\[formula-recognition\]\[document-parsing\]
 
 **Systematic Literature Review of Machine Learning Models and Applications for Text Recognition**
 Nuzhat Khan, Ab Al-Hadi Ab Rahman, Shahriyar Masud Rizvi, Ibrahim Yousef Alshareef, Muhammad Nadzir Marsono, Muhammad Paend Bakht, Mohd Shahrizal Rusli, Shahidatul Sadiah

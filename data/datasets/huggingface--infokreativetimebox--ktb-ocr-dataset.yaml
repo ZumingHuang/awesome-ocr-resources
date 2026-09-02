@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:infokreativetimebox/ktb-ocr-dataset
+kind: dataset
+name: infokreativetimebox/ktb-ocr-dataset
+released_at:
+  value: '2026-08-31'
+  precision: day
+added_at: '2026-09-01'
+last_verified_at: '2026-09-01'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tPDFA OCR Dataset\n\t\n\nCurated and Published by KREATIVE TIME BOX\n\
+  This dataset contains document page images along with their corresponding OCR layout bounding box annotations\
+  \ derived from PDFA document extraction pipelines.\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Overview\n\t\n\
+  \n\nOrganization / Creator: KREATIVE TIME BOX\nTotal Images: 42,627 PNG files (~19 GB)\nTotal JSON Annotations:\
+  \ 42,628 JSON files (~322 MB)\nImage Format: PNG (RGB document page renders)\nAnnotation Format: JSON\
+  \ with text lines… See the full description on the dataset page: https://huggingface.co/datasets/infokreativetimebox/ktb-ocr-dataset."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/infokreativetimebox/ktb-ocr-dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/infokreativetimebox/ktb-ocr-dataset
+  discovered_via: huggingface
+  discovered_at: '2026-09-01'
+  source_id: infokreativetimebox/ktb-ocr-dataset
+  source_metadata:
+    repository_id: infokreativetimebox/ktb-ocr-dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: infokreativetimebox
+repository_id: infokreativetimebox/ktb-ocr-dataset
+usage: []
+annotations: []
+access: unknown

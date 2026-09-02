@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:srilubis/document-ocr-corpus50-2023
+kind: dataset
+name: srilubis/document-ocr-corpus50-2023
+released_at:
+  value: '2026-09-01'
+  precision: day
+added_at: '2026-09-01'
+last_verified_at: '2026-09-01'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Sensor Fusion Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nThis repository contains a preparation pipeline and a small metadata sample for\
+  \ Document OCR work with Sensor Fusion inputs. It does not claim to be a complete benchmark release;\
+  \ the loader documents how source data is normalized and validated.\n\n\t\n\t\t\n\t\n\t\n\t\tIncluded\
+  \ material\n\t\n\n\npreprocess.py — loading, cleaning, and split preparation code.\ndataset_infos.json\
+  \ — schema and split metadata.\nmetadata_sample.jsonl —… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/srilubis/document-ocr-corpus50-2023."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/srilubis/document-ocr-corpus50-2023
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/srilubis/document-ocr-corpus50-2023
+  discovered_via: huggingface
+  discovered_at: '2026-09-01'
+  source_id: srilubis/document-ocr-corpus50-2023
+  source_metadata:
+    repository_id: srilubis/document-ocr-corpus50-2023
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: srilubis
+repository_id: srilubis/document-ocr-corpus50-2023
+usage: []
+annotations: []
+access: unknown

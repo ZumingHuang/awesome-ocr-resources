@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:PadishahIIIXXX/latex-ocr
+kind: model
+name: PadishahIIIXXX/latex-ocr
+released_at:
+  value: '2026-09-01'
+  precision: day
+added_at: '2026-09-01'
+last_verified_at: '2026-09-01'
+summary: ''
+tasks:
+- formula-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/PadishahIIIXXX/latex-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/PadishahIIIXXX/latex-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-01'
+  source_id: PadishahIIIXXX/latex-ocr
+  source_metadata:
+    repository_id: PadishahIIIXXX/latex-ocr
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: PadishahIIIXXX
+repository_id: PadishahIIIXXX/latex-ocr
+deployment: []
