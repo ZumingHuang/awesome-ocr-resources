@@ -4,13 +4,17 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [runanywhere/nemotron-ocr-v1-full_ANE](https://huggingface.co/runanywhere/nemotron-ocr-v1-full_ANE) | 2026-09-02 | text-recognition | candidate | — |
+| [Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection](https://huggingface.co/Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection) | 2026-09-02 | handwriting-recognition, text-recognition | candidate | — |
 | [PadishahIIIXXX/latex-ocr](https://huggingface.co/PadishahIIIXXX/latex-ocr) | 2026-09-01 | formula-recognition, text-recognition | candidate | — |
+| [Fazmin/solus_v1_unlimited-ocr-q5](https://huggingface.co/Fazmin/solus_v1_unlimited-ocr-q5) | 2026-09-01 | text-recognition | candidate | — |
 | [Blancokkk/GTM001-expert-ocr2](https://huggingface.co/Blancokkk/GTM001-expert-ocr2) | 2026-09-01 | text-recognition | candidate | — |
 | [Axfernandez/ocr-freeform](https://huggingface.co/Axfernandez/ocr-freeform) | 2026-09-01 | text-recognition | candidate | — |
 | [vaishnavi0901/gemma-4-31b-kannada-ocr-smoketest](https://huggingface.co/vaishnavi0901/gemma-4-31b-kannada-ocr-smoketest) | 2026-08-31 | text-recognition | candidate | — |
 | [riyaguptadale/dissertation-ocr-freeform](https://huggingface.co/riyaguptadale/dissertation-ocr-freeform) | 2026-08-31 | text-recognition | candidate | — |
 | [Raphael2099/chujian-ocr-models](https://huggingface.co/Raphael2099/chujian-ocr-models) | 2026-08-31 | text-recognition | candidate | — |
 | [mohameddalii/ocr-mt-asr-5090](https://huggingface.co/mohameddalii/ocr-mt-asr-5090) | 2026-08-31 | text-recognition | candidate | — |
+| [ArkAiLab-Adl/nexora-ocr-v0.1-0.8b](https://huggingface.co/ArkAiLab-Adl/nexora-ocr-v0.1-0.8b) | 2026-08-31 | text-recognition | candidate | — |
 | [Yuhdeqa/manga-ocr-key](https://huggingface.co/Yuhdeqa/manga-ocr-key) | 2026-08-30 | text-recognition | candidate | — |
 | [Legad/hunyuan-ocr-scangas](https://huggingface.co/Legad/hunyuan-ocr-scangas) | 2026-08-30 | text-recognition | candidate | — |
 | [JustANormalTinkerer/hayai-ocr-v2-onnx](https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2-onnx) | 2026-08-30 | text-recognition | candidate | — |
