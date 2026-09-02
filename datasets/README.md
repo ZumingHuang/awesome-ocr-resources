@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Velrim absent-field extraction bake-off (velrim-eval)](https://github.com/velrimhq/velrim-eval) | 2026-09-02 | key-information-extraction | candidate | Pre-registered six-arm benchmark of fabrication on absent fields in schema-guided document extraction, with the eval CLI that scores it. 124 real documents and 2,102 labeled fields from CORD-v2 receipts, DeepForm FCC invoices and VRDU ad-buy contracts and registration forms, hand-audited absent-field labels plus planted probe fields, and every raw per-field output with request IDs from six systems (Gemini 2.5 Flash x2, GPT-5.4-mini x2, Mistral Document AI OCR, Velrim). Analysis plan committed publicly before the first paid call; re-scoring the published outputs needs no API keys. Disclosure - Velrim ran the comparison and is one of the six systems. |
 | [wuvictor/work-document-ocr](https://huggingface.co/datasets/wuvictor/work-document-ocr) | 2026-09-01 | text-recognition | candidate | 
 	
 		
