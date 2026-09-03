@@ -4,6 +4,32 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [TajikNLPWorld/tajik-ocr](https://huggingface.co/datasets/TajikNLPWorld/tajik-ocr) | 2026-09-02 | text-recognition | candidate | 
+	
+		
+	
+	
+		Dataset Card for TajikOCR
+	
+
+
+	
+		
+	
+	
+		Dataset Details
+	
+
+
+	
+		
+	
+	
+		Dataset Description
+	
+
+TajikOCR is a synthetic dataset of page images containing texts in Tajik (Cyrillic script). The pages imitate old book leaves with classical poetry (Ferdowsi, Saadi, Rumi, Nizami, Bedil, Asadi, and others). Each page features various backgrounds (from plain white to aged paper with vignetting), borders, ornaments, and realistic defects (noise, blur, ink stains, folds, fiber texture). The… See the full description on the dataset page: https://huggingface.co/datasets/TajikNLPWorld/tajik-ocr. |
+| [abzoo/arabic-names-synthetic-ocr](https://huggingface.co/datasets/abzoo/arabic-names-synthetic-ocr) | 2026-09-02 | text-recognition | candidate | — |
 | [wuvictor/work-document-ocr](https://huggingface.co/datasets/wuvictor/work-document-ocr) | 2026-09-01 | text-recognition | candidate | 
 	
 		
