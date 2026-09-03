@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection
+kind: model
+name: Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection
+released_at:
+  value: '2026-09-02'
+  precision: day
+added_at: '2026-09-02'
+last_verified_at: '2026-09-02'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection
+  discovered_via: huggingface
+  discovered_at: '2026-09-02'
+  source_id: Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection
+  source_metadata:
+    repository_id: Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Mun2
+repository_id: Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection
+deployment: []

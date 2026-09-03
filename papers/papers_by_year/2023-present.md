@@ -25,6 +25,10 @@ Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
 \[handwriting-recognition\]\[text-recognition\]
 
+**Can Scene Text Recognition Read Rare Compositions?**
+Genpei Zhang
+\[text-recognition\]
+
 **Code as Representation: A Compilable Parsing Paradigm for Academic Documents**
 Rihui Jin, Jun Wang, chengyuan zhu, Liang Mingyu, Yue Gao, Li Yunxuan, Kuicai Dong, Guilin Qi, Lin Ren, Yongrui Chen, Xinbang Dai, Jiaqi Li, Tongtong Wu, Gholamreza Haffari
 \[formula-recognition\]\[document-parsing\]

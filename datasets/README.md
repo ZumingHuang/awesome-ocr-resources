@@ -128,6 +128,7 @@ from datasets import load_dataset
 ds = load_dataset("ram-lexsi/curatorkit-testrun-OCR")
 
  |
+| [JustANormalTinkerer/animetext-ocr](https://huggingface.co/datasets/JustANormalTinkerer/animetext-ocr) | 2026-09-01 | text-recognition | candidate | — |
 | [yadavrajesh/document-ocr-dataset96](https://huggingface.co/datasets/yadavrajesh/document-ocr-dataset96) | 2026-08-31 | text-recognition | candidate | 
 	
 		
