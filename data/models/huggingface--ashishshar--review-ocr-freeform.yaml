@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:ashishshar/review-ocr-freeform
+kind: model
+name: ashishshar/review-ocr-freeform
+released_at:
+  value: '2026-09-03'
+  precision: day
+added_at: '2026-09-03'
+last_verified_at: '2026-09-03'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/ashishshar/review-ocr-freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/ashishshar/review-ocr-freeform
+  discovered_via: huggingface
+  discovered_at: '2026-09-03'
+  source_id: ashishshar/review-ocr-freeform
+  source_metadata:
+    repository_id: ashishshar/review-ocr-freeform
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: ashishshar
+repository_id: ashishshar/review-ocr-freeform
+deployment: []

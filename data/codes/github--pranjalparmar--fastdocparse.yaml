@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:pranjalparmar/fastdocparse
+kind: code
+name: pranjalparmar/fastdocparse
+released_at:
+  value: '2026-08-29'
+  precision: day
+added_at: '2026-09-03'
+last_verified_at: '2026-09-03'
+summary: Extract structured data from semi-structured documents using any OpenAI-compatible LLM, with
+  per-field grounding and confidence.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/pranjalparmar/fastdocparse
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/pranjalparmar/fastdocparse
+  discovered_via: github
+  discovered_at: '2026-09-03'
+  source_id: R_kgDOUH66oQ
+  source_metadata:
+    repository: pranjalparmar/fastdocparse
+    stars: 10
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: pranjalparmar/fastdocparse
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active
