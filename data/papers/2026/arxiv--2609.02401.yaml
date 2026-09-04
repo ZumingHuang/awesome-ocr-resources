@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:2609.02401
+kind: paper
+name: 'CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction'
+released_at:
+  value: '2026-09-02'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: 'Autoregressive vision language models unify heterogeneous perception tasks but are highly susceptible
+  to compounding errors. On-policy distillation (OPD) bridges the training-inference mismatch by training
+  students on their own rollouts. However, unreliable student predictions, especially early in training,
+  can derail the trajectory and degrade the quality of teacher supervision. While recent interleaved distillation
+  methods allow the teacher to verify and replace student tokens, they primarily rely on rigid ranking
+  metrics rather than exact teacher confidence, and they overlook how intervention decisions can inform
+  token-level supervision. To address this, we introduce Confidence-Aware On-Policy Distillation (CA-OPD),
+  a framework that couples reliable rollout construction with adaptive supervision. CA-OPD utilizes teacher
+  confidence to selectively correct unreliable student transitions, gradually transferring rollout control
+  to the student via a strict-to-relaxed schedule. Crucially, CA-OPD aligns knowledge transfer with these
+  intervention decisions: corrected positions receive direct cross-entropy supervision from the teacher''s
+  prediction, while retained positions benefit from the teacher''s full predictive distribution. Evaluated
+  in a multi-teacher setting for GUI grounding and optical character recognition, CA-OPD substantially
+  improves the Qwen3.5-0.8B baseline across all six target benchmarks, including gains of $9.50$ points
+  on ScreenSpot-Pro and $6.72$ points on OCRBench-v2 English. Controlled studies further show that the
+  gains depend on intervention placement, progressive rollout control, and intervention-aligned supervision,
+  rather than intervention frequency alone.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.02401
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.02401
+  discovered_via: arxiv
+  discovered_at: '2026-09-04'
+  source_id: '2609.02401'
+  source_metadata:
+    arxiv_id: '2609.02401'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Menghao Li
+- Linjie Mu
+- Yin Wang
+- Haotian Hu
+- Yannian Gu
+- Lujiayi Xue
+- Fanyi Wang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.02401'

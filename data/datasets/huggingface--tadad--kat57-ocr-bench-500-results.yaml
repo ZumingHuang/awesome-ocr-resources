@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:tadad/kat57-ocr-bench-500-results
+kind: dataset
+name: tadad/kat57-ocr-bench-500-results
+released_at:
+  value: '2026-09-03'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKat57 OCR benchmark — CER/WER\n\t\n\nStrict reference-based evaluation\
+  \ of 16 OCR models on a deterministic 500-card sample from Lund University Library's Kat57 catalogue-card\
+  \ collection. This result set contains only Character Error Rate (CER) and Word Error Rate (WER); it\
+  \ does not contain VLM judging or ELO ratings.\nThe sample was drawn with seed 57 from tadad/kat57-ground-truth\
+  \ and is published as tadad/kat57-ground-truth-500. The OCR outputs are retained in… See the full description\
+  \ on the dataset page: https://huggingface.co/datasets/tadad/kat57-ocr-bench-500-results."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/tadad/kat57-ocr-bench-500-results
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/tadad/kat57-ocr-bench-500-results
+  discovered_via: huggingface
+  discovered_at: '2026-09-04'
+  source_id: tadad/kat57-ocr-bench-500-results
+  source_metadata:
+    repository_id: tadad/kat57-ocr-bench-500-results
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: tadad
+repository_id: tadad/kat57-ocr-bench-500-results
+usage: []
+annotations: []
+access: unknown

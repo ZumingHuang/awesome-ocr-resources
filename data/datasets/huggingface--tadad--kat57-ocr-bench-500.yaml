@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:tadad/kat57-ocr-bench-500
+kind: dataset
+name: tadad/kat57-ocr-bench-500
+released_at:
+  value: '2026-09-03'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKat57 OCR outputs\n\t\n\nRaw outputs from 16 OCR models on the same\
+  \ deterministic 500-card sample of Lund University Library's Kat57 catalogue-card collection.\nEach\
+  \ model is stored as a separate dataset configuration. Every configuration retains the source card identifiers,\
+  \ image, PAGE XML reference transcription, model output, and inference metadata so the results can be\
+  \ rescored without rerunning inference.\n\nSource sample\nCER/WER results and limitations\nocr-bench…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/tadad/kat57-ocr-bench-500."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/tadad/kat57-ocr-bench-500
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/tadad/kat57-ocr-bench-500
+  discovered_via: huggingface
+  discovered_at: '2026-09-04'
+  source_id: tadad/kat57-ocr-bench-500
+  source_metadata:
+    repository_id: tadad/kat57-ocr-bench-500
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: tadad
+repository_id: tadad/kat57-ocr-bench-500
+usage: []
+annotations: []
+access: unknown

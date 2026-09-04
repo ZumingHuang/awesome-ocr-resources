@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:OCR-Data/ocr_data
+kind: dataset
+name: OCR-Data/ocr_data
+released_at:
+  value: '2026-09-03'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tocr_data\n\t\n\nSynthetic Arabic document images with layout annotations,\
+  \ for OCR training.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\nWebDataset .tar shards. Files sharing a basename\
+  \ are one sample, so the\nimage becomes the image column and the annotation the json column.\ndata/<contributor>_<NNN>.tar\
+  \            originals (PNG + JSON)\ndata_aug/<contributor>_<NNN>_aug<K>.tar augmented variants (JPEG/PNG\
+  \ + JSON)\n\nEach shard holds up to 9990 samples (~1.2 GB). data/ and data_aug/\nare separate so you\
+  \ can train… See the full description on the dataset page: https://huggingface.co/datasets/OCR-Data/ocr_data."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/OCR-Data/ocr_data
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/OCR-Data/ocr_data
+  discovered_via: huggingface
+  discovered_at: '2026-09-04'
+  source_id: OCR-Data/ocr_data
+  source_metadata:
+    repository_id: OCR-Data/ocr_data
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: OCR-Data
+repository_id: OCR-Data/ocr_data
+usage: []
+annotations: []
+access: unknown

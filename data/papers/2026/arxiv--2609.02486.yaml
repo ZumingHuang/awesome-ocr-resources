@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:2609.02486
+kind: paper
+name: 'ViSAR: Training-Free Adaptive-$k$ Retrieval for Visual Document Question Answering'
+released_at:
+  value: '2026-09-02'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: Document Visual Question Answering (DocVQA) often leverages Retrieval-Augmented Generation (RAG),
+  where late-interaction encoders are commonly used to identify document pages relevant to a user query,
+  before answer generation by a Large Vision-Language Model (LVLM). Existing approaches typically retrieve
+  a fixed top-$k$ number of pages regardless of query complexity, which increases LVLM latency and may
+  degrade answer accuracy. We introduce ViSAR (Visual Semantic Activation Retrieval), a training-free
+  adaptive-$k$ retrieval method for late-interaction visual document retrieval. ViSAR operates directly
+  in the embedding space to construct a query-conditioned page-level similarity matrix that highlights
+  query-relevant semantics and dynamically determines the number of pages to retrieve. Across multiple
+  encoders and LVLMs, ViSAR retrieves compact, query-adapted page sets that reduce RAG latency by up to
+  58.7\%, while maintaining or improving answer accuracy compared with fixed top-$k$ and adaptive retrieval
+  heuristics. Furthermore, we show that the similarity matrix structure correlates with answer accuracy,
+  suggesting future directions for retrieval quality-aware document understanding.
+tasks:
+- document-vqa
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.02486
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.02486
+  discovered_via: arxiv
+  discovered_at: '2026-09-04'
+  source_id: '2609.02486'
+  source_metadata:
+    arxiv_id: '2609.02486'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Adrien Mialland
+- Marc Plantevit
+- Julien Gallois
+- Céline Robardet
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.02486'

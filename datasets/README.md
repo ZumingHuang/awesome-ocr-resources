@@ -4,6 +4,205 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [YortHurng/Shan_OCR_Dataset](https://huggingface.co/datasets/YortHurng/Shan_OCR_Dataset) | 2026-09-04 | text-recognition | candidate | — |
+| [ivrit-ai/hebrew-handwriting-ocr-benchmark](https://huggingface.co/datasets/ivrit-ai/hebrew-handwriting-ocr-benchmark) | 2026-09-04 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Hebrew Handwriting OCR Benchmark
+	
+
+A small, human-verified benchmark for OCR / handwritten text recognition (HTR) on
+modern Hebrew handwriting: 225 gold lines across 10 pages, one page per
+writer, drawn from the transcriptor.ivrit.ai
+volunteer transcription corpus.
+This is a test set. There is no train split, by design — it exists to be held
+out. It is deliberately small and clean rather than large and noisy: every line
+was transcribed by at least two volunteers independently and… See the full description on the dataset page: https://huggingface.co/datasets/ivrit-ai/hebrew-handwriting-ocr-benchmark. |
+| [tadad/kat57-ocr-bench-results](https://huggingface.co/datasets/tadad/kat57-ocr-bench-results) | 2026-09-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		Kat57 OCR smoke benchmark results
+	
+
+Exact ground-truth scoring for a 50-card Tesseract integration run over tadad/kat57-ground-truth-smoke. OCR outputs are published in the tesseract config of tadad/kat57-ocr-bench.
+
+	
+		
+Model
+CER
+WER
+Evaluated
+Empty outputs
+Error sentinels
+Skipped references
+
+
+		
+Tesseract 5
+0.4656
+0.8605
+50
+1
+0
+0
+
+
+	
+
+The corpus totals are 4,629 character edits over 9,941 reference characters and 1,221 word edits over 1,419 reference words. Scoring used… See the full description on the dataset page: https://huggingface.co/datasets/tadad/kat57-ocr-bench-results. |
+| [tadad/kat57-ocr-bench-500-results](https://huggingface.co/datasets/tadad/kat57-ocr-bench-500-results) | 2026-09-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		Kat57 OCR benchmark — CER/WER
+	
+
+Strict reference-based evaluation of 16 OCR models on a deterministic 500-card sample from Lund University Library's Kat57 catalogue-card collection. This result set contains only Character Error Rate (CER) and Word Error Rate (WER); it does not contain VLM judging or ELO ratings.
+The sample was drawn with seed 57 from tadad/kat57-ground-truth and is published as tadad/kat57-ground-truth-500. The OCR outputs are retained in… See the full description on the dataset page: https://huggingface.co/datasets/tadad/kat57-ocr-bench-500-results. |
+| [tadad/kat57-ocr-bench-500](https://huggingface.co/datasets/tadad/kat57-ocr-bench-500) | 2026-09-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		Kat57 OCR outputs
+	
+
+Raw outputs from 16 OCR models on the same deterministic 500-card sample of Lund University Library's Kat57 catalogue-card collection.
+Each model is stored as a separate dataset configuration. Every configuration retains the source card identifiers, image, PAGE XML reference transcription, model output, and inference metadata so the results can be rescored without rerunning inference.
+
+Source sample
+CER/WER results and limitations
+ocr-bench… See the full description on the dataset page: https://huggingface.co/datasets/tadad/kat57-ocr-bench-500. |
+| [tadad/kat57-ocr-bench](https://huggingface.co/datasets/tadad/kat57-ocr-bench) | 2026-09-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using Tesseract
+	
+
+This dataset contains OCR results from images in tadad/kat57-ground-truth-smoke using Tesseract, the classical open-source CPU OCR engine — a cheap, no-GPU baseline alongside the VLM OCR recipes.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: tadad/kat57-ground-truth-smoke
+Engine: Tesseract 5.3.0
+Language(s): eng
+Number of Samples: 50
+Processing Time: 1.1 min
+Processing Date: 2026-09-03 18:39 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image… See the full description on the dataset page: https://huggingface.co/datasets/tadad/kat57-ocr-bench. |
+| [sarmisarmitha/sinhala-handwritten-ocr-623](https://huggingface.co/datasets/sarmisarmitha/sinhala-handwritten-ocr-623) | 2026-09-03 | handwriting-recognition, text-recognition | candidate | — |
+| [Raphael2099/oracle-ocr-project-backup-private](https://huggingface.co/datasets/Raphael2099/oracle-ocr-project-backup-private) | 2026-09-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		甲骨文 OCR：本机可读关键资产的部分备份
+	
+
+状态：部分备份；不是完整项目备份，不能据此删除整个源目录。
+
+原目录：/Users/wyf/Desktop/AI4S 古文字/甲骨文OCR
+生成时间：2026-09-03，Asia/Singapore。
+压缩包：readable_critical_assets.tar.zst
+包大小：4,127,757,967 字节。
+内容：16,383 个文件或链接，归档源文件逻辑大小合计 4,421,632,250 字节。
+压缩包 SHA-256：1fabb055bad4bc03b6ac3ed35eddb71438097bf7c06975885061a11ab2d9720e。
+校验：独立解压数据流，逐文件比较大小和 SHA-256；链接比较目标；完整 zstd 数据流通过。
+原件没有删除或覆盖。没有包含 macOS 扩展属性；不是完整的系统级恢复镜像。
+
+
+	
+		
+	
+	
+		包含与缺失… See the full description on the dataset page: https://huggingface.co/datasets/Raphael2099/oracle-ocr-project-backup-private. |
+| [OCR-Data/ocr_data](https://huggingface.co/datasets/OCR-Data/ocr_data) | 2026-09-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocr_data
+	
+
+Synthetic Arabic document images with layout annotations, for OCR training.
+
+	
+		
+	
+	
+		Layout
+	
+
+WebDataset .tar shards. Files sharing a basename are one sample, so the
+image becomes the image column and the annotation the json column.
+data/<contributor>_<NNN>.tar            originals (PNG + JSON)
+data_aug/<contributor>_<NNN>_aug<K>.tar augmented variants (JPEG/PNG + JSON)
+
+Each shard holds up to 9990 samples (~1.2 GB). data/ and data_aug/
+are separate so you can train… See the full description on the dataset page: https://huggingface.co/datasets/OCR-Data/ocr_data. |
+| [beatsprom/multimodal-vision-ocr-document-parsing-2026](https://huggingface.co/datasets/beatsprom/multimodal-vision-ocr-document-parsing-2026) | 2026-09-03 | document-parsing, text-recognition | candidate | 
+	
+		
+	
+	
+		📐 Multimodal Vision-Language & Industrial OCR Document Parsing SFT/DPO Suite (2026)
+	
+
+
+
+
+
+This repository provides the official 100-sample production teaser of the Multimodal Vision-Language & Industrial OCR Document Parsing SFT/DPO Suite (2026) by BeatsProm AI Research Lab.
+The dataset is engineered to train open-weights Vision-Language Models (Qwen2-VL, Pixtral-12B, Llama-3.2-Vision, ColPali) on dense document parsing, normalized spatial bounding boxes (<box>[ymin, xmin, ymax… See the full description on the dataset page: https://huggingface.co/datasets/beatsprom/multimodal-vision-ocr-document-parsing-2026. |
+| [TajikNLPWorld/tajik-ocr](https://huggingface.co/datasets/TajikNLPWorld/tajik-ocr) | 2026-09-02 | text-recognition | candidate | 
+	
+		
+	
+	
+		Dataset Card for TajikOCR
+	
+
+
+	
+		
+	
+	
+		Dataset Details
+	
+
+
+	
+		
+	
+	
+		Dataset Description
+	
+
+TajikOCR is a synthetic dataset of page images containing texts in Tajik (Cyrillic script). The pages imitate old book leaves with classical poetry (Ferdowsi, Saadi, Rumi, Nizami, Bedil, Asadi, and others). Each page features various backgrounds (from plain white to aged paper with vignetting), borders, ornaments, and realistic defects (noise, blur, ink stains, folds, fiber texture). The… See the full description on the dataset page: https://huggingface.co/datasets/TajikNLPWorld/tajik-ocr. |
+| [abzoo/arabic-names-synthetic-ocr](https://huggingface.co/datasets/abzoo/arabic-names-synthetic-ocr) | 2026-09-02 | text-recognition | candidate | — |
 | [wuvictor/work-document-ocr](https://huggingface.co/datasets/wuvictor/work-document-ocr) | 2026-09-01 | text-recognition | candidate | 
 	
 		

@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:beatsprom/multimodal-vision-ocr-document-parsing-2026
+kind: dataset
+name: beatsprom/multimodal-vision-ocr-document-parsing-2026
+released_at:
+  value: '2026-09-03'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t\U0001F4D0 Multimodal Vision-Language & Industrial OCR Document Parsing\
+  \ SFT/DPO Suite (2026)\n\t\n\n\n\n\n\nThis repository provides the official 100-sample production teaser\
+  \ of the Multimodal Vision-Language & Industrial OCR Document Parsing SFT/DPO Suite (2026) by BeatsProm\
+  \ AI Research Lab.\nThe dataset is engineered to train open-weights Vision-Language Models (Qwen2-VL,\
+  \ Pixtral-12B, Llama-3.2-Vision, ColPali) on dense document parsing, normalized spatial bounding boxes\
+  \ (<box>[ymin, xmin, ymax… See the full description on the dataset page: https://huggingface.co/datasets/beatsprom/multimodal-vision-ocr-document-parsing-2026."
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/beatsprom/multimodal-vision-ocr-document-parsing-2026
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/beatsprom/multimodal-vision-ocr-document-parsing-2026
+  discovered_via: huggingface
+  discovered_at: '2026-09-04'
+  source_id: beatsprom/multimodal-vision-ocr-document-parsing-2026
+  source_metadata:
+    repository_id: beatsprom/multimodal-vision-ocr-document-parsing-2026
+    downloads: 0
+    likes: 0
+    query: document parsing
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: beatsprom
+repository_id: beatsprom/multimodal-vision-ocr-document-parsing-2026
+usage: []
+annotations: []
+access: unknown
