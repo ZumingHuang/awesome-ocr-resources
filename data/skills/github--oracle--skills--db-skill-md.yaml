@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:oracle/skills:db-skill-md
+kind: skill
+name: oracle/skills / db/SKILL.md
+released_at:
+  value: '2026-09-05'
+  precision: day
+added_at: '2026-09-05'
+last_verified_at: '2026-09-05'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/oracle/skills/blob/fcbc9430777e8990d6d4382caeb1abdd05b4868d/db/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/oracle/skills/blob/fcbc9430777e8990d6d4382caeb1abdd05b4868d/db/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-09-05'
+  source_id: oracle/skills:db/SKILL.md
+  source_metadata:
+    repository: oracle/skills
+    manifest_path: db/SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: oracle/skills
+manifest_path: db/SKILL.md
+capabilities: {}

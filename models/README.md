@@ -4,7 +4,12 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct](https://huggingface.co/YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct) | 2026-09-05 | text-recognition | candidate | — |
+| [OsGo/chandra-ocr-2](https://huggingface.co/OsGo/chandra-ocr-2) | 2026-09-04 | text-recognition | candidate | — |
+| [daeg-uhan/ocr-freeform-best](https://huggingface.co/daeg-uhan/ocr-freeform-best) | 2026-09-04 | text-recognition | candidate | — |
+| [budecosystem/pp-ocrv6-onnx](https://huggingface.co/budecosystem/pp-ocrv6-onnx) | 2026-09-04 | text-recognition | candidate | — |
 | [AnoopChandra/sanskrit-byt5-ocr-correction](https://huggingface.co/AnoopChandra/sanskrit-byt5-ocr-correction) | 2026-09-04 | text-recognition | candidate | — |
+| [0xSojalSec/Reasoning-OCR](https://huggingface.co/0xSojalSec/Reasoning-OCR) | 2026-09-04 | text-recognition | candidate | — |
 | [wittjeff/unlimited-ocr-bf16-mlx](https://huggingface.co/wittjeff/unlimited-ocr-bf16-mlx) | 2026-09-03 | text-recognition | candidate | — |
 | [wittjeff/unlimited-ocr-6bit-mlx](https://huggingface.co/wittjeff/unlimited-ocr-6bit-mlx) | 2026-09-03 | text-recognition | candidate | — |
 | [surendirakrishna/SALAD-OCR](https://huggingface.co/surendirakrishna/SALAD-OCR) | 2026-09-03 | text-recognition | candidate | — |
@@ -21,6 +26,7 @@
 | [Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection](https://huggingface.co/Mun2/qwen3.5-4b-korean-handwriting-ocr-overcorrection) | 2026-09-02 | handwriting-recognition, text-recognition | candidate | — |
 | [mradermacher/nexora-ocr-v0.1-0.8b-GGUF](https://huggingface.co/mradermacher/nexora-ocr-v0.1-0.8b-GGUF) | 2026-09-02 | text-recognition | candidate | — |
 | [keystats/barbados_handwriten_ocr_v2](https://huggingface.co/keystats/barbados_handwriten_ocr_v2) | 2026-09-02 | text-recognition | candidate | — |
+| [keystats/barbados_handwriten_ocr](https://huggingface.co/keystats/barbados_handwriten_ocr) | 2026-09-02 | text-recognition | candidate | — |
 | [Kellenok/PP-OCRv6_manga](https://huggingface.co/Kellenok/PP-OCRv6_manga) | 2026-09-02 | text-recognition | candidate | — |
 | [fumetodev/PP-OCRv6_medium_det_ONNX](https://huggingface.co/fumetodev/PP-OCRv6_medium_det_ONNX) | 2026-09-02 | text-recognition | candidate | — |
 | [Alqahtanihassan/ocr-freeform-efficient51](https://huggingface.co/Alqahtanihassan/ocr-freeform-efficient51) | 2026-09-02 | text-recognition | candidate | — |
@@ -28,6 +34,8 @@
 | [Fazmin/solus_v1_unlimited-ocr-q5](https://huggingface.co/Fazmin/solus_v1_unlimited-ocr-q5) | 2026-09-01 | text-recognition | candidate | — |
 | [Blancokkk/GTM001-expert-ocr2](https://huggingface.co/Blancokkk/GTM001-expert-ocr2) | 2026-09-01 | text-recognition | candidate | — |
 | [Axfernandez/ocr-freeform](https://huggingface.co/Axfernandez/ocr-freeform) | 2026-09-01 | text-recognition | candidate | — |
+| [wayu-ai/wayu-paxa-ocr-zero-gguf](https://huggingface.co/wayu-ai/wayu-paxa-ocr-zero-gguf) | 2026-08-31 | text-recognition | candidate | — |
+| [wayu-ai/wayu-paxa-ocr-zero](https://huggingface.co/wayu-ai/wayu-paxa-ocr-zero) | 2026-08-31 | text-recognition | candidate | — |
 | [vaishnavi0901/gemma-4-31b-kannada-ocr-smoketest](https://huggingface.co/vaishnavi0901/gemma-4-31b-kannada-ocr-smoketest) | 2026-08-31 | text-recognition | candidate | — |
 | [riyaguptadale/dissertation-ocr-freeform](https://huggingface.co/riyaguptadale/dissertation-ocr-freeform) | 2026-08-31 | text-recognition | candidate | — |
 | [Raphael2099/chujian-ocr-models](https://huggingface.co/Raphael2099/chujian-ocr-models) | 2026-08-31 | text-recognition | candidate | — |

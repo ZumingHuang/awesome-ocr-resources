@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:0xSojalSec/Reasoning-OCR
+kind: model
+name: 0xSojalSec/Reasoning-OCR
+released_at:
+  value: '2026-09-04'
+  precision: day
+added_at: '2026-09-05'
+last_verified_at: '2026-09-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/0xSojalSec/Reasoning-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/0xSojalSec/Reasoning-OCR
+  discovered_via: huggingface
+  discovered_at: '2026-09-05'
+  source_id: 0xSojalSec/Reasoning-OCR
+  source_metadata:
+    repository_id: 0xSojalSec/Reasoning-OCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: 0xSojalSec
+repository_id: 0xSojalSec/Reasoning-OCR
+deployment: []

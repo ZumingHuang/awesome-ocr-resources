@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:Zaious/translate-academic-paper:skill-md
+kind: skill
+name: Zaious/translate-academic-paper / SKILL.md
+released_at:
+  value: '2026-09-05'
+  precision: day
+added_at: '2026-09-05'
+last_verified_at: '2026-09-05'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Zaious/translate-academic-paper/blob/66944809ee4c719932f324ce9b082e4559182bde/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Zaious/translate-academic-paper/blob/66944809ee4c719932f324ce9b082e4559182bde/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-09-05'
+  source_id: Zaious/translate-academic-paper:SKILL.md
+  source_metadata:
+    repository: Zaious/translate-academic-paper
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: Zaious/translate-academic-paper
+manifest_path: SKILL.md
+capabilities: {}

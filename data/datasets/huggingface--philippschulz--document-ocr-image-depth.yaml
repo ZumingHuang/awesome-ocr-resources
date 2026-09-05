@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:philippschulz/document-ocr-image-depth
+kind: dataset
+name: philippschulz/document-ocr-image-depth
+released_at:
+  value: '2026-09-04'
+  precision: day
+added_at: '2026-09-05'
+last_verified_at: '2026-09-05'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Image Depth Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nThis data card accompanies a lightweight Document OCR loader for Image Depth\
+  \ metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nbuild_dataset.py — loading, cleaning, and split preparation\
+  \ code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small, human-readable\
+  \ records for checking the schema.\nREADME.md… See the full description on the dataset page: https://huggingface.co/datasets/philippschulz/document-ocr-image-depth."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/philippschulz/document-ocr-image-depth
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/philippschulz/document-ocr-image-depth
+  discovered_via: huggingface
+  discovered_at: '2026-09-05'
+  source_id: philippschulz/document-ocr-image-depth
+  source_metadata:
+    repository_id: philippschulz/document-ocr-image-depth
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: philippschulz
+repository_id: philippschulz/document-ocr-image-depth
+usage: []
+annotations: []
+access: unknown
