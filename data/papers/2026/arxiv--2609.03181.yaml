@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:2609.03181
+kind: paper
+name: 'Jina-OCR-v1: Efficient Document Parsing with Speculative Decoding and Dense Verifiable Rewards'
+released_at:
+  value: '2026-09-02'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: 'We present Jina-OCR-v1, an end-to-end document parsing model built to serve on low-budget GPUs.
+  It combines the compressed-vision encoder and the 3B mixture-of-experts decoder of DeepSeek-OCR, which
+  activates about 570M parameters per token, with a FastMTP speculative decoding head that shares a single
+  draft block recursively across K=3 prediction steps. Greedy verification makes decoding lossless. Post-training
+  combines instruction alignment, robustness fine-tuning on difficult documents, and GRPO under dense
+  verifiable rewards: deterministic formula, table, and structural checks that award partial credit. The
+  training data mixes cleaned public corpora with targeted synthetic pages. At the default dynamic-resolution
+  setting, Jina-OCR-v1 scores 91.14 on OmniDocBench v1.6 and 83.4 on olmOCR-Bench, and reaches the highest
+  page throughput in our comparison at 2.57 pages per second. On a low-budget GPU such as the NVIDIA L4,
+  FastMTP doubles decoding speed over greedy autoregressive decoding. The model is publicly available
+  at https://huggingface.co/jinaai/jina-ocr-v1.'
+tasks:
+- formula-recognition
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.03181
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.03181
+  discovered_via: arxiv
+  discovered_at: '2026-09-04'
+  source_id: '2609.03181'
+  source_metadata:
+    arxiv_id: '2609.03181'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Alejandro Barón García
+- Feng Wang
+- Emilia Garcia Casademont
+- Han Xiao
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.03181'

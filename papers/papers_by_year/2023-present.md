@@ -25,6 +25,10 @@ Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
 \[handwriting-recognition\]\[text-recognition\]
 
+**CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction**
+Menghao Li, Linjie Mu, Yin Wang, Haotian Hu, Yannian Gu, Lujiayi Xue, Fanyi Wang
+\[text-recognition\]
+
 **Can Scene Text Recognition Read Rare Compositions?**
 Genpei Zhang
 \[text-recognition\]
@@ -40,6 +44,10 @@ Mustafa Sertaç Türkel, Fatma Nur Korkmaz, Ahmet Tuğrul Bayrak
 **DocClaw: A Unified Agentic System for Intelligent Document Processing**
 Siqi Xiang, Zhipeng Xu, Yufei Liu, Junhao Ji, Qing Liu, Zulong Chen, Zhibo Yang, Chunyan Miao, Shijian Lu
 \[document-vqa\]\[formula-recognition\]\[text-recognition\]
+
+**DocHop: Benchmarking Out-of-domain Multi-hop Reasoning in Information-Dense Documents**
+Zhuoran Yu, Le Thien Phuc Nguyen, Jaden Park, Xinyi Gu, Zexue He, Soochahn Lee, Rogerio Feris, Yong Jae Lee
+\[document-vqa\]
 
 **DocIntent: Answerability-Guided Agentic Restoration for Real-World Document Visual Question Answering**
 Zihan Huang, Shihang Wu, Junle Liu, Peirong Zhang, Yongxin Shi, Xuhan Zheng, Lianwen Jin
@@ -92,6 +100,14 @@ Jimmy Mendez, Matteo Cargnelutti, David Lowry-Duda, Catherine Brobston, Salwa Is
 **Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers**
 Matteo Cargnelutti, Catherine Brobston, Eben English, Jake Sadow, Kacie Bailey, Greg Leppert, Amanda Watson, Jessica Chapel, Jonathan Zittrain
 \[text-recognition\]
+
+**Jina-OCR-v1: Efficient Document Parsing with Speculative Decoding and Dense Verifiable Rewards**
+Alejandro Barón García, Feng Wang, Emilia Garcia Casademont, Han Xiao
+\[formula-recognition\]\[document-parsing\]\[text-recognition\]
+
+**KhatianDoc: A Human-Verified Benchmark Diagnosing Multimodal LLM Failure on Bengali Legal Land Records**
+Tasmiad Hasan, Arafat Zaman Ratul, Sarker Sadman Saalim, S. M. Shah Nawaz Hossain, Khan Raiyan Ibne Reza, Sumaiya Tabassum Nimi
+\[document-vqa\]\[handwriting-recognition\]\[text-recognition\]
 
 **KoViDoRe: Korean Visual Document Retrieval**
 Yongbin Choi, Yongwoo Song, Mujeen Sung
@@ -168,6 +184,10 @@ Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi 
 **UniLipi: A Unified Multi-Script OCR for Historical Indic Manuscripts**
 Tathagata Ghosh, Sai Madhusudan Gunda, Simran Singh Sandral, Ravi Kiran Sarvadevabhatla
 \[handwriting-recognition\]\[text-recognition\]
+
+**ViSAR: Training-Free Adaptive-$k$ Retrieval for Visual Document Question Answering**
+Adrien Mialland, Marc Plantevit, Julien Gallois, Céline Robardet
+\[document-vqa\]\[document-parsing\]
 
 **What Can Low Resource Languages Learn From Each Other?**
 Achyuth P, Kahaan Shah, Chetan Arora

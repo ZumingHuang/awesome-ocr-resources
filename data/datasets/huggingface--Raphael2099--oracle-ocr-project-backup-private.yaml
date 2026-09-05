@@ -1,0 +1,44 @@
+schema_version: 1
+id: dataset:huggingface:Raphael2099/oracle-ocr-project-backup-private
+kind: dataset
+name: Raphael2099/oracle-ocr-project-backup-private
+released_at:
+  value: '2026-09-03'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t甲骨文 OCR：本机可读关键资产的部分备份\n\t\n\n状态：部分备份；不是完整项目备份，不能据此删除整个源目录。\n\n原目录：/Users/wyf/Desktop/AI4S\
+  \ 古文字/甲骨文OCR\n生成时间：2026-09-03，Asia/Singapore。\n压缩包：readable_critical_assets.tar.zst\n包大小：4,127,757,967\
+  \ 字节。\n内容：16,383 个文件或链接，归档源文件逻辑大小合计 4,421,632,250 字节。\n压缩包 SHA-256：1fabb055bad4bc03b6ac3ed35eddb71438097bf7c06975885061a11ab2d9720e。\n\
+  校验：独立解压数据流，逐文件比较大小和 SHA-256；链接比较目标；完整 zstd 数据流通过。\n原件没有删除或覆盖。没有包含 macOS 扩展属性；不是完整的系统级恢复镜像。\n\n\n\t\n\
+  \t\t\n\t\n\t\n\t\t包含与缺失… See the full description on the dataset page: https://huggingface.co/datasets/Raphael2099/oracle-ocr-project-backup-private."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Raphael2099/oracle-ocr-project-backup-private
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Raphael2099/oracle-ocr-project-backup-private
+  discovered_via: huggingface
+  discovered_at: '2026-09-04'
+  source_id: Raphael2099/oracle-ocr-project-backup-private
+  source_metadata:
+    repository_id: Raphael2099/oracle-ocr-project-backup-private
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Raphael2099
+repository_id: Raphael2099/oracle-ocr-project-backup-private
+usage: []
+annotations: []
+access: unknown

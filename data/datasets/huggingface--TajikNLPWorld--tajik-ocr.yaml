@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:TajikNLPWorld/tajik-ocr
+kind: dataset
+name: TajikNLPWorld/tajik-ocr
+released_at:
+  value: '2026-09-02'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for TajikOCR\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Details\n\
+  \t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nTajikOCR is a synthetic dataset of page images\
+  \ containing texts in Tajik (Cyrillic script). The pages imitate old book leaves with classical poetry\
+  \ (Ferdowsi, Saadi, Rumi, Nizami, Bedil, Asadi, and others). Each page features various backgrounds\
+  \ (from plain white to aged paper with vignetting), borders, ornaments, and realistic defects (noise,\
+  \ blur, ink stains, folds, fiber texture). The… See the full description on the dataset page: https://huggingface.co/datasets/TajikNLPWorld/tajik-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/TajikNLPWorld/tajik-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/TajikNLPWorld/tajik-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-04'
+  source_id: TajikNLPWorld/tajik-ocr
+  source_metadata:
+    repository_id: TajikNLPWorld/tajik-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: TajikNLPWorld
+repository_id: TajikNLPWorld/tajik-ocr
+usage: []
+annotations: []
+access: unknown

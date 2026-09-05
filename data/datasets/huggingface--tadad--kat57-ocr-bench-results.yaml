@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:tadad/kat57-ocr-bench-results
+kind: dataset
+name: tadad/kat57-ocr-bench-results
+released_at:
+  value: '2026-09-03'
+  precision: day
+added_at: '2026-09-04'
+last_verified_at: '2026-09-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKat57 OCR smoke benchmark results\n\t\n\nExact ground-truth scoring\
+  \ for a 50-card Tesseract integration run over tadad/kat57-ground-truth-smoke. OCR outputs are published\
+  \ in the tesseract config of tadad/kat57-ocr-bench.\n\n\t\n\t\t\nModel\nCER\nWER\nEvaluated\nEmpty outputs\n\
+  Error sentinels\nSkipped references\n\n\n\t\t\nTesseract 5\n0.4656\n0.8605\n50\n1\n0\n0\n\n\n\t\n\n\
+  The corpus totals are 4,629 character edits over 9,941 reference characters and 1,221 word edits over\
+  \ 1,419 reference words. Scoring used… See the full description on the dataset page: https://huggingface.co/datasets/tadad/kat57-ocr-bench-results."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/tadad/kat57-ocr-bench-results
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/tadad/kat57-ocr-bench-results
+  discovered_via: huggingface
+  discovered_at: '2026-09-04'
+  source_id: tadad/kat57-ocr-bench-results
+  source_metadata:
+    repository_id: tadad/kat57-ocr-bench-results
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: tadad
+repository_id: tadad/kat57-ocr-bench-results
+usage: []
+annotations: []
+access: unknown
