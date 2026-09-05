@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:breslee1707/VI-Translate:skill-md
+kind: skill
+name: breslee1707/VI-Translate / SKILL.md
+released_at:
+  value: '2026-09-05'
+  precision: day
+added_at: '2026-09-05'
+last_verified_at: '2026-09-05'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/breslee1707/VI-Translate/blob/e28a8144c2f8a5d47d3f8007f4bbe2af4c80f7f5/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/breslee1707/VI-Translate/blob/e28a8144c2f8a5d47d3f8007f4bbe2af4c80f7f5/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-09-05'
+  source_id: breslee1707/VI-Translate:SKILL.md
+  source_metadata:
+    repository: breslee1707/VI-Translate
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: breslee1707/VI-Translate
+manifest_path: SKILL.md
+capabilities: {}

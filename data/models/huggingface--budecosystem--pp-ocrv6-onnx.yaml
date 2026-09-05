@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:budecosystem/pp-ocrv6-onnx
+kind: model
+name: budecosystem/pp-ocrv6-onnx
+released_at:
+  value: '2026-09-04'
+  precision: day
+added_at: '2026-09-05'
+last_verified_at: '2026-09-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/budecosystem/pp-ocrv6-onnx
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/budecosystem/pp-ocrv6-onnx
+  discovered_via: huggingface
+  discovered_at: '2026-09-05'
+  source_id: budecosystem/pp-ocrv6-onnx
+  source_metadata:
+    repository_id: budecosystem/pp-ocrv6-onnx
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: budecosystem
+repository_id: budecosystem/pp-ocrv6-onnx
+deployment: []

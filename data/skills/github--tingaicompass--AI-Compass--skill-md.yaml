@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:tingaicompass/AI-Compass:skill-md
+kind: skill
+name: tingaicompass/AI-Compass / SKILL.md
+released_at:
+  value: '2026-09-05'
+  precision: day
+added_at: '2026-09-05'
+last_verified_at: '2026-09-05'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/tingaicompass/AI-Compass/blob/b7ea3f22036dcdcce67d61a637e047d8c09e243e/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/tingaicompass/AI-Compass/blob/b7ea3f22036dcdcce67d61a637e047d8c09e243e/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-09-05'
+  source_id: tingaicompass/AI-Compass:SKILL.md
+  source_metadata:
+    repository: tingaicompass/AI-Compass
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: tingaicompass/AI-Compass
+manifest_path: SKILL.md
+capabilities: {}

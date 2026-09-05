@@ -1,0 +1,42 @@
+schema_version: 1
+id: dataset:huggingface:Raphael2099/qiuli-collected-works-ocr-sources-20260905
+kind: dataset
+name: Raphael2099/qiuli-collected-works-ocr-sources-20260905
+released_at:
+  value: '2026-09-05'
+  precision: day
+added_at: '2026-09-05'
+last_verified_at: '2026-09-05'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t裘李全集：36册源书\n\t\n\n公开来源核验与 OCR 工作档案（按用户要求供比赛评委核查）。李学勤30册、裘锡圭6册，15719\
+  \ PDF页。原书仅作为来源材料，尚未完成本次OCR与GPT复核。文件映射、字节数、SHA256和页数见 SOURCE_MANIFEST.json。两个完全相同副本排除重复上传；裘集20页总目是辅助材料，不计入36册。\n\
+  PDF页从1起；印刷页码另行OCR核定。本仓不授予原书公开再分发许可。\n裘锡圭集按原页保留繁体，李学勤集按原页保留简体；引用古字、隶定字、异体不做全局繁简转换。模型配置沿用上一轮正式PaddleOCR-VL-1.5、PP-DocLayoutV3与Qwen3.5-9B。\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Raphael2099/qiuli-collected-works-ocr-sources-20260905
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Raphael2099/qiuli-collected-works-ocr-sources-20260905
+  discovered_via: huggingface
+  discovered_at: '2026-09-05'
+  source_id: Raphael2099/qiuli-collected-works-ocr-sources-20260905
+  source_metadata:
+    repository_id: Raphael2099/qiuli-collected-works-ocr-sources-20260905
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Raphael2099
+repository_id: Raphael2099/qiuli-collected-works-ocr-sources-20260905
+usage: []
+annotations: []
+access: unknown

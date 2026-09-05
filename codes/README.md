@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [stevibe/SparklingKit](https://github.com/stevibe/SparklingKit) | 2026-08-31 | text-recognition | candidate | Local-first AI workbench for OCR, transcription, translation, image generation, mind maps and composable workflows. Built for DGX Spark. |
 | [StabRise/ScaleDP-TS](https://github.com/StabRise/ScaleDP-TS) | 2026-08-28 | text-detection, text-recognition | candidate | ScaleDP-TS processes PDFs and images entirely in the browser: PDF rendering, text detection, OCR and named-entity recognition, composed as a pipeline. Inference runs on onnxruntime-web over WebAssembly or WebGPU. |
 | [scholarlybat/Offline-Scanned-Document-Translator](https://github.com/scholarlybat/Offline-Scanned-Document-Translator) | 2026-08-28 | text-recognition | candidate | Offline PDF OCR Translator for Windows — extract text from scanned PDFs and images, translate locally, preserve document layout, export translated PDF/DOCX/TXT, process folders in batch, and use custom terminology glossaries. |
 | [swelteringsne/PC-Game-Screen-Translator-2026](https://github.com/swelteringsne/PC-Game-Screen-Translator-2026) | 2026-08-27 | text-recognition | candidate | Local game translation overlay with screen-region capture, OCR, offline translation models, configurable subtitle panel, game-specific glossary, history, hotkeys, and reusable resolution profiles. |

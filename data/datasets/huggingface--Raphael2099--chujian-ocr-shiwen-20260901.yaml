@@ -1,0 +1,42 @@
+schema_version: 1
+id: dataset:huggingface:Raphael2099/chujian-ocr-shiwen-20260901
+kind: dataset
+name: Raphael2099/chujian-ocr-shiwen-20260901
+released_at:
+  value: '2026-09-01'
+  precision: day
+added_at: '2026-09-05'
+last_verified_at: '2026-09-05'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR 释文三步流水线\n\t\n\n本目录是 2026-09-01 正式释文 OCR 的本地交付根目录。\n固定顺序：\n\n百度 PaddleOCR-VL-1.5\
+  \ 保守首识；\nQwen3-VL-4B-Instruct 对照页图和百度结果复核；\nGPT-5.6 只处理分歧、低置信和版式异常页，不对已一致页做语言润色。\n\n字段分离保存：paddle_raw、qwen_review、gpt_review、accepted_text、review_status、source_sha256。古字图版、无码字和无法解释的分歧必须进入\
+  \ quarantine，不得静默改成通顺文字。\n资产详情、页数、SHA-256 与模型 revision 见 HF_ASSET_MANIFEST_20260901.json。\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Raphael2099/chujian-ocr-shiwen-20260901
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Raphael2099/chujian-ocr-shiwen-20260901
+  discovered_via: huggingface
+  discovered_at: '2026-09-05'
+  source_id: Raphael2099/chujian-ocr-shiwen-20260901
+  source_metadata:
+    repository_id: Raphael2099/chujian-ocr-shiwen-20260901
+    downloads: 25
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Raphael2099
+repository_id: Raphael2099/chujian-ocr-shiwen-20260901
+usage: []
+annotations: []
+access: unknown
