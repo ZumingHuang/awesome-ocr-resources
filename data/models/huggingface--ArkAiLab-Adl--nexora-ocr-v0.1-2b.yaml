@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:ArkAiLab-Adl/nexora-ocr-v0.1-2b
+kind: model
+name: ArkAiLab-Adl/nexora-ocr-v0.1-2b
+released_at:
+  value: '2026-09-05'
+  precision: day
+added_at: '2026-09-06'
+last_verified_at: '2026-09-06'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/ArkAiLab-Adl/nexora-ocr-v0.1-2b
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/ArkAiLab-Adl/nexora-ocr-v0.1-2b
+  discovered_via: huggingface
+  discovered_at: '2026-09-06'
+  source_id: ArkAiLab-Adl/nexora-ocr-v0.1-2b
+  source_metadata:
+    repository_id: ArkAiLab-Adl/nexora-ocr-v0.1-2b
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: ArkAiLab-Adl
+repository_id: ArkAiLab-Adl/nexora-ocr-v0.1-2b
+deployment: []
