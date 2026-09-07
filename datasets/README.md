@@ -4,7 +4,173 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Raphael2099/qiuli-collected-works-ocr-sources-20260905](https://huggingface.co/datasets/Raphael2099/qiuli-collected-works-ocr-sources-20260905) | 2026-09-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		裘李全集：36册源书
+	
+
+公开来源核验与 OCR 工作档案（按用户要求供比赛评委核查）。李学勤30册、裘锡圭6册，15719 PDF页。原书仅作为来源材料，尚未完成本次OCR与GPT复核。文件映射、字节数、SHA256和页数见 SOURCE_MANIFEST.json。两个完全相同副本排除重复上传；裘集20页总目是辅助材料，不计入36册。
+PDF页从1起；印刷页码另行OCR核定。本仓不授予原书公开再分发许可。
+裘锡圭集按原页保留繁体，李学勤集按原页保留简体；引用古字、隶定字、异体不做全局繁简转换。模型配置沿用上一轮正式PaddleOCR-VL-1.5、PP-DocLayoutV3与Qwen3.5-9B。
+ |
+| [Raphael2099/qiuli-collected-works-ocr-reviewed-20260906](https://huggingface.co/datasets/Raphael2099/qiuli-collected-works-ocr-reviewed-20260906) | 2026-09-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		裘李全集逐页审核输出
+	
+
+当前只有以下 2页 按百度首扫、千问疑难/全页盘点、GPT本地原图全文审核分工验收并冻结。千问盘点不等于千问全文校对。
+
+LXQ-01 PDF第6页：revision3，原冻结包保留；PDF7仅跨页证据。
+QXG-4 PDF第30页（书页25）：revision3；PDF31仅跨页证据。
+
+逐页canonical JSON是唯一当前真值，原始证据、模型版本/SHA与绝对路径映射均保留。源PDF仍在独立source-only仓。本仓不表示36册均审核完成，不额外授予原书版权许可。
+ |
+| [LocalDoc/azerbaijani-ocr-lines](https://huggingface.co/datasets/LocalDoc/azerbaijani-ocr-lines) | 2026-09-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		Azerbaijani OCR Lines
+	
+
+Line-level training data for Azerbaijani text recognition, in Latin and
+Cyrillic script, extracted from scanned books.
+
+	
+		
+	
+	
+		Fields
+	
+
+
+	
+		
+field
+description
+
+
+		
+image
+cropped text line, grayscale, height 48 px
+
+
+text
+transcription
+
+
+script
+az_latin or az_cyrillic
+
+
+book
+anonymised source-book id
+
+
+	
+
+
+	
+		
+	
+	
+		How it was built
+	
+
+Pages come from scanned PDFs that already carried an OCR text layer. Line
+boxes were taken from that layer, rendered… See the full description on the dataset page: https://huggingface.co/datasets/LocalDoc/azerbaijani-ocr-lines. |
+| [LocalDoc/azerbaijani-ocr-benchmark](https://huggingface.co/datasets/LocalDoc/azerbaijani-ocr-benchmark) | 2026-09-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		Azerbaijani OCR Benchmark
+	
+
+Line-level OCR benchmark for Azerbaijani in both Latin and Cyrillic script,
+built from scanned books.
+
+	
+		
+	
+	
+		Fields
+	
+
+
+	
+		
+field
+description
+
+
+		
+image
+cropped text line, grayscale, height 48 px
+
+
+text
+verbatim transcription
+
+
+script
+az_latin or az_cyrillic
+
+
+book
+anonymised source-book id
+
+
+	
+
+
+	
+		
+	
+	
+		How labels were produced
+	
+
+Every line carries a label agreed on independently by three sources: the
+OCR text layer already present in the… See the full description on the dataset page: https://huggingface.co/datasets/LocalDoc/azerbaijani-ocr-benchmark. |
+| [KunanonKhai/Synthetic-GOaT-OCR](https://huggingface.co/datasets/KunanonKhai/Synthetic-GOaT-OCR) | 2026-09-05 | text-recognition | candidate | — |
 | [YortHurng/Shan_OCR_Dataset](https://huggingface.co/datasets/YortHurng/Shan_OCR_Dataset) | 2026-09-04 | text-recognition | candidate | — |
+| [philippschulz/document-ocr-image-depth](https://huggingface.co/datasets/philippschulz/document-ocr-image-depth) | 2026-09-04 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Depth Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Image Depth metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md… See the full description on the dataset page: https://huggingface.co/datasets/philippschulz/document-ocr-image-depth. |
 | [ivrit-ai/hebrew-handwriting-ocr-benchmark](https://huggingface.co/datasets/ivrit-ai/hebrew-handwriting-ocr-benchmark) | 2026-09-04 | handwriting-recognition, text-recognition | candidate | 
 	
 		
@@ -261,6 +427,24 @@ This repository contains a preparation pipeline and a small metadata sample for 
 preprocess.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/srilubis/document-ocr-corpus50-2023. |
+| [Raphael2099/chujian-ocr-shiwen-20260901](https://huggingface.co/datasets/Raphael2099/chujian-ocr-shiwen-20260901) | 2026-09-01 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR 释文三步流水线
+	
+
+本目录是 2026-09-01 正式释文 OCR 的本地交付根目录。
+固定顺序：
+
+百度 PaddleOCR-VL-1.5 保守首识；
+Qwen3-VL-4B-Instruct 对照页图和百度结果复核；
+GPT-5.6 只处理分歧、低置信和版式异常页，不对已一致页做语言润色。
+
+字段分离保存：paddle_raw、qwen_review、gpt_review、accepted_text、review_status、source_sha256。古字图版、无码字和无法解释的分歧必须进入 quarantine，不得静默改成通顺文字。
+资产详情、页数、SHA-256 与模型 revision 见 HF_ASSET_MANIFEST_20260901.json。
+ |
 | [ram-lexsi/curatorkit-testrun-OCR](https://huggingface.co/datasets/ram-lexsi/curatorkit-testrun-OCR) | 2026-09-01 | text-recognition | candidate | 
   
     

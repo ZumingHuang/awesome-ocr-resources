@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:LocalDoc/azerbaijani-ocr-benchmark
+kind: dataset
+name: LocalDoc/azerbaijani-ocr-benchmark
+released_at:
+  value: '2026-09-05'
+  precision: day
+added_at: '2026-09-06'
+last_verified_at: '2026-09-06'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tAzerbaijani OCR Benchmark\n\t\n\nLine-level OCR benchmark for Azerbaijani\
+  \ in both Latin and Cyrillic script,\nbuilt from scanned books.\n\n\t\n\t\t\n\t\n\t\n\t\tFields\n\t\n\
+  \n\n\t\n\t\t\nfield\ndescription\n\n\n\t\t\nimage\ncropped text line, grayscale, height 48 px\n\n\n\
+  text\nverbatim transcription\n\n\nscript\naz_latin or az_cyrillic\n\n\nbook\nanonymised source-book\
+  \ id\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tHow labels were produced\n\t\n\nEvery line carries a label agreed\
+  \ on independently by three sources: the\nOCR text layer already present in the… See the full description\
+  \ on the dataset page: https://huggingface.co/datasets/LocalDoc/azerbaijani-ocr-benchmark."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/LocalDoc/azerbaijani-ocr-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/LocalDoc/azerbaijani-ocr-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-09-06'
+  source_id: LocalDoc/azerbaijani-ocr-benchmark
+  source_metadata:
+    repository_id: LocalDoc/azerbaijani-ocr-benchmark
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: LocalDoc
+repository_id: LocalDoc/azerbaijani-ocr-benchmark
+usage: []
+annotations: []
+access: unknown
