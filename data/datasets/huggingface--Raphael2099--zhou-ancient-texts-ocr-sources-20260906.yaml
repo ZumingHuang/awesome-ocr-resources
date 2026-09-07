@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Raphael2099/zhou-ancient-texts-ocr-sources-20260906
+kind: dataset
+name: Raphael2099/zhou-ancient-texts-ocr-sources-20260906
+released_at:
+  value: '2026-09-06'
+  precision: day
+added_at: '2026-09-07'
+last_verified_at: '2026-09-07'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t周代古文字编注与复旦教材 OCR 来源仓\n\t\n\n公开 source-only 仓库，供来源审查和 OCR 流程复核。此仓库不是\
+  \ OCR 结果仓，也不授予原书再分发许可。\n\n\t\n\t\t\n\t\n\t\n\t\t文件\n\t\n\n\n\t\n\t\t\nID\n文件\n页数\nSHA-256\n古文字策略\n\n\
+  \n\t\t\nLZB-01\nsources/LZB-01.pdf\n977\n6417f63272f8e6c9396ba7bceeb49159af0d30e3b0498dd0e92be20219de87ba\n\
+  dictionary_whole_page_figure\n\n\nLZB-02\nsources/LZB-02.pdf\n961\nd6d60e245c1e4122c2def09f5c8dcb91272ff561c16848f408ee5664454b8948\n\
+  dictionary_whole_page_figure\n\n\nLZB-03\nsources/LZB-03.pdf\n973\n714f16bfbe2a8e21ac6887b9056a6cf958c2a82292e19c088fff78a1e75728a8…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/Raphael2099/zhou-ancient-texts-ocr-sources-20260906."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Raphael2099/zhou-ancient-texts-ocr-sources-20260906
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Raphael2099/zhou-ancient-texts-ocr-sources-20260906
+  discovered_via: huggingface
+  discovered_at: '2026-09-07'
+  source_id: Raphael2099/zhou-ancient-texts-ocr-sources-20260906
+  source_metadata:
+    repository_id: Raphael2099/zhou-ancient-texts-ocr-sources-20260906
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Raphael2099
+repository_id: Raphael2099/zhou-ancient-texts-ocr-sources-20260906
+usage: []
+annotations: []
+access: unknown

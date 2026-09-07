@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:JuneYaooo/self-media-compliance-review:skill-md
+kind: skill
+name: JuneYaooo/self-media-compliance-review / SKILL.md
+released_at:
+  value: '2026-09-07'
+  precision: day
+added_at: '2026-09-07'
+last_verified_at: '2026-09-07'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/JuneYaooo/self-media-compliance-review/blob/9a1a530a6840280ed5726aa9a5073b2f7dc8a125/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/JuneYaooo/self-media-compliance-review/blob/9a1a530a6840280ed5726aa9a5073b2f7dc8a125/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-09-07'
+  source_id: JuneYaooo/self-media-compliance-review:SKILL.md
+  source_metadata:
+    repository: JuneYaooo/self-media-compliance-review
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: JuneYaooo/self-media-compliance-review
+manifest_path: SKILL.md
+capabilities: {}

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:chrisga13/Models-Object-Detection-and-OCR-System-for-Engineering-Drawings
+kind: model
+name: chrisga13/Models-Object-Detection-and-OCR-System-for-Engineering-Drawings
+released_at:
+  value: '2026-09-06'
+  precision: day
+added_at: '2026-09-07'
+last_verified_at: '2026-09-07'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/chrisga13/Models-Object-Detection-and-OCR-System-for-Engineering-Drawings
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/chrisga13/Models-Object-Detection-and-OCR-System-for-Engineering-Drawings
+  discovered_via: huggingface
+  discovered_at: '2026-09-07'
+  source_id: chrisga13/Models-Object-Detection-and-OCR-System-for-Engineering-Drawings
+  source_metadata:
+    repository_id: chrisga13/Models-Object-Detection-and-OCR-System-for-Engineering-Drawings
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: chrisga13
+repository_id: chrisga13/Models-Object-Detection-and-OCR-System-for-Engineering-Drawings
+deployment: []
