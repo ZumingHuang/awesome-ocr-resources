@@ -4,6 +4,10 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Zaious/translate-academic-paper / SKILL.md](https://github.com/Zaious/translate-academic-paper/blob/66944809ee4c719932f324ce9b082e4559182bde/SKILL.md) | 2026-09-07 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [tingaicompass/AI-Compass / SKILL.md](https://github.com/tingaicompass/AI-Compass/blob/b7ea3f22036dcdcce67d61a637e047d8c09e243e/SKILL.md) | 2026-09-07 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [Paul-Jeo/Image2PPT / SKILL.md](https://github.com/Paul-Jeo/Image2PPT/blob/0186e520d30826998c0903e9272ff6c04e4b5393/SKILL.md) | 2026-09-07 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [JuneYaooo/self-media-compliance-review / SKILL.md](https://github.com/JuneYaooo/self-media-compliance-review/blob/9a1a530a6840280ed5726aa9a5073b2f7dc8a125/SKILL.md) | 2026-09-07 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [zhouguoqing/QianYuan.AIAgenticFramework / skills/api-gateway/SKILL.md](https://github.com/zhouguoqing/QianYuan.AIAgenticFramework/blob/389a580c5569e1a52f715d037c4a8af0e47c4fc5/skills/api-gateway/SKILL.md) | 2026-08-31 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [xberg-io/xberg / plugin/.ai-rulez/skills/extracting-with-ocr/SKILL.md](https://github.com/xberg-io/xberg/blob/1fcafe1464546171734fafdc014bdc297e23b8d0/plugin/.ai-rulez/skills/extracting-with-ocr/SKILL.md) | 2026-08-31 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [xberg-io/xberg / .ai-rulez/skills/ocr-pipeline-and-quality/SKILL.md](https://github.com/xberg-io/xberg/blob/1fcafe1464546171734fafdc014bdc297e23b8d0/.ai-rulez/skills/ocr-pipeline-and-quality/SKILL.md) | 2026-08-31 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

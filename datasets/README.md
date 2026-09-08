@@ -4,6 +4,207 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [hocnt84/vi-ocr-rec-v17-dataset](https://huggingface.co/datasets/hocnt84/vi-ocr-rec-v17-dataset) | 2026-09-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		vi-ocr-rec-v17-dataset
+	
+
+Dataset nhận dạng dòng chữ (PP-OCR recognition) dùng để train
+hocnt84/vi-ocr-rec-v17.
+Snapshot đúng lúc train V17 (2026-08-14): không phải rec_train.txt hiện tại
+của repo (đã append V18/V19/V20…).
+
+	
+		
+	
+	
+		Splits
+	
+
+
+	
+		
+File
+Dòng
+Vai trò
+
+
+		
+rec_train.txt
+14.836
+Train — nguồn rec_train.txt.bak_pre_v18
+
+
+rec_val.txt
+645
+Val đã soi tay — thước đo cố định
+
+
+vi_dict.txt
+234 ký tự
+Dict khớp V7/V15/V16/V17
+
+
+lines/<hh>/
+15.481 ảnh
+Crop dòng (jpg); hh = 2… See the full description on the dataset page: https://huggingface.co/datasets/hocnt84/vi-ocr-rec-v17-dataset. |
+| [xgboostgod/ottoman-newdata-ocr](https://huggingface.co/datasets/xgboostgod/ottoman-newdata-ocr) | 2026-09-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		📚 Ottoman NewData OCR Dataset (Matbu Nesih & Rika El Yazısı)
+	
+
+Bu veri kümesi, tarihî Osmanlıca belgeler ve matbuat arşivinden derlenmiş 1.951 satırlık yüksek kaliteli satır görseli (line crops) ve harfiyen doğrulanmış zemin gerçeği (ground truth) metinlerini içerir.
+
+	
+		
+	
+	
+		📊 Dağılım ve İstatistikler
+	
+
+
+	
+		
+Alt Küme (Source)
+Satır Sayısı
+Yazı Türü / Baskı Tipi
+Açıklama
+
+
+		
+naskh (Matbu)
+376
+Tarihî Matbuat / Nesih Font
+Kitap ve gazetelerden kesilmiş satırlar… See the full description on the dataset page: https://huggingface.co/datasets/xgboostgod/ottoman-newdata-ocr. |
+| [Safak11/lilly-ocr-paddle-runs](https://huggingface.co/datasets/Safak11/lilly-ocr-paddle-runs) | 2026-09-06 | text-recognition | candidate | — |
+| [Raphael2099/zhou-ancient-texts-ocr-sources-20260906](https://huggingface.co/datasets/Raphael2099/zhou-ancient-texts-ocr-sources-20260906) | 2026-09-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		周代古文字编注与复旦教材 OCR 来源仓
+	
+
+公开 source-only 仓库，供来源审查和 OCR 流程复核。此仓库不是 OCR 结果仓，也不授予原书再分发许可。
+
+	
+		
+	
+	
+		文件
+	
+
+
+	
+		
+ID
+文件
+页数
+SHA-256
+古文字策略
+
+
+		
+LZB-01
+sources/LZB-01.pdf
+977
+6417f63272f8e6c9396ba7bceeb49159af0d30e3b0498dd0e92be20219de87ba
+dictionary_whole_page_figure
+
+
+LZB-02
+sources/LZB-02.pdf
+961
+d6d60e245c1e4122c2def09f5c8dcb91272ff561c16848f408ee5664454b8948
+dictionary_whole_page_figure
+
+
+LZB-03
+sources/LZB-03.pdf
+973
+714f16bfbe2a8e21ac6887b9056a6cf958c2a82292e19c088fff78a1e75728a8… See the full description on the dataset page: https://huggingface.co/datasets/Raphael2099/zhou-ancient-texts-ocr-sources-20260906. |
+| [OCR-Data-new/ocr_data](https://huggingface.co/datasets/OCR-Data-new/ocr_data) | 2026-09-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocr_data
+	
+
+Synthetic Arabic document images with layout annotations, for OCR training.
+
+	
+		
+	
+	
+		Layout
+	
+
+WebDataset .tar shards. Files sharing a basename are one sample, so the
+image becomes the image column and the annotation the json column.
+data/<contributor>_<NNN>.tar            originals (PNG + JSON)
+data_aug/<contributor>_<NNN>_aug<K>.tar augmented variants (JPEG/PNG + JSON)
+
+Each shard holds up to 9990 samples (~1.2 GB). data/ and data_aug/
+are separate so you can train… See the full description on the dataset page: https://huggingface.co/datasets/OCR-Data-new/ocr_data. |
+| [Kotomiya07/premodern-japanese-books-ocr-pairs](https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-ocr-pairs) | 2026-09-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Premodern Japanese Books OCR Pairs
+	
+
+
+	
+		
+	
+	
+		日本語
+	
+
+
+	
+		
+	
+	
+		概要
+	
+
+日本古典籍統一データセット v0.1.0 の公開用Viewです。固定済み内部Releaseから、再配布と機械学習利用が許可された行だけを収録しています。収録行数は 641,400 行、収録SourceDataset数は 1 件です。
+
+	
+		
+	
+	
+		用途
+	
+
+日本語歴史資料の研究、検索、OCRまたは言語モデル用データ処理に利用できます。個々の行には採用したCanonical ID、権利判定、必要な帰属を保持しています。
+
+	
+		
+	
+	
+		権利
+	
+
+単一のライセンス値は全行の条件を表しません。必ず NOTICE.md と行単位の権利列を確認してください。
+
+	
+		
+	
+	
+		限界
+	
+
+v0.1.0 は監査対象52候補のうち、固定入力が成立した21 SourceDatasetを対象とする段階公開です。内容の正確性、外部参照の永続性、特定用途への適合性を保証しません。… See the full description on the dataset page: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-ocr-pairs. |
 | [Raphael2099/qiuli-collected-works-ocr-sources-20260905](https://huggingface.co/datasets/Raphael2099/qiuli-collected-works-ocr-sources-20260905) | 2026-09-05 | text-recognition | candidate | 
 	
 		

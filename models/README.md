@@ -4,6 +4,17 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [samaritan-ai/dots-ocr-samaritan-hebrew](https://huggingface.co/samaritan-ai/dots-ocr-samaritan-hebrew) | 2026-09-07 | text-recognition | candidate | — |
+| [Dinh/Data_OCR_Thai](https://huggingface.co/Dinh/Data_OCR_Thai) | 2026-09-07 | text-recognition | candidate | — |
+| [ueuegio/ITA-OCR](https://huggingface.co/ueuegio/ITA-OCR) | 2026-09-06 | handwriting-recognition, text-recognition | candidate | — |
+| [SeeWye/qwen3_5_automata_ocr_merged1](https://huggingface.co/SeeWye/qwen3_5_automata_ocr_merged1) | 2026-09-06 | text-recognition | candidate | — |
+| [Rhyme-1993/Unlimited-OCR](https://huggingface.co/Rhyme-1993/Unlimited-OCR) | 2026-09-06 | text-recognition | candidate | — |
+| [mradermacher/nexora-ocr-v0.1-2b-i1-GGUF](https://huggingface.co/mradermacher/nexora-ocr-v0.1-2b-i1-GGUF) | 2026-09-06 | text-recognition | candidate | — |
+| [mradermacher/nexora-ocr-v0.1-2b-GGUF](https://huggingface.co/mradermacher/nexora-ocr-v0.1-2b-GGUF) | 2026-09-06 | text-recognition | candidate | — |
+| [Monad-dz/OCRCS-qwen3vl-2b-merged](https://huggingface.co/Monad-dz/OCRCS-qwen3vl-2b-merged) | 2026-09-06 | text-recognition | candidate | — |
+| [keystats/historical_barbados_ocr_qwen3vl8b](https://huggingface.co/keystats/historical_barbados_ocr_qwen3vl8b) | 2026-09-06 | text-recognition | candidate | — |
+| [keystats/historical_barbados_ocr](https://huggingface.co/keystats/historical_barbados_ocr) | 2026-09-06 | text-recognition | candidate | — |
+| [chrisga13/Models-Object-Detection-and-OCR-System-for-Engineering-Drawings](https://huggingface.co/chrisga13/Models-Object-Detection-and-OCR-System-for-Engineering-Drawings) | 2026-09-06 | text-recognition | candidate | — |
 | [YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct](https://huggingface.co/YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct) | 2026-09-05 | text-recognition | candidate | — |
 | [Remidesbois/Falcon-OCR-Poneglyph](https://huggingface.co/Remidesbois/Falcon-OCR-Poneglyph) | 2026-09-05 | text-recognition | candidate | — |
 | [Luca207/deepseek_ocr_finetuned2](https://huggingface.co/Luca207/deepseek_ocr_finetuned2) | 2026-09-05 | text-recognition | candidate | — |
@@ -22,6 +33,7 @@
 | [rakorako/georgian-ocr-model](https://huggingface.co/rakorako/georgian-ocr-model) | 2026-09-03 | text-recognition | candidate | — |
 | [phucdu/qwen3-vl-4b-ocr-vietnamese_v2](https://huggingface.co/phucdu/qwen3-vl-4b-ocr-vietnamese_v2) | 2026-09-03 | text-recognition | candidate | — |
 | [lau-schn/phd-ocr-freeform40](https://huggingface.co/lau-schn/phd-ocr-freeform40) | 2026-09-03 | text-recognition | candidate | — |
+| [kthierbach/unlimited-ocr-max](https://huggingface.co/kthierbach/unlimited-ocr-max) | 2026-09-03 | text-recognition | candidate | — |
 | [keystats/historical_handwriten_ocr](https://huggingface.co/keystats/historical_handwriten_ocr) | 2026-09-03 | text-recognition | candidate | — |
 | [ashishshar/review-ocr-freeform](https://huggingface.co/ashishshar/review-ocr-freeform) | 2026-09-03 | text-recognition | candidate | — |
 | [a7x3a/unlimited-ocr-qai](https://huggingface.co/a7x3a/unlimited-ocr-qai) | 2026-09-03 | text-recognition | candidate | — |

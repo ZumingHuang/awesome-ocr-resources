@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Monad-dz/OCRCS-qwen3vl-2b-merged
+kind: model
+name: Monad-dz/OCRCS-qwen3vl-2b-merged
+released_at:
+  value: '2026-09-06'
+  precision: day
+added_at: '2026-09-07'
+last_verified_at: '2026-09-07'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Monad-dz/OCRCS-qwen3vl-2b-merged
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Monad-dz/OCRCS-qwen3vl-2b-merged
+  discovered_via: huggingface
+  discovered_at: '2026-09-07'
+  source_id: Monad-dz/OCRCS-qwen3vl-2b-merged
+  source_metadata:
+    repository_id: Monad-dz/OCRCS-qwen3vl-2b-merged
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Monad-dz
+repository_id: Monad-dz/OCRCS-qwen3vl-2b-merged
+deployment: []

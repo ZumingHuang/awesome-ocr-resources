@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Kotomiya07/premodern-japanese-books-ocr-pairs
+kind: dataset
+name: Kotomiya07/premodern-japanese-books-ocr-pairs
+released_at:
+  value: '2026-09-06'
+  precision: day
+added_at: '2026-09-07'
+last_verified_at: '2026-09-07'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tPremodern Japanese Books OCR Pairs\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t日本語\n\
+  \t\n\n\n\t\n\t\t\n\t\n\t\n\t\t概要\n\t\n\n日本古典籍統一データセット v0.1.0 の公開用Viewです。固定済み内部Releaseから、再配布と機械学習利用が許可された行だけを収録しています。収録行数は\
+  \ 641,400 行、収録SourceDataset数は 1 件です。\n\n\t\n\t\t\n\t\n\t\n\t\t用途\n\t\n\n日本語歴史資料の研究、検索、OCRまたは言語モデル用データ処理に利用できます。個々の行には採用したCanonical\
+  \ ID、権利判定、必要な帰属を保持しています。\n\n\t\n\t\t\n\t\n\t\n\t\t権利\n\t\n\n単一のライセンス値は全行の条件を表しません。必ず NOTICE.md と行単位の権利列を確認してください。\n\
+  \n\t\n\t\t\n\t\n\t\n\t\t限界\n\t\n\nv0.1.0 は監査対象52候補のうち、固定入力が成立した21 SourceDatasetを対象とする段階公開です。内容の正確性、外部参照の永続性、特定用途への適合性を保証しません。…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-ocr-pairs."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-ocr-pairs
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-ocr-pairs
+  discovered_via: huggingface
+  discovered_at: '2026-09-07'
+  source_id: Kotomiya07/premodern-japanese-books-ocr-pairs
+  source_metadata:
+    repository_id: Kotomiya07/premodern-japanese-books-ocr-pairs
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Kotomiya07
+repository_id: Kotomiya07/premodern-japanese-books-ocr-pairs
+usage: []
+annotations: []
+access: unknown

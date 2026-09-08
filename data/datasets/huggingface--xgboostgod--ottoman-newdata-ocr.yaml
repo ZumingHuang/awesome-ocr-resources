@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:xgboostgod/ottoman-newdata-ocr
+kind: dataset
+name: xgboostgod/ottoman-newdata-ocr
+released_at:
+  value: '2026-09-06'
+  precision: day
+added_at: '2026-09-07'
+last_verified_at: '2026-09-07'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t\U0001F4DA Ottoman NewData OCR Dataset (Matbu Nesih & Rika El Yazısı)\n\
+  \t\n\nBu veri kümesi, tarihî Osmanlıca belgeler ve matbuat arşivinden derlenmiş 1.951 satırlık yüksek\
+  \ kaliteli satır görseli (line crops) ve harfiyen doğrulanmış zemin gerçeği (ground truth) metinlerini\
+  \ içerir.\n\n\t\n\t\t\n\t\n\t\n\t\t\U0001F4CA Dağılım ve İstatistikler\n\t\n\n\n\t\n\t\t\nAlt Küme (Source)\n\
+  Satır Sayısı\nYazı Türü / Baskı Tipi\nAçıklama\n\n\n\t\t\nnaskh (Matbu)\n376\nTarihî Matbuat / Nesih\
+  \ Font\nKitap ve gazetelerden kesilmiş satırlar… See the full description on the dataset page: https://huggingface.co/datasets/xgboostgod/ottoman-newdata-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/xgboostgod/ottoman-newdata-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/xgboostgod/ottoman-newdata-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-07'
+  source_id: xgboostgod/ottoman-newdata-ocr
+  source_metadata:
+    repository_id: xgboostgod/ottoman-newdata-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: xgboostgod
+repository_id: xgboostgod/ottoman-newdata-ocr
+usage: []
+annotations: []
+access: unknown
