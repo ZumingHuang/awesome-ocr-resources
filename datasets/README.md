@@ -51,6 +51,47 @@ Dict khớp V7/V15/V16/V17
 lines/<hh>/
 15.481 ảnh
 Crop dòng (jpg); hh = 2… See the full description on the dataset page: https://huggingface.co/datasets/hocnt84/vi-ocr-rec-v17-dataset. |
+| [cloudfrm-site/ocr-document-processing-eval](https://huggingface.co/datasets/cloudfrm-site/ocr-document-processing-eval) | 2026-09-07 | text-recognition | candidate | — |
+| [cloudfrm-site/nepali-deva-ocr-eval](https://huggingface.co/datasets/cloudfrm-site/nepali-deva-ocr-eval) | 2026-09-07 | text-recognition | candidate | — |
+| [cloudfrm-site/indic-deva-ocr-eval](https://huggingface.co/datasets/cloudfrm-site/indic-deva-ocr-eval) | 2026-09-07 | text-recognition | candidate | — |
+| [cloudfrm-site/devanagari_ocr_pretrain](https://huggingface.co/datasets/cloudfrm-site/devanagari_ocr_pretrain) | 2026-09-07 | text-recognition | candidate | — |
+| [chagatai-project/ocr](https://huggingface.co/datasets/chagatai-project/ocr) | 2026-09-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		Chagatai OCR
+	
+
+Chagatai text in Arabic script, with Cyrillic transcriptions and Kazakh translations.
+The dataset is available as Dataset_OCR.xlsx and UTF-8 Dataset_OCR.csv. Both contain 875 non-empty data rows.
+
+	
+		
+Column
+Contents
+
+
+		
+Original
+Text in Arabic script
+
+
+Transcript
+Cyrillic transcription
+
+
+Translation (?)
+Kazakh translation; the original column label is retained
+
+
+Pages
+Page markers, provided on selected rows
+
+
+	
+
+The Excel workbook is provided unchanged. The CSV… See the full description on the dataset page: https://huggingface.co/datasets/chagatai-project/ocr. |
 | [xgboostgod/ottoman-newdata-ocr](https://huggingface.co/datasets/xgboostgod/ottoman-newdata-ocr) | 2026-09-06 | text-recognition | candidate | 
 	
 		

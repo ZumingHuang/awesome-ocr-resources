@@ -4,8 +4,13 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [hb-dev/hako-ocr-models](https://huggingface.co/hb-dev/hako-ocr-models) | 2026-09-08 | text-recognition | candidate | — |
+| [Dinh/Viet-Handwriting-OCR-v2-converted](https://huggingface.co/Dinh/Viet-Handwriting-OCR-v2-converted) | 2026-09-08 | handwriting-recognition, text-recognition | candidate | — |
+| [yuhanb/multimodal-vision-ocr](https://huggingface.co/yuhanb/multimodal-vision-ocr) | 2026-09-07 | text-recognition | candidate | — |
 | [samaritan-ai/dots-ocr-samaritan-hebrew](https://huggingface.co/samaritan-ai/dots-ocr-samaritan-hebrew) | 2026-09-07 | text-recognition | candidate | — |
+| [hieutx2007/OCR](https://huggingface.co/hieutx2007/OCR) | 2026-09-07 | text-recognition | candidate | — |
 | [Dinh/Data_OCR_Thai](https://huggingface.co/Dinh/Data_OCR_Thai) | 2026-09-07 | text-recognition | candidate | — |
+| [Darmm/darmm-ocr-kazakh-vl-3b](https://huggingface.co/Darmm/darmm-ocr-kazakh-vl-3b) | 2026-09-07 | text-recognition | candidate | — |
 | [ueuegio/ITA-OCR](https://huggingface.co/ueuegio/ITA-OCR) | 2026-09-06 | handwriting-recognition, text-recognition | candidate | — |
 | [SeeWye/qwen3_5_automata_ocr_merged1](https://huggingface.co/SeeWye/qwen3_5_automata_ocr_merged1) | 2026-09-06 | text-recognition | candidate | — |
 | [Rhyme-1993/Unlimited-OCR](https://huggingface.co/Rhyme-1993/Unlimited-OCR) | 2026-09-06 | text-recognition | candidate | — |

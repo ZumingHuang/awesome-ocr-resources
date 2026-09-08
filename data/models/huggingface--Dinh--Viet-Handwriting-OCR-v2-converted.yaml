@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:Dinh/Viet-Handwriting-OCR-v2-converted
+kind: model
+name: Dinh/Viet-Handwriting-OCR-v2-converted
+released_at:
+  value: '2026-09-08'
+  precision: day
+added_at: '2026-09-08'
+last_verified_at: '2026-09-08'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Dinh/Viet-Handwriting-OCR-v2-converted
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Dinh/Viet-Handwriting-OCR-v2-converted
+  discovered_via: huggingface
+  discovered_at: '2026-09-08'
+  source_id: Dinh/Viet-Handwriting-OCR-v2-converted
+  source_metadata:
+    repository_id: Dinh/Viet-Handwriting-OCR-v2-converted
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Dinh
+repository_id: Dinh/Viet-Handwriting-OCR-v2-converted
+deployment: []

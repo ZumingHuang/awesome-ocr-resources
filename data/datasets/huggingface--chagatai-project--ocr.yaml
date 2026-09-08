@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:chagatai-project/ocr
+kind: dataset
+name: chagatai-project/ocr
+released_at:
+  value: '2026-09-07'
+  precision: day
+added_at: '2026-09-08'
+last_verified_at: '2026-09-08'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tChagatai OCR\n\t\n\nChagatai text in Arabic script, with Cyrillic transcriptions\
+  \ and Kazakh translations.\nThe dataset is available as Dataset_OCR.xlsx and UTF-8 Dataset_OCR.csv.\
+  \ Both contain 875 non-empty data rows.\n\n\t\n\t\t\nColumn\nContents\n\n\n\t\t\nOriginal\nText in Arabic\
+  \ script\n\n\nTranscript\nCyrillic transcription\n\n\nTranslation (?)\nKazakh translation; the original\
+  \ column label is retained\n\n\nPages\nPage markers, provided on selected rows\n\n\n\t\n\nThe Excel\
+  \ workbook is provided unchanged. The CSV… See the full description on the dataset page: https://huggingface.co/datasets/chagatai-project/ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/chagatai-project/ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/chagatai-project/ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-08'
+  source_id: chagatai-project/ocr
+  source_metadata:
+    repository_id: chagatai-project/ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: chagatai-project
+repository_id: chagatai-project/ocr
+usage: []
+annotations: []
+access: unknown
