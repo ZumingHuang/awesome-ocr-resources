@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset
+kind: dataset
+name: Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset
+released_at:
+  value: '2026-09-09'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tNepali Legal SFT Dataset — Software Development & Operation Committee\
+  \ Order, 2083\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nThis dataset contains 31 single-turn\
+  \ instruction/response pairs in Nepali (Devanagari script), derived from a single Government of Nepal\
+  \ legal instrument:\n\nसफ्टवेयर विकास तथा सञ्चालन समिति (गठन) आदेश, २०८३\n(Software Development and\
+  \ Operation Committee (Formation) Order, 2083)\n\nThe order was issued by the Government of Nepal under\
+  \ Section 3 of the विकास समिति ऐन, २०१३… See the full description on the dataset page: https://huggingface.co/datasets/Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset
+  discovered_via: huggingface
+  discovered_at: '2026-09-09'
+  source_id: Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset
+  source_metadata:
+    repository_id: Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Somtharu181coder
+repository_id: Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset
+usage: []
+annotations: []
+access: unknown

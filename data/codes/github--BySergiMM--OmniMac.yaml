@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:BySergiMM/OmniMac
+kind: code
+name: BySergiMM/OmniMac
+released_at:
+  value: '2026-09-04'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: Dynamic Island for any Mac — even without a notch. Plus per-app volume & EQ, window layouts,
+  clipboard, OCR and more. One menu bar app. Swift, MIT.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/BySergiMM/OmniMac
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/BySergiMM/OmniMac
+  discovered_via: github
+  discovered_at: '2026-09-09'
+  source_id: R_kgDOUOQPRg
+  source_metadata:
+    repository: BySergiMM/OmniMac
+    stars: 11
+    language: Swift
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: BySergiMM/OmniMac
+landmark: false
+programming_languages:
+- Swift
+maintenance_status: active

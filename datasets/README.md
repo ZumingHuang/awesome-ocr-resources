@@ -4,6 +4,110 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset](https://huggingface.co/datasets/Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset) | 2026-09-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Nepali Legal SFT Dataset — Software Development & Operation Committee Order, 2083
+	
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+This dataset contains 31 single-turn instruction/response pairs in Nepali (Devanagari script), derived from a single Government of Nepal legal instrument:
+
+सफ्टवेयर विकास तथा सञ्चालन समिति (गठन) आदेश, २०८३
+(Software Development and Operation Committee (Formation) Order, 2083)
+
+The order was issued by the Government of Nepal under Section 3 of the विकास समिति ऐन, २०१३… See the full description on the dataset page: https://huggingface.co/datasets/Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset. |
+| [sshenfiona1992/document-ocr-pointcloud-text-mini](https://huggingface.co/datasets/sshenfiona1992/document-ocr-pointcloud-text-mini) | 2026-09-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/sshenfiona1992/document-ocr-pointcloud-text-mini. |
+| [Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset](https://huggingface.co/datasets/Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset) | 2026-09-08 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Description
+	
+
+5,711장의 한국어 손글씨 OCR 데이터셋으로, A4 용지, 줄노트, 모눈종이 등 다양한 형태의 용지에 작성된 한국어 손글씨 데이터를 포함하고 있습니다. 총 593명의 참여자로부터 수집되었으며, 스마트폰을 사용하여 정면 시점에서 촬영되었습니다. 데이터 내용은 한국어 작문, 시, 산문, 뉴스, 이야기 등 다양한 유형의 텍스트로 구성되어 있습니다. 어노테이션은 텍스트 라인 단위의 사각형 영역과 라인 단위 텍스트 전사로 구성되어 있습니다. 본 데이터셋은 한국어 손글씨 OCR 인식 및 관련 AI 모델 학습에 활용할 수 있습니다.
+자세한 내용은 아래 링크를 참고해 주세요: https://ko.nexdata.ai/datasets/ocr/1297?source=hf.kr
+
+	
+		
+	
+	
+		Specifications
+	
+
+
+	
+		
+	
+	
+		Data size
+	
+
+5,711장
+
+	
+		
+	
+	
+		Speaker
+	
+
+총 593명성별 분포:… See the full description on the dataset page: https://huggingface.co/datasets/Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset. |
+| [Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages](https://huggingface.co/datasets/Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages) | 2026-09-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		Description
+	
+
+500,000장 규모의 21개국 다국어 OCR 데이터로, 자연 환경, 문서 촬영 환경 및 전자 환경에서 수집된 이미지로 구성되어 있습니다. 본 데이터셋은 총 21개 언어를 지원하며, 각 언어별 데이터 수량은 약 20,000~25,000장입니다. 데이터 유형은 자연 환경 이미지, 문서 촬영 이미지, 전자 환경 이미지로 구성되어 있으며, 다양한 데이터 유형과 촬영 각도, 다국어 데이터를 포함하여 높은 데이터 다양성을 제공합니다. 어노테이션은 행(열) 단위의 사각형 또는 폴리곤 영역과 행(열) 단위의 텍스트 전사 방식으로 구성되어 있습니다. 본 데이터셋은 다국어 OCR 인식 및 관련 AI 모델 학습에 활용할 수 있습니다.
+자세한 내용은 아래 링크를 참고해 주세요: https://ko.nexdata.ai/datasets/ocr/1862?source=hf.kr
+
+	
+		
+	
+	
+		Specifications… See the full description on the dataset page: https://huggingface.co/datasets/Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages. |
+| [arolstar52/ocr-synthetic-multilingual-v1-tokenized-ja](https://huggingface.co/datasets/arolstar52/ocr-synthetic-multilingual-v1-tokenized-ja) | 2026-09-08 | text-recognition | candidate | — |
 | [hocnt84/vi-ocr-rec-v17-dataset](https://huggingface.co/datasets/hocnt84/vi-ocr-rec-v17-dataset) | 2026-09-07 | text-recognition | candidate | 
 	
 		
