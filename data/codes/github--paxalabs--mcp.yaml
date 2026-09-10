@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:paxalabs/mcp
+kind: code
+name: paxalabs/mcp
+released_at:
+  value: '2026-09-05'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: 'Official MCP server for the Paxa Labs API: Thai and English speech AI with local playback, translation
+  to Thai, and document OCR'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/paxalabs/mcp
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/paxalabs/mcp
+  discovered_via: github
+  discovered_at: '2026-09-09'
+  source_id: R_kgDOUPa6sA
+  source_metadata:
+    repository: paxalabs/mcp
+    stars: 10
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: paxalabs/mcp
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

@@ -1,0 +1,44 @@
+schema_version: 1
+id: code:github:fanfanyuyang/bid-agent-vscode
+kind: code
+name: fanfanyuyang/bid-agent-vscode
+released_at:
+  value: '2026-09-04'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: Intelligent Parsing Agent for Electrical Tender Documents – A seven-step workflow + document
+  processing ledger, enabling multi-format uploads, automatic equipment parameter extraction, evidence
+  review, and closed-loop manual verification. Supports hot-switching between DeepSeek and local graphics
+  card LLM.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/fanfanyuyang/bid-agent-vscode
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/fanfanyuyang/bid-agent-vscode
+  discovered_via: github
+  discovered_at: '2026-09-09'
+  source_id: R_kgDOUOeH3g
+  source_metadata:
+    repository: fanfanyuyang/bid-agent-vscode
+    stars: 52
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: fanfanyuyang/bid-agent-vscode
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

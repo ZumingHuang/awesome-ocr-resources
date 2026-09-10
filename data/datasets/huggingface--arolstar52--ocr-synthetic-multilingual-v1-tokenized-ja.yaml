@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:arolstar52/ocr-synthetic-multilingual-v1-tokenized-ja
+kind: dataset
+name: arolstar52/ocr-synthetic-multilingual-v1-tokenized-ja
+released_at:
+  value: '2026-09-08'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/arolstar52/ocr-synthetic-multilingual-v1-tokenized-ja
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/arolstar52/ocr-synthetic-multilingual-v1-tokenized-ja
+  discovered_via: huggingface
+  discovered_at: '2026-09-09'
+  source_id: arolstar52/ocr-synthetic-multilingual-v1-tokenized-ja
+  source_metadata:
+    repository_id: arolstar52/ocr-synthetic-multilingual-v1-tokenized-ja
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: arolstar52
+repository_id: arolstar52/ocr-synthetic-multilingual-v1-tokenized-ja
+usage: []
+annotations: []
+access: unknown

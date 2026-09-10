@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:sshenfiona1992/document-ocr-pointcloud-text-mini
+kind: dataset
+name: sshenfiona1992/document-ocr-pointcloud-text-mini
+released_at:
+  value: '2026-09-08'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Pointcloud Text Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\
+  \tDataset summary\n\t\n\nThis repository contains a preparation pipeline and a small metadata sample\
+  \ for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release;\
+  \ the loader documents how source data is normalized and validated.\n\n\t\n\t\t\n\t\n\t\n\t\tIncluded\
+  \ material\n\t\n\n\ndataset.py — loading, cleaning, and split preparation code.\ndataset_infos.json\
+  \ — schema and split metadata.\nmetadata_sample.jsonl —… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/sshenfiona1992/document-ocr-pointcloud-text-mini."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/sshenfiona1992/document-ocr-pointcloud-text-mini
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/sshenfiona1992/document-ocr-pointcloud-text-mini
+  discovered_via: huggingface
+  discovered_at: '2026-09-09'
+  source_id: sshenfiona1992/document-ocr-pointcloud-text-mini
+  source_metadata:
+    repository_id: sshenfiona1992/document-ocr-pointcloud-text-mini
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: sshenfiona1992
+repository_id: sshenfiona1992/document-ocr-pointcloud-text-mini
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,44 @@
+schema_version: 1
+id: code:github:tkt2m7g87w-netizen/LaFirma-Remux-Forge
+kind: code
+name: tkt2m7g87w-netizen/LaFirma-Remux-Forge
+released_at:
+  value: '2026-09-03'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: 'Automatize o remux MKV com o LaFirma: conversão Dolby Vision (7 para 8.1), áudio E-AC-3/Atmos
+  e legendas PGS PT-BR com OCR. Interface fluida e motor PowerShell sem dependências no sistema. ENGLISH:
+  Automate MKV remuxing: Dolby Vision conversion (7 to 8.1), E-AC-3/Atmos audio, and PT-BR PGS OCR subtitles.
+  Smooth GUI and standalone PowerShell engine.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/tkt2m7g87w-netizen/LaFirma-Remux-Forge
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/tkt2m7g87w-netizen/LaFirma-Remux-Forge
+  discovered_via: github
+  discovered_at: '2026-09-09'
+  source_id: R_kgDOUMrHew
+  source_metadata:
+    repository: tkt2m7g87w-netizen/LaFirma-Remux-Forge
+    stars: 10
+    language: PowerShell
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: tkt2m7g87w-netizen/LaFirma-Remux-Forge
+landmark: false
+programming_languages:
+- PowerShell
+maintenance_status: active

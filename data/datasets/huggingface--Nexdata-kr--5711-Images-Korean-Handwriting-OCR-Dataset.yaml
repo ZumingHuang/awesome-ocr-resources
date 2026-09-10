@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset
+kind: dataset
+name: Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset
+released_at:
+  value: '2026-09-08'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDescription\n\t\n\n5,711장의 한국어 손글씨 OCR 데이터셋으로, A4 용지, 줄노트, 모눈종이 등 다양한\
+  \ 형태의 용지에 작성된 한국어 손글씨 데이터를 포함하고 있습니다. 총 593명의 참여자로부터 수집되었으며, 스마트폰을 사용하여 정면 시점에서 촬영되었습니다. 데이터 내용은 한국어\
+  \ 작문, 시, 산문, 뉴스, 이야기 등 다양한 유형의 텍스트로 구성되어 있습니다. 어노테이션은 텍스트 라인 단위의 사각형 영역과 라인 단위 텍스트 전사로 구성되어 있습니다. 본\
+  \ 데이터셋은 한국어 손글씨 OCR 인식 및 관련 AI 모델 학습에 활용할 수 있습니다.\n자세한 내용은 아래 링크를 참고해 주세요: https://ko.nexdata.ai/datasets/ocr/1297?source=hf.kr\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tSpecifications\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tData size\n\t\n\n5,711장\n\n\t\n\
+  \t\t\n\t\n\t\n\t\tSpeaker\n\t\n\n총 593명성별 분포:… See the full description on the dataset page: https://huggingface.co/datasets/Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset
+  discovered_via: huggingface
+  discovered_at: '2026-09-09'
+  source_id: Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset
+  source_metadata:
+    repository_id: Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Nexdata-kr
+repository_id: Nexdata-kr/5711-Images-Korean-Handwriting-OCR-Dataset
+usage: []
+annotations: []
+access: unknown

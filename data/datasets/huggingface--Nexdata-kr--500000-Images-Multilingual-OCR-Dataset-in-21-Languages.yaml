@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages
+kind: dataset
+name: Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages
+released_at:
+  value: '2026-09-08'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDescription\n\t\n\n500,000장 규모의 21개국 다국어 OCR 데이터로, 자연 환경, 문서 촬영 환경 및\
+  \ 전자 환경에서 수집된 이미지로 구성되어 있습니다. 본 데이터셋은 총 21개 언어를 지원하며, 각 언어별 데이터 수량은 약 20,000~25,000장입니다. 데이터 유형은 자연\
+  \ 환경 이미지, 문서 촬영 이미지, 전자 환경 이미지로 구성되어 있으며, 다양한 데이터 유형과 촬영 각도, 다국어 데이터를 포함하여 높은 데이터 다양성을 제공합니다. 어노테이션은\
+  \ 행(열) 단위의 사각형 또는 폴리곤 영역과 행(열) 단위의 텍스트 전사 방식으로 구성되어 있습니다. 본 데이터셋은 다국어 OCR 인식 및 관련 AI 모델 학습에 활용할 수 있습니다.\n\
+  자세한 내용은 아래 링크를 참고해 주세요: https://ko.nexdata.ai/datasets/ocr/1862?source=hf.kr\n\n\t\n\t\t\n\t\n\t\n\t\
+  \tSpecifications… See the full description on the dataset page: https://huggingface.co/datasets/Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages
+  discovered_via: huggingface
+  discovered_at: '2026-09-09'
+  source_id: Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages
+  source_metadata:
+    repository_id: Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Nexdata-kr
+repository_id: Nexdata-kr/500000-Images-Multilingual-OCR-Dataset-in-21-Languages
+usage: []
+annotations: []
+access: unknown

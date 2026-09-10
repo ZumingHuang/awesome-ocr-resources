@@ -4,10 +4,16 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [HashNuke/indic-ocr-mlx](https://huggingface.co/HashNuke/indic-ocr-mlx) | 2026-09-09 | text-recognition | candidate | — |
+| [ctogaurav/Unlimited-OCR-math-latex](https://huggingface.co/ctogaurav/Unlimited-OCR-math-latex) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
+| [AndyC01/sft_4experts_ocr2k_chart2k_gd1901_zoom2k](https://huggingface.co/AndyC01/sft_4experts_ocr2k_chart2k_gd1901_zoom2k) | 2026-09-09 | text-recognition | candidate | — |
+| [tpiwko/PP-OCRv5-Finetuned](https://huggingface.co/tpiwko/PP-OCRv5-Finetuned) | 2026-09-08 | text-recognition | candidate | — |
+| [keystats/historical_barbados_ocr_clustered](https://huggingface.co/keystats/historical_barbados_ocr_clustered) | 2026-09-08 | text-recognition | candidate | — |
 | [hb-dev/hako-ocr-models](https://huggingface.co/hb-dev/hako-ocr-models) | 2026-09-08 | text-recognition | candidate | — |
 | [Dinh/Viet-Handwriting-OCR-v2-converted](https://huggingface.co/Dinh/Viet-Handwriting-OCR-v2-converted) | 2026-09-08 | handwriting-recognition, text-recognition | candidate | — |
 | [yuhanb/multimodal-vision-ocr](https://huggingface.co/yuhanb/multimodal-vision-ocr) | 2026-09-07 | text-recognition | candidate | — |
 | [samaritan-ai/dots-ocr-samaritan-hebrew](https://huggingface.co/samaritan-ai/dots-ocr-samaritan-hebrew) | 2026-09-07 | text-recognition | candidate | — |
+| [keystats/Transcribe_ocr](https://huggingface.co/keystats/Transcribe_ocr) | 2026-09-07 | text-recognition | candidate | — |
 | [hieutx2007/OCR](https://huggingface.co/hieutx2007/OCR) | 2026-09-07 | text-recognition | candidate | — |
 | [Dinh/Data_OCR_Thai](https://huggingface.co/Dinh/Data_OCR_Thai) | 2026-09-07 | text-recognition | candidate | — |
 | [Darmm/darmm-ocr-kazakh-vl-3b](https://huggingface.co/Darmm/darmm-ocr-kazakh-vl-3b) | 2026-09-07 | text-recognition | candidate | — |

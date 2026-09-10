@@ -173,6 +173,10 @@ Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang
 Mingxu Chai, Chenyu Liu, Ziyu Shen, Jiazheng Zhang, Kaidi Zhang, Ruoyu Chen, Jun Long, Jihua Kang, Tao Gui, Qi Zhang
 \[formula-recognition\]\[document-parsing\]
 
+**SupGRPO: Enhancing GRPO with Matching-based Online SFT for Text Spotting**
+Xudong Xie, Yuzhe Li, Jing Shi, Zhifei Zhang, Curtis Wigington, Zhaowen Wang
+\[text-spotting\]\[text-recognition\]
+
 **Systematic Literature Review of Machine Learning Models and Applications for Text Recognition**
 Nuzhat Khan, Ab Al-Hadi Ab Rahman, Shahriyar Masud Rizvi, Ibrahim Yousef Alshareef, Muhammad Nadzir Marsono, Muhammad Paend Bakht, Mohd Shahrizal Rusli, Shahidatul Sadiah
 \[handwriting-recognition\]\[text-recognition\]

@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2609.07081
+kind: paper
+name: 'SupGRPO: Enhancing GRPO with Matching-based Online SFT for Text Spotting'
+released_at:
+  value: '2026-09-07'
+  precision: day
+added_at: '2026-09-09'
+last_verified_at: '2026-09-09'
+summary: 'Text spotting requires both accurate text recognition and precise spatial localization. Current
+  specialised spotters excel at predicting tight bounding boxes in natural scenes, but falter on complex
+  or artistic text, whereas multimodal large language models (MLLMs) possess strong recognition capabilities
+  yet remain weak at localisation. To equip the text spotter with general and powerful recognition capabilities
+  and to maximize its localization ability, we explore two MLLM-based fine-tuning methods: Supervised
+  Fine-Tuning (SFT) and reinforcement learning fine-tuning based on Group Relative Policy Optimisation
+  (GRPO). An interesting finding is that SFT is less effective than GRPO at enhancing recognition, while
+  GRPO is less effective than SFT at enhancing detection. To compensate for each other''s shortcomings,
+  we introduce a joint training strategy, SupGRPO, which simultaneously optimizes the model using both
+  SFT and GRPO. SupGRPO employs the specially designed reward functions and develops a matching-based
+  online SFT applied solely to coordinate tokens. It both mitigates the reward sparsity problem of GRPO
+  and avoids the instance order dependency problem of SFT. To evaluate particularly challenging cases,
+  we curate ATS, a dataset for artistic text spotting. Experiments demonstrate that SupGRPO improves both
+  text recognition and detection, and attains superior performance. Our code and dataset will be released
+  at https://github.com/Psycho-9/SupGRPO.'
+tasks:
+- text-spotting
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.07081
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.07081
+  discovered_via: arxiv
+  discovered_at: '2026-09-09'
+  source_id: '2609.07081'
+  source_metadata:
+    arxiv_id: '2609.07081'
+    doi: null
+    query: all:"text spotting"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Xudong Xie
+- Yuzhe Li
+- Jing Shi
+- Zhifei Zhang
+- Curtis Wigington
+- Zhaowen Wang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.07081'
