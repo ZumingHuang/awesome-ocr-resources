@@ -1,0 +1,43 @@
+schema_version: 1
+id: dataset:huggingface:baicai1145/pp-ocr-mnn-eval
+kind: dataset
+name: baicai1145/pp-ocr-mnn-eval
+released_at:
+  value: '2026-09-09'
+  precision: day
+added_at: '2026-09-10'
+last_verified_at: '2026-09-10'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tPP-OCR MNN evaluation dataset (811-cell matrix)\n\t\n\nImages (273)\
+  \ + canonical paddle.inference baselines (808 json) + configs\nfor scoring pp-ocr-mnn outputs. See README.md\
+  \ and\nhttps://github.com/baicai1145/pp-ocr-mnn (tools/score.py).\nA single-file snapshot is also included\
+  \ as ppocr-eval-dataset.tar.zst.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/baicai1145/pp-ocr-mnn-eval
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/baicai1145/pp-ocr-mnn-eval
+  discovered_via: huggingface
+  discovered_at: '2026-09-10'
+  source_id: baicai1145/pp-ocr-mnn-eval
+  source_metadata:
+    repository_id: baicai1145/pp-ocr-mnn-eval
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: baicai1145
+repository_id: baicai1145/pp-ocr-mnn-eval
+usage: []
+annotations: []
+access: unknown

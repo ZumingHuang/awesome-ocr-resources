@@ -4,6 +4,55 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Elliot-Data/ocrvqa_train_cleaned](https://huggingface.co/datasets/Elliot-Data/ocrvqa_train_cleaned) | 2026-09-10 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocrvqa_train_cleaned
+	
+
+The ocrvqa_train family of the ElliotVL supervised-fine-tuning pool, after VLM cleaning.
+
+	
+		
+
+
+
+
+		
+images
+501,894
+
+
+QA turns
+3,616,618
+
+
+answers rewritten by the cleaning pass
+0
+
+
+QA created by the cleaning pass (new_qa)
+not measured for this family
+
+
+shards
+104
+
+
+	
+
+
+	
+		
+	
+	
+		How this was cleaned
+	
+
+A vision-language model read each image together with its QA and judged the item. The pass is
+not a filter that only removes rows — it rewrites answers it… See the full description on the dataset page: https://huggingface.co/datasets/Elliot-Data/ocrvqa_train_cleaned. |
 | [Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset](https://huggingface.co/datasets/Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset) | 2026-09-09 | text-recognition | candidate | 
 	
 		
@@ -26,6 +75,183 @@ This dataset contains 31 single-turn instruction/response pairs in Nepali (Devan
 (Software Development and Operation Committee (Formation) Order, 2083)
 
 The order was issued by the Government of Nepal under Section 3 of the विकास समिति ऐन, २०१३… See the full description on the dataset page: https://huggingface.co/datasets/Somtharu181coder/Legal_domain_ocr_extracted_Nepali_sft_dataset. |
+| [lab-ii/sakha-ocr-synth](https://huggingface.co/datasets/lab-ii/sakha-ocr-synth) | 2026-09-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Синтетические строки якутского текста для OCR
+	
+
+500 000 изображений строк с точной разметкой. Сделано для обучения
+распознавателя якутского (саха) текста: готовые движки для этого языка не
+работают, а размеченных строк почти нет.
+Зачем вообще синтетика: у tesseract-rus и ABBYY FineReader 10 на якутской
+печати доля правильно прочитанных специфических букв ҕ ҥ ө һ ү равна нулю.
+Не «низкая» — ноль на 460 тысячах букв, при том что эти буквы составляют около
+7% всех букв и встречаются… See the full description on the dataset page: https://huggingface.co/datasets/lab-ii/sakha-ocr-synth. |
+| [Elliot-Data/ureader_ocr_cleaned](https://huggingface.co/datasets/Elliot-Data/ureader_ocr_cleaned) | 2026-09-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		ureader_ocr_cleaned
+	
+
+The ureader_ocr__x family of the ElliotVL supervised-fine-tuning pool, after VLM cleaning.
+
+	
+		
+
+
+
+
+		
+images
+862
+
+
+QA turns
+6,038
+
+
+answers rewritten by the cleaning pass
+403
+
+
+QA created by the cleaning pass (new_qa)
+3,952 (65.5%)
+
+
+shards
+1
+
+
+	
+
+
+	
+		
+	
+	
+		How this was cleaned
+	
+
+A vision-language model read each image together with its QA and judged the item. The pass is
+not a filter that only removes rows — it rewrites answers it finds wrong but… See the full description on the dataset page: https://huggingface.co/datasets/Elliot-Data/ureader_ocr_cleaned. |
+| [Elliot-Data/latex_ocr_cleaned](https://huggingface.co/datasets/Elliot-Data/latex_ocr_cleaned) | 2026-09-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		latex_ocr_cleaned
+	
+
+The latex_ocr__x family of the ElliotVL supervised-fine-tuning pool, after VLM cleaning.
+
+	
+		
+
+
+
+
+		
+images
+72,345
+
+
+QA turns
+132,970
+
+
+answers rewritten by the cleaning pass
+7,072
+
+
+QA created by the cleaning pass (new_qa)
+66,310 (49.9%)
+
+
+shards
+1
+
+
+	
+
+
+	
+		
+	
+	
+		How this was cleaned
+	
+
+A vision-language model read each image together with its QA and judged the item. The pass is
+not a filter that only removes rows — it rewrites answers it finds wrong but… See the full description on the dataset page: https://huggingface.co/datasets/Elliot-Data/latex_ocr_cleaned. |
+| [Elliot-Data/invoices-and-receipts_ocr_cleaned](https://huggingface.co/datasets/Elliot-Data/invoices-and-receipts_ocr_cleaned) | 2026-09-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		invoices-and-receipts_ocr_cleaned
+	
+
+The invoices-and-receipts_ocr__x family of the ElliotVL supervised-fine-tuning pool, after VLM cleaning.
+
+	
+		
+
+
+
+
+		
+images
+2,221
+
+
+QA turns
+7,696
+
+
+answers rewritten by the cleaning pass
+1,517
+
+
+QA created by the cleaning pass (new_qa)
+4,651 (60.4%)
+
+
+shards
+4
+
+
+	
+
+
+	
+		
+	
+	
+		How this was cleaned
+	
+
+A vision-language model read each image together with its QA and judged the item. The pass is
+not a filter that only removes rows — it rewrites… See the full description on the dataset page: https://huggingface.co/datasets/Elliot-Data/invoices-and-receipts_ocr_cleaned. |
+| [baicai1145/pp-ocr-mnn-eval](https://huggingface.co/datasets/baicai1145/pp-ocr-mnn-eval) | 2026-09-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		PP-OCR MNN evaluation dataset (811-cell matrix)
+	
+
+Images (273) + canonical paddle.inference baselines (808 json) + configs
+for scoring pp-ocr-mnn outputs. See README.md and
+https://github.com/baicai1145/pp-ocr-mnn (tools/score.py).
+A single-file snapshot is also included as ppocr-eval-dataset.tar.zst.
+ |
+| [arolstar52/ocr-synthetic-multilingual-v1-tokenized-en](https://huggingface.co/datasets/arolstar52/ocr-synthetic-multilingual-v1-tokenized-en) | 2026-09-09 | text-recognition | candidate | — |
+| [AndyC01/raw_4experts_ocr_chart_gd_zoom](https://huggingface.co/datasets/AndyC01/raw_4experts_ocr_chart_gd_zoom) | 2026-09-09 | text-recognition | candidate | — |
 | [sshenfiona1992/document-ocr-pointcloud-text-mini](https://huggingface.co/datasets/sshenfiona1992/document-ocr-pointcloud-text-mini) | 2026-09-08 | text-recognition | candidate | 
 	
 		

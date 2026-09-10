@@ -4,8 +4,15 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [tieubaoca/ArchVision-OCR-LORA-vi](https://huggingface.co/tieubaoca/ArchVision-OCR-LORA-vi) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
+| [tadad/qwen3.5-0.8b-sanskrit-ocr](https://huggingface.co/tadad/qwen3.5-0.8b-sanskrit-ocr) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
+| [nik-hill/Hindi_Offline_Handwritten_OCR](https://huggingface.co/nik-hill/Hindi_Offline_Handwritten_OCR) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
+| [lokeshe09/gemma-4-31B-it-SFT_OCRRRR-INT8](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRR-INT8) | 2026-09-09 | text-recognition | candidate | — |
+| [lokeshe09/gemma-4-31B-it-SFT_OCRRRR](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRR) | 2026-09-09 | text-recognition | candidate | — |
+| [lab-ii/sakha-ocr](https://huggingface.co/lab-ii/sakha-ocr) | 2026-09-09 | text-recognition | candidate | — |
 | [HashNuke/indic-ocr-mlx](https://huggingface.co/HashNuke/indic-ocr-mlx) | 2026-09-09 | text-recognition | candidate | — |
 | [ctogaurav/Unlimited-OCR-math-latex](https://huggingface.co/ctogaurav/Unlimited-OCR-math-latex) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
+| [baicai1145/pp-ocr-mnn-models](https://huggingface.co/baicai1145/pp-ocr-mnn-models) | 2026-09-09 | text-recognition | candidate | — |
 | [AndyC01/sft_4experts_ocr2k_chart2k_gd1901_zoom2k](https://huggingface.co/AndyC01/sft_4experts_ocr2k_chart2k_gd1901_zoom2k) | 2026-09-09 | text-recognition | candidate | — |
 | [tpiwko/PP-OCRv5-Finetuned](https://huggingface.co/tpiwko/PP-OCRv5-Finetuned) | 2026-09-08 | text-recognition | candidate | — |
 | [keystats/historical_barbados_ocr_clustered](https://huggingface.co/keystats/historical_barbados_ocr_clustered) | 2026-09-08 | text-recognition | candidate | — |
