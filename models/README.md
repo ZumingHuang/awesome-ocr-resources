@@ -4,8 +4,15 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [hari31416/indic-ocr-mlx-bf16](https://huggingface.co/hari31416/indic-ocr-mlx-bf16) | 2026-09-11 | text-recognition | candidate | — |
+| [hari31416/indic-ocr-mlx-8bit](https://huggingface.co/hari31416/indic-ocr-mlx-8bit) | 2026-09-11 | text-recognition | candidate | — |
+| [hari31416/indic-ocr-mlx-4bit](https://huggingface.co/hari31416/indic-ocr-mlx-4bit) | 2026-09-11 | text-recognition | candidate | — |
+| [Sheeda/arabic-ocr-post-correction-0.5b](https://huggingface.co/Sheeda/arabic-ocr-post-correction-0.5b) | 2026-09-10 | text-recognition | candidate | — |
+| [Sangle/japan_ocr_paddle](https://huggingface.co/Sangle/japan_ocr_paddle) | 2026-09-10 | text-recognition | candidate | — |
+| [keystats/historical_barbados_ocr_crnn_v2](https://huggingface.co/keystats/historical_barbados_ocr_crnn_v2) | 2026-09-10 | text-recognition | candidate | — |
 | [tieubaoca/ArchVision-OCR-LORA-vi](https://huggingface.co/tieubaoca/ArchVision-OCR-LORA-vi) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
 | [tadad/qwen3.5-0.8b-sanskrit-ocr](https://huggingface.co/tadad/qwen3.5-0.8b-sanskrit-ocr) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
+| [tadad/midf-sanskrit-ocr](https://huggingface.co/tadad/midf-sanskrit-ocr) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
 | [nik-hill/Hindi_Offline_Handwritten_OCR](https://huggingface.co/nik-hill/Hindi_Offline_Handwritten_OCR) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
 | [lokeshe09/gemma-4-31B-it-SFT_OCRRRR-INT8](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRR-INT8) | 2026-09-09 | text-recognition | candidate | — |
 | [lokeshe09/gemma-4-31B-it-SFT_OCRRRR](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRR) | 2026-09-09 | text-recognition | candidate | — |

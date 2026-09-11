@@ -4,6 +4,36 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [nlpctx/sansad-ocr](https://huggingface.co/datasets/nlpctx/sansad-ocr) | 2026-09-10 | text-recognition | candidate | — |
+| [HugoFernandeznon/ml-document-ocr](https://huggingface.co/datasets/HugoFernandeznon/ml-document-ocr) | 2026-09-10 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Video Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/HugoFernandeznon/ml-document-ocr. |
 | [Elliot-Data/ocrvqa_train_cleaned](https://huggingface.co/datasets/Elliot-Data/ocrvqa_train_cleaned) | 2026-09-10 | text-recognition | candidate | 
 	
 		

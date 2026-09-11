@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:hari31416/indic-ocr-mlx-8bit
+kind: model
+name: hari31416/indic-ocr-mlx-8bit
+released_at:
+  value: '2026-09-11'
+  precision: day
+added_at: '2026-09-11'
+last_verified_at: '2026-09-11'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/hari31416/indic-ocr-mlx-8bit
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/hari31416/indic-ocr-mlx-8bit
+  discovered_via: huggingface
+  discovered_at: '2026-09-11'
+  source_id: hari31416/indic-ocr-mlx-8bit
+  source_metadata:
+    repository_id: hari31416/indic-ocr-mlx-8bit
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: hari31416
+repository_id: hari31416/indic-ocr-mlx-8bit
+deployment: []
