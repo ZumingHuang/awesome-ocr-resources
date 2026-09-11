@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:lab-ii/sakha-ocr-synth
+kind: dataset
+name: lab-ii/sakha-ocr-synth
+released_at:
+  value: '2026-09-09'
+  precision: day
+added_at: '2026-09-10'
+last_verified_at: '2026-09-10'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tСинтетические строки якутского текста для OCR\n\t\n\n500 000 изображений\
+  \ строк с точной разметкой. Сделано для обучения\nраспознавателя якутского (саха) текста: готовые движки\
+  \ для этого языка не\nработают, а размеченных строк почти нет.\nЗачем вообще синтетика: у tesseract-rus\
+  \ и ABBYY FineReader 10 на якутской\nпечати доля правильно прочитанных специфических букв ҕ ҥ ө һ ү\
+  \ равна нулю.\nНе «низкая» — ноль на 460 тысячах букв, при том что эти буквы составляют около\n7% всех\
+  \ букв и встречаются… See the full description on the dataset page: https://huggingface.co/datasets/lab-ii/sakha-ocr-synth."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/lab-ii/sakha-ocr-synth
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/lab-ii/sakha-ocr-synth
+  discovered_via: huggingface
+  discovered_at: '2026-09-10'
+  source_id: lab-ii/sakha-ocr-synth
+  source_metadata:
+    repository_id: lab-ii/sakha-ocr-synth
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: lab-ii
+repository_id: lab-ii/sakha-ocr-synth
+usage: []
+annotations: []
+access: unknown

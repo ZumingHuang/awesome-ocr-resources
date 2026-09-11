@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [kunpengtalk/OmniStudio](https://github.com/kunpengtalk/OmniStudio) | 2026-09-09 | text-recognition | candidate | OmniStudio 是一个本地大模型一体化桌面工作台（Electrobun + React），集模型市集下载、llama.cpp/vLLM/SGLang 三引擎推理管理，以及对话、语音、图片、OCR 四大应用于一体，全程本地优先。 |
 | [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | 2026-09-05 | text-recognition | candidate | 纯 C# PP-OCRv6 推理库：多平台 SIMD 优化、较低内存占用、高正确率。 |
 | [paxalabs/mcp](https://github.com/paxalabs/mcp) | 2026-09-05 | text-recognition | candidate | Official MCP server for the Paxa Labs API: Thai and English speech AI with local playback, translation to Thai, and document OCR |
 | [fanfanyuyang/bid-agent-vscode](https://github.com/fanfanyuyang/bid-agent-vscode) | 2026-09-04 | other | candidate | Intelligent Parsing Agent for Electrical Tender Documents – A seven-step workflow + document processing ledger, enabling multi-format uploads, automatic equipment parameter extraction, evidence review, and closed-loop manual verification. Supports hot-switching between DeepSeek and local graphics card LLM. |

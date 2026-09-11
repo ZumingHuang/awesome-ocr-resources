@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:kunpengtalk/OmniStudio
+kind: code
+name: kunpengtalk/OmniStudio
+released_at:
+  value: '2026-09-09'
+  precision: day
+added_at: '2026-09-10'
+last_verified_at: '2026-09-10'
+summary: OmniStudio 是一个本地大模型一体化桌面工作台（Electrobun + React），集模型市集下载、llama.cpp/vLLM/SGLang 三引擎推理管理，以及对话、语音、图片、OCR
+  四大应用于一体，全程本地优先。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/kunpengtalk/OmniStudio
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/kunpengtalk/OmniStudio
+  discovered_via: github
+  discovered_at: '2026-09-10'
+  source_id: R_kgDOUTKrcQ
+  source_metadata:
+    repository: kunpengtalk/OmniStudio
+    stars: 18
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: kunpengtalk/OmniStudio
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

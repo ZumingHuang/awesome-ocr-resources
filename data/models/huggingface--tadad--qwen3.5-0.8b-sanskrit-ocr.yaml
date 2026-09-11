@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:tadad/qwen3.5-0.8b-sanskrit-ocr
+kind: model
+name: tadad/qwen3.5-0.8b-sanskrit-ocr
+released_at:
+  value: '2026-09-09'
+  precision: day
+added_at: '2026-09-10'
+last_verified_at: '2026-09-10'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/tadad/qwen3.5-0.8b-sanskrit-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/tadad/qwen3.5-0.8b-sanskrit-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-10'
+  source_id: tadad/qwen3.5-0.8b-sanskrit-ocr
+  source_metadata:
+    repository_id: tadad/qwen3.5-0.8b-sanskrit-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: tadad
+repository_id: tadad/qwen3.5-0.8b-sanskrit-ocr
+deployment: []
