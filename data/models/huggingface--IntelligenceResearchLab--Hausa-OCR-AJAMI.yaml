@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:IntelligenceResearchLab/Hausa-OCR-AJAMI
+kind: model
+name: IntelligenceResearchLab/Hausa-OCR-AJAMI
+released_at:
+  value: '2026-09-12'
+  precision: day
+added_at: '2026-09-13'
+last_verified_at: '2026-09-13'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI
+  discovered_via: huggingface
+  discovered_at: '2026-09-13'
+  source_id: IntelligenceResearchLab/Hausa-OCR-AJAMI
+  source_metadata:
+    repository_id: IntelligenceResearchLab/Hausa-OCR-AJAMI
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: IntelligenceResearchLab
+repository_id: IntelligenceResearchLab/Hausa-OCR-AJAMI
+deployment: []

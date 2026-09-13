@@ -4,8 +4,28 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [keystats/Transcribe_ocr_v4](https://huggingface.co/keystats/Transcribe_ocr_v4) | 2026-09-13 | text-recognition | candidate | — |
+| [keystats/Transcribe_ocr_v3](https://huggingface.co/keystats/Transcribe_ocr_v3) | 2026-09-13 | text-recognition | candidate | — |
+| [keystats/Transcribe_ocr_v2](https://huggingface.co/keystats/Transcribe_ocr_v2) | 2026-09-13 | text-recognition | candidate | — |
+| [AKHtun/wecos-myanmar-ocr-8b-GGUF](https://huggingface.co/AKHtun/wecos-myanmar-ocr-8b-GGUF) | 2026-09-13 | text-recognition | candidate | — |
+| [lokeshe09/gemma-4-31B-it-SFT_OCRRRRRR-INT8](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRRRR-INT8) | 2026-09-12 | text-recognition | candidate | — |
+| [lokeshe09/gemma-4-31B-it-SFT_OCRRRRRR](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRRRR) | 2026-09-12 | text-recognition | candidate | — |
+| [lokeshe09/gemma-4-31B-it-SFT_OCRRRRR-INT8](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRRR-INT8) | 2026-09-12 | text-recognition | candidate | — |
+| [lokeshe09/gemma-4-31B-it-SFT_OCRRRRR](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRRR) | 2026-09-12 | text-recognition | candidate | — |
+| [jnneumann/ocr-freeform](https://huggingface.co/jnneumann/ocr-freeform) | 2026-09-12 | text-recognition | candidate | — |
+| [IntelligenceResearchLab/Hausa-OCR-AJAMI](https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI) | 2026-09-12 | text-recognition | candidate | — |
+| [Yashp2003/chandra-ocr-2-ggufs](https://huggingface.co/Yashp2003/chandra-ocr-2-ggufs) | 2026-09-11 | text-recognition | candidate | — |
+| [Yashp2003/chandra-ocr-2-Dynamic-GGUF](https://huggingface.co/Yashp2003/chandra-ocr-2-Dynamic-GGUF) | 2026-09-11 | text-recognition | candidate | — |
+| [xinyihan2000/ocr-freeform-run3](https://huggingface.co/xinyihan2000/ocr-freeform-run3) | 2026-09-11 | text-recognition | candidate | — |
+| [hari31416/indic-ocr-mlx-bf16](https://huggingface.co/hari31416/indic-ocr-mlx-bf16) | 2026-09-11 | text-recognition | candidate | — |
+| [hari31416/indic-ocr-mlx-8bit](https://huggingface.co/hari31416/indic-ocr-mlx-8bit) | 2026-09-11 | text-recognition | candidate | — |
+| [hari31416/indic-ocr-mlx-4bit](https://huggingface.co/hari31416/indic-ocr-mlx-4bit) | 2026-09-11 | text-recognition | candidate | — |
+| [dhchoi/bandit-ocr](https://huggingface.co/dhchoi/bandit-ocr) | 2026-09-11 | text-recognition | candidate | — |
+| [Sheeda/arabic-ocr-post-correction-0.5b](https://huggingface.co/Sheeda/arabic-ocr-post-correction-0.5b) | 2026-09-10 | text-recognition | candidate | — |
+| [Sangle/japan_ocr_paddle](https://huggingface.co/Sangle/japan_ocr_paddle) | 2026-09-10 | text-recognition | candidate | — |
 | [tieubaoca/ArchVision-OCR-LORA-vi](https://huggingface.co/tieubaoca/ArchVision-OCR-LORA-vi) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
 | [tadad/qwen3.5-0.8b-sanskrit-ocr](https://huggingface.co/tadad/qwen3.5-0.8b-sanskrit-ocr) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
+| [tadad/midf-sanskrit-ocr](https://huggingface.co/tadad/midf-sanskrit-ocr) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
 | [nik-hill/Hindi_Offline_Handwritten_OCR](https://huggingface.co/nik-hill/Hindi_Offline_Handwritten_OCR) | 2026-09-09 | handwriting-recognition, text-recognition | candidate | — |
 | [lokeshe09/gemma-4-31B-it-SFT_OCRRRR-INT8](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRR-INT8) | 2026-09-09 | text-recognition | candidate | — |
 | [lokeshe09/gemma-4-31B-it-SFT_OCRRRR](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRR) | 2026-09-09 | text-recognition | candidate | — |

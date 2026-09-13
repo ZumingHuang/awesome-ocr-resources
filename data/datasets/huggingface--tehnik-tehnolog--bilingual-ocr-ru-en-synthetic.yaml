@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:tehnik-tehnolog/bilingual-ocr-ru-en-synthetic
+kind: dataset
+name: tehnik-tehnolog/bilingual-ocr-ru-en-synthetic
+released_at:
+  value: '2026-09-11'
+  precision: day
+added_at: '2026-09-13'
+last_verified_at: '2026-09-13'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tBilingual OCR RU-EN Synthetic Dataset\n\t\n\nThis synthetic dataset\
+  \ is designed for bilingual text recognition (OCR) and script classification tasks (cyrillic / latin)\
+  \ at the word and short-line level.\n\n\t\n\t\t\n\t\n\t\n\t\tWhy are numbers, mathematical symbols,\
+  \ and the Greek alphabet included in the generation?\n\t\n\nWhen creating synthetic OCR datasets, including\
+  \ an expanded set of characters (digits, mathematical signs, and Greek letters) is a deliberate step\
+  \ aimed at two main goals:… See the full description on the dataset page: https://huggingface.co/datasets/tehnik-tehnolog/bilingual-ocr-ru-en-synthetic."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/tehnik-tehnolog/bilingual-ocr-ru-en-synthetic
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/tehnik-tehnolog/bilingual-ocr-ru-en-synthetic
+  discovered_via: huggingface
+  discovered_at: '2026-09-13'
+  source_id: tehnik-tehnolog/bilingual-ocr-ru-en-synthetic
+  source_metadata:
+    repository_id: tehnik-tehnolog/bilingual-ocr-ru-en-synthetic
+    downloads: 89
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: tehnik-tehnolog
+repository_id: tehnik-tehnolog/bilingual-ocr-ru-en-synthetic
+usage: []
+annotations: []
+access: unknown

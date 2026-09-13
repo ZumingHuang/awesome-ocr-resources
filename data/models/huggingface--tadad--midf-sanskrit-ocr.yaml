@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:tadad/midf-sanskrit-ocr
+kind: model
+name: tadad/midf-sanskrit-ocr
+released_at:
+  value: '2026-09-09'
+  precision: day
+added_at: '2026-09-13'
+last_verified_at: '2026-09-13'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/tadad/midf-sanskrit-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/tadad/midf-sanskrit-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-13'
+  source_id: tadad/midf-sanskrit-ocr
+  source_metadata:
+    repository_id: tadad/midf-sanskrit-ocr
+    downloads: 9
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: tadad
+repository_id: tadad/midf-sanskrit-ocr
+deployment: []

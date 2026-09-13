@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes
+kind: dataset
+name: Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes
+released_at:
+  value: '2026-09-11'
+  precision: day
+added_at: '2026-09-13'
+last_verified_at: '2026-09-13'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDescription\n\t\n\n104,320장 규모의 한국어 및 힌디어 자연 환경 OCR 데이터셋입니다. 데이터는 포장지,\
+  \ 포스터, 티켓, 안내문, 메뉴, 건물 표지판 등 다양한 실환경에서 수집되었습니다. 다양한 자연 환경, 촬영 각도 및 조명 조건을 포함하여 데이터의 다양성을 확보했습니다.\n어노테이션은\
+  \ 텍스트의 행 단위 폴리곤 바운딩 박스(또는 사각형/직사각형 바운딩 박스), 전사 및 텍스트 속성(언어 유형) 정보를 포함하며, 세로 방향 텍스트에 대해서도 폴리곤 바운딩 박스(또는\
+  \ 사각형/직사각형 바운딩 박스), 전사 및 텍스트 속성(언어 유형) 정보를 제공합니다. 본 데이터셋은 자연 환경에서의 한국어 및 힌디어 OCR 작업에 활용할 수 있습니다.\n자세한\
+  \ 내용은 아래 링크를 참고해 주세요: https://ko.nexdata.ai/datasets/ocr/1254?source=hf.kr\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Data size\n\t\n\n한국어 이미지 76,861장… See the full description on the dataset page: https://huggingface.co/datasets/Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes
+  discovered_via: huggingface
+  discovered_at: '2026-09-13'
+  source_id: Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes
+  source_metadata:
+    repository_id: Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes
+    downloads: 32
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Nexdata-kr
+repository_id: Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes
+usage: []
+annotations: []
+access: unknown
