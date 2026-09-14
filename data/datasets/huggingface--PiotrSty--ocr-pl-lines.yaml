@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:PiotrSty/ocr-pl-lines
+kind: dataset
+name: PiotrSty/ocr-pl-lines
+released_at:
+  value: '2026-09-12'
+  precision: day
+added_at: '2026-09-13'
+last_verified_at: '2026-09-13'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tocr-pl-lines\n\t\n\nSyntetyczny zbiór linii tekstu po polsku do fine-tuningu\
+  \ OCR (TrOCR).\nPary NNNNN.png (obraz linii) + NNNNN.txt (transkrypcja).\n\n\t\n\t\t\n\t\n\t\n\t\tStruktura\n\
+  \t\n\n\ntrain/ — 2000 par (seed 42)\nval/ — 200 par (seed 123)\n\n\n\t\n\t\t\n\t\n\t\n\t\tGenerowanie\n\
+  \t\n\nOCR_engine —\npython -m training.generate_synthetic\nKorpus: zdania potoczne i urzędowe, domeny\
+  \ (faktury, umowy, medyczne,\nprawnicze), losowe daty/kwoty/adresy/NIP/PESEL, zdania z pl.wikipedia.org.\n\
+  Augmentacje: pochylenie, blur, szum… See the full description on the dataset page: https://huggingface.co/datasets/PiotrSty/ocr-pl-lines."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/PiotrSty/ocr-pl-lines
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/PiotrSty/ocr-pl-lines
+  discovered_via: huggingface
+  discovered_at: '2026-09-13'
+  source_id: PiotrSty/ocr-pl-lines
+  source_metadata:
+    repository_id: PiotrSty/ocr-pl-lines
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: PiotrSty
+repository_id: PiotrSty/ocr-pl-lines
+usage: []
+annotations: []
+access: unknown

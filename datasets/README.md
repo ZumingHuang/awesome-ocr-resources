@@ -4,6 +4,109 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [PiotrSty/ocr-pl-lines](https://huggingface.co/datasets/PiotrSty/ocr-pl-lines) | 2026-09-12 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocr-pl-lines
+	
+
+Syntetyczny zbiór linii tekstu po polsku do fine-tuningu OCR (TrOCR).
+Pary NNNNN.png (obraz linii) + NNNNN.txt (transkrypcja).
+
+	
+		
+	
+	
+		Struktura
+	
+
+
+train/ — 2000 par (seed 42)
+val/ — 200 par (seed 123)
+
+
+	
+		
+	
+	
+		Generowanie
+	
+
+OCR_engine —
+python -m training.generate_synthetic
+Korpus: zdania potoczne i urzędowe, domeny (faktury, umowy, medyczne,
+prawnicze), losowe daty/kwoty/adresy/NIP/PESEL, zdania z pl.wikipedia.org.
+Augmentacje: pochylenie, blur, szum… See the full description on the dataset page: https://huggingface.co/datasets/PiotrSty/ocr-pl-lines. |
+| [tehnik-tehnolog/bilingual-ocr-ru-en-synthetic](https://huggingface.co/datasets/tehnik-tehnolog/bilingual-ocr-ru-en-synthetic) | 2026-09-11 | text-recognition | candidate | 
+	
+		
+	
+	
+		Bilingual OCR RU-EN Synthetic Dataset
+	
+
+This synthetic dataset is designed for bilingual text recognition (OCR) and script classification tasks (cyrillic / latin) at the word and short-line level.
+
+	
+		
+	
+	
+		Why are numbers, mathematical symbols, and the Greek alphabet included in the generation?
+	
+
+When creating synthetic OCR datasets, including an expanded set of characters (digits, mathematical signs, and Greek letters) is a deliberate step aimed at two main goals:… See the full description on the dataset page: https://huggingface.co/datasets/tehnik-tehnolog/bilingual-ocr-ru-en-synthetic. |
+| [Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes](https://huggingface.co/datasets/Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes) | 2026-09-11 | text-recognition | candidate | 
+	
+		
+	
+	
+		Description
+	
+
+104,320장 규모의 한국어 및 힌디어 자연 환경 OCR 데이터셋입니다. 데이터는 포장지, 포스터, 티켓, 안내문, 메뉴, 건물 표지판 등 다양한 실환경에서 수집되었습니다. 다양한 자연 환경, 촬영 각도 및 조명 조건을 포함하여 데이터의 다양성을 확보했습니다.
+어노테이션은 텍스트의 행 단위 폴리곤 바운딩 박스(또는 사각형/직사각형 바운딩 박스), 전사 및 텍스트 속성(언어 유형) 정보를 포함하며, 세로 방향 텍스트에 대해서도 폴리곤 바운딩 박스(또는 사각형/직사각형 바운딩 박스), 전사 및 텍스트 속성(언어 유형) 정보를 제공합니다. 본 데이터셋은 자연 환경에서의 한국어 및 힌디어 OCR 작업에 활용할 수 있습니다.
+자세한 내용은 아래 링크를 참고해 주세요: https://ko.nexdata.ai/datasets/ocr/1254?source=hf.kr
+
+	
+		
+	
+	
+		Data size
+	
+
+한국어 이미지 76,861장… See the full description on the dataset page: https://huggingface.co/datasets/Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes. |
+| [nlpctx/sansad-ocr](https://huggingface.co/datasets/nlpctx/sansad-ocr) | 2026-09-10 | text-recognition | candidate | — |
+| [HugoFernandeznon/ml-document-ocr](https://huggingface.co/datasets/HugoFernandeznon/ml-document-ocr) | 2026-09-10 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Video Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/HugoFernandeznon/ml-document-ocr. |
 | [Elliot-Data/ocrvqa_train_cleaned](https://huggingface.co/datasets/Elliot-Data/ocrvqa_train_cleaned) | 2026-09-10 | text-recognition | candidate | 
 	
 		
