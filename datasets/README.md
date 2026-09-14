@@ -4,6 +4,119 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [yusukeyama0705/research-document-ocr](https://huggingface.co/datasets/yusukeyama0705/research-document-ocr) | 2026-09-13 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Image Audio metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md… See the full description on the dataset page: https://huggingface.co/datasets/yusukeyama0705/research-document-ocr. |
+| [SeeWye/NFA_OCR_qwen_grpo_formatv2](https://huggingface.co/datasets/SeeWye/NFA_OCR_qwen_grpo_formatv2) | 2026-09-13 | text-recognition | candidate | — |
+| [SeeWye/NFA_OCR_qwen_grpo_format1](https://huggingface.co/datasets/SeeWye/NFA_OCR_qwen_grpo_format1) | 2026-09-13 | text-recognition | candidate | — |
+| [ryantanakawyn/document-ocr-image-audio-benchmark](https://huggingface.co/datasets/ryantanakawyn/document-ocr-image-audio-benchmark) | 2026-09-13 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Image Audio records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/ryantanakawyn/document-ocr-image-audio-benchmark. |
+| [GwendalTsang/OCR-grec-polytonique](https://huggingface.co/datasets/GwendalTsang/OCR-grec-polytonique) | 2026-09-13 | text-recognition | candidate | 
+	
+		
+	
+	
+		Dataset OCR aligné — grec polytonique imprimé (Legrand 1918)
+	
+
+Petit jeu de données page-image ↔ texte grec, destiné à évaluer des modèles
+sur la transcription de grec ancien polytonique imprimé.
+
+	
+		
+	
+	
+		Source
+	
+
+
+Fac-similé : bibliographiehel0001unse_t9o1.pdf (588 p.), numérisation
+Internet Archive de É. Legrand, Bibliographie hellénique ou description
+raisonnée des ouvrages publiés par des Grecs au dix-huitième siècle, t. 1,
+Paris, 1918 —… See the full description on the dataset page: https://huggingface.co/datasets/GwendalTsang/OCR-grec-polytonique. |
+| [francescores/document-ocr-pointcloud-text](https://huggingface.co/datasets/francescores/document-ocr-pointcloud-text) | 2026-09-13 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/francescores/document-ocr-pointcloud-text. |
 | [PiotrSty/ocr-pl-lines](https://huggingface.co/datasets/PiotrSty/ocr-pl-lines) | 2026-09-12 | text-recognition | candidate | 
 	
 		

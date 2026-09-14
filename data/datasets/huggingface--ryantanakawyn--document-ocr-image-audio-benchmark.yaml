@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:ryantanakawyn/document-ocr-image-audio-benchmark
+kind: dataset
+name: ryantanakawyn/document-ocr-image-audio-benchmark
+released_at:
+  value: '2026-09-13'
+  precision: day
+added_at: '2026-09-14'
+last_verified_at: '2026-09-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Image Audio Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nA documented Document OCR data-preparation workflow for Image Audio records.\
+  \ The bundled rows demonstrate the schema and validation path rather than pretending to be a full training\
+  \ corpus.\n\n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nclean.py — loading, cleaning, and split\
+  \ preparation code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small,\
+  \ human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/ryantanakawyn/document-ocr-image-audio-benchmark."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/ryantanakawyn/document-ocr-image-audio-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/ryantanakawyn/document-ocr-image-audio-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-09-14'
+  source_id: ryantanakawyn/document-ocr-image-audio-benchmark
+  source_metadata:
+    repository_id: ryantanakawyn/document-ocr-image-audio-benchmark
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: ryantanakawyn
+repository_id: ryantanakawyn/document-ocr-image-audio-benchmark
+usage: []
+annotations: []
+access: unknown

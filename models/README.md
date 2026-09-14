@@ -4,9 +4,15 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [lokeshe09/gemma-4-31B-it-SFT_OCR_OCR-INT8](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCR_OCR-INT8) | 2026-09-14 | text-recognition | candidate | — |
+| [lokeshe09/gemma-4-31B-it-SFT_OCR_OCR](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCR_OCR) | 2026-09-14 | text-recognition | candidate | — |
+| [timothy-perez/ocr-freeform-review32](https://huggingface.co/timothy-perez/ocr-freeform-review32) | 2026-09-13 | text-recognition | candidate | — |
+| [Phamhapaa1/OCR](https://huggingface.co/Phamhapaa1/OCR) | 2026-09-13 | text-recognition | candidate | — |
+| [Nicolassuez/Falcon-OCR-int8-openvino](https://huggingface.co/Nicolassuez/Falcon-OCR-int8-openvino) | 2026-09-13 | text-recognition | candidate | — |
 | [keystats/Transcribe_ocr_v4](https://huggingface.co/keystats/Transcribe_ocr_v4) | 2026-09-13 | text-recognition | candidate | — |
 | [keystats/Transcribe_ocr_v3](https://huggingface.co/keystats/Transcribe_ocr_v3) | 2026-09-13 | text-recognition | candidate | — |
 | [keystats/Transcribe_ocr_v2](https://huggingface.co/keystats/Transcribe_ocr_v2) | 2026-09-13 | text-recognition | candidate | — |
+| [IntelligenceResearchLab/Hausa-OCR-AJAMI-v11](https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI-v11) | 2026-09-13 | handwriting-recognition, text-recognition | candidate | — |
 | [AKHtun/wecos-myanmar-ocr-8b-GGUF](https://huggingface.co/AKHtun/wecos-myanmar-ocr-8b-GGUF) | 2026-09-13 | text-recognition | candidate | — |
 | [lokeshe09/gemma-4-31B-it-SFT_OCRRRRRR-INT8](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRRRR-INT8) | 2026-09-12 | text-recognition | candidate | — |
 | [lokeshe09/gemma-4-31B-it-SFT_OCRRRRRR](https://huggingface.co/lokeshe09/gemma-4-31B-it-SFT_OCRRRRRR) | 2026-09-12 | text-recognition | candidate | — |

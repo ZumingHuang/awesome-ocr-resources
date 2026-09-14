@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:GwendalTsang/OCR-grec-polytonique
+kind: dataset
+name: GwendalTsang/OCR-grec-polytonique
+released_at:
+  value: '2026-09-13'
+  precision: day
+added_at: '2026-09-14'
+last_verified_at: '2026-09-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDataset OCR aligné — grec polytonique imprimé (Legrand 1918)\n\t\n\n\
+  Petit jeu de données page-image ↔ texte grec, destiné à évaluer des modèles\nsur la transcription de\
+  \ grec ancien polytonique imprimé.\n\n\t\n\t\t\n\t\n\t\n\t\tSource\n\t\n\n\nFac-similé : bibliographiehel0001unse_t9o1.pdf\
+  \ (588 p.), numérisation\nInternet Archive de É. Legrand, Bibliographie hellénique ou description\n\
+  raisonnée des ouvrages publiés par des Grecs au dix-huitième siècle, t. 1,\nParis, 1918 —… See the full\
+  \ description on the dataset page: https://huggingface.co/datasets/GwendalTsang/OCR-grec-polytonique."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/GwendalTsang/OCR-grec-polytonique
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/GwendalTsang/OCR-grec-polytonique
+  discovered_via: huggingface
+  discovered_at: '2026-09-14'
+  source_id: GwendalTsang/OCR-grec-polytonique
+  source_metadata:
+    repository_id: GwendalTsang/OCR-grec-polytonique
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: GwendalTsang
+repository_id: GwendalTsang/OCR-grec-polytonique
+usage: []
+annotations: []
+access: unknown
