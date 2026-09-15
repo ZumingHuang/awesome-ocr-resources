@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Ricoz217/WarDogs_Distance_Calculator
+kind: code
+name: Ricoz217/WarDogs_Distance_Calculator
+released_at:
+  value: '2026-09-10'
+  precision: day
+added_at: '2026-09-14'
+last_verified_at: '2026-09-14'
+summary: 战狗的迫击炮|攀枝花OCR快速射表计算器
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Ricoz217/WarDogs_Distance_Calculator
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Ricoz217/WarDogs_Distance_Calculator
+  discovered_via: github
+  discovered_at: '2026-09-14'
+  source_id: R_kgDOUVggJg
+  source_metadata:
+    repository: Ricoz217/WarDogs_Distance_Calculator
+    stars: 14
+    language: C++
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Ricoz217/WarDogs_Distance_Calculator
+landmark: false
+programming_languages:
+- C++
+maintenance_status: active

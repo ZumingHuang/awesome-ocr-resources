@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Nicolassuez/Falcon-OCR-int8-openvino
+kind: model
+name: Nicolassuez/Falcon-OCR-int8-openvino
+released_at:
+  value: '2026-09-13'
+  precision: day
+added_at: '2026-09-14'
+last_verified_at: '2026-09-14'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Nicolassuez/Falcon-OCR-int8-openvino
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Nicolassuez/Falcon-OCR-int8-openvino
+  discovered_via: huggingface
+  discovered_at: '2026-09-14'
+  source_id: Nicolassuez/Falcon-OCR-int8-openvino
+  source_metadata:
+    repository_id: Nicolassuez/Falcon-OCR-int8-openvino
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Nicolassuez
+repository_id: Nicolassuez/Falcon-OCR-int8-openvino
+deployment: []
