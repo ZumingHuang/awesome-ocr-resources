@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:SOTAagi2030/LedgerLens-OCR-Release
+kind: model
+name: SOTAagi2030/LedgerLens-OCR-Release
+released_at:
+  value: '2026-09-14'
+  precision: day
+added_at: '2026-09-15'
+last_verified_at: '2026-09-15'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/SOTAagi2030/LedgerLens-OCR-Release
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/SOTAagi2030/LedgerLens-OCR-Release
+  discovered_via: huggingface
+  discovered_at: '2026-09-15'
+  source_id: SOTAagi2030/LedgerLens-OCR-Release
+  source_metadata:
+    repository_id: SOTAagi2030/LedgerLens-OCR-Release
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: SOTAagi2030
+repository_id: SOTAagi2030/LedgerLens-OCR-Release
+deployment: []

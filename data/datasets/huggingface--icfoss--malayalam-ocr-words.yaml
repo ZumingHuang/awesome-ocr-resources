@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:icfoss/malayalam-ocr-words
+kind: dataset
+name: icfoss/malayalam-ocr-words
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-15'
+last_verified_at: '2026-09-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tMalayalam OCR Words\n\t\n\nA word-level Malayalam OCR dataset: cropped\
+  \ word images paired with their\ntranscribed text label, split into train/validation/test sets.\n\n\t\
+  \n\t\t\n\t\n\t\n\t\tDataset structure\n\t\n\ntrain.csv / val.csv / test.csv   # tab-separated: <relative\
+  \ image path>\\t<Malayalam word>\ntrain/ val/ test/                # image files referenced by the corresponding\
+  \ CSV\n\nEach CSV row maps one image file (path relative to its split folder) to its\nground-truth Malayalam\
+  \ word transcription.… See the full description on the dataset page: https://huggingface.co/datasets/icfoss/malayalam-ocr-words."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/icfoss/malayalam-ocr-words
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/icfoss/malayalam-ocr-words
+  discovered_via: huggingface
+  discovered_at: '2026-09-15'
+  source_id: icfoss/malayalam-ocr-words
+  source_metadata:
+    repository_id: icfoss/malayalam-ocr-words
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: icfoss
+repository_id: icfoss/malayalam-ocr-words
+usage: []
+annotations: []
+access: unknown

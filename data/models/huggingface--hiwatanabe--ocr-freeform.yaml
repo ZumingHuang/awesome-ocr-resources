@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:hiwatanabe/ocr-freeform
+kind: model
+name: hiwatanabe/ocr-freeform
+released_at:
+  value: '2026-09-14'
+  precision: day
+added_at: '2026-09-15'
+last_verified_at: '2026-09-15'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/hiwatanabe/ocr-freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/hiwatanabe/ocr-freeform
+  discovered_via: huggingface
+  discovered_at: '2026-09-15'
+  source_id: hiwatanabe/ocr-freeform
+  source_metadata:
+    repository_id: hiwatanabe/ocr-freeform
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: hiwatanabe
+repository_id: hiwatanabe/ocr-freeform
+deployment: []

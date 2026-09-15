@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:shyhunter/PaperOtter
+kind: code
+name: shyhunter/PaperOtter
+released_at:
+  value: '2026-09-12'
+  precision: day
+added_at: '2026-09-15'
+last_verified_at: '2026-09-15'
+summary: Your local document toolkit  -> compress, resize, convert, and edit PDFs, images, and documents.
+  Private, fast, offline.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/shyhunter/PaperOtter
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/shyhunter/PaperOtter
+  discovered_via: github
+  discovered_at: '2026-09-15'
+  source_id: R_kgDOUYS6pQ
+  source_metadata:
+    repository: shyhunter/PaperOtter
+    stars: 10
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: shyhunter/PaperOtter
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

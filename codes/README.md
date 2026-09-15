@@ -5,6 +5,7 @@
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
 | [jerryjliu/fly_ocr](https://github.com/jerryjliu/fly_ocr) | 2026-09-13 | text-recognition | candidate | Printed-character recognition through a fixed fruit-fly connectome, with a small trained decoder, compound-eye replays and a full research report. |
+| [shyhunter/PaperOtter](https://github.com/shyhunter/PaperOtter) | 2026-09-12 | other | candidate | Your local document toolkit  -> compress, resize, convert, and edit PDFs, images, and documents. Private, fast, offline. |
 | [Ricoz217/WarDogs_Distance_Calculator](https://github.com/Ricoz217/WarDogs_Distance_Calculator) | 2026-09-10 | text-recognition | candidate | 战狗的迫击炮|攀枝花OCR快速射表计算器 |
 | [kunpengtalk/OmniStudio](https://github.com/kunpengtalk/OmniStudio) | 2026-09-09 | text-recognition | candidate | OmniStudio 是一个本地大模型一体化桌面工作台（Electrobun + React），集模型市集下载、llama.cpp/vLLM/SGLang 三引擎推理管理，以及对话、语音、图片、OCR 四大应用于一体，全程本地优先。 |
 | [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | 2026-09-05 | text-recognition | candidate | 纯 C# PP-OCRv6 推理库：多平台 SIMD 优化、较低内存占用、高正确率。 |

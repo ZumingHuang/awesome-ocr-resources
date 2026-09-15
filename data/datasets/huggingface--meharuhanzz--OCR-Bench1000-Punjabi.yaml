@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:meharuhanzz/OCR-Bench1000-Punjabi
+kind: dataset
+name: meharuhanzz/OCR-Bench1000-Punjabi
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-15'
+last_verified_at: '2026-09-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR-Bench1000-Punjabi\n\t\n\n1000 synthetic printed-text line images\
+  \ with ground-truth transcriptions,\nsampled from a larger locally-held Punjabi OCR training corpus.\n\
+  This is a benchmark/sample release, not the full training set.\n\n\t\n\t\t\n\t\n\t\n\t\tData fields\n\
+  \t\n\n\n\t\n\t\t\nField\nDescription\n\n\n\t\t\nfile_name\nrelative path to the image (images/...)\n\
+  \n\ntext\nground-truth transcription\n\n\ncategory\npunjabi_only / english_only / mixed / numeric_and_symbols\n\
+  \n\nlength_bucket\nshort / medium / long, by character… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Punjabi."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Punjabi
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Punjabi
+  discovered_via: huggingface
+  discovered_at: '2026-09-15'
+  source_id: meharuhanzz/OCR-Bench1000-Punjabi
+  source_metadata:
+    repository_id: meharuhanzz/OCR-Bench1000-Punjabi
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: meharuhanzz
+repository_id: meharuhanzz/OCR-Bench1000-Punjabi
+usage: []
+annotations: []
+access: unknown
