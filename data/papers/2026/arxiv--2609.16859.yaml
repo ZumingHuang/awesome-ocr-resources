@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2609.16859
+kind: paper
+name: 'Measuring Annotation Efficiency for Handwritten Devanagari Recognition: Sample-Complexity Curves
+  for Four Pretraining Regimes'
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: 'To train handwritten text recognition systems we need word images and their corresponding transcriptions,
+  and these transcriptions are produced manually. For a script that can be read by only a small number
+  of specialists, this manual transcription is a limitation, because the trained models are supposed to
+  save the time of those same specialists. A relevant question therefore arises: how many transcriptions
+  are needed before a recogniser becomes useful, and how much of that cost can pretraining remove? In
+  this study the answer is measured directly for handwritten Devanagari. We keep the recogniser, optimiser
+  and evaluation protocol the same and change only the number of real transcribed words used for fine-tuning
+  across nine budgets from 10 to 4,000 and four initialisation regimes, with six seeds at every point.
+  The resulting curves are then converted into annotation-equivalent terms. A CER of 0.50 is reached by
+  supervised synthetic pretraining using only 81 transcribed words, whereas random initialisation requires
+  355, which gives a label multiplier of 4.40 [3.56, 4.99]. There is a zero-shot reference point as well:
+  with no real transcribed words at all, this pretraining is worth about 136 of them. This advantage gets
+  smaller as the target accuracy improves, and at the most demanding target we measure, it cannot be distinguished
+  from no saving at all. A fourth arm in which only the encoder is transferred separates the effect of
+  the pretraining method from that of transfer scope, and masked image modelling is observed to transfer
+  negatively over a bounded range of budgets. We emphasise that the scarcity in this study is constructed
+  by subsampling a large corpus.'
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.16859
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.16859
+  discovered_via: arxiv
+  discovered_at: '2026-09-16'
+  source_id: '2609.16859'
+  source_metadata:
+    arxiv_id: '2609.16859'
+    doi: null
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Manglesh Kumar Pandey
+- Sumit Kumar Banshal
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.16859'

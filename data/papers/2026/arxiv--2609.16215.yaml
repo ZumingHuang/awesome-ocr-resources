@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:2609.16215
+kind: paper
+name: Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions
+released_at:
+  value: '2026-09-14'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: GPU high bandwidth memory is scarce and expensive, and KV caches consume much of it as chats,
+  agent loops, and document question answering accumulate state. Systems such as Mooncake, LMCache, FlexGen,
+  InfiniGen, and AttentionStore extend GPU memory with CPU DRAM and SSD. The harder question is which
+  blocks belong in each tier, when to move or evict them, and whether prefetching helps. We study these
+  choices in a discrete event simulator spanning GPU HBM, CPU DRAM, and SSD, calibrated against a random
+  forest execution time predictor. We compare recency, reuse frequency, predicted reuse, and an EWMA predictor
+  with prefetch lookahead across chat, agent, and document question answering workloads. Tiering supports
+  73.02 times more concurrent sessions per GPU and lowers cost per session by 62.04 times. These gains
+  come from tier capacities of 1 plus 8 plus 64, not placement policy. Decode is compute bound at batch
+  size one in our setup, so placement barely affects throughput. It mainly changes PCIe migration traffic
+  and time to first token. Recency produces 2.30 times less migration traffic than reuse frequency for
+  chat. Reuse frequency performs best for agents and document question answering. The existing predicted
+  reuse policy is byte identical to recency, making its agent recommendation effectively recency. A genuine
+  EWMA predictor changes behavior but still ranks behind reuse frequency on the workloads prediction was
+  expected to help. Prefetching does not justify its bandwidth cost. Across the policy and cache size
+  grid, even an oracle with knowledge of future requests never beats no prefetch on migration traffic.
+  Workload specific placement can reduce data movement, but the predicted reuse and prefetch recommendations
+  are not supported as implemented.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.16215
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.16215
+  discovered_via: arxiv
+  discovered_at: '2026-09-16'
+  source_id: '2609.16215'
+  source_metadata:
+    arxiv_id: '2609.16215'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Srikanta Datta Tumkur
+- Jay Iyer
+- Mehar Simhadri
+- Sai Pavan Kumar
+- Sai Kapil Kumar
+- Ramesh Nampelly
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.16215'

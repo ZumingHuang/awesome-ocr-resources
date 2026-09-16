@@ -4,6 +4,96 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [uv-scripts/ocr-demo](https://huggingface.co/datasets/uv-scripts/ocr-demo) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR demo: Food for Space Flight
+	
+
+Seven scanned pages from NASA's Food for Space Flight booklet, with headings,
+columns, photographs, food lists and tables. This small dataset is an input for
+trying OCR recipes and inspecting their results.
+The images are PDF pages 3-9 (printed pages 2-8) of the original booklet.
+The selection omits the reproduction disclaimer and dark cover. The complete
+original PDF and a matching seven-page extract are in the
+OCR demo Bucket.
+
+	
+		
+	
+	
+		Use as… See the full description on the dataset page: https://huggingface.co/datasets/uv-scripts/ocr-demo. |
+| [TPELEE83/document-ocr-image-audio](https://huggingface.co/datasets/TPELEE83/document-ocr-image-audio) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Image Audio metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/TPELEE83/document-ocr-image-audio. |
+| [Sigurdur/icelandic-ocr-benchmark](https://huggingface.co/datasets/Sigurdur/icelandic-ocr-benchmark) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Dataset Card for Icelandic OCR Benchmark
+	
+
+
+	
+		
+	
+	
+		Dataset Details
+	
+
+
+	
+		
+	
+	
+		Dataset Description
+	
+
+Icelandic OCR Benchmark is a ground-truth dataset for evaluating OCR accuracy on
+Icelandic-language documents. It consists of manually transcribed page images with
+matching layout annotations (text regions, line polygons, baselines) in both ALTO
+and PAGE XML.
+
+Curated by: Sigurdur Haukur Birgisson
+Language(s): Icelandic (is)
+License: CC BY-SA 4.0
+
+
+	
+		
+	
+	
+		Dataset… See the full description on the dataset page: https://huggingface.co/datasets/Sigurdur/icelandic-ocr-benchmark. |
 | [nicholasnelson/document-ocr-audio-video-v2-2023](https://huggingface.co/datasets/nicholasnelson/document-ocr-audio-video-v2-2023) | 2026-09-15 | text-recognition | candidate | 
 	
 		
@@ -444,6 +534,35 @@ bengali_only / english_only / mixed / numeric_and_symbols
 
 length_bucket
 short / medium / long, by character… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Bengali. |
+| [koharugwatanabe/document-ocr-audio-text-curated6-2024](https://huggingface.co/datasets/koharugwatanabe/document-ocr-audio-text-curated6-2024) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Audio Text records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/koharugwatanabe/document-ocr-audio-text-curated6-2024. |
 | [icfoss/malayalam-ocr-words](https://huggingface.co/datasets/icfoss/malayalam-ocr-words) | 2026-09-15 | text-recognition | candidate | 
 	
 		
@@ -526,6 +645,45 @@ A documented Document OCR data-preparation workflow for Image Audio records. The
 build_dataset.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/DestinyJdj/learn-document-ocr. |
+| [davanstrien/ocr-demo-results](https://huggingface.co/datasets/davanstrien/ocr-demo-results) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using GLM-OCR
+	
+
+This dataset contains OCR results from images in uv-scripts/ocr-demo using GLM-OCR, a compact 0.9B OCR model achieving SOTA performance.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: uv-scripts/ocr-demo
+Model: zai-org/GLM-OCR
+Task: text recognition
+Number of Samples: 7
+Processing Time: 2.4 min
+Processing Date: 2026-09-15 16:30 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Output Column: markdown
+Dataset Split: train
+Batch Size: 16
+Max… See the full description on the dataset page: https://huggingface.co/datasets/davanstrien/ocr-demo-results. |
 | [danielcybq/document-ocr-samples](https://huggingface.co/datasets/danielcybq/document-ocr-samples) | 2026-09-15 | text-recognition | candidate | 
 	
 		
@@ -853,6 +1011,7 @@ This synthetic dataset is designed for bilingual text recognition (OCR) and scri
 	
 
 When creating synthetic OCR datasets, including an expanded set of characters (digits, mathematical signs, and Greek letters) is a deliberate step aimed at two main goals:… See the full description on the dataset page: https://huggingface.co/datasets/tehnik-tehnolog/bilingual-ocr-ru-en-synthetic. |
+| [Smartlearners/LaTeX_OCR](https://huggingface.co/datasets/Smartlearners/LaTeX_OCR) | 2026-09-11 | text-recognition | candidate | — |
 | [Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes](https://huggingface.co/datasets/Nexdata-kr/104320-Images-Korean-and-Hindi-OCR-Data-in-Natural-Scenes) | 2026-09-11 | text-recognition | candidate | 
 	
 		

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-latex-ocr-full
+kind: model
+name: dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-latex-ocr-full
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-latex-ocr-full
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-latex-ocr-full
+  discovered_via: huggingface
+  discovered_at: '2026-09-16'
+  source_id: dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-latex-ocr-full
+  source_metadata:
+    repository_id: dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-latex-ocr-full
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: dimivelev
+repository_id: dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-latex-ocr-full
+deployment: []

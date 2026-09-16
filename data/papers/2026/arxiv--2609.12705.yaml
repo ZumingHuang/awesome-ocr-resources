@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2609.12705
+kind: paper
+name: 'ExpertHTR: Unified Handwritten Text Recognition with Multi-Task Learning and Sparse Mixture-of-Experts'
+released_at:
+  value: '2026-09-11'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: Handwritten text recognition resources are often small and distributed across collections that
+  differ in language, script, document structure, and annotation format, making joint page-level training
+  difficult. We propose ExpertHTR, a unified vision-language framework that addresses this problem through
+  complementary supervision and conditional model capacity. Structural annotations from heterogeneous
+  datasets are first organized through a common Page-Region-Line representation and used to construct
+  four related training tasks for complete transcription, physical-line coverage, text localization, and
+  localized recognition, without requiring additional manual labels. Building on a jointly trained dense
+  model, ExpertHTR introduces a sparse Mixture-of-Experts architecture with an always-active shared branch
+  and conditionally routed full-MLP experts. Sparsegen allows the number of active routed experts to vary
+  with the hidden representation, while routing regularization reduces persistent concentration on a small
+  subset of experts. Experiments on seven heterogeneous handwriting benchmarks show that complementary
+  supervision consistently improves training with page transcription alone, while joint multi-source training
+  provides further gains on most datasets. The proposed sparse expert model further improves the dense
+  baseline on six of the seven sources. The final unified model also substantially outperforms the evaluated
+  general-purpose OCR and vision-language systems on most benchmarks and achieves state-of-the-art performance
+  on the IAM paragraph-level benchmark, while specialized HTR systems remain stronger on several challenging
+  collections.
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.12705
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.12705
+  discovered_via: arxiv
+  discovered_at: '2026-09-16'
+  source_id: '2609.12705'
+  source_metadata:
+    arxiv_id: '2609.12705'
+    doi: null
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Dang Hoai Nam
+- Nguyen Duy Hieu
+- Quang Huu Hieu
+- Vo Nguyen Le Duy
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.12705'

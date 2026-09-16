@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:Sigurdur/icelandic-ocr-benchmark
+kind: dataset
+name: Sigurdur/icelandic-ocr-benchmark
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for Icelandic OCR Benchmark\n\t\n\n\n\t\n\t\t\n\t\n\t\n\
+  \t\tDataset Details\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nIcelandic OCR Benchmark\
+  \ is a ground-truth dataset for evaluating OCR accuracy on\nIcelandic-language documents. It consists\
+  \ of manually transcribed page images with\nmatching layout annotations (text regions, line polygons,\
+  \ baselines) in both ALTO\nand PAGE XML.\n\nCurated by: Sigurdur Haukur Birgisson\nLanguage(s): Icelandic\
+  \ (is)\nLicense: CC BY-SA 4.0\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/Sigurdur/icelandic-ocr-benchmark."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Sigurdur/icelandic-ocr-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Sigurdur/icelandic-ocr-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-09-16'
+  source_id: Sigurdur/icelandic-ocr-benchmark
+  source_metadata:
+    repository_id: Sigurdur/icelandic-ocr-benchmark
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Sigurdur
+repository_id: Sigurdur/icelandic-ocr-benchmark
+usage: []
+annotations: []
+access: unknown

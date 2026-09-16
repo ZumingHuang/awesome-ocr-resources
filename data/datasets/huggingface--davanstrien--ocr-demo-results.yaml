@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:davanstrien/ocr-demo-results
+kind: dataset
+name: davanstrien/ocr-demo-results
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR using GLM-OCR\n\t\n\nThis dataset contains OCR results\
+  \ from images in uv-scripts/ocr-demo using GLM-OCR, a compact 0.9B OCR model achieving SOTA performance.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tProcessing Details\n\t\n\n\nSource Dataset: uv-scripts/ocr-demo\nModel: zai-org/GLM-OCR\n\
+  Task: text recognition\nNumber of Samples: 7\nProcessing Time: 2.4 min\nProcessing Date: 2026-09-15\
+  \ 16:30 UTC\n\n\n\t\n\t\t\n\t\n\t\n\t\tConfiguration\n\t\n\n\nImage Column: image\nOutput Column: markdown\n\
+  Dataset Split: train\nBatch Size: 16\nMax… See the full description on the dataset page: https://huggingface.co/datasets/davanstrien/ocr-demo-results."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/davanstrien/ocr-demo-results
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/davanstrien/ocr-demo-results
+  discovered_via: huggingface
+  discovered_at: '2026-09-16'
+  source_id: davanstrien/ocr-demo-results
+  source_metadata:
+    repository_id: davanstrien/ocr-demo-results
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: davanstrien
+repository_id: davanstrien/ocr-demo-results
+usage: []
+annotations: []
+access: unknown

@@ -5,6 +5,10 @@
 Marina Gómez Rey, Patricia Callejo, Mario Muñoz-Organero, Carlos Alario-Hoyos
 \[document-parsing\]\[text-recognition\]
 
+**A Conservative OCR-Enabled Workflow for R214 Sodium Screening of South African Packaged Foods**
+Mayimunah Nagayi, Alice Scaria Khan, Tamryn Frank, Rina Swart, Clement Nyirenda
+\[text-recognition\]
+
 **A machine-readable catalogue of the Tsiolkovsky papers (fond 555, Archive of the Russian Academy of Sciences), and a way to measure how well its handwriting can be read**
 Vladimir Beskorovainyi
 \[handwriting-recognition\]
@@ -85,6 +89,10 @@ Zhuchenyang Liu, Yao Zhang, Yu Xiao
 Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan
 \[text-recognition\]
 
+**ExpertHTR: Unified Handwritten Text Recognition with Multi-Task Learning and Sparse Mixture-of-Experts**
+Dang Hoai Nam, Nguyen Duy Hieu, Quang Huu Hieu, Vo Nguyen Le Duy
+\[handwriting-recognition\]\[text-recognition\]
+
 **FinixDoc: Rethinking Financial Document Parsing Beyond Saturated Benchmarks**
 Hang Wang, Jin Zhang, Guoliang Xu, Pengyue Lu, Yao Li, Zijiao Zhang, Tianyu Huang, Weiqi Xiong, Yulong Wang, Chuqiao Lu, Wenkang Huang, Kai Yang, Yadong Li, Hui Li, Xingzhong Xu, Xiao Xu
 \[document-parsing\]
@@ -120,6 +128,10 @@ Yuefeng Zou, Yichen Lu, Jingxiao Yang, Bingtao Fu, Gaoyang Zhang, Xiongfei Bai, 
 **Masking Is Not Enough: Generative Restoration for Multimodal De-Identification in Medical AI**
 Shiva Shrestha, Zongxing Xie, Chen Zhao, Liran Ma, Zhipeng Cai, Honghui Xu
 \[document-vqa\]\[text-recognition\]
+
+**Measuring Annotation Efficiency for Handwritten Devanagari Recognition: Sample-Complexity Curves for Four Pretraining Regimes**
+Manglesh Kumar Pandey, Sumit Kumar Banshal
+\[handwriting-recognition\]\[text-recognition\]
 
 **MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition**
 Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu, Xiaolong Wu, Yuheng Lu, Ziran Zhu, Junyuan Gao, Lingli Ge, Yuan Xu, Huijie Ao, QianQian Wu, Dechen Lin, Huaiyu Gu, Lu Chen, Shengxin Lu, ShaSha Wang, Yuanyuan Cao, Zhejia Yu, Ruijie Zhang, Zimai Tian, Jiaxing Sun, Yinfan Wang, Jiahe Song, Chuang Wang, Yubin Wang, Rui Nie, Hao Zheng, Bowen Jiang, Hongbin Lai, Yifan He, Chengjin Liu, Tingting Zhang, Liqun Wei, Lijun Wu, Bin Wang, Yuqiang Li, Guangyu Wang, Wei Li, Bowen Zhou, Dahua Lin, Conghui He
@@ -181,6 +193,10 @@ Xudong Xie, Yuzhe Li, Jing Shi, Zhifei Zhang, Curtis Wigington, Zhaowen Wang
 Nuzhat Khan, Ab Al-Hadi Ab Rahman, Shahriyar Masud Rizvi, Ibrahim Yousef Alshareef, Muhammad Nadzir Marsono, Muhammad Paend Bakht, Mohd Shahrizal Rusli, Shahidatul Sadiah
 \[handwriting-recognition\]\[text-recognition\]
 
+**Tables Decoded: DELTA for Structure, TARQA for Understanding**
+Jahanvi Rajput, Dhruv Kudale, Saikiran Kasturi, Utkarsh Verma, Ganesh Ramakrishnan
+\[document-vqa\]\[table-recognition\]\[text-recognition\]
+
 **TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents**
 Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi Peng, Minghui Liao, Lianwen Jin
 \[text-recognition\]
@@ -200,6 +216,10 @@ Achyuth P, Kahaan Shah, Chetan Arora
 **When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents**
 Marina Gardella, Camilo Mari{ñ}o, Diego Belzarena, Ignacio Ram{í}rez, Gregory Randall, Jean-Michel Morel
 \[text-recognition\]
+
+**Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions**
+Srikanta Datta Tumkur, Jay Iyer, Mehar Simhadri, Sai Pavan Kumar, Sai Kapil Kumar, Ramesh Nampelly
+\[document-vqa\]
 
 **WildHandBench: A Benchmark for Handwritten Text Understanding that Challenges MLLMs and Humans**
 Jun Zhang, Qiao Zhao, Cheng Cui, Jianying Qu, Zhongkai Sun, Jianwen Yang, Changda Zhou, ZhuoXin Liu, Shubin Han

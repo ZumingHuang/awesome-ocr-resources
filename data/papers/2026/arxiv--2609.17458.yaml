@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2609.17458
+kind: paper
+name: 'Tables Decoded: DELTA for Structure, TARQA for Understanding'
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: 'Table understanding is a core task in document intelligence, encompassing two key subtasks:
+  table reconstruction and table visual question answering (TabVQA). While recent approaches predominantly
+  rely on vision- language models (VLMs) operating on table images, we propose a more scalable and effective
+  alternative based on structured textual representations. These representations are easier to process,
+  align more naturally with LLMs, and eliminate the need for language-specific visual encoders, making
+  them particularly suitable for multilingual documents. We present DELTA, which separates physical structure
+  recognition, logical structure recognition, and OCR to extract both layout and content accurately. DELTA
+  outputs tables in Optimised Table Structure Language (OTSL), a compact and unified format that encodes
+  cell arrangements and textual content. On table structure recognition (TSR), DELTA achieves TEDS- Structure
+  scores comparable with state-of-the-art methods across FinTabNet, PubTabNet, and PubTables-1M. We further
+  establish its robustness on non-English tables through our curated Hindi benchmark, TORQUE. Building
+  on this, we introduce TARQA, an LLM fine-tuned on OTSL sequences. Our approach yields gains of 9.3 p.p.
+  on WTQ (TabQA) and 9.2 p.p. on FinTabNetQA (TabVQA), respectively. On TORQUE, our method ranks second
+  among all VLMs and DELTA + LLM variants. We release our code, models, and benchmark at: https://github.com/Tihiitborg/Tables-Decoded'
+tasks:
+- document-vqa
+- table-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.17458
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.17458
+  discovered_via: arxiv
+  discovered_at: '2026-09-16'
+  source_id: '2609.17458'
+  source_metadata:
+    arxiv_id: '2609.17458'
+    doi: 10.1109/WACV61042.2026.00272
+    query: all:"table structure recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Jahanvi Rajput
+- Dhruv Kudale
+- Saikiran Kasturi
+- Utkarsh Verma
+- Ganesh Ramakrishnan
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.17458'
+doi: 10.1109/WACV61042.2026.00272
