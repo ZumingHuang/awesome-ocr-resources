@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:thealper2/LaTeX_OCR_rec-im2latex
+kind: model
+name: thealper2/LaTeX_OCR_rec-im2latex
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-15'
+last_verified_at: '2026-09-15'
+summary: ''
+tasks:
+- formula-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/thealper2/LaTeX_OCR_rec-im2latex
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/thealper2/LaTeX_OCR_rec-im2latex
+  discovered_via: huggingface
+  discovered_at: '2026-09-15'
+  source_id: thealper2/LaTeX_OCR_rec-im2latex
+  source_metadata:
+    repository_id: thealper2/LaTeX_OCR_rec-im2latex
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: thealper2
+repository_id: thealper2/LaTeX_OCR_rec-im2latex
+deployment: []

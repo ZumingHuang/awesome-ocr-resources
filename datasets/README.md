@@ -4,6 +4,689 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [nicholasnelson/document-ocr-audio-video-v2-2023](https://huggingface.co/datasets/nicholasnelson/document-ocr-audio-video-v2-2023) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Audio Video metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/nicholasnelson/document-ocr-audio-video-v2-2023. |
+| [meharuhanzz/OCR-Bench1000-Telugu](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Telugu) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Telugu
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Telugu OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+telugu_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by character… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Telugu. |
+| [meharuhanzz/OCR-Bench1000-Tamil](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Tamil) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Tamil
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Tamil OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+tamil_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by character count… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Tamil. |
+| [meharuhanzz/OCR-Bench1000-Sanskrit](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Sanskrit) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Sanskrit
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Sanskrit OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+sanskrit_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Sanskrit. |
+| [meharuhanzz/OCR-Bench1000-Punjabi](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Punjabi) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Punjabi
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Punjabi OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+punjabi_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by character… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Punjabi. |
+| [meharuhanzz/OCR-Bench1000-Marathi](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Marathi) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Marathi
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Marathi OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+marathi_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by character… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Marathi. |
+| [meharuhanzz/OCR-Bench1000-Malayalam](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Malayalam) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Malayalam
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Malayalam OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+malayalam_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Malayalam. |
+| [meharuhanzz/OCR-Bench1000-Kannada](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Kannada) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Kannada
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Kannada OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+kannada_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by character… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Kannada. |
+| [meharuhanzz/OCR-Bench1000-Hindi](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Hindi) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Hindi
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Hindi OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+hindi_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by character count… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Hindi. |
+| [meharuhanzz/OCR-Bench1000-Gujarati](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Gujarati) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Gujarati
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Gujarati OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+gujarati_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Gujarati. |
+| [meharuhanzz/OCR-Bench1000-Bengali](https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Bengali) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Bench1000-Bengali
+	
+
+1000 synthetic printed-text line images with ground-truth transcriptions,
+sampled from a larger locally-held Bengali OCR training corpus.
+This is a benchmark/sample release, not the full training set.
+
+	
+		
+	
+	
+		Data fields
+	
+
+
+	
+		
+Field
+Description
+
+
+		
+file_name
+relative path to the image (images/...)
+
+
+text
+ground-truth transcription
+
+
+category
+bengali_only / english_only / mixed / numeric_and_symbols
+
+
+length_bucket
+short / medium / long, by character… See the full description on the dataset page: https://huggingface.co/datasets/meharuhanzz/OCR-Bench1000-Bengali. |
+| [icfoss/malayalam-ocr-words](https://huggingface.co/datasets/icfoss/malayalam-ocr-words) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Malayalam OCR Words
+	
+
+A word-level Malayalam OCR dataset: cropped word images paired with their
+transcribed text label, split into train/validation/test sets.
+
+	
+		
+	
+	
+		Dataset structure
+	
+
+train.csv / val.csv / test.csv   # tab-separated: <relative image path>\t<Malayalam word>
+train/ val/ test/                # image files referenced by the corresponding CSV
+
+Each CSV row maps one image file (path relative to its split folder) to its
+ground-truth Malayalam word transcription.… See the full description on the dataset page: https://huggingface.co/datasets/icfoss/malayalam-ocr-words. |
+| [gaelferre/personal-document-ocr](https://huggingface.co/datasets/gaelferre/personal-document-ocr) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Audio Video metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/gaelferre/personal-document-ocr. |
+| [DestinyJdj/learn-document-ocr](https://huggingface.co/datasets/DestinyJdj/learn-document-ocr) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Image Audio records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/DestinyJdj/learn-document-ocr. |
+| [danielcybq/document-ocr-samples](https://huggingface.co/datasets/danielcybq/document-ocr-samples) | 2026-09-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.… See the full description on the dataset page: https://huggingface.co/datasets/danielcybq/document-ocr-samples. |
+| [sophiesmith/document-ocr-sensor-fusion](https://huggingface.co/datasets/sophiesmith/document-ocr-sensor-fusion) | 2026-09-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Sensor Fusion inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/sophiesmith/document-ocr-sensor-fusion. |
+| [PiotrSty/impact-psnc-polish-ocr](https://huggingface.co/datasets/PiotrSty/impact-psnc-polish-ocr) | 2026-09-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		IMPACT-PSNC Polish OCR Diverse Subset
+	
+
+Compact, provenance-preserving subset of the Polish IMPACT ground truth released by the Poznan Supercomputing and Networking Center (PSNC). It is intended for OCR experiments on diverse historical Polish printed material.
+This subset contains:
+
+89 full-page images from 30 source collections;
+599 text-region crops derived from PAGE XML polygons;
+the 89 corresponding original PAGE XML files;
+page and region transcriptions;
+document-level train… See the full description on the dataset page: https://huggingface.co/datasets/PiotrSty/impact-psnc-polish-ocr. |
+| [Arthursouza03/document-ocr-samples](https://huggingface.co/datasets/Arthursouza03/document-ocr-samples) | 2026-09-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Sensor Fusion data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md… See the full description on the dataset page: https://huggingface.co/datasets/Arthursouza03/document-ocr-samples. |
+| [andersonoao/document-ocr-dataset42-2024](https://huggingface.co/datasets/andersonoao/document-ocr-dataset42-2024) | 2026-09-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Audio Video inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/andersonoao/document-ocr-dataset42-2024. |
+| [aidendparker/document-ocr-audio-video-clean](https://huggingface.co/datasets/aidendparker/document-ocr-audio-video-clean) | 2026-09-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Audio Video inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/aidendparker/document-ocr-audio-video-clean. |
 | [yusukeyama0705/research-document-ocr](https://huggingface.co/datasets/yusukeyama0705/research-document-ocr) | 2026-09-13 | text-recognition | candidate | 
 	
 		

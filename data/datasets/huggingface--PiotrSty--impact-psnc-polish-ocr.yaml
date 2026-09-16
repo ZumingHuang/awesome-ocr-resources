@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:PiotrSty/impact-psnc-polish-ocr
+kind: dataset
+name: PiotrSty/impact-psnc-polish-ocr
+released_at:
+  value: '2026-09-14'
+  precision: day
+added_at: '2026-09-15'
+last_verified_at: '2026-09-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tIMPACT-PSNC Polish OCR Diverse Subset\n\t\n\nCompact, provenance-preserving\
+  \ subset of the Polish IMPACT ground truth released by the Poznan Supercomputing and Networking Center\
+  \ (PSNC). It is intended for OCR experiments on diverse historical Polish printed material.\nThis subset\
+  \ contains:\n\n89 full-page images from 30 source collections;\n599 text-region crops derived from PAGE\
+  \ XML polygons;\nthe 89 corresponding original PAGE XML files;\npage and region transcriptions;\ndocument-level\
+  \ train… See the full description on the dataset page: https://huggingface.co/datasets/PiotrSty/impact-psnc-polish-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/PiotrSty/impact-psnc-polish-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/PiotrSty/impact-psnc-polish-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-15'
+  source_id: PiotrSty/impact-psnc-polish-ocr
+  source_metadata:
+    repository_id: PiotrSty/impact-psnc-polish-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: PiotrSty
+repository_id: PiotrSty/impact-psnc-polish-ocr
+usage: []
+annotations: []
+access: unknown

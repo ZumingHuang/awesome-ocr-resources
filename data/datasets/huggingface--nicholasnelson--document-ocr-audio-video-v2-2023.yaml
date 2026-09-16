@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:nicholasnelson/document-ocr-audio-video-v2-2023
+kind: dataset
+name: nicholasnelson/document-ocr-audio-video-v2-2023
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-15'
+last_verified_at: '2026-09-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Audio Video Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nThis data card accompanies a lightweight Document OCR loader for Audio Video\
+  \ metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nprepare.py — loading, cleaning, and split preparation\
+  \ code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small, human-readable\
+  \ records for checking the schema.\nREADME.md — data… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/nicholasnelson/document-ocr-audio-video-v2-2023."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/nicholasnelson/document-ocr-audio-video-v2-2023
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/nicholasnelson/document-ocr-audio-video-v2-2023
+  discovered_via: huggingface
+  discovered_at: '2026-09-15'
+  source_id: nicholasnelson/document-ocr-audio-video-v2-2023
+  source_metadata:
+    repository_id: nicholasnelson/document-ocr-audio-video-v2-2023
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: nicholasnelson
+repository_id: nicholasnelson/document-ocr-audio-video-v2-2023
+usage: []
+annotations: []
+access: unknown
