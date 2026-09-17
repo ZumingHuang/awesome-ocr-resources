@@ -205,6 +205,10 @@ Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi 
 Tathagata Ghosh, Sai Madhusudan Gunda, Simran Singh Sandral, Ravi Kiran Sarvadevabhatla
 \[handwriting-recognition\]\[text-recognition\]
 
+**Using OCR Heads to Verbalize Image Semantics**
+Sheridan Feucht, Benno Krojer, Sarah Wang, Henry Abrahamsen, Byron C. Wallace, David Bau
+\[text-recognition\]
+
 **ViSAR: Training-Free Adaptive-$k$ Retrieval for Visual Document Question Answering**
 Adrien Mialland, Marc Plantevit, Julien Gallois, Céline Robardet
 \[document-vqa\]\[document-parsing\]

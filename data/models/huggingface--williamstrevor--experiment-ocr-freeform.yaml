@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:williamstrevor/experiment-ocr-freeform
+kind: model
+name: williamstrevor/experiment-ocr-freeform
+released_at:
+  value: '2026-09-16'
+  precision: day
+added_at: '2026-09-17'
+last_verified_at: '2026-09-17'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/williamstrevor/experiment-ocr-freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/williamstrevor/experiment-ocr-freeform
+  discovered_via: huggingface
+  discovered_at: '2026-09-17'
+  source_id: williamstrevor/experiment-ocr-freeform
+  source_metadata:
+    repository_id: williamstrevor/experiment-ocr-freeform
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: williamstrevor
+repository_id: williamstrevor/experiment-ocr-freeform
+deployment: []

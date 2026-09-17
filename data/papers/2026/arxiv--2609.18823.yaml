@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:2609.18823
+kind: paper
+name: Using OCR Heads to Verbalize Image Semantics
+released_at:
+  value: '2026-09-16'
+  precision: day
+added_at: '2026-09-17'
+last_verified_at: '2026-09-17'
+summary: 'How do VLMs map from pixels to semantics? To understand this general question, we focus on a
+  narrow one: studying how VLMs perform optical character recognition (OCR). Across four models, we identify
+  attention heads causally necessary for OCR, and discover that these are in fact general-purpose heads
+  that output interpretable semantic features across all image tokens. For example, pointing these heads
+  at an image token containing the word "bike" causes Qwen3-VL-8B to output "bike," but pointing them
+  at a bird wing causes the model to output the token "feathers." We collapse these heads'' attention
+  weights into a single verbalization lens transformation that reveals interpretable semantic features
+  in hidden states across all layers. When combined with projection to vocabulary space, we can obtain
+  interpretable labels starting from layer 0, showing that image representations are in fact aligned with
+  language in early layers. We find that we can also use the inverse of this transformation to edit non-word
+  concepts, e.g., replacing a tractor with a revolver in a naturalistic image, providing causal evidence
+  that this subspace is useful for more than just OCR. Our results are an example of how the study of
+  specific mechanisms can shed light on broader interpretability problems.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.18823
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.18823
+  discovered_via: arxiv
+  discovered_at: '2026-09-17'
+  source_id: '2609.18823'
+  source_metadata:
+    arxiv_id: '2609.18823'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Sheridan Feucht
+- Benno Krojer
+- Sarah Wang
+- Henry Abrahamsen
+- Byron C. Wallace
+- David Bau
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.18823'
