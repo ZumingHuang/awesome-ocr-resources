@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:abc12-ac/Qwen2.5-VL-OCR-Admin-VN-v3
+kind: model
+name: abc12-ac/Qwen2.5-VL-OCR-Admin-VN-v3
+released_at:
+  value: '2026-09-14'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/abc12-ac/Qwen2.5-VL-OCR-Admin-VN-v3
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/abc12-ac/Qwen2.5-VL-OCR-Admin-VN-v3
+  discovered_via: huggingface
+  discovered_at: '2026-09-16'
+  source_id: abc12-ac/Qwen2.5-VL-OCR-Admin-VN-v3
+  source_metadata:
+    repository_id: abc12-ac/Qwen2.5-VL-OCR-Admin-VN-v3
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: abc12-ac
+repository_id: abc12-ac/Qwen2.5-VL-OCR-Admin-VN-v3
+deployment: []

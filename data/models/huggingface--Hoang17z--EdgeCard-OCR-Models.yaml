@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Hoang17z/EdgeCard-OCR-Models
+kind: model
+name: Hoang17z/EdgeCard-OCR-Models
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Hoang17z/EdgeCard-OCR-Models
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Hoang17z/EdgeCard-OCR-Models
+  discovered_via: huggingface
+  discovered_at: '2026-09-16'
+  source_id: Hoang17z/EdgeCard-OCR-Models
+  source_metadata:
+    repository_id: Hoang17z/EdgeCard-OCR-Models
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Hoang17z
+repository_id: Hoang17z/EdgeCard-OCR-Models
+deployment: []

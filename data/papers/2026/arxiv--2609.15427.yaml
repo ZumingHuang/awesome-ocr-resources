@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2609.15427
+kind: paper
+name: A Conservative OCR-Enabled Workflow for R214 Sodium Screening of South African Packaged Foods
+released_at:
+  value: '2026-09-14'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: Using food package images to monitor sodium and salt content against South Africa's R214 sodium
+  limits is challenging when screening decisions require product identity, nutrition facts panel evidence,
+  reporting basis, and category-specific thresholds. This study presents a conservative image-based workflow
+  that combines region detection, optical character recognition (OCR), product identity and sodium evidence
+  extraction, R214 category assignment, deterministic threshold comparison, and independent vision language
+  model comparison. The evaluation used 442 packaged food products and 3 929 full package images from
+  a real-world South African food packaging dataset. A YOLO26s small detector generated 4 195 region crops,
+  and strict post-processing produced one sodium evidence row per product. The integrated workflow produced
+  290 OUTSIDE R214 SCOPE, 139 REVIEW, seven SCREEN-PASS, and six SCREEN-FAIL outcomes. The independent
+  Qwen2.5-VL 7B vision language model workflow produced 387 OUTSIDE R214 SCOPE, 31 REVIEW, twenty SCREEN-PASS,
+  and four SCREEN-FAIL outcomes. The workflows agreed on exact R214 category assignment for 415 of 442
+  products (93.9%) and on whether the assigned category was within R214 scope for 416 of 442 products
+  (94.1%). Final screening outcome agreement was 307 out of 442 products, or 69.5%. Manual verification
+  on 60 products showed lower strict outcome agreement than regulated status agreement, while all manual
+  INSUFFICIENT DATA cases were kept out of SCREEN-PASS and SCREEN-FAIL by both automated workflows. The
+  findings show that conservative image-based screening can organise package evidence, identify clear
+  cases, and assign uncertain cases to REVIEW rather than forcing SCREEN-PASS or SCREEN-FAIL decisions.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.15427
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.15427
+  discovered_via: arxiv
+  discovered_at: '2026-09-16'
+  source_id: '2609.15427'
+  source_metadata:
+    arxiv_id: '2609.15427'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Mayimunah Nagayi
+- Alice Scaria Khan
+- Tamryn Frank
+- Rina Swart
+- Clement Nyirenda
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.15427'

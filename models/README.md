@@ -4,10 +4,22 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [michellerodriguez/notes-ocr-freeform](https://huggingface.co/michellerodriguez/notes-ocr-freeform) | 2026-09-16 | text-recognition | candidate | — |
+| [yuta1984/honkoku-ocr](https://huggingface.co/yuta1984/honkoku-ocr) | 2026-09-15 | text-recognition | candidate | — |
 | [XinyiWei/ocr-freeform-notes](https://huggingface.co/XinyiWei/ocr-freeform-notes) | 2026-09-15 | text-recognition | candidate | — |
 | [thealper2/LaTeX_OCR_rec-im2latex](https://huggingface.co/thealper2/LaTeX_OCR_rec-im2latex) | 2026-09-15 | formula-recognition, text-recognition | candidate | — |
 | [simonx2026/my-spelling-ocr](https://huggingface.co/simonx2026/my-spelling-ocr) | 2026-09-15 | text-recognition | candidate | — |
+| [Omarrs11/cypriot-ocr-yolov8](https://huggingface.co/Omarrs11/cypriot-ocr-yolov8) | 2026-09-15 | text-recognition | candidate | — |
+| [nesoai/Unlimited-OCR](https://huggingface.co/nesoai/Unlimited-OCR) | 2026-09-15 | text-recognition | candidate | — |
+| [josephbsv/ocr-freeform-medium](https://huggingface.co/josephbsv/ocr-freeform-medium) | 2026-09-15 | text-recognition | candidate | — |
+| [Hoang17z/EdgeCard-OCR-Models](https://huggingface.co/Hoang17z/EdgeCard-OCR-Models) | 2026-09-15 | text-recognition | candidate | — |
+| [dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-latex-ocr-full](https://huggingface.co/dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-latex-ocr-full) | 2026-09-15 | text-recognition | candidate | — |
+| [dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-finedtuned-latex-ocr-adapteronly](https://huggingface.co/dimivelev/gemma-4-e4b-it-unsloth-bnb-4bit-finedtuned-latex-ocr-adapteronly) | 2026-09-15 | text-recognition | candidate | — |
+| [ddon-ggang/reading-ocr-freeform52](https://huggingface.co/ddon-ggang/reading-ocr-freeform52) | 2026-09-15 | text-recognition | candidate | — |
 | [chencoc1994/ocr-freeform](https://huggingface.co/chencoc1994/ocr-freeform) | 2026-09-15 | text-recognition | candidate | — |
+| [Bernardorodrigues/simple-ocr-freeform](https://huggingface.co/Bernardorodrigues/simple-ocr-freeform) | 2026-09-15 | text-recognition | candidate | — |
+| [Adnan2942/Qwen2-VL-7B-Instruct-LoRA-Latex-OCR-Adapter](https://huggingface.co/Adnan2942/Qwen2-VL-7B-Instruct-LoRA-Latex-OCR-Adapter) | 2026-09-15 | text-recognition | candidate | — |
+| [Adnan2942/Qwen2-VL-7B-Instruct-LoRA-Latex-OCR](https://huggingface.co/Adnan2942/Qwen2-VL-7B-Instruct-LoRA-Latex-OCR) | 2026-09-15 | text-recognition | candidate | — |
 | [WhiteHades/manga-ocr-browser](https://huggingface.co/WhiteHades/manga-ocr-browser) | 2026-09-14 | text-recognition | candidate | — |
 | [SOTAagi2030/LedgerLens-OCR-Release](https://huggingface.co/SOTAagi2030/LedgerLens-OCR-Release) | 2026-09-14 | text-recognition | candidate | — |
 | [Robinsonbag/ocr-freeform](https://huggingface.co/Robinsonbag/ocr-freeform) | 2026-09-14 | text-recognition | candidate | — |
@@ -19,6 +31,7 @@
 | [hugokwang83/ocr-freeform](https://huggingface.co/hugokwang83/ocr-freeform) | 2026-09-14 | text-recognition | candidate | — |
 | [hiwatanabe/ocr-freeform](https://huggingface.co/hiwatanabe/ocr-freeform) | 2026-09-14 | text-recognition | candidate | — |
 | [aliRafik/Ministral_3_8B_Instruct_LaTeX_OCR_finetuned_16bit](https://huggingface.co/aliRafik/Ministral_3_8B_Instruct_LaTeX_OCR_finetuned_16bit) | 2026-09-14 | text-recognition | candidate | — |
+| [abc12-ac/Qwen2.5-VL-OCR-Admin-VN-v3](https://huggingface.co/abc12-ac/Qwen2.5-VL-OCR-Admin-VN-v3) | 2026-09-14 | text-recognition | candidate | — |
 | [timothy-perez/ocr-freeform-review32](https://huggingface.co/timothy-perez/ocr-freeform-review32) | 2026-09-13 | text-recognition | candidate | — |
 | [Phamhapaa1/OCR](https://huggingface.co/Phamhapaa1/OCR) | 2026-09-13 | text-recognition | candidate | — |
 | [Nicolassuez/Falcon-OCR-int8-openvino](https://huggingface.co/Nicolassuez/Falcon-OCR-int8-openvino) | 2026-09-13 | text-recognition | candidate | — |

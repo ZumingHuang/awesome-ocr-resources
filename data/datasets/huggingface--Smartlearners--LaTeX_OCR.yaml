@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:Smartlearners/LaTeX_OCR
+kind: dataset
+name: Smartlearners/LaTeX_OCR
+released_at:
+  value: '2026-09-11'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Smartlearners/LaTeX_OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Smartlearners/LaTeX_OCR
+  discovered_via: huggingface
+  discovered_at: '2026-09-16'
+  source_id: Smartlearners/LaTeX_OCR
+  source_metadata:
+    repository_id: Smartlearners/LaTeX_OCR
+    downloads: 225
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: Smartlearners
+repository_id: Smartlearners/LaTeX_OCR
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:TPELEE83/document-ocr-image-audio
+kind: dataset
+name: TPELEE83/document-ocr-image-audio
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Image Audio Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nThis data card accompanies a lightweight Document OCR loader for Image Audio\
+  \ metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\npreprocess.py — loading, cleaning, and split preparation\
+  \ code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small, human-readable\
+  \ records for checking the schema.\nREADME.md —… See the full description on the dataset page: https://huggingface.co/datasets/TPELEE83/document-ocr-image-audio."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/TPELEE83/document-ocr-image-audio
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/TPELEE83/document-ocr-image-audio
+  discovered_via: huggingface
+  discovered_at: '2026-09-16'
+  source_id: TPELEE83/document-ocr-image-audio
+  source_metadata:
+    repository_id: TPELEE83/document-ocr-image-audio
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: TPELEE83
+repository_id: TPELEE83/document-ocr-image-audio
+usage: []
+annotations: []
+access: unknown

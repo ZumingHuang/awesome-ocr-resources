@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:uv-scripts/ocr-demo
+kind: dataset
+name: uv-scripts/ocr-demo
+released_at:
+  value: '2026-09-15'
+  precision: day
+added_at: '2026-09-16'
+last_verified_at: '2026-09-16'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR demo: Food for Space Flight\n\t\n\nSeven scanned pages from NASA's\
+  \ Food for Space Flight booklet, with headings,\ncolumns, photographs, food lists and tables. This small\
+  \ dataset is an input for\ntrying OCR recipes and inspecting their results.\nThe images are PDF pages\
+  \ 3-9 (printed pages 2-8) of the original booklet.\nThe selection omits the reproduction disclaimer\
+  \ and dark cover. The complete\noriginal PDF and a matching seven-page extract are in the\nOCR demo\
+  \ Bucket.\n\n\t\n\t\t\n\t\n\t\n\t\tUse as… See the full description on the dataset page: https://huggingface.co/datasets/uv-scripts/ocr-demo."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/uv-scripts/ocr-demo
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/uv-scripts/ocr-demo
+  discovered_via: huggingface
+  discovered_at: '2026-09-16'
+  source_id: uv-scripts/ocr-demo
+  source_metadata:
+    repository_id: uv-scripts/ocr-demo
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: uv-scripts
+repository_id: uv-scripts/ocr-demo
+usage: []
+annotations: []
+access: unknown
