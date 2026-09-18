@@ -4,7 +4,14 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [tonypratama/study-ocr-freeform](https://huggingface.co/tonypratama/study-ocr-freeform) | 2026-09-17 | text-recognition | candidate | — |
+| [litert-community/PP-OCRv6-Small-LiteRT](https://huggingface.co/litert-community/PP-OCRv6-Small-LiteRT) | 2026-09-17 | text-recognition | candidate | — |
+| [williamstrevor/experiment-ocr-freeform](https://huggingface.co/williamstrevor/experiment-ocr-freeform) | 2026-09-16 | text-recognition | candidate | — |
+| [vladadu/pp-ocrv5-arabic-mobile-onnx](https://huggingface.co/vladadu/pp-ocrv5-arabic-mobile-onnx) | 2026-09-16 | text-recognition | candidate | — |
+| [mithilesh/gemma4-ocr-hindi-lora](https://huggingface.co/mithilesh/gemma4-ocr-hindi-lora) | 2026-09-16 | text-recognition | candidate | — |
 | [michellerodriguez/notes-ocr-freeform](https://huggingface.co/michellerodriguez/notes-ocr-freeform) | 2026-09-16 | text-recognition | candidate | — |
+| [anandkaman/arjuna-ocr-kn-en](https://huggingface.co/anandkaman/arjuna-ocr-kn-en) | 2026-09-16 | text-recognition | candidate | — |
+| [ABrunsch/Unlimited-OCR-repacked](https://huggingface.co/ABrunsch/Unlimited-OCR-repacked) | 2026-09-16 | text-recognition | candidate | — |
 | [yuta1984/honkoku-ocr](https://huggingface.co/yuta1984/honkoku-ocr) | 2026-09-15 | text-recognition | candidate | — |
 | [XinyiWei/ocr-freeform-notes](https://huggingface.co/XinyiWei/ocr-freeform-notes) | 2026-09-15 | text-recognition | candidate | — |
 | [thealper2/LaTeX_OCR_rec-im2latex](https://huggingface.co/thealper2/LaTeX_OCR_rec-im2latex) | 2026-09-15 | formula-recognition, text-recognition | candidate | — |

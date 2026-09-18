@@ -4,6 +4,37 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [justtaeyoungoh/document-ocr-collection](https://huggingface.co/datasets/justtaeyoungoh/document-ocr-collection) | 2026-09-16 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/justtaeyoungoh/document-ocr-collection. |
+| [fwgpiyawudk/Thai_Insurance_Docs_OCR](https://huggingface.co/datasets/fwgpiyawudk/Thai_Insurance_Docs_OCR) | 2026-09-16 | text-recognition | candidate | — |
+| [fwgpiyawudk/Thai_e-Government_Procurement_OCR](https://huggingface.co/datasets/fwgpiyawudk/Thai_e-Government_Procurement_OCR) | 2026-09-16 | text-recognition | candidate | — |
 | [uv-scripts/ocr-demo](https://huggingface.co/datasets/uv-scripts/ocr-demo) | 2026-09-15 | text-recognition | candidate | 
 	
 		

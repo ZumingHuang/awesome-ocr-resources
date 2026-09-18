@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:anandkaman/arjuna-ocr-kn-en
+kind: model
+name: anandkaman/arjuna-ocr-kn-en
+released_at:
+  value: '2026-09-16'
+  precision: day
+added_at: '2026-09-17'
+last_verified_at: '2026-09-17'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/anandkaman/arjuna-ocr-kn-en
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/anandkaman/arjuna-ocr-kn-en
+  discovered_via: huggingface
+  discovered_at: '2026-09-17'
+  source_id: anandkaman/arjuna-ocr-kn-en
+  source_metadata:
+    repository_id: anandkaman/arjuna-ocr-kn-en
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: anandkaman
+repository_id: anandkaman/arjuna-ocr-kn-en
+deployment: []

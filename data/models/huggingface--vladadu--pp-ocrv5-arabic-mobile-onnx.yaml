@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:vladadu/pp-ocrv5-arabic-mobile-onnx
+kind: model
+name: vladadu/pp-ocrv5-arabic-mobile-onnx
+released_at:
+  value: '2026-09-16'
+  precision: day
+added_at: '2026-09-17'
+last_verified_at: '2026-09-17'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/vladadu/pp-ocrv5-arabic-mobile-onnx
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/vladadu/pp-ocrv5-arabic-mobile-onnx
+  discovered_via: huggingface
+  discovered_at: '2026-09-17'
+  source_id: vladadu/pp-ocrv5-arabic-mobile-onnx
+  source_metadata:
+    repository_id: vladadu/pp-ocrv5-arabic-mobile-onnx
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: vladadu
+repository_id: vladadu/pp-ocrv5-arabic-mobile-onnx
+deployment: []

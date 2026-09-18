@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:litert-community/PP-OCRv6-Small-LiteRT
+kind: model
+name: litert-community/PP-OCRv6-Small-LiteRT
+released_at:
+  value: '2026-09-17'
+  precision: day
+added_at: '2026-09-17'
+last_verified_at: '2026-09-17'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/litert-community/PP-OCRv6-Small-LiteRT
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/litert-community/PP-OCRv6-Small-LiteRT
+  discovered_via: huggingface
+  discovered_at: '2026-09-17'
+  source_id: litert-community/PP-OCRv6-Small-LiteRT
+  source_metadata:
+    repository_id: litert-community/PP-OCRv6-Small-LiteRT
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: litert-community
+repository_id: litert-community/PP-OCRv6-Small-LiteRT
+deployment: []
