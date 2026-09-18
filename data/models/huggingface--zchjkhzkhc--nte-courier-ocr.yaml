@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:zchjkhzkhc/nte-courier-ocr
+kind: model
+name: zchjkhzkhc/nte-courier-ocr
+released_at:
+  value: '2026-09-18'
+  precision: day
+added_at: '2026-09-18'
+last_verified_at: '2026-09-18'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/zchjkhzkhc/nte-courier-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/zchjkhzkhc/nte-courier-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-18'
+  source_id: zchjkhzkhc/nte-courier-ocr
+  source_metadata:
+    repository_id: zchjkhzkhc/nte-courier-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: zchjkhzkhc
+repository_id: zchjkhzkhc/nte-courier-ocr
+deployment: []

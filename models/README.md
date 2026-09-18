@@ -4,8 +4,19 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [zchjkhzkhc/nte-courier-ocr](https://huggingface.co/zchjkhzkhc/nte-courier-ocr) | 2026-09-18 | text-recognition | candidate | — |
+| [Sooryeon/qwen3.5-9b-ocr-sft-v1](https://huggingface.co/Sooryeon/qwen3.5-9b-ocr-sft-v1) | 2026-09-18 | text-recognition | candidate | — |
+| [nanash66/typhoon-ocr1.5-2b-ROCMFP4-GGUF](https://huggingface.co/nanash66/typhoon-ocr1.5-2b-ROCMFP4-GGUF) | 2026-09-18 | text-recognition | candidate | — |
+| [AIArchiveInfo/DeepSeek-OCR](https://huggingface.co/AIArchiveInfo/DeepSeek-OCR) | 2026-09-18 | text-recognition | candidate | — |
+| [yogse-tiawan/ocr-freeform-study](https://huggingface.co/yogse-tiawan/ocr-freeform-study) | 2026-09-17 | text-recognition | candidate | — |
 | [tonypratama/study-ocr-freeform](https://huggingface.co/tonypratama/study-ocr-freeform) | 2026-09-17 | text-recognition | candidate | — |
+| [psikosen/t-rsi-ocr](https://huggingface.co/psikosen/t-rsi-ocr) | 2026-09-17 | text-recognition | candidate | — |
+| [mayssemhn/SmartCheck-OCR](https://huggingface.co/mayssemhn/SmartCheck-OCR) | 2026-09-17 | text-recognition | candidate | — |
 | [litert-community/PP-OCRv6-Small-LiteRT](https://huggingface.co/litert-community/PP-OCRv6-Small-LiteRT) | 2026-09-17 | text-recognition | candidate | — |
+| [keystats/ocr_dict](https://huggingface.co/keystats/ocr_dict) | 2026-09-17 | text-recognition | candidate | — |
+| [keystats/Aware_ocr](https://huggingface.co/keystats/Aware_ocr) | 2026-09-17 | text-recognition | candidate | — |
+| [Gramscii-IT/DeepSeek-OCR-2-GGUF](https://huggingface.co/Gramscii-IT/DeepSeek-OCR-2-GGUF) | 2026-09-17 | text-recognition | candidate | — |
+| [Francs6/DeepSeek-OCR-2-endpoint](https://huggingface.co/Francs6/DeepSeek-OCR-2-endpoint) | 2026-09-17 | text-recognition | candidate | — |
 | [williamstrevor/experiment-ocr-freeform](https://huggingface.co/williamstrevor/experiment-ocr-freeform) | 2026-09-16 | text-recognition | candidate | — |
 | [vladadu/pp-ocrv5-arabic-mobile-onnx](https://huggingface.co/vladadu/pp-ocrv5-arabic-mobile-onnx) | 2026-09-16 | text-recognition | candidate | — |
 | [mithilesh/gemma4-ocr-hindi-lora](https://huggingface.co/mithilesh/gemma4-ocr-hindi-lora) | 2026-09-16 | text-recognition | candidate | — |

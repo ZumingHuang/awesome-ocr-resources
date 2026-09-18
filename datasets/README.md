@@ -4,6 +4,83 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Siddharthcmehta/intern-document-ocr10](https://huggingface.co/datasets/Siddharthcmehta/intern-document-ocr10) | 2026-09-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Depth Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Image Depth metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+load_data.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/Siddharthcmehta/intern-document-ocr10. |
+| [jaeminparkland/document-ocr-corpus](https://huggingface.co/datasets/jaeminparkland/document-ocr-corpus) | 2026-09-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Text Tabular Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Text Tabular data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/jaeminparkland/document-ocr-corpus. |
+| [saeid1999/fa-en-ar-handwritten-ocr-v1](https://huggingface.co/datasets/saeid1999/fa-en-ar-handwritten-ocr-v1) | 2026-09-17 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Multi-script Synthetic Handwritten OCR — fa / ar / en
+	
+
+A large, clean, augmentation-rich synthetic handwriting dataset for
+training and benchmarking OCR / HTR models on Persian (fa), Arabic
+(ar) and English (en). Every line image ships with an exact Unicode
+transcription plus rich provenance metadata (writer style, font, ink, script
+direction, digit system). Page-level PAGE-XML and COCO ground truth support
+layout-aware training and evaluation out of the box.
+
+1,000 rendered… See the full description on the dataset page: https://huggingface.co/datasets/saeid1999/fa-en-ar-handwritten-ocr-v1. |
+| [OdiaGenAIOCR/odia-ocr-chatml](https://huggingface.co/datasets/OdiaGenAIOCR/odia-ocr-chatml) | 2026-09-17 | text-recognition | candidate | — |
 | [justtaeyoungoh/document-ocr-collection](https://huggingface.co/datasets/justtaeyoungoh/document-ocr-collection) | 2026-09-16 | text-recognition | candidate | 
 	
 		

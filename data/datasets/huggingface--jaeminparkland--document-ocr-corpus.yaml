@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:jaeminparkland/document-ocr-corpus
+kind: dataset
+name: jaeminparkland/document-ocr-corpus
+released_at:
+  value: '2026-09-18'
+  precision: day
+added_at: '2026-09-18'
+last_verified_at: '2026-09-18'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Text Tabular Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nPreparation notes and schema examples for Document OCR tasks using Text Tabular\
+  \ data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nprepare.py — loading, cleaning, and split preparation\
+  \ code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small, human-readable\
+  \ records for checking the schema.\nREADME.md —… See the full description on the dataset page: https://huggingface.co/datasets/jaeminparkland/document-ocr-corpus."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/jaeminparkland/document-ocr-corpus
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/jaeminparkland/document-ocr-corpus
+  discovered_via: huggingface
+  discovered_at: '2026-09-18'
+  source_id: jaeminparkland/document-ocr-corpus
+  source_metadata:
+    repository_id: jaeminparkland/document-ocr-corpus
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: jaeminparkland
+repository_id: jaeminparkland/document-ocr-corpus
+usage: []
+annotations: []
+access: unknown

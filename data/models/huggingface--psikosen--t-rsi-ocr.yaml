@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:psikosen/t-rsi-ocr
+kind: model
+name: psikosen/t-rsi-ocr
+released_at:
+  value: '2026-09-17'
+  precision: day
+added_at: '2026-09-18'
+last_verified_at: '2026-09-18'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/psikosen/t-rsi-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/psikosen/t-rsi-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-18'
+  source_id: psikosen/t-rsi-ocr
+  source_metadata:
+    repository_id: psikosen/t-rsi-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: psikosen
+repository_id: psikosen/t-rsi-ocr
+deployment: []
