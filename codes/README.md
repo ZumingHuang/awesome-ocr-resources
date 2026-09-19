@@ -4,6 +4,9 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [zeronezer/bidcraft](https://github.com/zeronezer/bidcraft) | 2026-09-17 | other | candidate | 标书匠 BidCraft · 对话式标书编制系统：AI 智能编制技术标，支持招标文件解析、标段选择、标书编写、知识库提炼与学习对话式改稿。LLM-Wiki 路线，基于LangGraph实现。Open-source AI agent for construction tender & bid documents. |
+| [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) | 2026-09-16 | text-recognition | candidate | Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS. |
+| [lxsssssss/pdf-translate](https://github.com/lxsssssss/pdf-translate) | 2026-09-15 | other | candidate | — |
 | [jerryjliu/fly_ocr](https://github.com/jerryjliu/fly_ocr) | 2026-09-13 | text-recognition | candidate | Printed-character recognition through a fixed fruit-fly connectome, with a small trained decoder, compound-eye replays and a full research report. |
 | [shyhunter/PaperOtter](https://github.com/shyhunter/PaperOtter) | 2026-09-12 | other | candidate | Your local document toolkit  -> compress, resize, convert, and edit PDFs, images, and documents. Private, fast, offline. |
 | [Ricoz217/WarDogs_Distance_Calculator](https://github.com/Ricoz217/WarDogs_Distance_Calculator) | 2026-09-10 | text-recognition | candidate | 战狗的迫击炮|攀枝花OCR快速射表计算器 |

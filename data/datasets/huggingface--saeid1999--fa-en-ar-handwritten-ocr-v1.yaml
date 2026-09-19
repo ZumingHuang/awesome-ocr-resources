@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:saeid1999/fa-en-ar-handwritten-ocr-v1
+kind: dataset
+name: saeid1999/fa-en-ar-handwritten-ocr-v1
+released_at:
+  value: '2026-09-17'
+  precision: day
+added_at: '2026-09-18'
+last_verified_at: '2026-09-18'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tMulti-script Synthetic Handwritten OCR — fa / ar / en\n\t\n\nA large,\
+  \ clean, augmentation-rich synthetic handwriting dataset for\ntraining and benchmarking OCR / HTR models\
+  \ on Persian (fa), Arabic\n(ar) and English (en). Every line image ships with an exact Unicode\ntranscription\
+  \ plus rich provenance metadata (writer style, font, ink, script\ndirection, digit system). Page-level\
+  \ PAGE-XML and COCO ground truth support\nlayout-aware training and evaluation out of the box.\n\n1,000\
+  \ rendered… See the full description on the dataset page: https://huggingface.co/datasets/saeid1999/fa-en-ar-handwritten-ocr-v1."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/saeid1999/fa-en-ar-handwritten-ocr-v1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/saeid1999/fa-en-ar-handwritten-ocr-v1
+  discovered_via: huggingface
+  discovered_at: '2026-09-18'
+  source_id: saeid1999/fa-en-ar-handwritten-ocr-v1
+  source_metadata:
+    repository_id: saeid1999/fa-en-ar-handwritten-ocr-v1
+    downloads: 5
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: saeid1999
+repository_id: saeid1999/fa-en-ar-handwritten-ocr-v1
+usage: []
+annotations: []
+access: unknown

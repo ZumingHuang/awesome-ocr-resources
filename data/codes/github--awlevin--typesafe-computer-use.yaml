@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:awlevin/typesafe-computer-use
+kind: code
+name: awlevin/typesafe-computer-use
+released_at:
+  value: '2026-09-16'
+  precision: day
+added_at: '2026-09-18'
+last_verified_at: '2026-09-18'
+summary: 'Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe,
+  click. macOS.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/awlevin/typesafe-computer-use
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/awlevin/typesafe-computer-use
+  discovered_via: github
+  discovered_at: '2026-09-18'
+  source_id: R_kgDOUd0KYw
+  source_metadata:
+    repository: awlevin/typesafe-computer-use
+    stars: 179
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: awlevin/typesafe-computer-use
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

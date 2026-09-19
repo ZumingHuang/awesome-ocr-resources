@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:mayssemhn/SmartCheck-OCR
+kind: model
+name: mayssemhn/SmartCheck-OCR
+released_at:
+  value: '2026-09-17'
+  precision: day
+added_at: '2026-09-18'
+last_verified_at: '2026-09-18'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/mayssemhn/SmartCheck-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/mayssemhn/SmartCheck-OCR
+  discovered_via: huggingface
+  discovered_at: '2026-09-18'
+  source_id: mayssemhn/SmartCheck-OCR
+  source_metadata:
+    repository_id: mayssemhn/SmartCheck-OCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: mayssemhn
+repository_id: mayssemhn/SmartCheck-OCR
+deployment: []
