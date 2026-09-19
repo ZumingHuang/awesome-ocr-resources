@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:Brightgrotrip21/Acrobat-Pro-Cracked
+kind: code
+name: Brightgrotrip21/Acrobat-Pro-Cracked
+released_at:
+  value: '2026-09-18'
+  precision: day
+added_at: '2026-09-19'
+last_verified_at: '2026-09-19'
+summary: The ultimate AI-powered PDF editing software. Adobe Acrobat Pro — Full version with all premium
+  features unlocked. Experience advanced PDF tools, OCR, e-signatures and professional document editing
+  without limitations.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Brightgrotrip21/Acrobat-Pro-Cracked
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Brightgrotrip21/Acrobat-Pro-Cracked
+  discovered_via: github
+  discovered_at: '2026-09-19'
+  source_id: R_kgDOUf7AFQ
+  source_metadata:
+    repository: Brightgrotrip21/Acrobat-Pro-Cracked
+    stars: 16
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Brightgrotrip21/Acrobat-Pro-Cracked
+landmark: false
+programming_languages: []
+maintenance_status: active

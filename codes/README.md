@@ -4,9 +4,14 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [misbahsy/doc-router](https://github.com/misbahsy/doc-router) | 2026-09-18 | text-recognition | candidate | A Document OCR Router to help route pages based on content.  |
+| [LingxiangXu/traceclause](https://github.com/LingxiangXu/traceclause) | 2026-09-18 | other | candidate | Local-first document requirements and evidence review workbench with traceable citations and human review. |
+| [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) | 2026-09-18 | other | candidate | Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page. |
+| [Brightgrotrip21/Acrobat-Pro-Cracked](https://github.com/Brightgrotrip21/Acrobat-Pro-Cracked) | 2026-09-18 | text-recognition | candidate | The ultimate AI-powered PDF editing software. Adobe Acrobat Pro — Full version with all premium features unlocked. Experience advanced PDF tools, OCR, e-signatures and professional document editing without limitations. |
 | [zeronezer/bidcraft](https://github.com/zeronezer/bidcraft) | 2026-09-17 | other | candidate | 标书匠 BidCraft · 对话式标书编制系统：AI 智能编制技术标，支持招标文件解析、标段选择、标书编写、知识库提炼与学习对话式改稿。LLM-Wiki 路线，基于LangGraph实现。Open-source AI agent for construction tender & bid documents. |
 | [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) | 2026-09-16 | text-recognition | candidate | Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS. |
 | [lxsssssss/pdf-translate](https://github.com/lxsssssss/pdf-translate) | 2026-09-15 | other | candidate | — |
+| [nothingbutcici/pastory](https://github.com/nothingbutcici/pastory) | 2026-09-14 | text-recognition | candidate | Clipboard history + screenshots, annotation, OCR and screen recording for macOS. Everything stays on your Mac. 剪贴板历史 + 截图标注 / 识别文字 / 录屏。 |
 | [jerryjliu/fly_ocr](https://github.com/jerryjliu/fly_ocr) | 2026-09-13 | text-recognition | candidate | Printed-character recognition through a fixed fruit-fly connectome, with a small trained decoder, compound-eye replays and a full research report. |
 | [shyhunter/PaperOtter](https://github.com/shyhunter/PaperOtter) | 2026-09-12 | other | candidate | Your local document toolkit  -> compress, resize, convert, and edit PDFs, images, and documents. Private, fast, offline. |
 | [Ricoz217/WarDogs_Distance_Calculator](https://github.com/Ricoz217/WarDogs_Distance_Calculator) | 2026-09-10 | text-recognition | candidate | 战狗的迫击炮|攀枝花OCR快速射表计算器 |
