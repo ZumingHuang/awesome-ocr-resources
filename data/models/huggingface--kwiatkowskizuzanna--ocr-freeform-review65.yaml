@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:kwiatkowskizuzanna/ocr-freeform-review65
+kind: model
+name: kwiatkowskizuzanna/ocr-freeform-review65
+released_at:
+  value: '2026-09-19'
+  precision: day
+added_at: '2026-09-19'
+last_verified_at: '2026-09-19'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/kwiatkowskizuzanna/ocr-freeform-review65
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/kwiatkowskizuzanna/ocr-freeform-review65
+  discovered_via: huggingface
+  discovered_at: '2026-09-19'
+  source_id: kwiatkowskizuzanna/ocr-freeform-review65
+  source_metadata:
+    repository_id: kwiatkowskizuzanna/ocr-freeform-review65
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: kwiatkowskizuzanna
+repository_id: kwiatkowskizuzanna/ocr-freeform-review65
+deployment: []

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:tjxj/z-skills:z-smart-xparse-skill-md
+kind: skill
+name: tjxj/z-skills / z-smart-xparse/SKILL.md
+released_at:
+  value: '2026-09-19'
+  precision: day
+added_at: '2026-09-19'
+last_verified_at: '2026-09-19'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/tjxj/z-skills/blob/76204ceafb842d99490325a7dcf5400b82b20800/z-smart-xparse/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/tjxj/z-skills/blob/76204ceafb842d99490325a7dcf5400b82b20800/z-smart-xparse/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-09-19'
+  source_id: tjxj/z-skills:z-smart-xparse/SKILL.md
+  source_metadata:
+    repository: tjxj/z-skills
+    manifest_path: z-smart-xparse/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: tjxj/z-skills
+manifest_path: z-smart-xparse/SKILL.md
+capabilities: {}
