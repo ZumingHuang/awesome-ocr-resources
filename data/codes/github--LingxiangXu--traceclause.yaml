@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:LingxiangXu/traceclause
+kind: code
+name: LingxiangXu/traceclause
+released_at:
+  value: '2026-09-18'
+  precision: day
+added_at: '2026-09-19'
+last_verified_at: '2026-09-19'
+summary: Local-first document requirements and evidence review workbench with traceable citations and
+  human review.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/LingxiangXu/traceclause
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/LingxiangXu/traceclause
+  discovered_via: github
+  discovered_at: '2026-09-19'
+  source_id: R_kgDOUfuvdg
+  source_metadata:
+    repository: LingxiangXu/traceclause
+    stars: 60
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: LingxiangXu/traceclause
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

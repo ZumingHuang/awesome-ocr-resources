@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:Xrenya/rvl_ocr
+kind: dataset
+name: Xrenya/rvl_ocr
+released_at:
+  value: '2026-09-18'
+  precision: day
+added_at: '2026-09-19'
+last_verified_at: '2026-09-19'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Xrenya/rvl_ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Xrenya/rvl_ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-19'
+  source_id: Xrenya/rvl_ocr
+  source_metadata:
+    repository_id: Xrenya/rvl_ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Xrenya
+repository_id: Xrenya/rvl_ocr
+usage: []
+annotations: []
+access: unknown

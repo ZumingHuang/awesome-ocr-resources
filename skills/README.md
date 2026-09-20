@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [tjxj/z-skills / z-smart-xparse/SKILL.md](https://github.com/tjxj/z-skills/blob/76204ceafb842d99490325a7dcf5400b82b20800/z-smart-xparse/SKILL.md) | 2026-09-19 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [opendatalab/MinerU / skills/mineru/SKILL.md](https://github.com/opendatalab/MinerU/blob/935458e232fb77e62e2a3948811162255c7caeae/skills/mineru/SKILL.md) | 2026-09-18 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [Zaious/translate-academic-paper / SKILL.md](https://github.com/Zaious/translate-academic-paper/blob/66944809ee4c719932f324ce9b082e4559182bde/SKILL.md) | 2026-09-07 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [tingaicompass/AI-Compass / SKILL.md](https://github.com/tingaicompass/AI-Compass/blob/b7ea3f22036dcdcce67d61a637e047d8c09e243e/SKILL.md) | 2026-09-07 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

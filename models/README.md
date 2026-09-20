@@ -4,9 +4,15 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [kwiatkowskizuzanna/ocr-freeform-review65](https://huggingface.co/kwiatkowskizuzanna/ocr-freeform-review65) | 2026-09-19 | text-recognition | candidate | — |
+| [iamkushagratomar/Qwen3VL-2B-OCR](https://huggingface.co/iamkushagratomar/Qwen3VL-2B-OCR) | 2026-09-19 | text-recognition | candidate | — |
 | [zchjkhzkhc/nte-courier-ocr](https://huggingface.co/zchjkhzkhc/nte-courier-ocr) | 2026-09-18 | text-recognition | candidate | — |
 | [Sooryeon/qwen3.5-9b-ocr-sft-v1](https://huggingface.co/Sooryeon/qwen3.5-9b-ocr-sft-v1) | 2026-09-18 | text-recognition | candidate | — |
+| [saeidseyfi/khattat-hybrid-ocr](https://huggingface.co/saeidseyfi/khattat-hybrid-ocr) | 2026-09-18 | text-recognition | candidate | — |
 | [nanash66/typhoon-ocr1.5-2b-ROCMFP4-GGUF](https://huggingface.co/nanash66/typhoon-ocr1.5-2b-ROCMFP4-GGUF) | 2026-09-18 | text-recognition | candidate | — |
+| [myandev/myanmar-crnn-ocr](https://huggingface.co/myandev/myanmar-crnn-ocr) | 2026-09-18 | text-recognition | candidate | — |
+| [keystats/Legend_ocr](https://huggingface.co/keystats/Legend_ocr) | 2026-09-18 | text-recognition | candidate | — |
+| [Jtho-mpson/class-ocr-freeform-2024](https://huggingface.co/Jtho-mpson/class-ocr-freeform-2024) | 2026-09-18 | text-recognition | candidate | — |
 | [AIArchiveInfo/DeepSeek-OCR](https://huggingface.co/AIArchiveInfo/DeepSeek-OCR) | 2026-09-18 | text-recognition | candidate | — |
 | [yogse-tiawan/ocr-freeform-study](https://huggingface.co/yogse-tiawan/ocr-freeform-study) | 2026-09-17 | text-recognition | candidate | — |
 | [tonypratama/study-ocr-freeform](https://huggingface.co/tonypratama/study-ocr-freeform) | 2026-09-17 | text-recognition | candidate | — |

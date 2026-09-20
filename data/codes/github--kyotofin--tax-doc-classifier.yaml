@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:kyotofin/tax-doc-classifier
+kind: code
+name: kyotofin/tax-doc-classifier
+released_at:
+  value: '2026-09-18'
+  precision: day
+added_at: '2026-09-19'
+last_verified_at: '2026-09-19'
+summary: Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms,
+  ~$0.001 per page.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/kyotofin/tax-doc-classifier
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/kyotofin/tax-doc-classifier
+  discovered_via: github
+  discovered_at: '2026-09-19'
+  source_id: R_kgDOUgQosw
+  source_metadata:
+    repository: kyotofin/tax-doc-classifier
+    stars: 159
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: kyotofin/tax-doc-classifier
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

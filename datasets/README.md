@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Xrenya/rvl_ocr](https://huggingface.co/datasets/Xrenya/rvl_ocr) | 2026-09-18 | text-recognition | candidate | — |
 | [Siddharthcmehta/intern-document-ocr10](https://huggingface.co/datasets/Siddharthcmehta/intern-document-ocr10) | 2026-09-18 | text-recognition | candidate | 
 	
 		
@@ -34,6 +35,36 @@ load_data.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.
 README.md —… See the full description on the dataset page: https://huggingface.co/datasets/Siddharthcmehta/intern-document-ocr10. |
+| [jankowskijulia/document-ocr-video-text-clean](https://huggingface.co/datasets/jankowskijulia/document-ocr-video-text-clean) | 2026-09-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Video Text metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+loader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/jankowskijulia/document-ocr-video-text-clean. |
 | [jaeminparkland/document-ocr-corpus](https://huggingface.co/datasets/jaeminparkland/document-ocr-corpus) | 2026-09-18 | text-recognition | candidate | 
 	
 		
@@ -64,6 +95,43 @@ prepare.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.
 README.md —… See the full description on the dataset page: https://huggingface.co/datasets/jaeminparkland/document-ocr-corpus. |
+| [iamkushagratomar/devanagari-ocr-synthetic-80k](https://huggingface.co/datasets/iamkushagratomar/devanagari-ocr-synthetic-80k) | 2026-09-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Devanagari OCR Synthetic 80K
+	
+
+80,000 synthetically rendered Devanagari (Hindi) text-line images paired with
+their ground-truth transcription, intended for training / fine-tuning OCR and
+text-recognition models (e.g. TrOCR, Donut, CRNN-CTC).
+Each image is a single line of Hindi text rendered with a randomly chosen
+font and font size.
+
+	
+		
+	
+	
+		Dataset Structure
+	
+
+
+	
+		
+column
+type
+description
+
+
+		
+image
+Image
+rendered text-line image (RGB PNG, 900x64 px)
+
+
+text
+string… See the full description on the dataset page: https://huggingface.co/datasets/iamkushagratomar/devanagari-ocr-synthetic-80k. |
 | [saeid1999/fa-en-ar-handwritten-ocr-v1](https://huggingface.co/datasets/saeid1999/fa-en-ar-handwritten-ocr-v1) | 2026-09-17 | handwriting-recognition, text-recognition | candidate | 
 	
 		
