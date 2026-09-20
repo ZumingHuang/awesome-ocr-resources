@@ -4,6 +4,78 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Leon-klein/test-document-ocr](https://huggingface.co/datasets/Leon-klein/test-document-ocr) | 2026-09-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Audio Video inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/Leon-klein/test-document-ocr. |
+| [V4ldeLund/Faroese-Handwritten-OCR](https://huggingface.co/datasets/V4ldeLund/Faroese-Handwritten-OCR) | 2026-09-19 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Faroese Handwritten OCR
+	
+
+Public draft, version 0.1: an alignment pilot with 16 line-image/text pairs from one
+historical Faroese manuscript page. No rows are verified benchmark ground truth.
+The page is image 3 of D IV – Ániasar táttur, held by Landsbókasavnið
+(National Library of the Faroe Islands) and digitized on HandRit. The manuscript
+is associated with the scribe Jóhan Hendrik Schrøter (1842–1911). Proposed
+reference text is aligned from Eivind Weyhe's scholarly edition of… See the full description on the dataset page: https://huggingface.co/datasets/V4ldeLund/Faroese-Handwritten-OCR. |
+| [raogaurav/document-ocr-samples](https://huggingface.co/datasets/raogaurav/document-ocr-samples) | 2026-09-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Image Text records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/raogaurav/document-ocr-samples. |
 | [Xrenya/rvl_ocr](https://huggingface.co/datasets/Xrenya/rvl_ocr) | 2026-09-18 | text-recognition | candidate | — |
 | [Siddharthcmehta/intern-document-ocr10](https://huggingface.co/datasets/Siddharthcmehta/intern-document-ocr10) | 2026-09-18 | text-recognition | candidate | 
 	

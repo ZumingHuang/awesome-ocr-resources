@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:V4ldeLund/Faroese-Handwritten-OCR
+kind: dataset
+name: V4ldeLund/Faroese-Handwritten-OCR
+released_at:
+  value: '2026-09-19'
+  precision: day
+added_at: '2026-09-20'
+last_verified_at: '2026-09-20'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tFaroese Handwritten OCR\n\t\n\nPublic draft, version 0.1: an alignment\
+  \ pilot with 16 line-image/text pairs from one\nhistorical Faroese manuscript page. No rows are verified\
+  \ benchmark ground truth.\nThe page is image 3 of D IV – Ániasar táttur, held by Landsbókasavnið\n(National\
+  \ Library of the Faroe Islands) and digitized on HandRit. The manuscript\nis associated with the scribe\
+  \ Jóhan Hendrik Schrøter (1842–1911). Proposed\nreference text is aligned from Eivind Weyhe's scholarly\
+  \ edition of… See the full description on the dataset page: https://huggingface.co/datasets/V4ldeLund/Faroese-Handwritten-OCR."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/V4ldeLund/Faroese-Handwritten-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/V4ldeLund/Faroese-Handwritten-OCR
+  discovered_via: huggingface
+  discovered_at: '2026-09-20'
+  source_id: V4ldeLund/Faroese-Handwritten-OCR
+  source_metadata:
+    repository_id: V4ldeLund/Faroese-Handwritten-OCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: V4ldeLund
+repository_id: V4ldeLund/Faroese-Handwritten-OCR
+usage: []
+annotations: []
+access: unknown
