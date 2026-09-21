@@ -4,6 +4,21 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SeeWye/qwen3_5_TM_ocr_merged2](https://huggingface.co/SeeWye/qwen3_5_TM_ocr_merged2) | 2026-09-21 | text-recognition | candidate | — |
+| [larshiakzemil/glm-ocr-farsi](https://huggingface.co/larshiakzemil/glm-ocr-farsi) | 2026-09-21 | text-recognition | candidate | — |
+| [keystats/legends_ocr_crnn_v4](https://huggingface.co/keystats/legends_ocr_crnn_v4) | 2026-09-21 | text-recognition | candidate | — |
+| [INCModel3/DeepSeek-OCR-2-MXFP8-CT-AutoRound](https://huggingface.co/INCModel3/DeepSeek-OCR-2-MXFP8-CT-AutoRound) | 2026-09-21 | text-recognition | candidate | — |
+| [AIArchiveInfo/GOT-OCR2_0](https://huggingface.co/AIArchiveInfo/GOT-OCR2_0) | 2026-09-21 | text-recognition | candidate | — |
+| [AIArchiveInfo/GOT-OCR-2.0-hf](https://huggingface.co/AIArchiveInfo/GOT-OCR-2.0-hf) | 2026-09-21 | text-recognition | candidate | — |
+| [SeyedAli/latex-ocr-assignment](https://huggingface.co/SeyedAli/latex-ocr-assignment) | 2026-09-20 | text-recognition | candidate | — |
+| [SeyedAli/latex-ocr](https://huggingface.co/SeyedAli/latex-ocr) | 2026-09-20 | text-recognition | candidate | — |
+| [kimchireader/manga-ocr-onnx-q8](https://huggingface.co/kimchireader/manga-ocr-onnx-q8) | 2026-09-20 | text-recognition | candidate | — |
+| [keystats/legends_ocr_crnn_v3](https://huggingface.co/keystats/legends_ocr_crnn_v3) | 2026-09-20 | text-recognition | candidate | — |
+| [keystats/Legend_ocr_v4](https://huggingface.co/keystats/Legend_ocr_v4) | 2026-09-20 | text-recognition | candidate | — |
+| [keystats/Legend_ocr_v3](https://huggingface.co/keystats/Legend_ocr_v3) | 2026-09-20 | text-recognition | candidate | — |
+| [JustANormalTinkerer/hayai-ocr-v2.5-nova](https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2.5-nova) | 2026-09-20 | text-recognition | candidate | — |
+| [iamkushagratomar/glm-ocr-gguf](https://huggingface.co/iamkushagratomar/glm-ocr-gguf) | 2026-09-20 | text-recognition | candidate | — |
+| [ahmadw/jina-ocr-v1-GGUF](https://huggingface.co/ahmadw/jina-ocr-v1-GGUF) | 2026-09-20 | text-recognition | candidate | — |
 | [phucdu/Qwen3-VL-8B-Vietnamese-OCR-VQA](https://huggingface.co/phucdu/Qwen3-VL-8B-Vietnamese-OCR-VQA) | 2026-09-19 | text-recognition | candidate | — |
 | [kwiatkowskizuzanna/ocr-freeform-review65](https://huggingface.co/kwiatkowskizuzanna/ocr-freeform-review65) | 2026-09-19 | text-recognition | candidate | — |
 | [keystats/legends_ocr_crnn_v2](https://huggingface.co/keystats/legends_ocr_crnn_v2) | 2026-09-19 | text-recognition | candidate | — |

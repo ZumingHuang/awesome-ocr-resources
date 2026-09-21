@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:Cec1c/MortarHUD
+kind: code
+name: Cec1c/MortarHUD
+released_at:
+  value: '2026-09-17'
+  precision: day
+added_at: '2026-09-21'
+last_verified_at: '2026-09-21'
+summary: 《Wardogs》迫击炮坐标解算外置 HUD：读屏 OCR 识别游戏地图坐标，实时解算方位角与距离并显示在透明置顶 HUD 上。Wardogs mortar HUD / artillery
+  calculator（Windows · WPF · .NET 10）。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Cec1c/MortarHUD
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Cec1c/MortarHUD
+  discovered_via: github
+  discovered_at: '2026-09-21'
+  source_id: R_kgDOUelAaQ
+  source_metadata:
+    repository: Cec1c/MortarHUD
+    stars: 13
+    language: C#
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Cec1c/MortarHUD
+landmark: false
+programming_languages:
+- C#
+maintenance_status: active
