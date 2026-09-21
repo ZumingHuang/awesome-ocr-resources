@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:igorfk369/Dharma-OCR-LITE-gguf
+kind: model
+name: igorfk369/Dharma-OCR-LITE-gguf
+released_at:
+  value: '2026-09-18'
+  precision: day
+added_at: '2026-09-20'
+last_verified_at: '2026-09-20'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/igorfk369/Dharma-OCR-LITE-gguf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/igorfk369/Dharma-OCR-LITE-gguf
+  discovered_via: huggingface
+  discovered_at: '2026-09-20'
+  source_id: igorfk369/Dharma-OCR-LITE-gguf
+  source_metadata:
+    repository_id: igorfk369/Dharma-OCR-LITE-gguf
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: igorfk369
+repository_id: igorfk369/Dharma-OCR-LITE-gguf
+deployment: []

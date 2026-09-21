@@ -4,7 +4,12 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [phucdu/Qwen3-VL-8B-Vietnamese-OCR-VQA](https://huggingface.co/phucdu/Qwen3-VL-8B-Vietnamese-OCR-VQA) | 2026-09-19 | text-recognition | candidate | — |
 | [kwiatkowskizuzanna/ocr-freeform-review65](https://huggingface.co/kwiatkowskizuzanna/ocr-freeform-review65) | 2026-09-19 | text-recognition | candidate | — |
+| [keystats/legends_ocr_crnn_v2](https://huggingface.co/keystats/legends_ocr_crnn_v2) | 2026-09-19 | text-recognition | candidate | — |
+| [keystats/legends_ocr_crnn](https://huggingface.co/keystats/legends_ocr_crnn) | 2026-09-19 | text-recognition | candidate | — |
+| [keystats/Legend_ocr_v2](https://huggingface.co/keystats/Legend_ocr_v2) | 2026-09-19 | text-recognition | candidate | — |
+| [JustANormalTinkerer/hayai-ocr-demo](https://huggingface.co/JustANormalTinkerer/hayai-ocr-demo) | 2026-09-19 | text-recognition | candidate | — |
 | [iamkushagratomar/Qwen3VL-2B-OCR](https://huggingface.co/iamkushagratomar/Qwen3VL-2B-OCR) | 2026-09-19 | text-recognition | candidate | — |
 | [zchjkhzkhc/nte-courier-ocr](https://huggingface.co/zchjkhzkhc/nte-courier-ocr) | 2026-09-18 | text-recognition | candidate | — |
 | [Sooryeon/qwen3.5-9b-ocr-sft-v1](https://huggingface.co/Sooryeon/qwen3.5-9b-ocr-sft-v1) | 2026-09-18 | text-recognition | candidate | — |
@@ -13,6 +18,7 @@
 | [myandev/myanmar-crnn-ocr](https://huggingface.co/myandev/myanmar-crnn-ocr) | 2026-09-18 | text-recognition | candidate | — |
 | [keystats/Legend_ocr](https://huggingface.co/keystats/Legend_ocr) | 2026-09-18 | text-recognition | candidate | — |
 | [Jtho-mpson/class-ocr-freeform-2024](https://huggingface.co/Jtho-mpson/class-ocr-freeform-2024) | 2026-09-18 | text-recognition | candidate | — |
+| [igorfk369/Dharma-OCR-LITE-gguf](https://huggingface.co/igorfk369/Dharma-OCR-LITE-gguf) | 2026-09-18 | text-recognition | candidate | — |
 | [AIArchiveInfo/DeepSeek-OCR](https://huggingface.co/AIArchiveInfo/DeepSeek-OCR) | 2026-09-18 | text-recognition | candidate | — |
 | [yogse-tiawan/ocr-freeform-study](https://huggingface.co/yogse-tiawan/ocr-freeform-study) | 2026-09-17 | text-recognition | candidate | — |
 | [tonypratama/study-ocr-freeform](https://huggingface.co/tonypratama/study-ocr-freeform) | 2026-09-17 | text-recognition | candidate | — |
