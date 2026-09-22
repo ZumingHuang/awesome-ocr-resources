@@ -4,8 +4,60 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Yukino0301/azalea-ocr-production-v1](https://huggingface.co/datasets/Yukino0301/azalea-ocr-production-v1) | 2026-09-22 | text-recognition | candidate | 
+	
+		
+	
+	
+		azalea-ocr-production-v1 (portable Colab pack)
+	
+
+Frozen venv/prefix pack of live azalea-ocr-production-v1. This is not conda. Do not run conda-unpack.
+Colab notebook: colab_frame_hub_azalea_worker.ipynb (also in AIC2026/notebooks/ingestion/). It downloads these files to /content, SHA-checks, extracts locally, relocates interpreters, self-tests, smokes 4 FrameHub OCR jobs, then packed-golden equivalence. --run-forever is gated on equivalence PASS.
+
+	
+		
+	
+	
+		Files
+	
+
+
+	
+		
+File… See the full description on the dataset page: https://huggingface.co/datasets/Yukino0301/azalea-ocr-production-v1. |
+| [Oyussi/mongolian_ocr_texts](https://huggingface.co/datasets/Oyussi/mongolian_ocr_texts) | 2026-09-22 | text-recognition | candidate | — |
 | [SeeWye/Turing_Machine_OCR_v1](https://huggingface.co/datasets/SeeWye/Turing_Machine_OCR_v1) | 2026-09-21 | text-recognition | candidate | — |
 | [SeeWye/Turing_machine_OCR_QwenSFT_v1](https://huggingface.co/datasets/SeeWye/Turing_machine_OCR_QwenSFT_v1) | 2026-09-21 | text-recognition | candidate | — |
+| [nasutionallen/document-ocr-image-depth-mini](https://huggingface.co/datasets/nasutionallen/document-ocr-image-depth-mini) | 2026-09-21 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Depth Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Image Depth data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/nasutionallen/document-ocr-image-depth-mini. |
 | [Leon-klein/test-document-ocr](https://huggingface.co/datasets/Leon-klein/test-document-ocr) | 2026-09-20 | text-recognition | candidate | 
 	
 		

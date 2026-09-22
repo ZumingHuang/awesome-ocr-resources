@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Phu-Hien/qwen3_5_2B_OCR_lora
+kind: model
+name: Phu-Hien/qwen3_5_2B_OCR_lora
+released_at:
+  value: '2026-09-21'
+  precision: day
+added_at: '2026-09-22'
+last_verified_at: '2026-09-22'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Phu-Hien/qwen3_5_2B_OCR_lora
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Phu-Hien/qwen3_5_2B_OCR_lora
+  discovered_via: huggingface
+  discovered_at: '2026-09-22'
+  source_id: Phu-Hien/qwen3_5_2B_OCR_lora
+  source_metadata:
+    repository_id: Phu-Hien/qwen3_5_2B_OCR_lora
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Phu-Hien
+repository_id: Phu-Hien/qwen3_5_2B_OCR_lora
+deployment: []
