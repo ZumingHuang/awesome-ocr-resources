@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:keystats/Legend_ocr_v3
+kind: model
+name: keystats/Legend_ocr_v3
+released_at:
+  value: '2026-09-20'
+  precision: day
+added_at: '2026-09-21'
+last_verified_at: '2026-09-21'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/keystats/Legend_ocr_v3
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/keystats/Legend_ocr_v3
+  discovered_via: huggingface
+  discovered_at: '2026-09-21'
+  source_id: keystats/Legend_ocr_v3
+  source_metadata:
+    repository_id: keystats/Legend_ocr_v3
+    downloads: 11
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: keystats
+repository_id: keystats/Legend_ocr_v3
+deployment: []

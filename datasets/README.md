@@ -4,6 +4,8 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SeeWye/Turing_Machine_OCR_v1](https://huggingface.co/datasets/SeeWye/Turing_Machine_OCR_v1) | 2026-09-21 | text-recognition | candidate | — |
+| [SeeWye/Turing_machine_OCR_QwenSFT_v1](https://huggingface.co/datasets/SeeWye/Turing_machine_OCR_QwenSFT_v1) | 2026-09-21 | text-recognition | candidate | — |
 | [Leon-klein/test-document-ocr](https://huggingface.co/datasets/Leon-klein/test-document-ocr) | 2026-09-20 | text-recognition | candidate | 
 	
 		
