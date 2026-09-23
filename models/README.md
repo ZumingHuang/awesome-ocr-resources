@@ -4,10 +4,19 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Origamigrace/review-ocr-freeform](https://huggingface.co/Origamigrace/review-ocr-freeform) | 2026-09-22 | text-recognition | candidate | — |
+| [yothinS/Typhoon_OCR_7B.gguf](https://huggingface.co/yothinS/Typhoon_OCR_7B.gguf) | 2026-09-21 | text-recognition | candidate | — |
 | [SeeWye/qwen3_5_TM_ocr_merged2](https://huggingface.co/SeeWye/qwen3_5_TM_ocr_merged2) | 2026-09-21 | text-recognition | candidate | — |
+| [Phu-Hien/qwen3_5_4B_OCR_lora](https://huggingface.co/Phu-Hien/qwen3_5_4B_OCR_lora) | 2026-09-21 | text-recognition | candidate | — |
+| [Phu-Hien/qwen3_5_2B_OCR_lora](https://huggingface.co/Phu-Hien/qwen3_5_2B_OCR_lora) | 2026-09-21 | text-recognition | candidate | — |
+| [malim1994/ocr-freeform-baseline](https://huggingface.co/malim1994/ocr-freeform-baseline) | 2026-09-21 | text-recognition | candidate | — |
 | [larshiakzemil/glm-ocr-farsi](https://huggingface.co/larshiakzemil/glm-ocr-farsi) | 2026-09-21 | text-recognition | candidate | — |
+| [keystats/ocr_dict_klm](https://huggingface.co/keystats/ocr_dict_klm) | 2026-09-21 | text-recognition | candidate | — |
+| [keystats/legends_ocr_crnn_v5](https://huggingface.co/keystats/legends_ocr_crnn_v5) | 2026-09-21 | text-recognition | candidate | — |
 | [keystats/legends_ocr_crnn_v4](https://huggingface.co/keystats/legends_ocr_crnn_v4) | 2026-09-21 | text-recognition | candidate | — |
 | [INCModel3/DeepSeek-OCR-2-MXFP8-CT-AutoRound](https://huggingface.co/INCModel3/DeepSeek-OCR-2-MXFP8-CT-AutoRound) | 2026-09-21 | text-recognition | candidate | — |
+| [aliRafik/ERNIE_45_VL_28B_A3B_PT_LaTeX_OCR_finetuned_16bit](https://huggingface.co/aliRafik/ERNIE_45_VL_28B_A3B_PT_LaTeX_OCR_finetuned_16bit) | 2026-09-21 | text-recognition | candidate | — |
+| [aliRafik/DeepSeek_OCR_2_parsynth_ocr_200k_finetuned_16bit](https://huggingface.co/aliRafik/DeepSeek_OCR_2_parsynth_ocr_200k_finetuned_16bit) | 2026-09-21 | text-recognition | candidate | — |
 | [AIArchiveInfo/GOT-OCR2_0](https://huggingface.co/AIArchiveInfo/GOT-OCR2_0) | 2026-09-21 | text-recognition | candidate | — |
 | [AIArchiveInfo/GOT-OCR-2.0-hf](https://huggingface.co/AIArchiveInfo/GOT-OCR-2.0-hf) | 2026-09-21 | text-recognition | candidate | — |
 | [SeyedAli/latex-ocr-assignment](https://huggingface.co/SeyedAli/latex-ocr-assignment) | 2026-09-20 | text-recognition | candidate | — |

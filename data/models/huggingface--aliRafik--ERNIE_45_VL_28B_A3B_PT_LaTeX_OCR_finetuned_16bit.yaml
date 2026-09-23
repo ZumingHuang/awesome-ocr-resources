@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:aliRafik/ERNIE_45_VL_28B_A3B_PT_LaTeX_OCR_finetuned_16bit
+kind: model
+name: aliRafik/ERNIE_45_VL_28B_A3B_PT_LaTeX_OCR_finetuned_16bit
+released_at:
+  value: '2026-09-21'
+  precision: day
+added_at: '2026-09-22'
+last_verified_at: '2026-09-22'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/aliRafik/ERNIE_45_VL_28B_A3B_PT_LaTeX_OCR_finetuned_16bit
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/aliRafik/ERNIE_45_VL_28B_A3B_PT_LaTeX_OCR_finetuned_16bit
+  discovered_via: huggingface
+  discovered_at: '2026-09-22'
+  source_id: aliRafik/ERNIE_45_VL_28B_A3B_PT_LaTeX_OCR_finetuned_16bit
+  source_metadata:
+    repository_id: aliRafik/ERNIE_45_VL_28B_A3B_PT_LaTeX_OCR_finetuned_16bit
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: aliRafik
+repository_id: aliRafik/ERNIE_45_VL_28B_A3B_PT_LaTeX_OCR_finetuned_16bit
+deployment: []

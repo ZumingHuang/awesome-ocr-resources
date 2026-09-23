@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:nasutionallen/document-ocr-image-depth-mini
+kind: dataset
+name: nasutionallen/document-ocr-image-depth-mini
+released_at:
+  value: '2026-09-21'
+  precision: day
+added_at: '2026-09-22'
+last_verified_at: '2026-09-22'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Image Depth Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nPreparation notes and schema examples for Document OCR tasks using Image Depth\
+  \ data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nbuild_dataset.py — loading, cleaning, and split preparation\
+  \ code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small, human-readable\
+  \ records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/nasutionallen/document-ocr-image-depth-mini."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/nasutionallen/document-ocr-image-depth-mini
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/nasutionallen/document-ocr-image-depth-mini
+  discovered_via: huggingface
+  discovered_at: '2026-09-22'
+  source_id: nasutionallen/document-ocr-image-depth-mini
+  source_metadata:
+    repository_id: nasutionallen/document-ocr-image-depth-mini
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: nasutionallen
+repository_id: nasutionallen/document-ocr-image-depth-mini
+usage: []
+annotations: []
+access: unknown

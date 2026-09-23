@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:Oyussi/mongolian_ocr_texts
+kind: dataset
+name: Oyussi/mongolian_ocr_texts
+released_at:
+  value: '2026-09-22'
+  precision: day
+added_at: '2026-09-22'
+last_verified_at: '2026-09-22'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Oyussi/mongolian_ocr_texts
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Oyussi/mongolian_ocr_texts
+  discovered_via: huggingface
+  discovered_at: '2026-09-22'
+  source_id: Oyussi/mongolian_ocr_texts
+  source_metadata:
+    repository_id: Oyussi/mongolian_ocr_texts
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Oyussi
+repository_id: Oyussi/mongolian_ocr_texts
+usage: []
+annotations: []
+access: unknown
