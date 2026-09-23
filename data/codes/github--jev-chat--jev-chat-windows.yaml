@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:jev-chat/jev-chat-windows
+kind: code
+name: jev-chat/jev-chat-windows
+released_at:
+  value: '2026-09-21'
+  precision: day
+added_at: '2026-09-23'
+last_verified_at: '2026-09-23'
+summary: 微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/jev-chat/jev-chat-windows
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/jev-chat/jev-chat-windows
+  discovered_via: github
+  discovered_at: '2026-09-23'
+  source_id: R_kgDOUkANWQ
+  source_metadata:
+    repository: jev-chat/jev-chat-windows
+    stars: 360
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: jev-chat/jev-chat-windows
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

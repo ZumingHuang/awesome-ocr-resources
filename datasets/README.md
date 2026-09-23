@@ -4,6 +4,35 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [haoranzhengport/document-ocr-image-text-curated](https://huggingface.co/datasets/haoranzhengport/document-ocr-image-text-curated) | 2026-09-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Image Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/haoranzhengport/document-ocr-image-text-curated. |
 | [Yukino0301/azalea-ocr-production-v1](https://huggingface.co/datasets/Yukino0301/azalea-ocr-production-v1) | 2026-09-22 | text-recognition | candidate | 
 	
 		
@@ -26,6 +55,48 @@ Colab notebook: colab_frame_hub_azalea_worker.ipynb (also in AIC2026/notebooks/i
 	
 		
 File… See the full description on the dataset page: https://huggingface.co/datasets/Yukino0301/azalea-ocr-production-v1. |
+| [Vishnu1186/handwriting-ocr](https://huggingface.co/datasets/Vishnu1186/handwriting-ocr) | 2026-09-22 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Handwriting OCR (Lance Format)
+	
+
+This Lance-formatted version of the Doctor's Handwritten Prescription BD dataset contains 4,680 cropped PNG images of handwritten medicine names from Bangladesh. Each row keeps the original image bytes with the medicine and generic-name labels, plus deterministic search metadata derived from those labels. The dataset contains three source-preserved splits: train, validation, and test.
+
+[!NOTE]
+Training note: The same samples appear repeatedly… See the full description on the dataset page: https://huggingface.co/datasets/Vishnu1186/handwriting-ocr. |
+| [phoenix11000/image-to-text-ocr-serp-snapshot](https://huggingface.co/datasets/phoenix11000/image-to-text-ocr-serp-snapshot) | 2026-09-22 | text-recognition | candidate | 
+	
+		
+	
+	
+		Image-to-Text OCR SERP Snapshot
+	
+
+An English-language, US Google organic-results snapshot for image to text converter, collected on 2026-09-22.
+
+	
+		
+	
+	
+		Files
+	
+
+
+image-to-text-ocr-serp-snapshot.csv is the machine-readable row-by-row dataset.
+comparison.md is the same comparison as a readable Markdown table with methodology and limitations.
+
+
+	
+		
+	
+	
+		How to read the dataset
+	
+
+Each row is one result. The classification column distinguishes the Android app-store listing from… See the full description on the dataset page: https://huggingface.co/datasets/phoenix11000/image-to-text-ocr-serp-snapshot. |
 | [Oyussi/mongolian_ocr_texts](https://huggingface.co/datasets/Oyussi/mongolian_ocr_texts) | 2026-09-22 | text-recognition | candidate | — |
 | [SeeWye/Turing_Machine_OCR_v1](https://huggingface.co/datasets/SeeWye/Turing_Machine_OCR_v1) | 2026-09-21 | text-recognition | candidate | — |
 | [SeeWye/Turing_machine_OCR_QwenSFT_v1](https://huggingface.co/datasets/SeeWye/Turing_machine_OCR_QwenSFT_v1) | 2026-09-21 | text-recognition | candidate | — |

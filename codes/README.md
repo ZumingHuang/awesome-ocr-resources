@@ -4,6 +4,12 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [wuxie888/jev-yaba-wechat](https://github.com/wuxie888/jev-yaba-wechat) | 2026-09-21 | text-recognition | candidate | 微信里的话不知道怎么接？macOS 悬浮聊天助手：识别消息意图与沟通风险，GPT 生成多种话术，Jev 评估候选，一键填入微信。话我帮你想，发送你来定。 |
+| [jev-chat/jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) | 2026-09-21 | text-recognition | candidate | 微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动 |
+| [jev-chat/jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac) | 2026-09-21 | text-recognition | candidate | 微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。 |
+| [electrocrem/gits](https://github.com/electrocrem/gits) | 2026-09-20 | text-recognition | candidate | Ghost in the Shell desktop for HyDE / Hyprland: theme, waybar, widgets, boot/login screens, terminal and app themes, installer + uninstaller |
+| [jerryjliu/docjev](https://github.com/jerryjliu/docjev) | 2026-09-19 | other | candidate | A very fast document classifier/splitter using Jev  |
+| [chigre/Picture_Capture](https://github.com/chigre/Picture_Capture) | 2026-09-19 | text-recognition | candidate | 扫描版词典图片的画线/OCR/校对/切图/制作词库一体化软件 |
 | [misbahsy/doc-router](https://github.com/misbahsy/doc-router) | 2026-09-18 | text-recognition | candidate | A Document OCR Router to help route pages based on content.  |
 | [LingxiangXu/traceclause](https://github.com/LingxiangXu/traceclause) | 2026-09-18 | other | candidate | Local-first document requirements and evidence review workbench with traceable citations and human review. |
 | [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) | 2026-09-18 | other | candidate | Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page. |

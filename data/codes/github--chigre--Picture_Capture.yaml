@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:chigre/Picture_Capture
+kind: code
+name: chigre/Picture_Capture
+released_at:
+  value: '2026-09-19'
+  precision: day
+added_at: '2026-09-23'
+last_verified_at: '2026-09-23'
+summary: 扫描版词典图片的画线/OCR/校对/切图/制作词库一体化软件
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/chigre/Picture_Capture
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/chigre/Picture_Capture
+  discovered_via: github
+  discovered_at: '2026-09-23'
+  source_id: R_kgDOUhp0kQ
+  source_metadata:
+    repository: chigre/Picture_Capture
+    stars: 10
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: chigre/Picture_Capture
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

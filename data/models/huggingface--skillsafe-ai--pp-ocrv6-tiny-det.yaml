@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:skillsafe-ai/pp-ocrv6-tiny-det
+kind: model
+name: skillsafe-ai/pp-ocrv6-tiny-det
+released_at:
+  value: '2026-09-22'
+  precision: day
+added_at: '2026-09-23'
+last_verified_at: '2026-09-23'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/skillsafe-ai/pp-ocrv6-tiny-det
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/skillsafe-ai/pp-ocrv6-tiny-det
+  discovered_via: huggingface
+  discovered_at: '2026-09-23'
+  source_id: skillsafe-ai/pp-ocrv6-tiny-det
+  source_metadata:
+    repository_id: skillsafe-ai/pp-ocrv6-tiny-det
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: skillsafe-ai
+repository_id: skillsafe-ai/pp-ocrv6-tiny-det
+deployment: []

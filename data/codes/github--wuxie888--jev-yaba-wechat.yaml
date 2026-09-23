@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:wuxie888/jev-yaba-wechat
+kind: code
+name: wuxie888/jev-yaba-wechat
+released_at:
+  value: '2026-09-21'
+  precision: day
+added_at: '2026-09-23'
+last_verified_at: '2026-09-23'
+summary: 微信里的话不知道怎么接？macOS 悬浮聊天助手：识别消息意图与沟通风险，GPT 生成多种话术，Jev 评估候选，一键填入微信。话我帮你想，发送你来定。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/wuxie888/jev-yaba-wechat
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/wuxie888/jev-yaba-wechat
+  discovered_via: github
+  discovered_at: '2026-09-23'
+  source_id: R_kgDOUkRJdw
+  source_metadata:
+    repository: wuxie888/jev-yaba-wechat
+    stars: 18
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: wuxie888/jev-yaba-wechat
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active
