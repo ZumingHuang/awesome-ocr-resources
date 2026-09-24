@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:jev-chat/jev-chat-jarvis-mac
+kind: code
+name: jev-chat/jev-chat-jarvis-mac
+released_at:
+  value: '2026-09-21'
+  precision: day
+added_at: '2026-09-23'
+last_verified_at: '2026-09-23'
+summary: 微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/jev-chat/jev-chat-jarvis-mac
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/jev-chat/jev-chat-jarvis-mac
+  discovered_via: github
+  discovered_at: '2026-09-23'
+  source_id: R_kgDOUjtJeg
+  source_metadata:
+    repository: jev-chat/jev-chat-jarvis-mac
+    stars: 259
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: jev-chat/jev-chat-jarvis-mac
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

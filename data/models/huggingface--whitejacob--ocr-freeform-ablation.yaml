@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:whitejacob/ocr-freeform-ablation
+kind: model
+name: whitejacob/ocr-freeform-ablation
+released_at:
+  value: '2026-09-23'
+  precision: day
+added_at: '2026-09-23'
+last_verified_at: '2026-09-23'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/whitejacob/ocr-freeform-ablation
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/whitejacob/ocr-freeform-ablation
+  discovered_via: huggingface
+  discovered_at: '2026-09-23'
+  source_id: whitejacob/ocr-freeform-ablation
+  source_metadata:
+    repository_id: whitejacob/ocr-freeform-ablation
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: whitejacob
+repository_id: whitejacob/ocr-freeform-ablation
+deployment: []

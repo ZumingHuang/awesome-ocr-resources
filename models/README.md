@@ -4,7 +4,19 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [whitejacob/ocr-freeform-ablation](https://huggingface.co/whitejacob/ocr-freeform-ablation) | 2026-09-23 | text-recognition | candidate | — |
+| [chanasia/typhoon-ocr1.5-2b-GGUF](https://huggingface.co/chanasia/typhoon-ocr1.5-2b-GGUF) | 2026-09-23 | text-recognition | candidate | — |
+| [adamstewart/ocr-freeform](https://huggingface.co/adamstewart/ocr-freeform) | 2026-09-23 | text-recognition | candidate | — |
+| [vadik82/hayai-ocr-v25-onnx](https://huggingface.co/vadik82/hayai-ocr-v25-onnx) | 2026-09-22 | text-recognition | candidate | — |
+| [vadik82/hayai-ocr-v2-onnx](https://huggingface.co/vadik82/hayai-ocr-v2-onnx) | 2026-09-22 | text-recognition | candidate | — |
+| [skillsafe-ai/pp-ocrv6-tiny-rec](https://huggingface.co/skillsafe-ai/pp-ocrv6-tiny-rec) | 2026-09-22 | text-recognition | candidate | — |
+| [skillsafe-ai/pp-ocrv6-tiny-det](https://huggingface.co/skillsafe-ai/pp-ocrv6-tiny-det) | 2026-09-22 | text-recognition | candidate | — |
+| [Phu-Hien/qwen3_5_2B_OCR_finetuned](https://huggingface.co/Phu-Hien/qwen3_5_2B_OCR_finetuned) | 2026-09-22 | text-recognition | candidate | — |
+| [Phu-Hien/qwen3_5_0.8B_OCR_lora](https://huggingface.co/Phu-Hien/qwen3_5_0.8B_OCR_lora) | 2026-09-22 | text-recognition | candidate | — |
 | [Origamigrace/review-ocr-freeform](https://huggingface.co/Origamigrace/review-ocr-freeform) | 2026-09-22 | text-recognition | candidate | — |
+| [keystats/legends_ocr_crnn_v6](https://huggingface.co/keystats/legends_ocr_crnn_v6) | 2026-09-22 | text-recognition | candidate | — |
+| [daikihashimoto/ocr-freeform-review](https://huggingface.co/daikihashimoto/ocr-freeform-review) | 2026-09-22 | text-recognition | candidate | — |
+| [AntoniusPerf/runic-ocr-qwen-vl-lora](https://huggingface.co/AntoniusPerf/runic-ocr-qwen-vl-lora) | 2026-09-22 | text-recognition | candidate | — |
 | [yothinS/Typhoon_OCR_7B.gguf](https://huggingface.co/yothinS/Typhoon_OCR_7B.gguf) | 2026-09-21 | text-recognition | candidate | — |
 | [SeeWye/qwen3_5_TM_ocr_merged2](https://huggingface.co/SeeWye/qwen3_5_TM_ocr_merged2) | 2026-09-21 | text-recognition | candidate | — |
 | [Phu-Hien/qwen3_5_4B_OCR_lora](https://huggingface.co/Phu-Hien/qwen3_5_4B_OCR_lora) | 2026-09-21 | text-recognition | candidate | — |
