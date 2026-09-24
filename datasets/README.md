@@ -4,6 +4,8 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [pixelpalsuit/ocr-b2](https://huggingface.co/datasets/pixelpalsuit/ocr-b2) | 2026-09-24 | text-recognition | candidate | — |
+| [fwgpiyawudk/Thai_Insurance_Docs_OCR-calib-chandra2](https://huggingface.co/datasets/fwgpiyawudk/Thai_Insurance_Docs_OCR-calib-chandra2) | 2026-09-24 | text-recognition | candidate | — |
 | [haoranzhengport/document-ocr-image-text-curated](https://huggingface.co/datasets/haoranzhengport/document-ocr-image-text-curated) | 2026-09-23 | text-recognition | candidate | 
 	
 		
