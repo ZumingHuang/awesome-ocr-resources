@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:cloudaocr/clouda-ocr-amad-vlm6
+kind: model
+name: cloudaocr/clouda-ocr-amad-vlm6
+released_at:
+  value: '2026-09-24'
+  precision: day
+added_at: '2026-09-25'
+last_verified_at: '2026-09-25'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/cloudaocr/clouda-ocr-amad-vlm6
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/cloudaocr/clouda-ocr-amad-vlm6
+  discovered_via: huggingface
+  discovered_at: '2026-09-25'
+  source_id: cloudaocr/clouda-ocr-amad-vlm6
+  source_metadata:
+    repository_id: cloudaocr/clouda-ocr-amad-vlm6
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: cloudaocr
+repository_id: cloudaocr/clouda-ocr-amad-vlm6
+deployment: []

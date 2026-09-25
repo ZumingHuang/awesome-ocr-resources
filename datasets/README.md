@@ -4,6 +4,8 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SeeWye/TuringMachine_OCR_qwen_grpo_v2](https://huggingface.co/datasets/SeeWye/TuringMachine_OCR_qwen_grpo_v2) | 2026-09-25 | text-recognition | candidate | — |
+| [SeeWye/TuringMachine_OCR_qwen_grpo_v1](https://huggingface.co/datasets/SeeWye/TuringMachine_OCR_qwen_grpo_v1) | 2026-09-25 | text-recognition | candidate | — |
 | [pixelpalsuit/ocr-b2](https://huggingface.co/datasets/pixelpalsuit/ocr-b2) | 2026-09-24 | text-recognition | candidate | — |
 | [fwgpiyawudk/Thai_Insurance_Docs_OCR-calib-chandra2](https://huggingface.co/datasets/fwgpiyawudk/Thai_Insurance_Docs_OCR-calib-chandra2) | 2026-09-24 | text-recognition | candidate | — |
 | [haoranzhengport/document-ocr-image-text-curated](https://huggingface.co/datasets/haoranzhengport/document-ocr-image-text-curated) | 2026-09-23 | text-recognition | candidate | 
@@ -35,6 +37,16 @@ This repository contains a preparation pipeline and a small metadata sample for 
 prepare.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/haoranzhengport/document-ocr-image-text-curated. |
+| [albertklorer/safedocs-cc-2m-paddle-vl-1-6-ocr](https://huggingface.co/datasets/albertklorer/safedocs-cc-2m-paddle-vl-1-6-ocr) | 2026-09-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		SafeDocs selected PaddleOCR-VL 1.6 OCR
+	
+
+OCR outputs for the PDFs accepted by the content-filtered selection. Each page row retains the complete native PaddleOCR result and its source document identity. Processing state is tracked in the run manifests.
+ |
 | [Yukino0301/azalea-ocr-production-v1](https://huggingface.co/datasets/Yukino0301/azalea-ocr-production-v1) | 2026-09-22 | text-recognition | candidate | 
 	
 		
