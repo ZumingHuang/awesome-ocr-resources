@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:qenme/jina-ocr-v1-Q8_0-mtp-gguf
+kind: model
+name: qenme/jina-ocr-v1-Q8_0-mtp-gguf
+released_at:
+  value: '2026-09-23'
+  precision: day
+added_at: '2026-09-24'
+last_verified_at: '2026-09-24'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/qenme/jina-ocr-v1-Q8_0-mtp-gguf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/qenme/jina-ocr-v1-Q8_0-mtp-gguf
+  discovered_via: huggingface
+  discovered_at: '2026-09-24'
+  source_id: qenme/jina-ocr-v1-Q8_0-mtp-gguf
+  source_metadata:
+    repository_id: qenme/jina-ocr-v1-Q8_0-mtp-gguf
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: qenme
+repository_id: qenme/jina-ocr-v1-Q8_0-mtp-gguf
+deployment: []
