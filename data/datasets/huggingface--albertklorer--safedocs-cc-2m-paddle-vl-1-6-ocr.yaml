@@ -1,0 +1,42 @@
+schema_version: 1
+id: dataset:huggingface:albertklorer/safedocs-cc-2m-paddle-vl-1-6-ocr
+kind: dataset
+name: albertklorer/safedocs-cc-2m-paddle-vl-1-6-ocr
+released_at:
+  value: '2026-09-23'
+  precision: day
+added_at: '2026-09-25'
+last_verified_at: '2026-09-25'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSafeDocs selected PaddleOCR-VL 1.6 OCR\n\t\n\nOCR outputs for the PDFs\
+  \ accepted by the content-filtered selection. Each page row retains the complete native PaddleOCR result\
+  \ and its source document identity. Processing state is tracked in the run manifests.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/albertklorer/safedocs-cc-2m-paddle-vl-1-6-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/albertklorer/safedocs-cc-2m-paddle-vl-1-6-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-25'
+  source_id: albertklorer/safedocs-cc-2m-paddle-vl-1-6-ocr
+  source_metadata:
+    repository_id: albertklorer/safedocs-cc-2m-paddle-vl-1-6-ocr
+    downloads: 158
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: albertklorer
+repository_id: albertklorer/safedocs-cc-2m-paddle-vl-1-6-ocr
+usage: []
+annotations: []
+access: unknown

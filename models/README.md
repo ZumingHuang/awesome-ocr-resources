@@ -4,6 +4,8 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [RKNNAI/RK182X-OCR-PaddleOCR-VL](https://huggingface.co/RKNNAI/RK182X-OCR-PaddleOCR-VL) | 2026-09-24 | text-recognition | candidate | — |
+| [RKNNAI/RK182X-OCR-HunyuanOCR-1.5](https://huggingface.co/RKNNAI/RK182X-OCR-HunyuanOCR-1.5) | 2026-09-24 | text-recognition | candidate | — |
 | [keystats/Legend_ocr_rolm-highavg](https://huggingface.co/keystats/Legend_ocr_rolm-highavg) | 2026-09-24 | text-recognition | candidate | — |
 | [keystats/Legend_ocr_rolm](https://huggingface.co/keystats/Legend_ocr_rolm) | 2026-09-24 | text-recognition | candidate | — |
 | [keystats/Legend_ocr_qwen3-highavg](https://huggingface.co/keystats/Legend_ocr_qwen3-highavg) | 2026-09-24 | text-recognition | candidate | — |
@@ -12,6 +14,8 @@
 | [keystats/Legend_ocr_qwen2-highavg](https://huggingface.co/keystats/Legend_ocr_qwen2-highavg) | 2026-09-24 | text-recognition | candidate | — |
 | [keystats/Legend_ocr_qwen2](https://huggingface.co/keystats/Legend_ocr_qwen2) | 2026-09-24 | text-recognition | candidate | — |
 | [keystats/Legend_ocr_crnn](https://huggingface.co/keystats/Legend_ocr_crnn) | 2026-09-24 | text-recognition | candidate | — |
+| [cloudaocr/clouda-ocr-amad-vlm6](https://huggingface.co/cloudaocr/clouda-ocr-amad-vlm6) | 2026-09-24 | text-recognition | candidate | — |
+| [anandkaman/arjuna-ocr-kn-en-inference](https://huggingface.co/anandkaman/arjuna-ocr-kn-en-inference) | 2026-09-24 | text-recognition | candidate | — |
 | [whitejacob/ocr-freeform-ablation](https://huggingface.co/whitejacob/ocr-freeform-ablation) | 2026-09-23 | text-recognition | candidate | — |
 | [qenme/jina-ocr-v1-Q8_0-mtp-gguf](https://huggingface.co/qenme/jina-ocr-v1-Q8_0-mtp-gguf) | 2026-09-23 | text-recognition | candidate | — |
 | [Phu-Hien/qwen3_5_2B_OCR_finetune](https://huggingface.co/Phu-Hien/qwen3_5_2B_OCR_finetune) | 2026-09-23 | text-recognition | candidate | — |
