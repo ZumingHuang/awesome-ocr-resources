@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:aqpahm/aic2026-ocr-qwen3-5-9b
+kind: dataset
+name: aqpahm/aic2026-ocr-qwen3-5-9b
+released_at:
+  value: '2026-09-22'
+  precision: day
+added_at: '2026-09-26'
+last_verified_at: '2026-09-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/aqpahm/aic2026-ocr-qwen3-5-9b
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/aqpahm/aic2026-ocr-qwen3-5-9b
+  discovered_via: huggingface
+  discovered_at: '2026-09-26'
+  source_id: aqpahm/aic2026-ocr-qwen3-5-9b
+  source_metadata:
+    repository_id: aqpahm/aic2026-ocr-qwen3-5-9b
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: aqpahm
+repository_id: aqpahm/aic2026-ocr-qwen3-5-9b
+usage: []
+annotations: []
+access: unknown

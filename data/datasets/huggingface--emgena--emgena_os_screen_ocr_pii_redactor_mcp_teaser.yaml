@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser
+kind: dataset
+name: emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser
+released_at:
+  value: '2026-09-26'
+  precision: day
+added_at: '2026-09-26'
+last_verified_at: '2026-09-26'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t\U0001F680 OS Security - Screen Frame PII Redactor & Vision Privacy\
+  \ Shield (Evaluation Teaser)\n\t\n\n\n⚡ Official Free Evaluation Teaser (50 Verified Scenarios + Executable\
+  \ MCP Server)\U0001F3C6 Get the Full Production Package & Commercial EULA on Gumroad:\U0001F449 Purchase\
+  \ Full Package on Gumroad\U0001F3F7️ Use coupon code LAUNCH20 for €20 off at checkout!\n\n\n\n\t\n\t\
+  \t\n\t\n\t\n\t\t\U0001F31F Domain Overview & Features\n\t\n\nCalculates masking bounding boxes for credit\
+  \ cards, emails, and passwords on screen frames before transmitting… See the full description on the\
+  \ dataset page: https://huggingface.co/datasets/emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser
+  discovered_via: huggingface
+  discovered_at: '2026-09-26'
+  source_id: emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser
+  source_metadata:
+    repository_id: emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: emgena
+repository_id: emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser
+usage: []
+annotations: []
+access: unknown
