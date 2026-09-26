@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Offlin33er/doc-fraud-ocr-validate
+kind: model
+name: Offlin33er/doc-fraud-ocr-validate
+released_at:
+  value: '2026-09-26'
+  precision: day
+added_at: '2026-09-26'
+last_verified_at: '2026-09-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Offlin33er/doc-fraud-ocr-validate
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Offlin33er/doc-fraud-ocr-validate
+  discovered_via: huggingface
+  discovered_at: '2026-09-26'
+  source_id: Offlin33er/doc-fraud-ocr-validate
+  source_metadata:
+    repository_id: Offlin33er/doc-fraud-ocr-validate
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Offlin33er
+repository_id: Offlin33er/doc-fraud-ocr-validate
+deployment: []

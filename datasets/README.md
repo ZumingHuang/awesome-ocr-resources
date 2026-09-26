@@ -4,6 +4,27 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser](https://huggingface.co/datasets/emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser) | 2026-09-26 | text-recognition | candidate | 
+	
+		
+	
+	
+		🚀 OS Security - Screen Frame PII Redactor & Vision Privacy Shield (Evaluation Teaser)
+	
+
+
+⚡ Official Free Evaluation Teaser (50 Verified Scenarios + Executable MCP Server)🏆 Get the Full Production Package & Commercial EULA on Gumroad:👉 Purchase Full Package on Gumroad🏷️ Use coupon code LAUNCH20 for €20 off at checkout!
+
+
+
+	
+		
+	
+	
+		🌟 Domain Overview & Features
+	
+
+Calculates masking bounding boxes for credit cards, emails, and passwords on screen frames before transmitting… See the full description on the dataset page: https://huggingface.co/datasets/emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser. |
 | [SeeWye/TuringMachine_OCR_qwen_grpo_v2](https://huggingface.co/datasets/SeeWye/TuringMachine_OCR_qwen_grpo_v2) | 2026-09-25 | text-recognition | candidate | — |
 | [SeeWye/TuringMachine_OCR_qwen_grpo_v1](https://huggingface.co/datasets/SeeWye/TuringMachine_OCR_qwen_grpo_v1) | 2026-09-25 | text-recognition | candidate | — |
 | [pixelpalsuit/ocr-b2](https://huggingface.co/datasets/pixelpalsuit/ocr-b2) | 2026-09-24 | text-recognition | candidate | — |
@@ -112,6 +133,7 @@ comparison.md is the same comparison as a readable Markdown table with methodolo
 
 Each row is one result. The classification column distinguishes the Android app-store listing from… See the full description on the dataset page: https://huggingface.co/datasets/phoenix11000/image-to-text-ocr-serp-snapshot. |
 | [Oyussi/mongolian_ocr_texts](https://huggingface.co/datasets/Oyussi/mongolian_ocr_texts) | 2026-09-22 | text-recognition | candidate | — |
+| [aqpahm/aic2026-ocr-qwen3-5-9b](https://huggingface.co/datasets/aqpahm/aic2026-ocr-qwen3-5-9b) | 2026-09-22 | text-recognition | candidate | — |
 | [SeeWye/Turing_Machine_OCR_v1](https://huggingface.co/datasets/SeeWye/Turing_Machine_OCR_v1) | 2026-09-21 | text-recognition | candidate | — |
 | [SeeWye/Turing_machine_OCR_QwenSFT_v1](https://huggingface.co/datasets/SeeWye/Turing_machine_OCR_QwenSFT_v1) | 2026-09-21 | text-recognition | candidate | — |
 | [nasutionallen/document-ocr-image-depth-mini](https://huggingface.co/datasets/nasutionallen/document-ocr-image-depth-mini) | 2026-09-21 | text-recognition | candidate | 

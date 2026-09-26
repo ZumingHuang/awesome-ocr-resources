@@ -4,6 +4,11 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Offlin33er/doc-fraud-ocr-validate](https://huggingface.co/Offlin33er/doc-fraud-ocr-validate) | 2026-09-26 | text-recognition | candidate | — |
+| [manny-the-one/GLM-OCR](https://huggingface.co/manny-the-one/GLM-OCR) | 2026-09-26 | text-recognition | candidate | — |
+| [Vantuk/ocr_aithena](https://huggingface.co/Vantuk/ocr_aithena) | 2026-09-25 | text-recognition | candidate | — |
+| [AIArchiveInfo/GLM-OCR](https://huggingface.co/AIArchiveInfo/GLM-OCR) | 2026-09-25 | text-recognition | candidate | — |
+| [AIArchiveInfo/DeepSeek-OCR-2](https://huggingface.co/AIArchiveInfo/DeepSeek-OCR-2) | 2026-09-25 | text-recognition | candidate | — |
 | [RKNNAI/RK182X-OCR-PaddleOCR-VL](https://huggingface.co/RKNNAI/RK182X-OCR-PaddleOCR-VL) | 2026-09-24 | text-recognition | candidate | — |
 | [RKNNAI/RK182X-OCR-HunyuanOCR-1.5](https://huggingface.co/RKNNAI/RK182X-OCR-HunyuanOCR-1.5) | 2026-09-24 | text-recognition | candidate | — |
 | [keystats/Legend_ocr_rolm-highavg](https://huggingface.co/keystats/Legend_ocr_rolm-highavg) | 2026-09-24 | text-recognition | candidate | — |

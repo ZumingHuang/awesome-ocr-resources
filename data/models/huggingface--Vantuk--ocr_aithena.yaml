@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Vantuk/ocr_aithena
+kind: model
+name: Vantuk/ocr_aithena
+released_at:
+  value: '2026-09-25'
+  precision: day
+added_at: '2026-09-26'
+last_verified_at: '2026-09-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Vantuk/ocr_aithena
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Vantuk/ocr_aithena
+  discovered_via: huggingface
+  discovered_at: '2026-09-26'
+  source_id: Vantuk/ocr_aithena
+  source_metadata:
+    repository_id: Vantuk/ocr_aithena
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Vantuk
+repository_id: Vantuk/ocr_aithena
+deployment: []
