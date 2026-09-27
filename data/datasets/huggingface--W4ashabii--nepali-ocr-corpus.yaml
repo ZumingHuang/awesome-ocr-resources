@@ -1,0 +1,49 @@
+schema_version: 1
+id: dataset:huggingface:W4ashabii/nepali-ocr-corpus
+kind: dataset
+name: W4ashabii/nepali-ocr-corpus
+released_at:
+  value: '2026-09-21'
+  precision: day
+added_at: '2026-09-27'
+last_verified_at: '2026-09-27'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tnepali-ocr-corpus\n\t\n\nA fine-tuning corpus for Nepali (Devanagari)\
+  \ government-document OCR and\nlayout analysis, built to adapt a vision-language model (dots.ocr) to\
+  \ Nepali\npaperwork without erasing what it already knows.\nAbout half the corpus by tokens is the target\
+  \ task: synthetic and real-layout\nNepali pages. The other half is replay data from general VQA, English\n\
+  document QA, and handwritten math, mixed in on purpose. The split follows\nFine-tuning VLMs Without\
+  \ Forgetting. The… See the full description on the dataset page: https://huggingface.co/datasets/W4ashabii/nepali-ocr-corpus."
+tasks:
+- document-vqa
+- formula-recognition
+- document-layout-analysis
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/W4ashabii/nepali-ocr-corpus
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/W4ashabii/nepali-ocr-corpus
+  discovered_via: huggingface
+  discovered_at: '2026-09-27'
+  source_id: W4ashabii/nepali-ocr-corpus
+  source_metadata:
+    repository_id: W4ashabii/nepali-ocr-corpus
+    downloads: 431
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: W4ashabii
+repository_id: W4ashabii/nepali-ocr-corpus
+usage: []
+annotations: []
+access: unknown

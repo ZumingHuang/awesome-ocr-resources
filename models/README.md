@@ -4,6 +4,18 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SeeWye/qwen_TM_OCR_16bit_merged2](https://huggingface.co/SeeWye/qwen_TM_OCR_16bit_merged2) | 2026-09-26 | text-recognition | candidate | — |
+| [Offlin33er/doc-fraud-ocr-validate](https://huggingface.co/Offlin33er/doc-fraud-ocr-validate) | 2026-09-26 | text-recognition | candidate | — |
+| [mariaalonso/study-ocr-freeform](https://huggingface.co/mariaalonso/study-ocr-freeform) | 2026-09-26 | text-recognition | candidate | — |
+| [manny-the-one/GLM-OCR](https://huggingface.co/manny-the-one/GLM-OCR) | 2026-09-26 | text-recognition | candidate | — |
+| [keystats/Vision_ocr_crnn](https://huggingface.co/keystats/Vision_ocr_crnn) | 2026-09-26 | text-recognition | candidate | — |
+| [keystats/Ultimate_ocr_rolm-highavg](https://huggingface.co/keystats/Ultimate_ocr_rolm-highavg) | 2026-09-26 | text-recognition | candidate | — |
+| [keystats/Ultimate_ocr_rolm](https://huggingface.co/keystats/Ultimate_ocr_rolm) | 2026-09-26 | text-recognition | candidate | — |
+| [fang718/pp-ocrv6-hanzi-unicode-ocr](https://huggingface.co/fang718/pp-ocrv6-hanzi-unicode-ocr) | 2026-09-26 | text-recognition | candidate | — |
+| [fang718/pp-ocrv6-hanzi-ids-ocr](https://huggingface.co/fang718/pp-ocrv6-hanzi-ids-ocr) | 2026-09-26 | text-recognition | candidate | — |
+| [Vantuk/ocr_aithena](https://huggingface.co/Vantuk/ocr_aithena) | 2026-09-25 | text-recognition | candidate | — |
+| [AIArchiveInfo/GLM-OCR](https://huggingface.co/AIArchiveInfo/GLM-OCR) | 2026-09-25 | text-recognition | candidate | — |
+| [AIArchiveInfo/DeepSeek-OCR-2](https://huggingface.co/AIArchiveInfo/DeepSeek-OCR-2) | 2026-09-25 | text-recognition | candidate | — |
 | [RKNNAI/RK182X-OCR-PaddleOCR-VL](https://huggingface.co/RKNNAI/RK182X-OCR-PaddleOCR-VL) | 2026-09-24 | text-recognition | candidate | — |
 | [RKNNAI/RK182X-OCR-HunyuanOCR-1.5](https://huggingface.co/RKNNAI/RK182X-OCR-HunyuanOCR-1.5) | 2026-09-24 | text-recognition | candidate | — |
 | [keystats/Legend_ocr_rolm-highavg](https://huggingface.co/keystats/Legend_ocr_rolm-highavg) | 2026-09-24 | text-recognition | candidate | — |
