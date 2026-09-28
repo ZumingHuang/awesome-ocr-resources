@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:keystats/Ultimate_ocr_rolm
+kind: model
+name: keystats/Ultimate_ocr_rolm
+released_at:
+  value: '2026-09-26'
+  precision: day
+added_at: '2026-09-28'
+last_verified_at: '2026-09-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/keystats/Ultimate_ocr_rolm
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/keystats/Ultimate_ocr_rolm
+  discovered_via: huggingface
+  discovered_at: '2026-09-28'
+  source_id: keystats/Ultimate_ocr_rolm
+  source_metadata:
+    repository_id: keystats/Ultimate_ocr_rolm
+    downloads: 11
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: keystats
+repository_id: keystats/Ultimate_ocr_rolm
+deployment: []

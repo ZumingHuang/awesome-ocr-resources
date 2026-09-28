@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ
+kind: dataset
+name: MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ
+released_at:
+  value: '2026-09-26'
+  precision: day
+added_at: '2026-09-28'
+last_verified_at: '2026-09-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ
+  discovered_via: huggingface
+  discovered_at: '2026-09-28'
+  source_id: MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ
+  source_metadata:
+    repository_id: MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ
+    downloads: 37
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: MikeDd2025
+repository_id: MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ
+usage: []
+annotations: []
+access: unknown

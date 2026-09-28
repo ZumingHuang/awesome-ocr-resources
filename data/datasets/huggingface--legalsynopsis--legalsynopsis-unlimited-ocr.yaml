@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:legalsynopsis/legalsynopsis-unlimited-ocr
+kind: dataset
+name: legalsynopsis/legalsynopsis-unlimited-ocr
+released_at:
+  value: '2026-09-28'
+  precision: day
+added_at: '2026-09-28'
+last_verified_at: '2026-09-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tLONE Unlimited-OCR Training Dataset\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Training objective\n\t\n\nTeach Unlimited-OCR LegalSynopsis document recognition with emphasis on:\n\
+  \nKannada\nEnglish\nKannada + English mixed pages\nLegal documents\nCourt records\nSale deeds\nAgreements\n\
+  RTC / land records\nRevenue documents\nSurvey records\nGovernment orders\nRegistration documents\nTables\n\
+  Stamps and seals\ndegraded scans\nold printed Kannada\n\n\n\t\n\t\t\n\t\n\t\n\t\tEvery training sample\
+  \ should contain\n\t\n\n\nOriginal page image\nCorrect… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/legalsynopsis/legalsynopsis-unlimited-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/legalsynopsis/legalsynopsis-unlimited-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/legalsynopsis/legalsynopsis-unlimited-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-28'
+  source_id: legalsynopsis/legalsynopsis-unlimited-ocr
+  source_metadata:
+    repository_id: legalsynopsis/legalsynopsis-unlimited-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: legalsynopsis
+repository_id: legalsynopsis/legalsynopsis-unlimited-ocr
+usage: []
+annotations: []
+access: unknown

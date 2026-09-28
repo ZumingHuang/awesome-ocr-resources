@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:chrishonselaar/ocr-mineru-payload
+kind: dataset
+name: chrishonselaar/ocr-mineru-payload
+released_at:
+  value: '2026-09-27'
+  precision: day
+added_at: '2026-09-28'
+last_verified_at: '2026-09-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/chrishonselaar/ocr-mineru-payload
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/chrishonselaar/ocr-mineru-payload
+  discovered_via: huggingface
+  discovered_at: '2026-09-28'
+  source_id: chrishonselaar/ocr-mineru-payload
+  source_metadata:
+    repository_id: chrishonselaar/ocr-mineru-payload
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: chrishonselaar
+repository_id: chrishonselaar/ocr-mineru-payload
+usage: []
+annotations: []
+access: unknown

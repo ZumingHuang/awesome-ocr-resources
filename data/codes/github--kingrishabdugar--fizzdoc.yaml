@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:kingrishabdugar/fizzdoc
+kind: code
+name: kingrishabdugar/fizzdoc
+released_at:
+  value: '2026-09-27'
+  precision: day
+added_at: '2026-09-28'
+last_verified_at: '2026-09-28'
+summary: Free, private PDF, image, audio, Word, Excel & PowerPoint tools that run 100% in your browser.
+  Compress, convert, edit, redact, OCR, cut MP3. No uploads, no sign-up, no watermark. Free forever ·
+  51 tools · 16 languages.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/kingrishabdugar/fizzdoc
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/kingrishabdugar/fizzdoc
+  discovered_via: github
+  discovered_at: '2026-09-28'
+  source_id: R_kgDOUtmuEA
+  source_metadata:
+    repository: kingrishabdugar/fizzdoc
+    stars: 11
+    language: HTML
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: kingrishabdugar/fizzdoc
+landmark: false
+programming_languages:
+- HTML
+maintenance_status: active

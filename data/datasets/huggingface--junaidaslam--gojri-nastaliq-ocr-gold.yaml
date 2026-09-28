@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:junaidaslam/gojri-nastaliq-ocr-gold
+kind: dataset
+name: junaidaslam/gojri-nastaliq-ocr-gold
+released_at:
+  value: '2026-09-27'
+  precision: day
+added_at: '2026-09-28'
+last_verified_at: '2026-09-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGojri Nastaliq OCR Gold Set\n\t\n\nA small, carefully checked benchmark\
+  \ for reading Gojri (ISO 639-3: gju)\nin Nastaliq script from page images.\nThis is experimental work,\
+  \ done for the love of Gojri and to help the language\nshow up properly in AI, NLP, and related tech.\
+  \ The maintainer is a software\nengineer who learns by intuition and experiment; this gold set is also\
+  \ practice\nin the OCR and NLP domain. It is not a finished product. If you care about\nGojri too, you\
+  \ are welcome here.… See the full description on the dataset page: https://huggingface.co/datasets/junaidaslam/gojri-nastaliq-ocr-gold."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/junaidaslam/gojri-nastaliq-ocr-gold
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/junaidaslam/gojri-nastaliq-ocr-gold
+  discovered_via: huggingface
+  discovered_at: '2026-09-28'
+  source_id: junaidaslam/gojri-nastaliq-ocr-gold
+  source_metadata:
+    repository_id: junaidaslam/gojri-nastaliq-ocr-gold
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: junaidaslam
+repository_id: junaidaslam/gojri-nastaliq-ocr-gold
+usage: []
+annotations: []
+access: unknown

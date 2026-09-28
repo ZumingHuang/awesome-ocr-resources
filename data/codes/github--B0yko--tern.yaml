@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:B0yko/tern
+kind: code
+name: B0yko/tern
+released_at:
+  value: '2026-09-24'
+  precision: day
+added_at: '2026-09-28'
+last_verified_at: '2026-09-28'
+summary: 'Local AI search for podcast and video archives on Apple Silicon: Whisper speech, Apple Vision
+  OCR and SigLIP-2 visual search fused into one ranked list, with a trim editor and FCPXML export. FastAPI,
+  vanilla JS, Tauri. Source-visible, all rights reserved.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/B0yko/tern
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/B0yko/tern
+  discovered_via: github
+  discovered_at: '2026-09-28'
+  source_id: R_kgDOUp1xVA
+  source_metadata:
+    repository: B0yko/tern
+    stars: 16
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: B0yko/tern
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

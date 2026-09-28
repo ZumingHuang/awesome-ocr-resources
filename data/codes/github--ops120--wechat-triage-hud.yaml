@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:ops120/wechat-triage-hud
+kind: code
+name: ops120/wechat-triage-hud
+released_at:
+  value: '2026-09-24'
+  precision: day
+added_at: '2026-09-28'
+last_verified_at: '2026-09-28'
+summary: 微信 PC 端「按人分诊」悬浮面板：离线 OCR 读屏 + Jev 判断这一轮谁需要你出手。只判断不代聊、不注入微信、每次调用可回查。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ops120/wechat-triage-hud
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ops120/wechat-triage-hud
+  discovered_via: github
+  discovered_at: '2026-09-28'
+  source_id: R_kgDOUplv_w
+  source_metadata:
+    repository: ops120/wechat-triage-hud
+    stars: 14
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: ops120/wechat-triage-hud
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active
