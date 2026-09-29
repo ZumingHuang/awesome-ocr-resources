@@ -4,6 +4,184 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [legalsynopsis/legalsynopsis-unlimited-ocr](https://huggingface.co/datasets/legalsynopsis/legalsynopsis-unlimited-ocr) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		LONE Unlimited-OCR Training Dataset
+	
+
+
+	
+		
+	
+	
+		Training objective
+	
+
+Teach Unlimited-OCR LegalSynopsis document recognition with emphasis on:
+
+Kannada
+English
+Kannada + English mixed pages
+Legal documents
+Court records
+Sale deeds
+Agreements
+RTC / land records
+Revenue documents
+Survey records
+Government orders
+Registration documents
+Tables
+Stamps and seals
+degraded scans
+old printed Kannada
+
+
+	
+		
+	
+	
+		Every training sample should contain
+	
+
+
+Original page image
+Correct… See the full description on the dataset page: https://huggingface.co/datasets/legalsynopsis/legalsynopsis-unlimited-ocr. |
+| [kaa-ml/kaa-cyrl-ocr-synthetic](https://huggingface.co/datasets/kaa-ml/kaa-cyrl-ocr-synthetic) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Karakalpak Cyrillic OCR — synthetic text lines
+	
+
+Line images of Karakalpak (Cyrillic) text for fine-tuning OCR models such as Tesseract LSTM. Each row is one rendered text line (image) and its exact transcription (text).
+
+	
+		
+Config
+Lines
+How it was made
+
+
+		
+synthetic_news
+30,000
+14 system fonts (Arial, Times New Roman, PT Serif/Sans, Courier, Georgia, …), paper tint, noise, blur, ink spread, skew, down/up-scaling. Half of the lines are sampled to contain ў ҳ ә ғ қ ң ө ү.… See the full description on the dataset page: https://huggingface.co/datasets/kaa-ml/kaa-cyrl-ocr-synthetic. |
+| [sfidan42/turkish-ocr-noise-corpus-v2](https://huggingface.co/datasets/sfidan42/turkish-ocr-noise-corpus-v2) | 2026-09-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Turkish OCR Noise Corpus, version 2
+	
+
+This corpus contains rendered Turkish document pages under one clean condition and five synthetic degradations, together with their PP-OCRv5 transcriptions. It supports the study of how OCR errors affect dense retrieval of Turkish question-answer text (Chapter 6 of the thesis cited below).
+Version 2 keeps the pages, the clean renders and the blur and low-resolution images of version 1. It makes rotation, noise and JPEG compression harsher… See the full description on the dataset page: https://huggingface.co/datasets/sfidan42/turkish-ocr-noise-corpus-v2. |
+| [SeeWye/TuringMachine_OCR_qwen_grpo_v3](https://huggingface.co/datasets/SeeWye/TuringMachine_OCR_qwen_grpo_v3) | 2026-09-27 | text-recognition | candidate | — |
+| [niwalker/document-ocr-image-audio-2024](https://huggingface.co/datasets/niwalker/document-ocr-image-audio-2024) | 2026-09-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Image Audio metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataloader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/niwalker/document-ocr-image-audio-2024. |
+| [junaidaslam/gojri-nastaliq-ocr-gold](https://huggingface.co/datasets/junaidaslam/gojri-nastaliq-ocr-gold) | 2026-09-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Gojri Nastaliq OCR Gold Set
+	
+
+A small, carefully checked benchmark for reading Gojri (ISO 639-3: gju)
+in Nastaliq script from page images.
+This is experimental work, done for the love of Gojri and to help the language
+show up properly in AI, NLP, and related tech. The maintainer is a software
+engineer who learns by intuition and experiment; this gold set is also practice
+in the OCR and NLP domain. It is not a finished product. If you care about
+Gojri too, you are welcome here.… See the full description on the dataset page: https://huggingface.co/datasets/junaidaslam/gojri-nastaliq-ocr-gold. |
+| [chrishonselaar/ocr-mineru-payload](https://huggingface.co/datasets/chrishonselaar/ocr-mineru-payload) | 2026-09-27 | text-recognition | candidate | — |
+| [MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ1](https://huggingface.co/datasets/MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ1) | 2026-09-26 | text-recognition | candidate | — |
+| [MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ](https://huggingface.co/datasets/MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_MQ) | 2026-09-26 | text-recognition | candidate | — |
+| [MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_LQ](https://huggingface.co/datasets/MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_LQ) | 2026-09-26 | text-recognition | candidate | — |
+| [MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_HQ](https://huggingface.co/datasets/MikeDd2025/ProseOnlyRepair_linguistic_OCRrepair_HQ) | 2026-09-26 | text-recognition | candidate | — |
+| [GONZALEZRYAN/document-ocr-dataset46](https://huggingface.co/datasets/GONZALEZRYAN/document-ocr-dataset46) | 2026-09-26 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Depth Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Image Depth inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/GONZALEZRYAN/document-ocr-dataset46. |
+| [emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser](https://huggingface.co/datasets/emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser) | 2026-09-26 | text-recognition | candidate | 
+	
+		
+	
+	
+		🚀 OS Security - Screen Frame PII Redactor & Vision Privacy Shield (Evaluation Teaser)
+	
+
+
+⚡ Official Free Evaluation Teaser (50 Verified Scenarios + Executable MCP Server)🏆 Get the Full Production Package & Commercial EULA on Gumroad:👉 Purchase Full Package on Gumroad🏷️ Use coupon code LAUNCH20 for €20 off at checkout!
+
+
+
+	
+		
+	
+	
+		🌟 Domain Overview & Features
+	
+
+Calculates masking bounding boxes for credit cards, emails, and passwords on screen frames before transmitting… See the full description on the dataset page: https://huggingface.co/datasets/emgena/emgena_os_screen_ocr_pii_redactor_mcp_teaser. |
 | [SeeWye/TuringMachine_OCR_qwen_grpo_v2](https://huggingface.co/datasets/SeeWye/TuringMachine_OCR_qwen_grpo_v2) | 2026-09-25 | text-recognition | candidate | — |
 | [SeeWye/TuringMachine_OCR_qwen_grpo_v1](https://huggingface.co/datasets/SeeWye/TuringMachine_OCR_qwen_grpo_v1) | 2026-09-25 | text-recognition | candidate | — |
 | [pixelpalsuit/ocr-b2](https://huggingface.co/datasets/pixelpalsuit/ocr-b2) | 2026-09-24 | text-recognition | candidate | — |

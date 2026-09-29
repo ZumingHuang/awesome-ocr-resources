@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:kaa-ml/kaa-cyrl-ocr-synthetic
+kind: dataset
+name: kaa-ml/kaa-cyrl-ocr-synthetic
+released_at:
+  value: '2026-09-28'
+  precision: day
+added_at: '2026-09-28'
+last_verified_at: '2026-09-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKarakalpak Cyrillic OCR — synthetic text lines\n\t\n\nLine images of\
+  \ Karakalpak (Cyrillic) text for fine-tuning OCR models such as Tesseract LSTM. Each row is one rendered\
+  \ text line (image) and its exact transcription (text).\n\n\t\n\t\t\nConfig\nLines\nHow it was made\n\
+  \n\n\t\t\nsynthetic_news\n30,000\n14 system fonts (Arial, Times New Roman, PT Serif/Sans, Courier, Georgia,\
+  \ …), paper tint, noise, blur, ink spread, skew, down/up-scaling. Half of the lines are sampled to contain\
+  \ ў ҳ ә ғ қ ң ө ү.… See the full description on the dataset page: https://huggingface.co/datasets/kaa-ml/kaa-cyrl-ocr-synthetic."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/kaa-ml/kaa-cyrl-ocr-synthetic
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/kaa-ml/kaa-cyrl-ocr-synthetic
+  discovered_via: huggingface
+  discovered_at: '2026-09-28'
+  source_id: kaa-ml/kaa-cyrl-ocr-synthetic
+  source_metadata:
+    repository_id: kaa-ml/kaa-cyrl-ocr-synthetic
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: kaa-ml
+repository_id: kaa-ml/kaa-cyrl-ocr-synthetic
+usage: []
+annotations: []
+access: unknown
