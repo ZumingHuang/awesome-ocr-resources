@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Hoshino121/steel-ocr-dataset
+kind: dataset
+name: Hoshino121/steel-ocr-dataset
+released_at:
+  value: '2026-09-29'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSteel OCR Dataset\n\t\n\n鉄骨の手書き製品コード認識のための学習データセット。\n\n\t\n\t\t\n\t\n\
+  \t\n\t\tデータセット構成\n\t\n\ntrain_data/\n├── det/                    # 検出モデル用\n│   ├── train.txt       \
+  \    # 学習データラベル\n│   ├── val.txt             # 検証データラベル\n│   └── images/             # 画像ファイル (319枚)\n\
+  └── rec/                    # 認識モデル用\n    ├── rec_gt_train.txt    # 学習データラベル\n    ├── rec_gt_val.txt\
+  \      # 検証データラベル\n    ├── dict.txt            # 文字辞書\n    └── crop_img/           # クロップ画像 (467枚)\n\
+  \ntest_data/\n├── det/                    #… See the full description on the dataset page: https://huggingface.co/datasets/Hoshino121/steel-ocr-dataset."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Hoshino121/steel-ocr-dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Hoshino121/steel-ocr-dataset
+  discovered_via: huggingface
+  discovered_at: '2026-09-29'
+  source_id: Hoshino121/steel-ocr-dataset
+  source_metadata:
+    repository_id: Hoshino121/steel-ocr-dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Hoshino121
+repository_id: Hoshino121/steel-ocr-dataset
+usage: []
+annotations: []
+access: unknown

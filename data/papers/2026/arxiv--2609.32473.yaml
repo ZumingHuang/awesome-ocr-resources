@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:2609.32473
+kind: paper
+name: 'VPEvolve: A Self-Evolving Virtual Process Engineer for Computational Lithography'
+released_at:
+  value: '2026-09-26'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: Optical proximity correction (OPC) recipes grow as engineers add local rules to repair newly
+  discovered lithography hotspots. Each correction can interact with existing rules, while lessons from
+  commercial-tool trials remain scattered across code and logs. \system combines a Virtual Process Engineer
+  (VPE) harness with a Skill Bank of measured engineering experience. The harness equips a frozen language
+  model with process manuals, layout analysis, recipe editing, and commercial-tool evaluation. The actor
+  proposes changes to the global parameters, local targeted rules, or diagnostic trials. After each evaluation,
+  an LLM reflector and curator turn the measured response into evidence-linked judgments. The actor retrieves
+  them before its next trial. Feasible improvements update the retained recipe; every measured trial informs
+  the Skill Bank that guides the next edit. The model weights remain fixed. On a FreePDK45-derived benchmark
+  with ten commercial-tool evaluations per case, \system reduces the mean per-case maximum edge placement
+  error from 18.294 to 5.361 nm on Poly and from 22.052 to 15.692 nm on Metal1. Every final recipe satisfies
+  the predefined quality constraints and improves the maximum error by at least 0.1 nm.
+tasks:
+- document-layout-analysis
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.32473
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.32473
+  discovered_via: arxiv
+  discovered_at: '2026-09-29'
+  source_id: '2609.32473'
+  source_metadata:
+    arxiv_id: '2609.32473'
+    doi: null
+    query: all:"layout analysis"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Tianyi Li
+- Wenxuan Dong
+- Donger Luo
+- Nan Wang
+- Yanpeng Chen
+- Jiaqi Liu
+- Xinyun Zhang
+- Hao Geng
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.32473'

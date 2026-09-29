@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:shijithpk/ncert-history-ocr-bench-48-output
+kind: dataset
+name: shijithpk/ncert-history-ocr-bench-48-output
+released_at:
+  value: '2026-09-28'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR using olmOCR-2-7B-1025-FP8\n\t\n\nThis dataset contains\
+  \ markdown-formatted OCR results from images in shijithpk/ncert-history-ocr-bench-48 using olmOCR-2-7B.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tProcessing Details\n\t\n\n\nSource Dataset: shijithpk/ncert-history-ocr-bench-48\n\
+  Model: allenai/olmOCR-2-7B-1025-FP8\nNumber of Samples: 48\nProcessing Time: 0h 4m 29s\nProcessing Date:\
+  \ 2026-09-28 16:35 UTC\n\n\n\t\n\t\t\n\t\n\t\n\t\tConfiguration\n\t\n\n\nImage Column: image\nOutput\
+  \ Column: markdown\nDataset Split: train\nBatch Size:… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output
+  discovered_via: huggingface
+  discovered_at: '2026-09-29'
+  source_id: shijithpk/ncert-history-ocr-bench-48-output
+  source_metadata:
+    repository_id: shijithpk/ncert-history-ocr-bench-48-output
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: shijithpk
+repository_id: shijithpk/ncert-history-ocr-bench-48-output
+usage: []
+annotations: []
+access: unknown

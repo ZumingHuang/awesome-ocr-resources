@@ -21,9 +21,17 @@ Iñigo Alonso, Mirella Lapata
 Mason Smetana, Trevor Neece, Lev Khazanovich
 \[document-vqa\]
 
+**ANTMAN: Adaptive Need Tracking for Multi-Agent Navigation in Large Information Spaces**
+Jerry Wang, Haibo Jin, Xiaopeng Yuan, Peng Kuang, Haohan Wang
+\[document-vqa\]
+
 **AraMS-28k: The Largest Publicly Released Line-Level Dataset of Historical Arabic Manuscripts with Margin and Insertion-Anchor Annotations**
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[document-layout-analysis\]\[text-recognition\]
+
+**Back-Tracking from Clarity: Self-Learning to See Text from Afar**
+Duc-Tri Tran, Phi Le Nguyen, Minh Hoai
+\[text-spotting\]\[text-detection\]
 
 **BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models**
 Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
@@ -44,6 +52,10 @@ Rihui Jin, Jun Wang, chengyuan zhu, Liang Mingyu, Yue Gao, Li Yunxuan, Kuicai Do
 **Comparing Chunking and Embedding Strategies for Turkish RAG Systems**
 Mustafa Sertaç Türkel, Fatma Nur Korkmaz, Ahmet Tuğrul Bayrak
 \[document-vqa\]
+
+**Cross-Domain Few-Shot Writer Adaptation for Real-World Handwritten Mathematical Expression Recognition**
+Paulo Grane Gabriel Silva, Lorenz Bernard Marqueses, Joel Ilao
+\[formula-recognition\]\[handwriting-recognition\]
 
 **DocClaw: A Unified Agentic System for Intelligent Document Processing**
 Siqi Xiang, Zhipeng Xu, Yufei Liu, Junhao Ji, Qing Liu, Zulong Chen, Zhibo Yang, Chunyan Miao, Shijian Lu
@@ -77,6 +89,10 @@ Zhibin Ma, Pengwen Dai, Yi Liu, Xugong Qin, Chenyun Yu, Xiaochun Cao
 Xuanyu Meng, Jiashuo Sun, Jash Rajesh Parekh, Jiawei Han
 \[document-vqa\]
 
+**Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints**
+Imtiaz Ul Hassan, Öykü Akbulut, Onur Kaya, Ardhendu Behera, Swagat Kumar, Peter Matthew, Yonghuai Liu
+\[document-vqa\]
+
 **Evaluating Structured Information Extraction with Open Models in a High Risk Public Sector Application**
 Elias Schubert, Felix Bießmann
 \[text-recognition\]
@@ -96,6 +112,10 @@ Dang Hoai Nam, Nguyen Duy Hieu, Quang Huu Hieu, Vo Nguyen Le Duy
 **FinixDoc: Rethinking Financial Document Parsing Beyond Saturated Benchmarks**
 Hang Wang, Jin Zhang, Guoliang Xu, Pengyue Lu, Yao Li, Zijiao Zhang, Tianyu Huang, Weiqi Xiong, Yulong Wang, Chuqiao Lu, Wenkang Huang, Kai Yang, Yadong Li, Hui Li, Xingzhong Xu, Xiao Xu
 \[document-parsing\]
+
+**Handwritten Text Recognition Lives in the High-Pixel Variance Subspace**
+Carlos Garrido-Munoz, Jorge Calvo-Zaragoza
+\[handwriting-recognition\]\[text-recognition\]
 
 **Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images**
 A. Said Gurbuz, Ahmed Nassar, Christoph Auer, Maksym Lysak, Lucas Morin, Matteo Omenetti, Tim Strohmeyer, Panagiotis Vagenas, Nikolaos Livathinos, Michele Dolfi, Peter Staar
@@ -132,6 +152,10 @@ Shiva Shrestha, Zongxing Xie, Chen Zhao, Liran Ma, Zhipeng Cai, Honghui Xu
 **Measuring Annotation Efficiency for Handwritten Devanagari Recognition: Sample-Complexity Curves for Four Pretraining Regimes**
 Manglesh Kumar Pandey, Sumit Kumar Banshal
 \[handwriting-recognition\]\[text-recognition\]
+
+**MEVL-STP: Multi-Encoder and Vision Language Model for Arbitrarily Shaped Scene Text Spotting**
+Aman Anand, Partha Pratim Roy, Shivakumara Palaiahnakote
+\[text-spotting\]
 
 **MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition**
 Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu, Xiaolong Wu, Yuheng Lu, Ziran Zhu, Junyuan Gao, Lingli Ge, Yuan Xu, Huijie Ao, QianQian Wu, Dechen Lin, Huaiyu Gu, Lu Chen, Shengxin Lu, ShaSha Wang, Yuanyuan Cao, Zhejia Yu, Ruijie Zhang, Zimai Tian, Jiaxing Sun, Yinfan Wang, Jiahe Song, Chuang Wang, Yubin Wang, Rui Nie, Hao Zheng, Bowen Jiang, Hongbin Lai, Yifan He, Chengjin Liu, Tingting Zhang, Liqun Wei, Lijun Wu, Bin Wang, Yuqiang Li, Guangyu Wang, Wei Li, Bowen Zhou, Dahua Lin, Conghui He
@@ -177,6 +201,10 @@ Isam Abdullah Balghari, Muhammad Sabieh Anwar
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[handwriting-recognition\]\[text-recognition\]
 
+**Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers**
+Mert İncidelen, Yamen Kashkash, Asya Berker, Murat Aydoğan
+\[text-recognition\]
+
 **Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
 Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang
 \[handwriting-recognition\]\[text-recognition\]
@@ -213,12 +241,20 @@ Sheridan Feucht, Benno Krojer, Sarah Wang, Henry Abrahamsen, Byron C. Wallace, D
 Adrien Mialland, Marc Plantevit, Julien Gallois, Céline Robardet
 \[document-vqa\]\[document-parsing\]
 
+**VPEvolve: A Self-Evolving Virtual Process Engineer for Computational Lithography**
+Tianyi Li, Wenxuan Dong, Donger Luo, Nan Wang, Yanpeng Chen, Jiaqi Liu, Xinyun Zhang, Hao Geng
+\[document-layout-analysis\]
+
 **What Can Low Resource Languages Learn From Each Other?**
 Achyuth P, Kahaan Shah, Chetan Arora
 \[text-recognition\]
 
 **When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents**
 Marina Gardella, Camilo Mari{ñ}o, Diego Belzarena, Ignacio Ram{í}rez, Gregory Randall, Jean-Michel Morel
+\[text-recognition\]
+
+**When VLMs Trust Context: Evaluating Scene Text Recognition under Misleading Context**
+Yuxing Cheng, Yuan Wu, Yi Chang
 \[text-recognition\]
 
 **Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions**

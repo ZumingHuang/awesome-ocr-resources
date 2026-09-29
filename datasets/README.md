@@ -4,6 +4,302 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Hoshino121/steel-ocr-dataset](https://huggingface.co/datasets/Hoshino121/steel-ocr-dataset) | 2026-09-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		Steel OCR Dataset
+	
+
+鉄骨の手書き製品コード認識のための学習データセット。
+
+	
+		
+	
+	
+		データセット構成
+	
+
+train_data/
+├── det/                    # 検出モデル用
+│   ├── train.txt           # 学習データラベル
+│   ├── val.txt             # 検証データラベル
+│   └── images/             # 画像ファイル (319枚)
+└── rec/                    # 認識モデル用
+    ├── rec_gt_train.txt    # 学習データラベル
+    ├── rec_gt_val.txt      # 検証データラベル
+    ├── dict.txt            # 文字辞書
+    └── crop_img/           # クロップ画像 (467枚)
+
+test_data/
+├── det/                    #… See the full description on the dataset page: https://huggingface.co/datasets/Hoshino121/steel-ocr-dataset. |
+| [shijithpk/ncert-history-ocr-bench-48-smoke](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-smoke) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using Tesseract
+	
+
+This dataset contains OCR results from images in shijithpk/ncert-history-ocr-bench-48 using Tesseract, the classical open-source CPU OCR engine — a cheap, no-GPU baseline alongside the VLM OCR recipes.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: shijithpk/ncert-history-ocr-bench-48
+Engine: Tesseract 5.3.0
+Language(s): eng
+Number of Samples: 3
+Processing Time: 0.1 min
+Processing Date: 2026-09-28 13:00 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-smoke. |
+| [shijithpk/ncert-history-ocr-bench-48-output-results](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output-results) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR Bench Results: ncert-history-ocr-bench-48-output
+	
+
+VLM-as-judge pairwise evaluation of OCR models. Rankings depend on document type — there is no single best OCR model.
+
+	
+		
+	
+	
+		Leaderboard
+	
+
+
+	
+		
+Rank
+Model
+Params
+ELO
+95% CI
+Wins
+Losses
+Ties
+Win%
+
+
+		
+1
+ATH-MaaS/OvisOCR2
+0.9B
+1661
+1619–1703
+209
+75
+4
+73%
+
+
+2
+PaddlePaddle/PaddleOCR-VL-1.6
+0.9B
+1638
+1600–1679
+201
+84
+3
+70%
+
+
+3
+lightonai/LightOnOCR-2-1B
+1B
+1551
+1515–1589
+163
+118
+7
+57%
+
+
+4
+deepseek-ai/DeepSeek-OCR-2
+3.4B
+1491… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output-results. |
+| [shijithpk/ncert-history-ocr-bench-48-output](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using olmOCR-2-7B-1025-FP8
+	
+
+This dataset contains markdown-formatted OCR results from images in shijithpk/ncert-history-ocr-bench-48 using olmOCR-2-7B.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: shijithpk/ncert-history-ocr-bench-48
+Model: allenai/olmOCR-2-7B-1025-FP8
+Number of Samples: 48
+Processing Time: 0h 4m 29s
+Processing Date: 2026-09-28 16:35 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Output Column: markdown
+Dataset Split: train
+Batch Size:… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output. |
+| [shijithpk/ncert-history-ocr-bench-48](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		NCERT history OCR benchmark: 48 pages
+	
+
+48 English-text transcription test pages selected from 12 active PDFs (grades VI–VIII, four curriculum periods), rendered at 200 dpi. Each row includes image, stable id, source_pdf, 1-based pdf_page, benchmark_split (36 development, 12 holdout), and feature (why selected). train has all 48; smoke has three development pages from different books, ordered old image-only scan, 2005 sidebars, 2023 matching table. Holdout images are present in… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48. |
+| [shijithpk/ncert-history-ocr-2023-paddleocr-vl-1.6](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2023-paddleocr-vl-1.6) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		NCERT history 2023: PaddleOCR-VL-1.6 page transcription
+	
+
+Image inputs: the 2023 source dataset.
+One row per page, in PDF order. id, source_pdf and 1-based pdf_page identify
+the source page. The pdf_sha256 and input_revision fields pin its provenance.
+markdown is the original PaddleOCR-VL-1.6 transcription, including any foreign script.
+english_markdown is a deterministic English-script-only view of the same text:
+non-Latin characters are explicitly marked [non-English script… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2023-paddleocr-vl-1.6. |
+| [shijithpk/ncert-history-ocr-2023-ovis-ocr2](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2023-ovis-ocr2) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		NCERT history 2023: OvisOCR2 page transcription
+	
+
+Image inputs: the 2023 source dataset.
+One row per page, in PDF order. id, source_pdf and 1-based pdf_page identify
+the source page. The pdf_sha256 and input_revision fields pin its provenance.
+markdown is the original OvisOCR2 transcription, including any foreign script.
+english_markdown is a deterministic English-script-only view of the same text:
+non-Latin characters are explicitly marked [non-English script omitted], not… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2023-ovis-ocr2. |
+| [shijithpk/ncert-history-ocr-2023-input](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2023-input) | 2026-09-28 | text-recognition | candidate | — |
+| [shijithpk/ncert-history-ocr-2022-paddleocr-vl-1.6](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2022-paddleocr-vl-1.6) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		NCERT history 2022: PaddleOCR-VL-1.6 page transcription
+	
+
+Image inputs: the 2022 source dataset.
+One row per page, in PDF order. id, source_pdf and 1-based pdf_page identify
+the source page. The pdf_sha256 and input_revision fields pin its provenance.
+markdown is the original PaddleOCR-VL-1.6 transcription, including any foreign script.
+english_markdown is a deterministic English-script-only view of the same text:
+non-Latin characters are explicitly marked [non-English script… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2022-paddleocr-vl-1.6. |
+| [shijithpk/ncert-history-ocr-2022-ovis-ocr2](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2022-ovis-ocr2) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		NCERT history 2022: OvisOCR2 page transcription
+	
+
+Image inputs: the 2022 source dataset.
+One row per page, in PDF order. id, source_pdf and 1-based pdf_page identify
+the source page. The pdf_sha256 and input_revision fields pin its provenance.
+markdown is the original OvisOCR2 transcription, including any foreign script.
+english_markdown is a deterministic English-script-only view of the same text:
+non-Latin characters are explicitly marked [non-English script omitted], not… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2022-ovis-ocr2. |
+| [shijithpk/ncert-history-ocr-2022-input](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2022-input) | 2026-09-28 | text-recognition | candidate | — |
+| [shijithpk/ncert-history-ocr-2005-paddleocr-vl-1.6](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2005-paddleocr-vl-1.6) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		NCERT history 2005: PaddleOCR-VL-1.6 page transcription
+	
+
+Image inputs: the 2005 source dataset.
+One row per page, in PDF order. id, source_pdf and 1-based pdf_page identify
+the source page. The pdf_sha256 and input_revision fields pin its provenance.
+markdown is the original PaddleOCR-VL-1.6 transcription, including any foreign script.
+english_markdown is a deterministic English-script-only view of the same text:
+non-Latin characters are explicitly marked [non-English script… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2005-paddleocr-vl-1.6. |
+| [shijithpk/ncert-history-ocr-2005-ovis-ocr2](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2005-ovis-ocr2) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		NCERT history 2005: OvisOCR2 page transcription
+	
+
+Image inputs: the 2005 source dataset.
+One row per page, in PDF order. id, source_pdf and 1-based pdf_page identify
+the source page. The pdf_sha256 and input_revision fields pin its provenance.
+markdown is the original OvisOCR2 transcription, including any foreign script.
+english_markdown is a deterministic English-script-only view of the same text:
+non-Latin characters are explicitly marked [non-English script omitted], not… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2005-ovis-ocr2. |
+| [shijithpk/ncert-history-ocr-2005-input](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-2005-input) | 2026-09-28 | text-recognition | candidate | — |
+| [shijithpk/ncert-history-ocr-1988-paddleocr-vl-1.6](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-1988-paddleocr-vl-1.6) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		NCERT history 1988: PaddleOCR-VL-1.6 page transcription
+	
+
+Image inputs: the 1988 source dataset.
+One row per page, in PDF order. id, source_pdf and 1-based pdf_page identify
+the source page. The pdf_sha256 and input_revision fields pin its provenance.
+markdown is the original PaddleOCR-VL-1.6 transcription, including any foreign script.
+english_markdown is a deterministic English-script-only view of the same text:
+non-Latin characters are explicitly marked [non-English script… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-1988-paddleocr-vl-1.6. |
+| [shijithpk/ncert-history-ocr-1988-ovis-ocr2](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-1988-ovis-ocr2) | 2026-09-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		NCERT history 1988: OvisOCR2 page transcription
+	
+
+Image inputs: the 1988 source dataset.
+One row per page, in PDF order. id, source_pdf and 1-based pdf_page identify
+the source page. The pdf_sha256 and input_revision fields pin its provenance.
+markdown is the original OvisOCR2 transcription, including any foreign script.
+english_markdown is a deterministic English-script-only view of the same text:
+non-Latin characters are explicitly marked [non-English script omitted], not… See the full description on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-1988-ovis-ocr2. |
+| [shijithpk/ncert-history-ocr-1988-input](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-1988-input) | 2026-09-28 | text-recognition | candidate | — |
 | [legalsynopsis/legalsynopsis-unlimited-ocr](https://huggingface.co/datasets/legalsynopsis/legalsynopsis-unlimited-ocr) | 2026-09-28 | text-recognition | candidate | 
 	
 		
@@ -71,6 +367,9 @@ How it was made
 synthetic_news
 30,000
 14 system fonts (Arial, Times New Roman, PT Serif/Sans, Courier, Georgia, …), paper tint, noise, blur, ink spread, skew, down/up-scaling. Half of the lines are sampled to contain ў ҳ ә ғ қ ң ө ү.… See the full description on the dataset page: https://huggingface.co/datasets/kaa-ml/kaa-cyrl-ocr-synthetic. |
+| [disharoy1403/hindi_ocr_par_dataset](https://huggingface.co/datasets/disharoy1403/hindi_ocr_par_dataset) | 2026-09-28 | text-recognition | candidate | — |
+| [disharoy1403/hindi_ocr_dataset](https://huggingface.co/datasets/disharoy1403/hindi_ocr_dataset) | 2026-09-28 | text-recognition | candidate | — |
+| [disharoy1403/bengali-ocr-dataset](https://huggingface.co/datasets/disharoy1403/bengali-ocr-dataset) | 2026-09-28 | text-recognition | candidate | — |
 | [sfidan42/turkish-ocr-noise-corpus-v2](https://huggingface.co/datasets/sfidan42/turkish-ocr-noise-corpus-v2) | 2026-09-27 | text-recognition | candidate | 
 	
 		

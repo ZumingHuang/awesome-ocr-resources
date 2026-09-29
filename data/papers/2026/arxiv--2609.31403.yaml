@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:2609.31403
+kind: paper
+name: 'Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers'
+released_at:
+  value: '2026-09-25'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: Vision-language models (VLMs), despite their success in optical character recognition (OCR) tasks,
+  are vulnerable to typographic attacks and have a fragile structure for images with multiple text layers.
+  In this study, the DecoyBench dataset was created using the Decoy Font method. The dataset consists
+  of 300 images, each containing text with sharp contour lines superimposed on another text with soft
+  shading. Six recent closed-source models from three different model families were evaluated using this
+  dataset under two different prompting conditions (naive and guided) and at two different resolutions
+  ($512\times512$ and $64\times64$). A validation study showed that human participants could read both
+  text layers with high accuracy. In contrast, the models, with most variants and both prompting methods,
+  read the contour text with near-human accuracy at high resolution, but almost never fully extracted
+  the shading text. At low resolution, the contour text could not be read by either the models or humans,
+  while the shading text could be extracted with high accuracy. The findings indicate that the evaluated
+  VLMs exhibit a consistent behavioral limitation when processing typographic structures containing multiple
+  spatial frequency layers.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.31403
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.31403
+  discovered_via: arxiv
+  discovered_at: '2026-09-29'
+  source_id: '2609.31403'
+  source_metadata:
+    arxiv_id: '2609.31403'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Mert İncidelen
+- Yamen Kashkash
+- Asya Berker
+- Murat Aydoğan
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.31403'

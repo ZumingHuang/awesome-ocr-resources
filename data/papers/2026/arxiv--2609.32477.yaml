@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:arxiv:2609.32477
+kind: paper
+name: 'Back-Tracking from Clarity: Self-Learning to See Text from Afar'
+released_at:
+  value: '2026-09-26'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: We propose a self-supervised framework designed to enhance the capability of scene text detectors
+  in identifying and recognizing text in scenarios where instances are shown at significant distances,
+  typically small, blurred, and frequently missed by conventional models. Our approach leverages the high-fidelity
+  performance of existing text spotting models on large, clear text as a foundational supervisor. By temporally
+  back-tracking these high-confidence detections through video sequences, we automatically synthesize
+  pseudo-labels for preceding frames where the distant text is still visually degraded or undersized.
+  These pseudo-labels enable training a student model specialized for early text detection, without requiring
+  any manual annotation. The success of this approach depends on accurate pseudo-label generation, for
+  which we develop a dedicated scene text tracker capable of maintaining consistent text identities across
+  challenging video sequences. In addition, we propose SceneText50, a diverse multilingual outdoor dataset
+  to facilitate training and evaluation. Experiments show that our framework significantly improves early
+  detection accuracy and robustness across varied scenes and languages. Code and data are at \href{https://github.com/trid2912/BackTrackingText}{https://github.com/trid2912/BackTrackingText}.
+tasks:
+- text-spotting
+- text-detection
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.32477
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.32477
+  discovered_via: arxiv
+  discovered_at: '2026-09-29'
+  source_id: '2609.32477'
+  source_metadata:
+    arxiv_id: '2609.32477'
+    doi: null
+    query: all:"text spotting"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Duc-Tri Tran
+- Phi Le Nguyen
+- Minh Hoai
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.32477'

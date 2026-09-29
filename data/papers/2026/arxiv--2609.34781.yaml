@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:arxiv:2609.34781
+kind: paper
+name: 'When VLMs Trust Context: Evaluating Scene Text Recognition under Misleading Context'
+released_at:
+  value: '2026-09-28'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: 'Vision-language models (VLMs) can read text in natural scenes, but their predictions may be
+  influenced by the surrounding context. When the printed text conflicts with what the scene suggests,
+  a model may return a more plausible word instead of the shown text. We introduce SceneFaith, a benchmark
+  of 781 generated scene images for studying this behavior. Each output is classified as Literal, Canonical,
+  or Other, separating faithful transcription from context-consistent rewriting and ordinary recognition
+  errors. Across 15 models from seven families, all models show rewriting on clear images, with rates
+  ranging from 8.45\% to 58.51\%. Controlled experiments further show that surrounding context matters:
+  removing surrounding scene information reduces rewriting and improves literal accuracy, while changing
+  the scene around the same text patch can also change model outputs. Moreover, weakening the target text
+  with blur increases rewriting. These results show that reliable scene-text recognition requires VLMs
+  to balance visual character evidence with contextual information, preserving clear text while using
+  context mainly when the visual evidence is uncertain.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.34781
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.34781
+  discovered_via: arxiv
+  discovered_at: '2026-09-29'
+  source_id: '2609.34781'
+  source_metadata:
+    arxiv_id: '2609.34781'
+    doi: null
+    query: all:"scene text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Yuxing Cheng
+- Yuan Wu
+- Yi Chang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.34781'

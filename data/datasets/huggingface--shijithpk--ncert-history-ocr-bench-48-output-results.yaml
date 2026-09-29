@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:shijithpk/ncert-history-ocr-bench-48-output-results
+kind: dataset
+name: shijithpk/ncert-history-ocr-bench-48-output-results
+released_at:
+  value: '2026-09-28'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR Bench Results: ncert-history-ocr-bench-48-output\n\t\n\nVLM-as-judge\
+  \ pairwise evaluation of OCR models. Rankings depend on document type — there is no single best OCR\
+  \ model.\n\n\t\n\t\t\n\t\n\t\n\t\tLeaderboard\n\t\n\n\n\t\n\t\t\nRank\nModel\nParams\nELO\n95% CI\n\
+  Wins\nLosses\nTies\nWin%\n\n\n\t\t\n1\nATH-MaaS/OvisOCR2\n0.9B\n1661\n1619–1703\n209\n75\n4\n73%\n\n\
+  \n2\nPaddlePaddle/PaddleOCR-VL-1.6\n0.9B\n1638\n1600–1679\n201\n84\n3\n70%\n\n\n3\nlightonai/LightOnOCR-2-1B\n\
+  1B\n1551\n1515–1589\n163\n118\n7\n57%\n\n\n4\ndeepseek-ai/DeepSeek-OCR-2\n3.4B\n1491… See the full description\
+  \ on the dataset page: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output-results."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output-results
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-output-results
+  discovered_via: huggingface
+  discovered_at: '2026-09-29'
+  source_id: shijithpk/ncert-history-ocr-bench-48-output-results
+  source_metadata:
+    repository_id: shijithpk/ncert-history-ocr-bench-48-output-results
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: shijithpk
+repository_id: shijithpk/ncert-history-ocr-bench-48-output-results
+usage: []
+annotations: []
+access: unknown
