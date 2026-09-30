@@ -4,6 +4,9 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [schift-io/schift-ocr-1-beta](https://huggingface.co/schift-io/schift-ocr-1-beta) | 2026-09-29 | text-recognition | candidate | — |
+| [richardyoung/Unlimited-OCR-GGUF](https://huggingface.co/richardyoung/Unlimited-OCR-GGUF) | 2026-09-29 | text-recognition | candidate | — |
+| [keystats/Judge_ocr](https://huggingface.co/keystats/Judge_ocr) | 2026-09-29 | text-recognition | candidate | — |
 | [diganta2004/baidu_Unlimited_OCR](https://huggingface.co/diganta2004/baidu_Unlimited_OCR) | 2026-09-28 | text-recognition | candidate | — |
 | [Vrunda7/ocr-service](https://huggingface.co/Vrunda7/ocr-service) | 2026-09-27 | text-recognition | candidate | — |
 | [Vphuc/PP-OCRv5-mobile-rec-vi](https://huggingface.co/Vphuc/PP-OCRv5-mobile-rec-vi) | 2026-09-27 | text-recognition | candidate | — |

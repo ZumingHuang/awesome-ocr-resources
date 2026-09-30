@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:2609.35473
+kind: paper
+name: Handwritten Text Recognition Lives in the High-Pixel Variance Subspace
+released_at:
+  value: '2026-09-28'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: 'In self-supervised pretraining for Handwritten Text Recognition (HTR), pixel reconstruction
+  methods outperform contrastive methods, unlike in natural-image classification. We argue that this difference
+  follows from where discriminative signal lies in pixel space: for HTR, it is concentrated in high-variance
+  directions and largely absent from low-variance ones. This predicts that objectives preserving high-variance
+  pixel content will transfer best. We test six SSL methods from three families (pixel-grounded MIM, JEPA,
+  and contrastive) under matched encoder, data, and evaluation protocols on six handwriting benchmarks
+  across five languages. With full labels, pixel-groundrounded SSL achieves the lowest CER on every benchmark
+  and both frozen probes, exposes per-position character information that other families recover only
+  through the readout, and is the only family to benefit from pretraining on real handwriting. Pixel-grounded
+  representations are also more label efficient. Across datasets, encoder alignment with the high-variance
+  pixel subspace predicts CER within every method. With a pretrained LLM decoder, a frozen pixel-grounded
+  encoder is competitive with fully fine-tuned supervised baselines; full fine-tuning achieves the lowest
+  mean CER and ranks first or second on every benchmark. These results show that the value of pixel reconstruction
+  depends on where discriminative signal lies in the input.'
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.35473
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.35473
+  discovered_via: arxiv
+  discovered_at: '2026-09-29'
+  source_id: '2609.35473'
+  source_metadata:
+    arxiv_id: '2609.35473'
+    doi: null
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Carlos Garrido-Munoz
+- Jorge Calvo-Zaragoza
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.35473'

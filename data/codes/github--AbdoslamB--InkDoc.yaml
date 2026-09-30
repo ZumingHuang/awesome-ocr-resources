@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:AbdoslamB/InkDoc
+kind: code
+name: AbdoslamB/InkDoc
+released_at:
+  value: '2026-09-27'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: Turn any document into clean, AI-ready Markdown — locally on your machine. Desktop app for Windows,
+  macOS & Linux powered by MarkItDown, Docling and Markit.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/AbdoslamB/InkDoc
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/AbdoslamB/InkDoc
+  discovered_via: github
+  discovered_at: '2026-09-29'
+  source_id: R_kgDOUtjksg
+  source_metadata:
+    repository: AbdoslamB/InkDoc
+    stars: 16
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: AbdoslamB/InkDoc
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

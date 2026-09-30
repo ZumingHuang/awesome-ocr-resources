@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:2609.28007
+kind: paper
+name: Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints
+released_at:
+  value: '2026-09-23'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: Most Turkish-capable large language models (LLMs) are evaluated using general-purpose benchmarks
+  rather than long, structurally complex domain documents. This paper evaluates five open-weight 7B-8B
+  models for Turkish document question answering under a resource-constrained local deployment setting.
+  The primary benchmark contains 100 systematically validated questions derived from a 109-page industrial
+  R&D report, and the evaluation protocol is replicated using a second 112-page public-sector report and
+  an independently constructed 100-question set. All models are evaluated locally on an NVIDIA RTX 3050
+  laptop GPU with 6 GB VRAM using controlled prompting, decoding, and 4-bit quantisation. The principal
+  methodological contribution is an evidence-annotated evaluation protocol that separates retrieval failure
+  from downstream model reasoning failure without requiring additional model calls. On the primary benchmark,
+  end-to-end accuracy ranges from 49% to 75%. Seven lexical, dense, and hybrid retrieval configurations
+  are additionally compared using 95% Wilson intervals and exact paired McNemar tests; none significantly
+  outperforms the character TF-IDF baseline on either document. Evidence recall saturates differently
+  across the two reports, showing that retrieval and effective context capacity can be binding constraints
+  for some documents but not others. These results demonstrate that model selection, retrieval behaviour,
+  and hardware limits must be evaluated separately when deploying open-weight LLMs for Turkish domain
+  documents.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.28007
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.28007
+  discovered_via: arxiv
+  discovered_at: '2026-09-29'
+  source_id: '2609.28007'
+  source_metadata:
+    arxiv_id: '2609.28007'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Imtiaz Ul Hassan
+- Öykü Akbulut
+- Onur Kaya
+- Ardhendu Behera
+- Swagat Kumar
+- Peter Matthew
+- Yonghuai Liu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.28007'

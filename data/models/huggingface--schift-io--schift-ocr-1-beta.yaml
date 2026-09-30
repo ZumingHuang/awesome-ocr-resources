@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:schift-io/schift-ocr-1-beta
+kind: model
+name: schift-io/schift-ocr-1-beta
+released_at:
+  value: '2026-09-29'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/schift-io/schift-ocr-1-beta
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/schift-io/schift-ocr-1-beta
+  discovered_via: huggingface
+  discovered_at: '2026-09-29'
+  source_id: schift-io/schift-ocr-1-beta
+  source_metadata:
+    repository_id: schift-io/schift-ocr-1-beta
+    downloads: 0
+    likes: 2
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: schift-io
+repository_id: schift-io/schift-ocr-1-beta
+deployment: []

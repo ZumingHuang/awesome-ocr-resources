@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2609.28857
+kind: paper
+name: 'MEVL-STP: Multi-Encoder and Vision Language Model for Arbitrarily Shaped Scene Text Spotting'
+released_at:
+  value: '2026-09-23'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: Scene text spotting remains challenging for arbitrarily shaped text instances such as curved
+  signs and dense multi-oriented characters in natural images, where tightly coupled architectures propagate
+  localization errors directly into recognition failures. We present a two-stage pipeline that combines
+  multi-encoder segmentation with vision-language model recognition to address this problem. In the detection
+  stage, six frozen vision encoders (CLIP, DINOv2, SigLIP, EVA-CLIP, SAM, and ConvNeXt) extract complementary
+  features spanning semantic, spatial, and texture spectra, which are fused through a trainable hierarchical
+  Feature Pyramid Network with channel attention and decoded via a deep-supervision Progressive Scale
+  Expansion network to generate precise instance-level text masks. By keeping the encoders frozen, their
+  independently learned feature spaces remain orthogonal during fusion, preventing the feature homogenization
+  that degrades boundary precision in single-backbone detectors. The detection stage produces tight polygon
+  masks that conform to the actual shape of curved and arbitrarily oriented text, rather than axis-aligned
+  rectangles that inevitably include background content. In the recognition stage, these polygon-masked
+  crops isolate the target text from surrounding clutter, allowing a Qwen3-VL-8B-Instruct model, fine-tuned
+  via Low-Rank Adaptation on polygon-cropped scene text, to focus purely on reading the text without interference
+  from neighbouring words or background noise. Without any synthetic pretraining data, our method achieves
+  91.99% detection F-measure and 85.86% end-to-end H-mean on CTW1500, setting a new state of the art and
+  achieving strong performance on Total-Text and ICDAR 2015 without any synthetic training data. Code
+  is available at https://github.com/doubleblind-afk/MEVL-STP
+tasks:
+- text-spotting
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.28857
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.28857
+  discovered_via: arxiv
+  discovered_at: '2026-09-29'
+  source_id: '2609.28857'
+  source_metadata:
+    arxiv_id: '2609.28857'
+    doi: null
+    query: all:"text spotting"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Aman Anand
+- Partha Pratim Roy
+- Shivakumara Palaiahnakote
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.28857'

@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:arxiv:2609.32513
+kind: paper
+name: Cross-Domain Few-Shot Writer Adaptation for Real-World Handwritten Mathematical Expression Recognition
+released_at:
+  value: '2026-09-26'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: Handwritten mathematical expression recognition (HMER) refers to the task of recognizing and
+  converting handwritten mathematics into a parsable markup language, usually LaTeX. No current state-of-the-art-competitive
+  system adjusts to the way a specific person writes, and the domain gap between training images (usually
+  digital or perfectly binarized) and images physically taken with a camera used in inference has received
+  fairly little attention for this specific problem. We characterize this domain gap through fragmentation
+  and stroke-width analyses of the images as well as introduce a writer-adaptive fine-tuning pipeline
+  to MFH-CoMER in an attempt to address it. We further introduce sample author-specific datasets, consisting
+  of five handwriting category subsets from two authors, and evaluate using a McNemar's test and permutation
+  tests adapted to limited data. Results suggest an increase in expression recognition rate and a decrease
+  in CER for digital handwriting but more varied results for physical handwriting, with the model struggling
+  for handwriting articles that the base model can already evaluate well. Nonetheless, adapted models
+  were found to have improved results for four out of five subsets. Statistical testing results suggest
+  a consistency in improvement for two of the tested author-specific subsets. Our results point towards
+  the potential feasibility of writer adaptation for the HMER task.
+tasks:
+- formula-recognition
+- handwriting-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.32513
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.32513
+  discovered_via: arxiv
+  discovered_at: '2026-09-29'
+  source_id: '2609.32513'
+  source_metadata:
+    arxiv_id: '2609.32513'
+    doi: null
+    query: all:"mathematical expression recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Paulo Grane Gabriel Silva
+- Lorenz Bernard Marqueses
+- Joel Ilao
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.32513'

@@ -5,7 +5,10 @@
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
 | [kingrishabdugar/fizzdoc](https://github.com/kingrishabdugar/fizzdoc) | 2026-09-27 | text-recognition | candidate | Free, private PDF, image, audio, Word, Excel & PowerPoint tools that run 100% in your browser. Compress, convert, edit, redact, OCR, cut MP3. No uploads, no sign-up, no watermark. Free forever · 51 tools · 16 languages. |
+| [jimmgreen/LumaShot](https://github.com/jimmgreen/LumaShot) | 2026-09-27 | text-recognition | candidate | Windows screenshot, annotation, offline OCR, clipboard history, GIF and screen recording. |
+| [AbdoslamB/InkDoc](https://github.com/AbdoslamB/InkDoc) | 2026-09-27 | text-recognition | candidate | Turn any document into clean, AI-ready Markdown — locally on your machine. Desktop app for Windows, macOS & Linux powered by MarkItDown, Docling and Markit. |
 | [ops120/wechat-triage-hud](https://github.com/ops120/wechat-triage-hud) | 2026-09-24 | text-recognition | candidate | 微信 PC 端「按人分诊」悬浮面板：离线 OCR 读屏 + Jev 判断这一轮谁需要你出手。只判断不代聊、不注入微信、每次调用可回查。 |
+| [l2999019/SnipasteOcr](https://github.com/l2999019/SnipasteOcr) | 2026-09-24 | text-recognition | candidate | — |
 | [B0yko/tern](https://github.com/B0yko/tern) | 2026-09-24 | text-recognition | candidate | Local AI search for podcast and video archives on Apple Silicon: Whisper speech, Apple Vision OCR and SigLIP-2 visual search fused into one ranked list, with a trim editor and FCPXML export. FastAPI, vanilla JS, Tauri. Source-visible, all rights reserved. |
 | [wuxie888/jev-yaba-wechat](https://github.com/wuxie888/jev-yaba-wechat) | 2026-09-21 | text-recognition | candidate | 微信里的话不知道怎么接？macOS 悬浮聊天助手：识别消息意图与沟通风险，GPT 生成多种话术，Jev 评估候选，一键填入微信。话我帮你想，发送你来定。 |
 | [wildcat430524/StepsToGreat](https://github.com/wildcat430524/StepsToGreat) | 2026-09-21 | text-recognition | candidate | 打开这个文件夹，就有一位一对一导师。A Markdown teaching protocol that turns any AI tool into a one-on-one tutor. |

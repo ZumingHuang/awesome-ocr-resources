@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:jimmgreen/LumaShot
+kind: code
+name: jimmgreen/LumaShot
+released_at:
+  value: '2026-09-27'
+  precision: day
+added_at: '2026-09-29'
+last_verified_at: '2026-09-29'
+summary: Windows screenshot, annotation, offline OCR, clipboard history, GIF and screen recording.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/jimmgreen/LumaShot
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/jimmgreen/LumaShot
+  discovered_via: github
+  discovered_at: '2026-09-29'
+  source_id: R_kgDOUuJHWg
+  source_metadata:
+    repository: jimmgreen/LumaShot
+    stars: 15
+    language: C++
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: jimmgreen/LumaShot
+landmark: false
+programming_languages:
+- C++
+maintenance_status: active
