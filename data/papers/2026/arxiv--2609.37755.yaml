@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2609.37755
+kind: paper
+name: Which papyrus HTR is good enough? Character-error-rate tolerance of four papyrological tasks on
+  Greek texts
+released_at:
+  value: '2026-09-29'
+  precision: day
+added_at: '2026-09-30'
+last_verified_at: '2026-09-30'
+summary: 'Purpose: Most Greek papyri remain unpublished and undigitised; a handwritten text recognition
+  (HTR) pipeline that transcribes them automatically would let scholars discover documents and literary
+  works that have so far gone unread. Recognition systems for Ancient Greek papyri are in statu nascendi,
+  and how accurate they must be for a given papyrological task has not been examined. To answer this and
+  set a benchmark for Greek papyrus HTR, we test a range of character error rates (CER) against four papyrological
+  tasks, using published editions as ground truth. Methods: From 63,846 current editions of Greek texts
+  in papyri.info, we imitate a letters-only "perfect HTR" output by removing the editorial layer, then
+  degrade it with a seeded algorithm to exact CERs of 1 - 50%, with lost lines and four error-shape variants.
+  On these data we train small models (TF-IDF, fastText, a character CNN, ByT5-small) for document type,
+  dating and documentary-versus-literary classification, and apply eight keyword search methods. We compare
+  models trained on clean text with models retrained at a specific CER level, and evaluate across CERs.
+  Results: Tolerance differs by task. With clean-trained models, documentary-versus-literary classification
+  retains 90% of its metric up to 20% CER; document type up to 7.5%; subtypes and search up to 5%; dating
+  only up to 3%. Retraining on text containing character errors largely eliminates the sharp degradation
+  that otherwise sets in above 15% CER. Models generally tolerate concentrated damage in a long document
+  better than small errors spread across a short text. Conclusion: The study provides a CER target for
+  each of the four tasks and shows that models trained on noisy text make current, imperfect text recognition
+  useful for them.'
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.37755
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.37755
+  discovered_via: arxiv
+  discovered_at: '2026-09-30'
+  source_id: '2609.37755'
+  source_metadata:
+    arxiv_id: '2609.37755'
+    doi: null
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Anton Repushko
+- Elena Chepel
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.37755'

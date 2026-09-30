@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:imanthonymartinez/ocr-freeform-study92
+kind: model
+name: imanthonymartinez/ocr-freeform-study92
+released_at:
+  value: '2026-09-29'
+  precision: day
+added_at: '2026-09-30'
+last_verified_at: '2026-09-30'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/imanthonymartinez/ocr-freeform-study92
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/imanthonymartinez/ocr-freeform-study92
+  discovered_via: huggingface
+  discovered_at: '2026-09-30'
+  source_id: imanthonymartinez/ocr-freeform-study92
+  source_metadata:
+    repository_id: imanthonymartinez/ocr-freeform-study92
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: imanthonymartinez
+repository_id: imanthonymartinez/ocr-freeform-study92
+deployment: []
