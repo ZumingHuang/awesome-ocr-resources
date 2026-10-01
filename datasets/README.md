@@ -4,6 +4,60 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [PiotrSty/slayer-ocr-experiment-evidence](https://huggingface.co/datasets/PiotrSty/slayer-ocr-experiment-evidence) | 2026-09-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		SLAYER-OCR experiment evidence registry
+	
+
+Evidence, metrics, predictions, environment records, result reports and the non-code artifact timeline recovered from GitHub. Failed and negative experiments are intentionally retained.
+
+Source repository: PiotrStyla/OCR_engine
+Source commit: 6c246e0cd79d2a36443cd147e56964dd826a4293
+Registry generated: 2026-09-30T06:36:23.096415+00:00
+Visibility: public
+Integrity: see MANIFEST.jsonl and MANIFEST.sha256
+
+Historical Polish spelling and… See the full description on the dataset page: https://huggingface.co/datasets/PiotrSty/slayer-ocr-experiment-evidence. |
+| [PiotrSty/slayer-ocr-datasets](https://huggingface.co/datasets/PiotrSty/slayer-ocr-datasets) | 2026-09-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		SLAYER-OCR dataset registry
+	
+
+Scans, annotations, frozen benchmark inputs, development splits, review workspaces and clean layout candidates. Upstream provenance and license limitations remain attached to their source artifacts.
+
+Source repository: PiotrStyla/OCR_engine
+Source commit: 6c246e0cd79d2a36443cd147e56964dd826a4293
+Registry generated: 2026-09-30T06:36:23.096415+00:00
+Visibility: public
+Integrity: see MANIFEST.jsonl and MANIFEST.sha256
+
+Historical Polish spelling and… See the full description on the dataset page: https://huggingface.co/datasets/PiotrSty/slayer-ocr-datasets. |
+| [mohamedwasef/egyptian-official-documents-ocr](https://huggingface.co/datasets/mohamedwasef/egyptian-official-documents-ocr) | 2026-09-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		Egyptian Tax Legislation OCR
+	
+
+Page-level OCR dataset of scanned Egyptian tax legislation (laws and ministerial decisions published in the
+Official Gazette, الجريدة الرسمية). Each row is one full page image with a structured transcription: typed layout
+elements, article (section) links, document metadata, and the full page text.
+Built for fine-tuning vision-language models on full-page Arabic document OCR, and for structure-aware RAG over legal text.
+
+	
+		
+	
+	
+		Statistics… See the full description on the dataset page: https://huggingface.co/datasets/mohamedwasef/egyptian-official-documents-ocr. |
+| [MarcoAlho/unlimited-ocr-olmocr-bench-results](https://huggingface.co/datasets/MarcoAlho/unlimited-ocr-olmocr-bench-results) | 2026-09-29 | text-recognition | candidate | — |
+| [MarcoAlho/unlimited-ocr-olmocr-bench](https://huggingface.co/datasets/MarcoAlho/unlimited-ocr-olmocr-bench) | 2026-09-29 | text-recognition | candidate | — |
 | [Hoshino121/steel-ocr-dataset](https://huggingface.co/datasets/Hoshino121/steel-ocr-dataset) | 2026-09-29 | text-recognition | candidate | 
 	
 		
@@ -34,6 +88,20 @@ train_data/
 
 test_data/
 ├── det/                    #… See the full description on the dataset page: https://huggingface.co/datasets/Hoshino121/steel-ocr-dataset. |
+| [cloudaocr/clouda-ocr-canonical-v1](https://huggingface.co/datasets/cloudaocr/clouda-ocr-canonical-v1) | 2026-09-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		clouda-ocr-canonical-v1 — canonical Clouda OCR dataset release
+	
+
+Canonical WebDataset-style corpus: one real source page + one canonical clean
+image + one authoritative GT + complete provenance/license metadata + SHA256
+hashes + dynamic on-the-fly augmentation at training time.
+Built by the canonical dataset engineering pipeline (master prompt:
+CLOUDA_OCR_GLM_MAX_THROUGHPUT_FULL_DATASET_PROMPT.md) on 2026-09-29 from the
+following pinned sources (revisions verified UNCHANGED… See the full description on the dataset page: https://huggingface.co/datasets/cloudaocr/clouda-ocr-canonical-v1. |
 | [shijithpk/ncert-history-ocr-bench-48-smoke](https://huggingface.co/datasets/shijithpk/ncert-history-ocr-bench-48-smoke) | 2026-09-28 | text-recognition | candidate | 
 	
 		

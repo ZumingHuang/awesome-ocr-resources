@@ -4,9 +4,26 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [PiotrSty/slayer-ocr-models](https://huggingface.co/PiotrSty/slayer-ocr-models) | 2026-09-30 | text-recognition | candidate | — |
+| [mehta2006/study-ocr-freeform](https://huggingface.co/mehta2006/study-ocr-freeform) | 2026-09-30 | text-recognition | candidate | — |
+| [Var3n/byt5-large-ocr-postcorrection](https://huggingface.co/Var3n/byt5-large-ocr-postcorrection) | 2026-09-29 | text-recognition | candidate | — |
+| [truonggiabao7/ocrdoc-models](https://huggingface.co/truonggiabao7/ocrdoc-models) | 2026-09-29 | text-recognition | candidate | — |
+| [SeerRay-Lab/Xiaomi-OCR-0](https://huggingface.co/SeerRay-Lab/Xiaomi-OCR-0) | 2026-09-29 | text-recognition | candidate | — |
 | [schift-io/schift-ocr-1-beta](https://huggingface.co/schift-io/schift-ocr-1-beta) | 2026-09-29 | text-recognition | candidate | — |
+| [sahilagarwal/pan-ocr-models](https://huggingface.co/sahilagarwal/pan-ocr-models) | 2026-09-29 | text-recognition | candidate | — |
 | [richardyoung/Unlimited-OCR-GGUF](https://huggingface.co/richardyoung/Unlimited-OCR-GGUF) | 2026-09-29 | text-recognition | candidate | — |
+| [OsGo/Qwen3.5-ocr-jp-2b-GGUF](https://huggingface.co/OsGo/Qwen3.5-ocr-jp-2b-GGUF) | 2026-09-29 | text-recognition | candidate | — |
+| [OsGo/Qwen3.5-ocr-jp-2b](https://huggingface.co/OsGo/Qwen3.5-ocr-jp-2b) | 2026-09-29 | text-recognition | candidate | — |
+| [nemu-pm/nemu-ocr-coreml](https://huggingface.co/nemu-pm/nemu-ocr-coreml) | 2026-09-29 | text-recognition | candidate | — |
+| [mohs777/ocr-studio-models](https://huggingface.co/mohs777/ocr-studio-models) | 2026-09-29 | text-recognition | candidate | — |
+| [mohamedwasef/egyptian-document-ocr](https://huggingface.co/mohamedwasef/egyptian-document-ocr) | 2026-09-29 | text-recognition | candidate | — |
+| [kouhxp/PP-OCRv6_medium-ONNX](https://huggingface.co/kouhxp/PP-OCRv6_medium-ONNX) | 2026-09-29 | text-recognition | candidate | — |
 | [keystats/Judge_ocr](https://huggingface.co/keystats/Judge_ocr) | 2026-09-29 | text-recognition | candidate | — |
+| [imanthonymartinez/ocr-freeform-study92](https://huggingface.co/imanthonymartinez/ocr-freeform-study92) | 2026-09-29 | text-recognition | candidate | — |
+| [hon-lu/manga-ocr-base-onnx-fp16](https://huggingface.co/hon-lu/manga-ocr-base-onnx-fp16) | 2026-09-29 | text-recognition | candidate | — |
+| [freelawproject/surya-ocr-2](https://huggingface.co/freelawproject/surya-ocr-2) | 2026-09-29 | text-recognition | candidate | — |
+| [cstr/jina-ocr-v1-GGUF](https://huggingface.co/cstr/jina-ocr-v1-GGUF) | 2026-09-29 | text-recognition | candidate | — |
+| [atonlee/Qota-OCR](https://huggingface.co/atonlee/Qota-OCR) | 2026-09-29 | text-recognition | candidate | — |
 | [diganta2004/baidu_Unlimited_OCR](https://huggingface.co/diganta2004/baidu_Unlimited_OCR) | 2026-09-28 | text-recognition | candidate | — |
 | [Vrunda7/ocr-service](https://huggingface.co/Vrunda7/ocr-service) | 2026-09-27 | text-recognition | candidate | — |
 | [Vphuc/PP-OCRv5-mobile-rec-vi](https://huggingface.co/Vphuc/PP-OCRv5-mobile-rec-vi) | 2026-09-27 | text-recognition | candidate | — |

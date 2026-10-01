@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:PiotrSty/slayer-ocr-experiment-evidence
+kind: dataset
+name: PiotrSty/slayer-ocr-experiment-evidence
+released_at:
+  value: '2026-09-30'
+  precision: day
+added_at: '2026-09-30'
+last_verified_at: '2026-09-30'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSLAYER-OCR experiment evidence registry\n\t\n\nEvidence, metrics, predictions,\
+  \ environment records, result reports and the non-code artifact timeline recovered from GitHub. Failed\
+  \ and negative experiments are intentionally retained.\n\nSource repository: PiotrStyla/OCR_engine\n\
+  Source commit: 6c246e0cd79d2a36443cd147e56964dd826a4293\nRegistry generated: 2026-09-30T06:36:23.096415+00:00\n\
+  Visibility: public\nIntegrity: see MANIFEST.jsonl and MANIFEST.sha256\n\nHistorical Polish spelling\
+  \ and… See the full description on the dataset page: https://huggingface.co/datasets/PiotrSty/slayer-ocr-experiment-evidence."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/PiotrSty/slayer-ocr-experiment-evidence
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/PiotrSty/slayer-ocr-experiment-evidence
+  discovered_via: huggingface
+  discovered_at: '2026-09-30'
+  source_id: PiotrSty/slayer-ocr-experiment-evidence
+  source_metadata:
+    repository_id: PiotrSty/slayer-ocr-experiment-evidence
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: PiotrSty
+repository_id: PiotrSty/slayer-ocr-experiment-evidence
+usage: []
+annotations: []
+access: unknown

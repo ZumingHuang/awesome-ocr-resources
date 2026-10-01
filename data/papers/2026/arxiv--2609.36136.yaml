@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2609.36136
+kind: paper
+name: Xiaomi-OCR-0 Technical Report
+released_at:
+  value: '2026-09-28'
+  precision: day
+added_at: '2026-09-30'
+last_verified_at: '2026-09-30'
+summary: 'Compact OCR-specific vision-language models achieve strong document parsing performance, but
+  often rely on costly supervision and focus primarily on visual-text reconstruction. We introduce Xiaomi-OCR-0,
+  a unified 0.8B model for document parsing and OCR-centric understanding. We build an approximately 170M-sample
+  OCR-centric corpus using an automated data engine that combines expert consensus, render-based verification,
+  and targeted synthesis. Starting from Qwen3.5-0.8B, our progressive training recipe combines Q-Mask-based
+  text anchoring, continued pretraining, and mixed-task reinforcement learning (Mix-RL). Xiaomi-OCR-0
+  achieves 95.24 on Real5-OmniDocBench, 96.83 on OmniDocBench v1.6, and 87.94 on Wild-OmniDocBench, while
+  reaching an average score of 83.2 across five OCR-oriented VQA benchmarks. Ablations further show that,
+  with sufficient parsing training, OCR-centric understanding supervision provides additional gains for
+  document parsing. Homepage: https://huggingface.co/spaces/SeerRay-Lab/Xiaomi-OCR-0.'
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.36136
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.36136
+  discovered_via: arxiv
+  discovered_at: '2026-09-30'
+  source_id: '2609.36136'
+  source_metadata:
+    arxiv_id: '2609.36136'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Xin Chen
+- Anan Du
+- Feng Feng
+- Pei Fu
+- Jian Luan
+- Longwei Xu
+- Shaojie Zhang
+- Hang Li
+- Heng Qu
+- Cheng Tan
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.36136'

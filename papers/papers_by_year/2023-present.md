@@ -109,6 +109,10 @@ Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan
 Dang Hoai Nam, Nguyen Duy Hieu, Quang Huu Hieu, Vo Nguyen Le Duy
 \[handwriting-recognition\]\[text-recognition\]
 
+**Exploring In-Context Learning for Handwritten Text Recognition**
+Eric Ayllon, Abel Gandia, Jorge Calvo-Zaragoza
+\[handwriting-recognition\]\[text-recognition\]
+
 **FinixDoc: Rethinking Financial Document Parsing Beyond Saturated Benchmarks**
 Hang Wang, Jin Zhang, Guoliang Xu, Pengyue Lu, Yao Li, Zijiao Zhang, Tianyu Huang, Weiqi Xiong, Yulong Wang, Chuqiao Lu, Wenkang Huang, Kai Yang, Yadong Li, Hui Li, Xingzhong Xu, Xiao Xu
 \[document-parsing\]
@@ -197,6 +201,10 @@ Hao Yu, Jiabo Zhan, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, C
 Isam Abdullah Balghari, Muhammad Sabieh Anwar
 \[text-recognition\]
 
+**PolyOCR-Venus: Unified OCR Foundation Models for Text-Centric Visual Intelligence**
+GuangJian Team, Kaili Huang, Yongshuo Zhang, Bingtao Fu, Changjiang Jiang, Chenfan Qu, Chenfeng Zhang, Fangming Cui, Gaoyang Zhang, Jiangwei Xie, Jianshu Li, Jing Huang, Jingwen Bai, Mingqi Fang, Tao Fang, Weihong Zhang, Wenbo Du, Xiongfei Bai, Xuekang Zhu, Yinan Xia, Zhenming Wang, Jian Liu, Jingjing Liu, Xiang Qi, Weiqiang Wang
+\[text-recognition\]
+
 **RefLAM: A Reference-Grounded Line Annotation Pipeline for Historical Arabic Manuscripts**
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[handwriting-recognition\]\[text-recognition\]
@@ -261,9 +269,17 @@ Yuxing Cheng, Yuan Wu, Yi Chang
 Srikanta Datta Tumkur, Jay Iyer, Mehar Simhadri, Sai Pavan Kumar, Sai Kapil Kumar, Ramesh Nampelly
 \[document-vqa\]
 
+**Which papyrus HTR is good enough? Character-error-rate tolerance of four papyrological tasks on Greek texts**
+Anton Repushko, Elena Chepel
+\[handwriting-recognition\]\[text-recognition\]
+
 **WildHandBench: A Benchmark for Handwritten Text Understanding that Challenges MLLMs and Humans**
 Jun Zhang, Qiao Zhao, Cheng Cui, Jianying Qu, Zhongkai Sun, Jianwen Yang, Changda Zhou, ZhuoXin Liu, Shubin Han
 \[formula-recognition\]\[document-parsing\]\[handwriting-recognition\]
+
+**Xiaomi-OCR-0 Technical Report**
+Xin Chen, Anan Du, Feng Feng, Pei Fu, Jian Luan, Longwei Xu, Shaojie Zhang, Hang Li, Heng Qu, Cheng Tan
+\[document-parsing\]\[text-recognition\]
 
 ## 2024
 **An Empirical Study of Scaling Law for Scene Text Recognition**

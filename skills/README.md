@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [topoteretes/cognee / .agents/skills/cognee-install/SKILL.md](https://github.com/topoteretes/cognee/blob/ba3631f2ed363a6ea50d649c34c56885af6b36fe/.agents/skills/cognee-install/SKILL.md) | 2026-09-30 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [mrzhangguoguo/pdf-zh-image-translator / SKILL.md](https://github.com/mrzhangguoguo/pdf-zh-image-translator/blob/64ae788206f3793db98c6ed9813d10824a7ab482/SKILL.md) | 2026-09-25 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [inclusionAI/AWorld / aworld-skills/filex/SKILL.md](https://github.com/inclusionAI/AWorld/blob/631f67f54b68251d71f8a2c5cd5b5ebced2ac6c5/aworld-skills/filex/SKILL.md) | 2026-09-25 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [borghei/Claude-Skills / legal/tabular-document-review/SKILL.md](https://github.com/borghei/Claude-Skills/blob/f308cbd3171248eabd335a55c2e6df56f6958683/legal/tabular-document-review/SKILL.md) | 2026-09-23 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

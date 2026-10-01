@@ -4,9 +4,11 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SeerRay-Lab/Xiaomi-OCR-0](https://github.com/SeerRay-Lab/Xiaomi-OCR-0) | 2026-09-28 | text-recognition | candidate | — |
 | [kingrishabdugar/fizzdoc](https://github.com/kingrishabdugar/fizzdoc) | 2026-09-27 | text-recognition | candidate | Free, private PDF, image, audio, Word, Excel & PowerPoint tools that run 100% in your browser. Compress, convert, edit, redact, OCR, cut MP3. No uploads, no sign-up, no watermark. Free forever · 51 tools · 16 languages. |
 | [jimmgreen/LumaShot](https://github.com/jimmgreen/LumaShot) | 2026-09-27 | text-recognition | candidate | Windows screenshot, annotation, offline OCR, clipboard history, GIF and screen recording. |
 | [AbdoslamB/InkDoc](https://github.com/AbdoslamB/InkDoc) | 2026-09-27 | text-recognition | candidate | Turn any document into clean, AI-ready Markdown — locally on your machine. Desktop app for Windows, macOS & Linux powered by MarkItDown, Docling and Markit. |
+| [aashish254/Aniflow](https://github.com/aashish254/Aniflow) | 2026-09-25 | text-recognition | candidate | 🎬 Autonomous AI Studio for Manhwa & Webtoon Recaps — Vision Pipeline (YOLOv8 + Magi v2), Multi-Voice TTS & Video Synthesis |
 | [ops120/wechat-triage-hud](https://github.com/ops120/wechat-triage-hud) | 2026-09-24 | text-recognition | candidate | 微信 PC 端「按人分诊」悬浮面板：离线 OCR 读屏 + Jev 判断这一轮谁需要你出手。只判断不代聊、不注入微信、每次调用可回查。 |
 | [l2999019/SnipasteOcr](https://github.com/l2999019/SnipasteOcr) | 2026-09-24 | text-recognition | candidate | — |
 | [B0yko/tern](https://github.com/B0yko/tern) | 2026-09-24 | text-recognition | candidate | Local AI search for podcast and video archives on Apple Silicon: Whisper speech, Apple Vision OCR and SigLIP-2 visual search fused into one ranked list, with a trim editor and FCPXML export. FastAPI, vanilla JS, Tauri. Source-visible, all rights reserved. |

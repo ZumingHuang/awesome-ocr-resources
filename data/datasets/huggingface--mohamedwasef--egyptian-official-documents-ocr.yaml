@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:mohamedwasef/egyptian-official-documents-ocr
+kind: dataset
+name: mohamedwasef/egyptian-official-documents-ocr
+released_at:
+  value: '2026-09-29'
+  precision: day
+added_at: '2026-09-30'
+last_verified_at: '2026-09-30'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tEgyptian Tax Legislation OCR\n\t\n\nPage-level OCR dataset of scanned\
+  \ Egyptian tax legislation (laws and ministerial decisions published in the\nOfficial Gazette, الجريدة\
+  \ الرسمية). Each row is one full page image with a structured transcription: typed layout\nelements,\
+  \ article (section) links, document metadata, and the full page text.\nBuilt for fine-tuning vision-language\
+  \ models on full-page Arabic document OCR, and for structure-aware RAG over legal text.\n\n\t\n\t\t\n\
+  \t\n\t\n\t\tStatistics… See the full description on the dataset page: https://huggingface.co/datasets/mohamedwasef/egyptian-official-documents-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/mohamedwasef/egyptian-official-documents-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/mohamedwasef/egyptian-official-documents-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-09-30'
+  source_id: mohamedwasef/egyptian-official-documents-ocr
+  source_metadata:
+    repository_id: mohamedwasef/egyptian-official-documents-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: mohamedwasef
+repository_id: mohamedwasef/egyptian-official-documents-ocr
+usage: []
+annotations: []
+access: unknown

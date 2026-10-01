@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2609.37195
+kind: paper
+name: Exploring In-Context Learning for Handwritten Text Recognition
+released_at:
+  value: '2026-09-29'
+  precision: day
+added_at: '2026-09-30'
+last_verified_at: '2026-09-30'
+summary: Handwritten Text Recognition (HTR) systems have become an indispensable tool for the digitization
+  of historical documents. Not only do they cut down time and cost, but they also allow democratizing
+  access and processing of their contents by generating their transcripts. However, literature in HTR
+  currently focuses mostly on specialized models that require large amounts of annotated samples to achieve
+  satisfactory performance. We explore the use of In-Context Learning with pre-trained Vision-Language
+  Models (VLMs) to create a transcription pipeline without updating the model's parameters. We then evaluate
+  this pipeline across multiple collections and models, and demonstrate that general-purpose VLMs can
+  be effectively taught how to transcribe handwritten text from images. To assess how our observations
+  may translate to practical applications, we evaluate the performance in a Cross-Domain (CD) scenario,
+  where context examples are drawn from a different collection than the query image. Results in both the
+  controlled In-Domain (ID) scenario and the realistic CD scenario follow the same patterns. First, as
+  context size grows, the error range is expected to narrow towards the average performance. Thus, larger
+  context sizes sacrifice the performance of the oracle-best sampling for lower expected error rates.
+  The results obtained show that, without any parameter updates, this methodology has strong potential
+  to compete with traditional HTR in the presence of domain shift. Moreover, we show and argue that some
+  context samplings work better than others and suggest more effort should be put into finding an ideal
+  sampling method in future work.
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.37195
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.37195
+  discovered_via: arxiv
+  discovered_at: '2026-09-30'
+  source_id: '2609.37195'
+  source_metadata:
+    arxiv_id: '2609.37195'
+    doi: null
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Eric Ayllon
+- Abel Gandia
+- Jorge Calvo-Zaragoza
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.37195'
