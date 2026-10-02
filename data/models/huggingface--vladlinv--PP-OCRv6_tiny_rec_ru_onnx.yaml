@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:vladlinv/PP-OCRv6_tiny_rec_ru_onnx
+kind: model
+name: vladlinv/PP-OCRv6_tiny_rec_ru_onnx
+released_at:
+  value: '2026-10-01'
+  precision: day
+added_at: '2026-10-01'
+last_verified_at: '2026-10-01'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx
+  discovered_via: huggingface
+  discovered_at: '2026-10-01'
+  source_id: vladlinv/PP-OCRv6_tiny_rec_ru_onnx
+  source_metadata:
+    repository_id: vladlinv/PP-OCRv6_tiny_rec_ru_onnx
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: vladlinv
+repository_id: vladlinv/PP-OCRv6_tiny_rec_ru_onnx
+deployment: []

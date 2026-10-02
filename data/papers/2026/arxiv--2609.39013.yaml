@@ -1,0 +1,50 @@
+schema_version: 1
+id: paper:arxiv:2609.39013
+kind: paper
+name: 'Evidence First, Arithmetic Second: A System Report and Failure Analysis for DocSem'
+released_at:
+  value: '2026-09-30'
+  precision: day
+added_at: '2026-10-01'
+last_verified_at: '2026-10-01'
+summary: 'EVICALC, our system for the DocSem shared task, achieved 8.61% joint accuracy on 1,730 tasks
+  in the official final test evaluation. It reads a PDF, selects a passage, asks a language model to write
+  an arithmetic expression, and evaluates that expression in local code. Saved intermediate results support
+  inspection of failures. A separate public-validation run achieved 92.17% answer accuracy and 1.00 evidence
+  F1. The configurations and metrics differ, so these scores are not a controlled comparison. Our manual,
+  post-hoc analysis is descriptive: in one inspected case, optical character recognition (OCR) and block
+  grouping merged the relevant passage into another block, and the system answered from unrelated text.
+  An exploratory study of reading page images on 100 documents returned evidence identifiers for only
+  22 documents. These descriptive findings motivate further evaluation; they do not establish the causes
+  of the overall score.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2609.39013
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2609.39013
+  discovered_via: arxiv
+  discovered_at: '2026-10-01'
+  source_id: '2609.39013'
+  source_metadata:
+    arxiv_id: '2609.39013'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Divya Godara
+- Sachin Gupta
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2609.39013'

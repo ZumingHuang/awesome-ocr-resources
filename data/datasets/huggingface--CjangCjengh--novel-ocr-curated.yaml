@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:CjangCjengh/novel-ocr-curated
+kind: dataset
+name: CjangCjengh/novel-ocr-curated
+released_at:
+  value: '2026-10-01'
+  precision: day
+added_at: '2026-10-01'
+last_verified_at: '2026-10-01'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t小说扫图转录数据\n\t\n\n扫描图片及对应的文字、段落与样式标注。\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/CjangCjengh/novel-ocr-curated
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/CjangCjengh/novel-ocr-curated
+  discovered_via: huggingface
+  discovered_at: '2026-10-01'
+  source_id: CjangCjengh/novel-ocr-curated
+  source_metadata:
+    repository_id: CjangCjengh/novel-ocr-curated
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: CjangCjengh
+repository_id: CjangCjengh/novel-ocr-curated
+usage: []
+annotations: []
+access: unknown

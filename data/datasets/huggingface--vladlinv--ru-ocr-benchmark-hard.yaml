@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:vladlinv/ru-ocr-benchmark-hard
+kind: dataset
+name: vladlinv/ru-ocr-benchmark-hard
+released_at:
+  value: '2026-09-30'
+  precision: day
+added_at: '2026-10-01'
+last_verified_at: '2026-10-01'
+summary: "A text recognition benchmark with 2,196 cropped text images: real crops from Russian-language\
+  \ documents and synthetic examples. They vary in fonts, image quality, distortions, and content. The\
+  \ dataset is intentionally challenging and includes a wide range of difficult recognition cases. It\
+  \ is intended for comparing OCR models and is provided in the test split.\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Benchmark Results\n\t\n\n\n\t\n\t\t\nModel\n1-NED\nAccuracy\nCER\nWER\n\n\n\t\t\nPP-OCRv6 Medium RU\n\
+  0.9242\n48.95%\n6.86%\n23.45%\n\n\nPP-OCRv6 Tiny… See the full description on the dataset page: https://huggingface.co/datasets/vladlinv/ru-ocr-benchmark-hard."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/vladlinv/ru-ocr-benchmark-hard
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/vladlinv/ru-ocr-benchmark-hard
+  discovered_via: huggingface
+  discovered_at: '2026-10-01'
+  source_id: vladlinv/ru-ocr-benchmark-hard
+  source_metadata:
+    repository_id: vladlinv/ru-ocr-benchmark-hard
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: vladlinv
+repository_id: vladlinv/ru-ocr-benchmark-hard
+usage: []
+annotations: []
+access: unknown

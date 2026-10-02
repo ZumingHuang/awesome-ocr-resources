@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:wuvictor/document-ocr-video-text-clean
+kind: dataset
+name: wuvictor/document-ocr-video-text-clean
+released_at:
+  value: '2026-10-01'
+  precision: day
+added_at: '2026-10-01'
+last_verified_at: '2026-10-01'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Video Text Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset\
+  \ summary\n\t\n\nPreparation notes and schema examples for Document OCR tasks using Video Text data.\
+  \ Full source material is intentionally not bundled, so provenance and licensing remain explicit.\n\n\
+  \t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nprepare.py — loading, cleaning, and split preparation\
+  \ code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small, human-readable\
+  \ records for checking the schema.\nREADME.md — data… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/wuvictor/document-ocr-video-text-clean."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/wuvictor/document-ocr-video-text-clean
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/wuvictor/document-ocr-video-text-clean
+  discovered_via: huggingface
+  discovered_at: '2026-10-01'
+  source_id: wuvictor/document-ocr-video-text-clean
+  source_metadata:
+    repository_id: wuvictor/document-ocr-video-text-clean
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: wuvictor
+repository_id: wuvictor/document-ocr-video-text-clean
+usage: []
+annotations: []
+access: unknown

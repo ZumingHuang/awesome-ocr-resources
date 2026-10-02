@@ -4,8 +4,28 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [vladlinv/PP-OCRv6_tiny_rec_ru_onnx](https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx) | 2026-10-01 | text-recognition | candidate | — |
+| [vladlinv/PP-OCRv6_medium_rec_ru_onnx](https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru_onnx) | 2026-10-01 | text-recognition | candidate | — |
+| [stefanschmidt/jina-ocr-v1-8bit](https://huggingface.co/stefanschmidt/jina-ocr-v1-8bit) | 2026-10-01 | text-recognition | candidate | — |
+| [Sakuramor6/cs224n-ocr-freeform](https://huggingface.co/Sakuramor6/cs224n-ocr-freeform) | 2026-10-01 | text-recognition | candidate | — |
+| [Mumyadav/dl-ocr-freeform](https://huggingface.co/Mumyadav/dl-ocr-freeform) | 2026-10-01 | text-recognition | candidate | — |
+| [vladlinv/PP-OCRv6_tiny_rec_ru](https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru) | 2026-09-30 | text-recognition | candidate | — |
+| [vladlinv/PP-OCRv6_medium_rec_ru](https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru) | 2026-09-30 | text-recognition | candidate | — |
+| [thomaswhit/postdoc-ocr-freeform](https://huggingface.co/thomaswhit/postdoc-ocr-freeform) | 2026-09-30 | text-recognition | candidate | — |
+| [SeeWye/TM-OCR-Qwen3_5_ckpt100](https://huggingface.co/SeeWye/TM-OCR-Qwen3_5_ckpt100) | 2026-09-30 | text-recognition | candidate | — |
+| [SeeWye/qwen_TM_OCR_newloss240](https://huggingface.co/SeeWye/qwen_TM_OCR_newloss240) | 2026-09-30 | text-recognition | candidate | — |
 | [PiotrSty/slayer-ocr-models](https://huggingface.co/PiotrSty/slayer-ocr-models) | 2026-09-30 | text-recognition | candidate | — |
+| [oakjndjbans/DeepSeek-OCR-2](https://huggingface.co/oakjndjbans/DeepSeek-OCR-2) | 2026-09-30 | text-recognition | candidate | — |
+| [nawazsarwar/chandra-ocr-2-Q4_K_M-GGUF](https://huggingface.co/nawazsarwar/chandra-ocr-2-Q4_K_M-GGUF) | 2026-09-30 | text-recognition | candidate | — |
+| [mohamedwasef/egyptian-document-ocr-gemma4](https://huggingface.co/mohamedwasef/egyptian-document-ocr-gemma4) | 2026-09-30 | text-recognition | candidate | — |
 | [mehta2006/study-ocr-freeform](https://huggingface.co/mehta2006/study-ocr-freeform) | 2026-09-30 | text-recognition | candidate | — |
+| [masahiroid/manga-ocr-base-mlx](https://huggingface.co/masahiroid/manga-ocr-base-mlx) | 2026-09-30 | text-recognition | candidate | — |
+| [masahiroid/manga-ocr-base-coreml](https://huggingface.co/masahiroid/manga-ocr-base-coreml) | 2026-09-30 | text-recognition | candidate | — |
+| [jacobwat/ocr-freeform-int8](https://huggingface.co/jacobwat/ocr-freeform-int8) | 2026-09-30 | text-recognition | candidate | — |
+| [andrewkimfield/study-ocr-freeform](https://huggingface.co/andrewkimfield/study-ocr-freeform) | 2026-09-30 | text-recognition | candidate | — |
+| [anandkaman/arjuna-ocr-hi-en](https://huggingface.co/anandkaman/arjuna-ocr-hi-en) | 2026-09-30 | text-recognition | candidate | — |
+| [Abdoul27/glm-ocr-barbados](https://huggingface.co/Abdoul27/glm-ocr-barbados) | 2026-09-30 | handwriting-recognition, text-recognition | candidate | — |
+| [Abdoul27/chandra-ocr-2-barbados](https://huggingface.co/Abdoul27/chandra-ocr-2-barbados) | 2026-09-30 | handwriting-recognition, text-recognition | candidate | — |
 | [Var3n/byt5-large-ocr-postcorrection](https://huggingface.co/Var3n/byt5-large-ocr-postcorrection) | 2026-09-29 | text-recognition | candidate | — |
 | [truonggiabao7/ocrdoc-models](https://huggingface.co/truonggiabao7/ocrdoc-models) | 2026-09-29 | text-recognition | candidate | — |
 | [SeerRay-Lab/Xiaomi-OCR-0](https://huggingface.co/SeerRay-Lab/Xiaomi-OCR-0) | 2026-09-29 | text-recognition | candidate | — |

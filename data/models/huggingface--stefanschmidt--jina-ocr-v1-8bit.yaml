@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:stefanschmidt/jina-ocr-v1-8bit
+kind: model
+name: stefanschmidt/jina-ocr-v1-8bit
+released_at:
+  value: '2026-10-01'
+  precision: day
+added_at: '2026-10-01'
+last_verified_at: '2026-10-01'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/stefanschmidt/jina-ocr-v1-8bit
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/stefanschmidt/jina-ocr-v1-8bit
+  discovered_via: huggingface
+  discovered_at: '2026-10-01'
+  source_id: stefanschmidt/jina-ocr-v1-8bit
+  source_metadata:
+    repository_id: stefanschmidt/jina-ocr-v1-8bit
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: stefanschmidt
+repository_id: stefanschmidt/jina-ocr-v1-8bit
+deployment: []

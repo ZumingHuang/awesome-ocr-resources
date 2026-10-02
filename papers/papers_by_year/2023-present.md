@@ -101,6 +101,10 @@ Elias Schubert, Felix Bießmann
 Zhuchenyang Liu, Yao Zhang, Yu Xiao
 \[document-parsing\]
 
+**Evidence First, Arithmetic Second: A System Report and Failure Analysis for DocSem**
+Divya Godara, Sachin Gupta
+\[text-recognition\]
+
 **Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning**
 Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan
 \[text-recognition\]

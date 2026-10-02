@@ -4,6 +4,133 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [wuvictor/document-ocr-video-text-clean](https://huggingface.co/datasets/wuvictor/document-ocr-video-text-clean) | 2026-10-01 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Video Text data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/wuvictor/document-ocr-video-text-clean. |
+| [kwiatkowskibev/document-ocr-samples73](https://huggingface.co/datasets/kwiatkowskibev/document-ocr-samples73) | 2026-10-01 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Audio Video inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/kwiatkowskibev/document-ocr-samples73. |
+| [CjangCjengh/novel-ocr-curated](https://huggingface.co/datasets/CjangCjengh/novel-ocr-curated) | 2026-10-01 | text-recognition | candidate | 
+	
+		
+	
+	
+		小说扫图转录数据
+	
+
+扫描图片及对应的文字、段落与样式标注。
+ |
+| [vladlinv/ru-ocr-benchmark-hard](https://huggingface.co/datasets/vladlinv/ru-ocr-benchmark-hard) | 2026-09-30 | text-recognition | candidate | A text recognition benchmark with 2,196 cropped text images: real crops from Russian-language documents and synthetic examples. They vary in fonts, image quality, distortions, and content. The dataset is intentionally challenging and includes a wide range of difficult recognition cases. It is intended for comparing OCR models and is provided in the test split.
+
+	
+		
+	
+	
+		Benchmark Results
+	
+
+
+	
+		
+Model
+1-NED
+Accuracy
+CER
+WER
+
+
+		
+PP-OCRv6 Medium RU
+0.9242
+48.95%
+6.86%
+23.45%
+
+
+PP-OCRv6 Tiny… See the full description on the dataset page: https://huggingface.co/datasets/vladlinv/ru-ocr-benchmark-hard. |
+| [Vbanerjeesem/document-ocr-data](https://huggingface.co/datasets/Vbanerjeesem/document-ocr-data) | 2026-09-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Sensor Fusion metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/Vbanerjeesem/document-ocr-data. |
 | [PiotrSty/slayer-ocr-experiment-evidence](https://huggingface.co/datasets/PiotrSty/slayer-ocr-experiment-evidence) | 2026-09-30 | text-recognition | candidate | 
 	
 		
@@ -38,6 +165,64 @@ Visibility: public
 Integrity: see MANIFEST.jsonl and MANIFEST.sha256
 
 Historical Polish spelling and… See the full description on the dataset page: https://huggingface.co/datasets/PiotrSty/slayer-ocr-datasets. |
+| [itsle-onguo/phd-document-ocr](https://huggingface.co/datasets/itsle-onguo/phd-document-ocr) | 2026-09-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Image Audio records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+load_data.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/itsle-onguo/phd-document-ocr. |
+| [crystallieli/phd-document-ocr](https://huggingface.co/datasets/crystallieli/phd-document-ocr) | 2026-09-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Image Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/crystallieli/phd-document-ocr. |
 | [mohamedwasef/egyptian-official-documents-ocr](https://huggingface.co/datasets/mohamedwasef/egyptian-official-documents-ocr) | 2026-09-29 | text-recognition | candidate | 
 	
 		
@@ -58,6 +243,19 @@ Built for fine-tuning vision-language models on full-page Arabic document OCR, a
 		Statistics… See the full description on the dataset page: https://huggingface.co/datasets/mohamedwasef/egyptian-official-documents-ocr. |
 | [MarcoAlho/unlimited-ocr-olmocr-bench-results](https://huggingface.co/datasets/MarcoAlho/unlimited-ocr-olmocr-bench-results) | 2026-09-29 | text-recognition | candidate | — |
 | [MarcoAlho/unlimited-ocr-olmocr-bench](https://huggingface.co/datasets/MarcoAlho/unlimited-ocr-olmocr-bench) | 2026-09-29 | text-recognition | candidate | — |
+| [junyeong-nero/synthetic-ocr-images-ko-1M](https://huggingface.co/datasets/junyeong-nero/synthetic-ocr-images-ko-1M) | 2026-09-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		Synthetic OCR Dataset
+	
+
+
+Work in progress. This dataset is generated and uploaded shard by shard. 515,000 of 1,000,000 samples are available so far (train 463,500 / test 51,500, as of 2026-09-30 21:55 UTC). This card is regenerated when the last shard is uploaded, so the counts below are partial.
+
+This repository contains a synthetic OCR dataset generated by the Synthetic OCR Image Generator pipeline.
+It is intended for benchmarking and evaluating OCR or VLM systems on… See the full description on the dataset page: https://huggingface.co/datasets/junyeong-nero/synthetic-ocr-images-ko-1M. |
 | [Hoshino121/steel-ocr-dataset](https://huggingface.co/datasets/Hoshino121/steel-ocr-dataset) | 2026-09-29 | text-recognition | candidate | 
 	
 		
