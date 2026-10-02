@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:JeanExtreme002/pymacos
+kind: code
+name: JeanExtreme002/pymacos
+released_at:
+  value: '2026-09-27'
+  precision: day
+added_at: '2026-10-02'
+last_verified_at: '2026-10-02'
+summary: A Python library for automating and controlling macOS.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/JeanExtreme002/pymacos
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/JeanExtreme002/pymacos
+  discovered_via: github
+  discovered_at: '2026-10-02'
+  source_id: R_kgDOUtkpBg
+  source_metadata:
+    repository: JeanExtreme002/pymacos
+    stars: 20
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: JeanExtreme002/pymacos
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

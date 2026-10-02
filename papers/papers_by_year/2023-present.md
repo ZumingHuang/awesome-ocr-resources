@@ -49,6 +49,10 @@ Genpei Zhang
 Rihui Jin, Jun Wang, chengyuan zhu, Liang Mingyu, Yue Gao, Li Yunxuan, Kuicai Dong, Guilin Qi, Lin Ren, Yongrui Chen, Xinbang Dai, Jiaqi Li, Tongtong Wu, Gholamreza Haffari
 \[formula-recognition\]\[document-parsing\]
 
+**Color Independent Word Segmentation From Transcribed Bangla Passages**
+Faias Satter, Noor Masrur, Sk. Md. Masudul Ahsan
+\[handwriting-recognition\]\[text-recognition\]
+
 **Comparing Chunking and Embedding Strategies for Turkish RAG Systems**
 Mustafa Sertaç Türkel, Fatma Nur Korkmaz, Ahmet Tuğrul Bayrak
 \[document-vqa\]
@@ -196,6 +200,10 @@ Zinuo Guo, Min Zhang, Bo Jiang
 **One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting**
 Rui Tang, Wentao Yang, Peirong Zhang, Yongxin Shi, Shun Zhang, Huiguo He, Lianwen Jin
 \[formula-recognition\]\[text-spotting\]\[text-recognition\]
+
+**Open Vocabulary Word Recognition From Transcribed Bangla Texts**
+Faias Satter, Sk. Md. Masudul Ahsan
+\[handwriting-recognition\]\[text-recognition\]
 
 **PaDoc: Layout-Grounded Parallel Decoding for Document Parsing**
 Hao Yu, Jiabo Zhan, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
