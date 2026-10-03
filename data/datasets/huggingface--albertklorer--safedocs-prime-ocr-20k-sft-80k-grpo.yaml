@@ -1,0 +1,44 @@
+schema_version: 1
+id: dataset:huggingface:albertklorer/safedocs-prime-ocr-20k-sft-80k-grpo
+kind: dataset
+name: albertklorer/safedocs-prime-ocr-20k-sft-80k-grpo
+released_at:
+  value: '2026-10-02'
+  precision: day
+added_at: '2026-10-03'
+last_verified_at: '2026-10-03'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSafedocs Prime OCR — 20K SFT / 80K GRPO\n\t\n\nCanonical reward labels\
+  \ is outside all training data configurations. Preparation remains provisional until manifest.json confirms\
+  \ completion and training readiness.\nRepository visibility: public. The legacy private/ path contains\
+  \ only canonical reward labels and references, excluded from all model-input dataset configurations.\
+  \ Raw judge annotations and preparation checkpoints are encrypted and excluded from dataset loading.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/albertklorer/safedocs-prime-ocr-20k-sft-80k-grpo
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/albertklorer/safedocs-prime-ocr-20k-sft-80k-grpo
+  discovered_via: huggingface
+  discovered_at: '2026-10-03'
+  source_id: albertklorer/safedocs-prime-ocr-20k-sft-80k-grpo
+  source_metadata:
+    repository_id: albertklorer/safedocs-prime-ocr-20k-sft-80k-grpo
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: albertklorer
+repository_id: albertklorer/safedocs-prime-ocr-20k-sft-80k-grpo
+usage: []
+annotations: []
+access: unknown

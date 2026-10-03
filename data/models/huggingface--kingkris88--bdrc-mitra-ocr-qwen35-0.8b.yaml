@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:kingkris88/bdrc-mitra-ocr-qwen35-0.8b
+kind: model
+name: kingkris88/bdrc-mitra-ocr-qwen35-0.8b
+released_at:
+  value: '2026-10-02'
+  precision: day
+added_at: '2026-10-03'
+last_verified_at: '2026-10-03'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/kingkris88/bdrc-mitra-ocr-qwen35-0.8b
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/kingkris88/bdrc-mitra-ocr-qwen35-0.8b
+  discovered_via: huggingface
+  discovered_at: '2026-10-03'
+  source_id: kingkris88/bdrc-mitra-ocr-qwen35-0.8b
+  source_metadata:
+    repository_id: kingkris88/bdrc-mitra-ocr-qwen35-0.8b
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: kingkris88
+repository_id: kingkris88/bdrc-mitra-ocr-qwen35-0.8b
+deployment: []

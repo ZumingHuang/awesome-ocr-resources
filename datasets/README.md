@@ -4,6 +4,8 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [al00992/farsi-ocr-test-100](https://huggingface.co/datasets/al00992/farsi-ocr-test-100) | 2026-10-03 | text-recognition | candidate | — |
+| [sagepond/ocr](https://huggingface.co/datasets/sagepond/ocr) | 2026-10-02 | text-recognition | candidate | — |
 | [jktanggraini/document-ocr-sensor-fusion](https://huggingface.co/datasets/jktanggraini/document-ocr-sensor-fusion) | 2026-10-02 | text-recognition | candidate | 
 	
 		
@@ -34,6 +36,21 @@ loader.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.
 README.md —… See the full description on the dataset page: https://huggingface.co/datasets/jktanggraini/document-ocr-sensor-fusion. |
+| [fwgpiyawudk/Thai_Name-Addr_OCR](https://huggingface.co/datasets/fwgpiyawudk/Thai_Name-Addr_OCR) | 2026-10-02 | text-recognition | candidate | Thai Names are randomly generated from the PyThaiNLP Corpus: thai_female_names/thai_male_names + thai_family_names
+Address (only sub-district, district, and province) are from: https://api.openadmindata.org/api/v1/countries/th.json
+Other Address: house no -> randomly generated , village + street name -> from PyThaiNLP Corpus.
+ |
+| [albertklorer/safedocs-prime-ocr-20k-sft-80k-grpo](https://huggingface.co/datasets/albertklorer/safedocs-prime-ocr-20k-sft-80k-grpo) | 2026-10-02 | text-recognition | candidate | 
+	
+		
+	
+	
+		Safedocs Prime OCR — 20K SFT / 80K GRPO
+	
+
+Canonical reward labels is outside all training data configurations. Preparation remains provisional until manifest.json confirms completion and training readiness.
+Repository visibility: public. The legacy private/ path contains only canonical reward labels and references, excluded from all model-input dataset configurations. Raw judge annotations and preparation checkpoints are encrypted and excluded from dataset loading.
+ |
 | [wuvictor/document-ocr-video-text-clean](https://huggingface.co/datasets/wuvictor/document-ocr-video-text-clean) | 2026-10-01 | text-recognition | candidate | 
 	
 		

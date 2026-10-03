@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Jungkookjeon1994/ocr-freeform-test
+kind: model
+name: Jungkookjeon1994/ocr-freeform-test
+released_at:
+  value: '2026-10-03'
+  precision: day
+added_at: '2026-10-03'
+last_verified_at: '2026-10-03'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Jungkookjeon1994/ocr-freeform-test
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Jungkookjeon1994/ocr-freeform-test
+  discovered_via: huggingface
+  discovered_at: '2026-10-03'
+  source_id: Jungkookjeon1994/ocr-freeform-test
+  source_metadata:
+    repository_id: Jungkookjeon1994/ocr-freeform-test
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Jungkookjeon1994
+repository_id: Jungkookjeon1994/ocr-freeform-test
+deployment: []

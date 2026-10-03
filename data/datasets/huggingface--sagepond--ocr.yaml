@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:sagepond/ocr
+kind: dataset
+name: sagepond/ocr
+released_at:
+  value: '2026-10-02'
+  precision: day
+added_at: '2026-10-03'
+last_verified_at: '2026-10-03'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/sagepond/ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/sagepond/ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-03'
+  source_id: sagepond/ocr
+  source_metadata:
+    repository_id: sagepond/ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: sagepond
+repository_id: sagepond/ocr
+usage: []
+annotations: []
+access: unknown

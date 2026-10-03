@@ -4,8 +4,16 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Jungkookjeon1994/ocr-freeform-test](https://huggingface.co/Jungkookjeon1994/ocr-freeform-test) | 2026-10-03 | text-recognition | candidate | — |
+| [bernardosilvatip/ocr-freeform-scratch](https://huggingface.co/bernardosilvatip/ocr-freeform-scratch) | 2026-10-03 | text-recognition | candidate | — |
+| [xbikevn/ocr_dynamic_padding_checkpoints](https://huggingface.co/xbikevn/ocr_dynamic_padding_checkpoints) | 2026-10-02 | text-recognition | candidate | — |
+| [uzair0/hindkoprint-ocr-v1](https://huggingface.co/uzair0/hindkoprint-ocr-v1) | 2026-10-02 | text-recognition | candidate | — |
 | [sarahmue1986/ocr-freeform-beta-2024](https://huggingface.co/sarahmue1986/ocr-freeform-beta-2024) | 2026-10-02 | text-recognition | candidate | — |
 | [manateelazycat/PP-OCRv6-Runtime](https://huggingface.co/manateelazycat/PP-OCRv6-Runtime) | 2026-10-02 | text-recognition | candidate | — |
+| [kingkris88/bdrc-mitra-ocr-qwen35-0.8b](https://huggingface.co/kingkris88/bdrc-mitra-ocr-qwen35-0.8b) | 2026-10-02 | text-recognition | candidate | — |
+| [Hieuvvu8815x/ocr-freeform](https://huggingface.co/Hieuvvu8815x/ocr-freeform) | 2026-10-02 | text-recognition | candidate | — |
+| [bixii/hayai-ocr-v2.5-nova-onnx](https://huggingface.co/bixii/hayai-ocr-v2.5-nova-onnx) | 2026-10-02 | text-recognition | candidate | — |
+| [bikash4002/Qwen2.5-VL-7B-Medical-OCR](https://huggingface.co/bikash4002/Qwen2.5-VL-7B-Medical-OCR) | 2026-10-02 | text-recognition | candidate | — |
 | [abhishekmehtaova/my-ocr-freeform](https://huggingface.co/abhishekmehtaova/my-ocr-freeform) | 2026-10-02 | text-recognition | candidate | — |
 | [ZenithComp/typhoon-ocr-7b-thai-handwriting-lora-v1](https://huggingface.co/ZenithComp/typhoon-ocr-7b-thai-handwriting-lora-v1) | 2026-10-01 | handwriting-recognition, text-recognition | candidate | — |
 | [vladlinv/PP-OCRv6_tiny_rec_ru_onnx](https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx) | 2026-10-01 | text-recognition | candidate | — |
