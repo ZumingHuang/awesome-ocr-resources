@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Hieuvvu8815x/ocr-freeform
+kind: model
+name: Hieuvvu8815x/ocr-freeform
+released_at:
+  value: '2026-10-02'
+  precision: day
+added_at: '2026-10-03'
+last_verified_at: '2026-10-03'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Hieuvvu8815x/ocr-freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Hieuvvu8815x/ocr-freeform
+  discovered_via: huggingface
+  discovered_at: '2026-10-03'
+  source_id: Hieuvvu8815x/ocr-freeform
+  source_metadata:
+    repository_id: Hieuvvu8815x/ocr-freeform
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Hieuvvu8815x
+repository_id: Hieuvvu8815x/ocr-freeform
+deployment: []

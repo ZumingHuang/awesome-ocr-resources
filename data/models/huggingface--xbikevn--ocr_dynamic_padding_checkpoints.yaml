@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:xbikevn/ocr_dynamic_padding_checkpoints
+kind: model
+name: xbikevn/ocr_dynamic_padding_checkpoints
+released_at:
+  value: '2026-10-02'
+  precision: day
+added_at: '2026-10-03'
+last_verified_at: '2026-10-03'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/xbikevn/ocr_dynamic_padding_checkpoints
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/xbikevn/ocr_dynamic_padding_checkpoints
+  discovered_via: huggingface
+  discovered_at: '2026-10-03'
+  source_id: xbikevn/ocr_dynamic_padding_checkpoints
+  source_metadata:
+    repository_id: xbikevn/ocr_dynamic_padding_checkpoints
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: xbikevn
+repository_id: xbikevn/ocr_dynamic_padding_checkpoints
+deployment: []
