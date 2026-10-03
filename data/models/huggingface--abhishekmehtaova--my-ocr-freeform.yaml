@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:abhishekmehtaova/my-ocr-freeform
+kind: model
+name: abhishekmehtaova/my-ocr-freeform
+released_at:
+  value: '2026-10-02'
+  precision: day
+added_at: '2026-10-02'
+last_verified_at: '2026-10-02'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/abhishekmehtaova/my-ocr-freeform
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/abhishekmehtaova/my-ocr-freeform
+  discovered_via: huggingface
+  discovered_at: '2026-10-02'
+  source_id: abhishekmehtaova/my-ocr-freeform
+  source_metadata:
+    repository_id: abhishekmehtaova/my-ocr-freeform
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: abhishekmehtaova
+repository_id: abhishekmehtaova/my-ocr-freeform
+deployment: []

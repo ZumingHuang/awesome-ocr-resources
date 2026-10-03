@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:2610.01191
+kind: paper
+name: Color Independent Word Segmentation From Transcribed Bangla Passages
+released_at:
+  value: '2026-10-01'
+  precision: day
+added_at: '2026-10-02'
+last_verified_at: '2026-10-02'
+summary: An optical character recognition(OCR) system can scan paper and extract text, making people's
+  jobs easier. While numerous OCR systems are accessible in the software sector, finding a dependable
+  equivalent solution for Bangla is tough. When it comes to handwritten texts, the case is even more rare.
+  The first fundamental step to any OCR is to segment words from text images. If this stage fails, the
+  total OCR's performance will be poor no matter how promising the later stages perform. This research
+  aims to segment words in a handwritten Bangla text image. This research can be implemented on any smartphone-captured
+  image, irrespective of the color and type of paper and ink. Furthermore, as smartphone-captured images
+  can create shadow interferences, the custom dataset built for this research is created in such a way
+  that every possible obstacle that can be faced is included. For 7374 words, a total of 7278 bounding
+  boxes are generated, which have recall of 90.60 %, precision of 91.80 %, and F1-score of 91.20 %. The
+  system can be further improved with nested operations on bounding boxes containing several words or
+  by adjusting the adaptive thresholding and dilation filter sizes to a more precise level.
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.01191
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.01191
+  discovered_via: arxiv
+  discovered_at: '2026-10-02'
+  source_id: '2610.01191'
+  source_metadata:
+    arxiv_id: '2610.01191'
+    doi: 10.1109/EICT61409.2023.10427730
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Faias Satter
+- Noor Masrur
+- Sk. Md. Masudul Ahsan
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.01191'
+doi: 10.1109/EICT61409.2023.10427730

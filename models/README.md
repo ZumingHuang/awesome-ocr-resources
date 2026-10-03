@@ -4,11 +4,22 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [sarahmue1986/ocr-freeform-beta-2024](https://huggingface.co/sarahmue1986/ocr-freeform-beta-2024) | 2026-10-02 | text-recognition | candidate | — |
+| [manateelazycat/PP-OCRv6-Runtime](https://huggingface.co/manateelazycat/PP-OCRv6-Runtime) | 2026-10-02 | text-recognition | candidate | — |
+| [abhishekmehtaova/my-ocr-freeform](https://huggingface.co/abhishekmehtaova/my-ocr-freeform) | 2026-10-02 | text-recognition | candidate | — |
+| [ZenithComp/typhoon-ocr-7b-thai-handwriting-lora-v1](https://huggingface.co/ZenithComp/typhoon-ocr-7b-thai-handwriting-lora-v1) | 2026-10-01 | handwriting-recognition, text-recognition | candidate | — |
 | [vladlinv/PP-OCRv6_tiny_rec_ru_onnx](https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx) | 2026-10-01 | text-recognition | candidate | — |
 | [vladlinv/PP-OCRv6_medium_rec_ru_onnx](https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru_onnx) | 2026-10-01 | text-recognition | candidate | — |
 | [stefanschmidt/jina-ocr-v1-8bit](https://huggingface.co/stefanschmidt/jina-ocr-v1-8bit) | 2026-10-01 | text-recognition | candidate | — |
 | [Sakuramor6/cs224n-ocr-freeform](https://huggingface.co/Sakuramor6/cs224n-ocr-freeform) | 2026-10-01 | text-recognition | candidate | — |
 | [Mumyadav/dl-ocr-freeform](https://huggingface.co/Mumyadav/dl-ocr-freeform) | 2026-10-01 | text-recognition | candidate | — |
+| [KeraCare/glm-ocr-field-bbox-lora](https://huggingface.co/KeraCare/glm-ocr-field-bbox-lora) | 2026-10-01 | text-recognition | candidate | — |
+| [KeraCare/glm-ocr-field-bbox-full-ft](https://huggingface.co/KeraCare/glm-ocr-field-bbox-full-ft) | 2026-10-01 | text-recognition | candidate | — |
+| [jenniferbrown/ocr-freeform](https://huggingface.co/jenniferbrown/ocr-freeform) | 2026-10-01 | text-recognition | candidate | — |
+| [Javo3000/gemma-3-4b-african-medical-ocr](https://huggingface.co/Javo3000/gemma-3-4b-african-medical-ocr) | 2026-10-01 | text-recognition | candidate | — |
+| [immich-testing/PP-OCRv5_server](https://huggingface.co/immich-testing/PP-OCRv5_server) | 2026-10-01 | text-recognition | candidate | — |
+| [immich-testing/CH__PP-OCRv5_server](https://huggingface.co/immich-testing/CH__PP-OCRv5_server) | 2026-10-01 | text-recognition | candidate | — |
+| [bakhil-aissa/ovis_ocr2_mnn](https://huggingface.co/bakhil-aissa/ovis_ocr2_mnn) | 2026-10-01 | text-recognition | candidate | — |
 | [vladlinv/PP-OCRv6_tiny_rec_ru](https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru) | 2026-09-30 | text-recognition | candidate | — |
 | [vladlinv/PP-OCRv6_medium_rec_ru](https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru) | 2026-09-30 | text-recognition | candidate | — |
 | [thomaswhit/postdoc-ocr-freeform](https://huggingface.co/thomaswhit/postdoc-ocr-freeform) | 2026-09-30 | text-recognition | candidate | — |
