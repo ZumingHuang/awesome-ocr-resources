@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Aimee51819/FileFlipper](https://github.com/Aimee51819/FileFlipper) | 2026-10-02 | text-recognition | candidate | FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tokens. Plus drag-and-Shift conversion in Finder: JPG, PNG, PDF, HEIC, MP4, crop, OCR, background removal. 100% on-device, free and open source. 一键转 Markdown，喂给 AI 更省 token。 |
 | [SeerRay-Lab/Xiaomi-OCR-0](https://github.com/SeerRay-Lab/Xiaomi-OCR-0) | 2026-09-28 | text-recognition | candidate | — |
 | [kingrishabdugar/fizzdoc](https://github.com/kingrishabdugar/fizzdoc) | 2026-09-27 | text-recognition | candidate | Free, private PDF, image, audio, Word, Excel & PowerPoint tools that run 100% in your browser. Compress, convert, edit, redact, OCR, cut MP3. No uploads, no sign-up, no watermark. Free forever · 51 tools · 16 languages. |
 | [jimmgreen/LumaShot](https://github.com/jimmgreen/LumaShot) | 2026-09-27 | text-recognition | candidate | Windows screenshot, annotation, offline OCR, clipboard history, GIF and screen recording. |
