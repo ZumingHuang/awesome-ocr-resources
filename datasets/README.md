@@ -4,6 +4,36 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Chauhan93/study-document-ocr](https://huggingface.co/datasets/Chauhan93/study-document-ocr) | 2026-10-04 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Sensor Fusion metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md… See the full description on the dataset page: https://huggingface.co/datasets/Chauhan93/study-document-ocr. |
 | [al00992/farsi-ocr-test-100](https://huggingface.co/datasets/al00992/farsi-ocr-test-100) | 2026-10-03 | text-recognition | candidate | — |
 | [sagepond/ocr](https://huggingface.co/datasets/sagepond/ocr) | 2026-10-02 | text-recognition | candidate | — |
 | [jktanggraini/document-ocr-sensor-fusion](https://huggingface.co/datasets/jktanggraini/document-ocr-sensor-fusion) | 2026-10-02 | text-recognition | candidate | 
