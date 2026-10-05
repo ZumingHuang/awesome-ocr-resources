@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Aryan98999/scanmind-word-ocr
+kind: model
+name: Aryan98999/scanmind-word-ocr
+released_at:
+  value: '2026-10-05'
+  precision: day
+added_at: '2026-10-05'
+last_verified_at: '2026-10-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Aryan98999/scanmind-word-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Aryan98999/scanmind-word-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-05'
+  source_id: Aryan98999/scanmind-word-ocr
+  source_metadata:
+    repository_id: Aryan98999/scanmind-word-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Aryan98999
+repository_id: Aryan98999/scanmind-word-ocr
+deployment: []

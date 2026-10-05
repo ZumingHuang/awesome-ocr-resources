@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:2610.02880
+kind: paper
+name: 'Found but Not Read: When Extracted Text Closes the Retrieval-Reading Gap in Document Vision-Language
+  Models'
+released_at:
+  value: '2026-10-02'
+  precision: day
+added_at: '2026-10-05'
+last_verified_at: '2026-10-05'
+summary: 'Retrieval-augmented document question answering assumes that once the right page is found, a
+  vision-language model (VLM) can read it. We show that this assumption often fails, leaving a retrieval-reading
+  gap: evidence found but not used. A paired protocol isolates this gap by comparing answers from the
+  retrieved page images alone with answers from the same images plus their extracted text. On FoveDoc-Bench,
+  our benchmark with traceable evidence, retrieval finds nearly every evidence page, yet adding CPU-OCR
+  text raises strict accuracy by 13 to 16 points. An exact text layer roughly doubles the gain, which
+  appears across six VLMs from three families and, within one family, narrows with scale without closing.
+  The reader can read this evidence but cannot find it: crops of it recover most of the text gain, boxes
+  around it on the page none. The same protocol identifies two boundaries. Extracted text helps on textual
+  evidence but is neutral or harmful on charts and figures. Its advantage shrinks as retrieval degrades,
+  and unrelated text of the same form adds nothing detectable. Extracted text is an amplifier of retrieval
+  that works, not a substitute for retrieval that does not. Our code is available at https://github.com/atoz03/fovedoc-sup.'
+tasks:
+- document-vqa
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.02880
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.02880
+  discovered_via: arxiv
+  discovered_at: '2026-10-05'
+  source_id: '2610.02880'
+  source_metadata:
+    arxiv_id: '2610.02880'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Qingtao Xia
+- Siyao Cheng
+- Jiahua Bao
+- Jiaxing Du
+- Jie Liu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.02880'
