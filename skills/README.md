@@ -4,6 +4,9 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [majiayu000/claude-skill-registry / skills/other/pay/SKILL.md](https://github.com/majiayu000/claude-skill-registry/blob/a5d5324e375803926dc337a5b14c8779a9db5516/skills/other/pay/SKILL.md) | 2026-10-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [majiayu000/claude-skill-registry / skills/documents/hwp/SKILL.md](https://github.com/majiayu000/claude-skill-registry/blob/a5d5324e375803926dc337a5b14c8779a9db5516/skills/documents/hwp/SKILL.md) | 2026-10-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [majiayu000/claude-skill-registry / skills/bash/hwp/SKILL.md](https://github.com/majiayu000/claude-skill-registry/blob/a5d5324e375803926dc337a5b14c8779a9db5516/skills/bash/hwp/SKILL.md) | 2026-10-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [thetahealth/mirobody / skills/translate-health-data/SKILL.md](https://github.com/thetahealth/mirobody/blob/3a6b53961190bdf02f3812e15d6274a34affc5b1/skills/translate-health-data/SKILL.md) | 2026-10-02 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [topoteretes/cognee / .agents/skills/cognee-install/SKILL.md](https://github.com/topoteretes/cognee/blob/ba3631f2ed363a6ea50d649c34c56885af6b36fe/.agents/skills/cognee-install/SKILL.md) | 2026-09-30 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [mrzhangguoguo/pdf-zh-image-translator / SKILL.md](https://github.com/mrzhangguoguo/pdf-zh-image-translator/blob/64ae788206f3793db98c6ed9813d10824a7ab482/SKILL.md) | 2026-09-25 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

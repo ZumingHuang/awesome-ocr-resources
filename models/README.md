@@ -4,8 +4,21 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [AutomatosX/AX-Unlimited-OCR-3B-MoE-CUDA-AXQ-NVFP4-W4A4](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-CUDA-AXQ-NVFP4-W4A4) | 2026-10-04 | text-recognition | candidate | — |
+| [AutomatosX/AX-DeepSeek-OCR-2-CUDA-AXQ-NVFP4-W4A4](https://huggingface.co/AutomatosX/AX-DeepSeek-OCR-2-CUDA-AXQ-NVFP4-W4A4) | 2026-10-04 | text-recognition | candidate | — |
+| [AutomatosX/AX-DeepSeek-OCR-2-CUDA-AXQ-NVFP4-W4A16](https://huggingface.co/AutomatosX/AX-DeepSeek-OCR-2-CUDA-AXQ-NVFP4-W4A16) | 2026-10-04 | text-recognition | candidate | — |
+| [Lucas-dubois/study-ocr-freeform30](https://huggingface.co/Lucas-dubois/study-ocr-freeform30) | 2026-10-03 | text-recognition | candidate | — |
+| [keystats/Legend_ocr_qwen2.5_72b_lora](https://huggingface.co/keystats/Legend_ocr_qwen2.5_72b_lora) | 2026-10-03 | text-recognition | candidate | — |
 | [Jungkookjeon1994/ocr-freeform-test](https://huggingface.co/Jungkookjeon1994/ocr-freeform-test) | 2026-10-03 | text-recognition | candidate | — |
+| [ismamNur/ocr-chandra-full-stage-2](https://huggingface.co/ismamNur/ocr-chandra-full-stage-2) | 2026-10-03 | text-recognition | candidate | — |
+| [ismamNur/ocr-chandra-full-stage-1](https://huggingface.co/ismamNur/ocr-chandra-full-stage-1) | 2026-10-03 | text-recognition | candidate | — |
+| [FineEnvs/gemma-4-E4B-it-kannada-ocr-grpo](https://huggingface.co/FineEnvs/gemma-4-E4B-it-kannada-ocr-grpo) | 2026-10-03 | text-recognition | candidate | — |
 | [bernardosilvatip/ocr-freeform-scratch](https://huggingface.co/bernardosilvatip/ocr-freeform-scratch) | 2026-10-03 | text-recognition | candidate | — |
+| [AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-MXFP8](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-MXFP8) | 2026-10-03 | text-recognition | candidate | — |
+| [AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-MXFP4](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-MXFP4) | 2026-10-03 | text-recognition | candidate | — |
+| [AutomatosX/AX-Unlimited-OCR-3B-MoE-CUDA-AXQ-NVFP4-W4A16](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-CUDA-AXQ-NVFP4-W4A16) | 2026-10-03 | text-recognition | candidate | — |
+| [AutomatosX/AX-DeepSeek-OCR-2-MLX-AXQ-MXFP8](https://huggingface.co/AutomatosX/AX-DeepSeek-OCR-2-MLX-AXQ-MXFP8) | 2026-10-03 | text-recognition | candidate | — |
+| [AutomatosX/AX-DeepSeek-OCR-2-MLX-AXQ-MXFP4](https://huggingface.co/AutomatosX/AX-DeepSeek-OCR-2-MLX-AXQ-MXFP4) | 2026-10-03 | text-recognition | candidate | — |
 | [xbikevn/ocr_dynamic_padding_checkpoints](https://huggingface.co/xbikevn/ocr_dynamic_padding_checkpoints) | 2026-10-02 | text-recognition | candidate | — |
 | [uzair0/hindkoprint-ocr-v1](https://huggingface.co/uzair0/hindkoprint-ocr-v1) | 2026-10-02 | text-recognition | candidate | — |
 | [sarahmue1986/ocr-freeform-beta-2024](https://huggingface.co/sarahmue1986/ocr-freeform-beta-2024) | 2026-10-02 | text-recognition | candidate | — |

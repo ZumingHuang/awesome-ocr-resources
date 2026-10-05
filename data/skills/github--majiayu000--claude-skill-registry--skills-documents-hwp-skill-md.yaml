@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:majiayu000/claude-skill-registry:skills-documents-hwp-skill-md
+kind: skill
+name: majiayu000/claude-skill-registry / skills/documents/hwp/SKILL.md
+released_at:
+  value: '2026-10-04'
+  precision: day
+added_at: '2026-10-04'
+last_verified_at: '2026-10-04'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/majiayu000/claude-skill-registry/blob/a5d5324e375803926dc337a5b14c8779a9db5516/skills/documents/hwp/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/majiayu000/claude-skill-registry/blob/a5d5324e375803926dc337a5b14c8779a9db5516/skills/documents/hwp/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-04'
+  source_id: majiayu000/claude-skill-registry:skills/documents/hwp/SKILL.md
+  source_metadata:
+    repository: majiayu000/claude-skill-registry
+    manifest_path: skills/documents/hwp/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: majiayu000/claude-skill-registry
+manifest_path: skills/documents/hwp/SKILL.md
+capabilities: {}
