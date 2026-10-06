@@ -125,6 +125,10 @@ Eric Ayllon, Abel Gandia, Jorge Calvo-Zaragoza
 Hang Wang, Jin Zhang, Guoliang Xu, Pengyue Lu, Yao Li, Zijiao Zhang, Tianyu Huang, Weiqi Xiong, Yulong Wang, Chuqiao Lu, Wenkang Huang, Kai Yang, Yadong Li, Hui Li, Xingzhong Xu, Xiao Xu
 \[document-parsing\]
 
+**Found but Not Read: When Extracted Text Closes the Retrieval-Reading Gap in Document Vision-Language Models**
+Qingtao Xia, Siyao Cheng, Jiahua Bao, Jiaxing Du, Jie Liu
+\[document-vqa\]\[text-recognition\]
+
 **Handwritten Text Recognition Lives in the High-Pixel Variance Subspace**
 Carlos Garrido-Munoz, Jorge Calvo-Zaragoza
 \[handwriting-recognition\]\[text-recognition\]

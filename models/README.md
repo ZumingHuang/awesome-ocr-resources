@@ -4,6 +4,24 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [xinyihan2000/cs229-ocr-freeform-2024](https://huggingface.co/xinyihan2000/cs229-ocr-freeform-2024) | 2026-10-05 | text-recognition | candidate | — |
+| [nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300](https://huggingface.co/nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300) | 2026-10-05 | text-recognition | candidate | — |
+| [Aryan98999/scanmind-word-ocr](https://huggingface.co/Aryan98999/scanmind-word-ocr) | 2026-10-05 | text-recognition | candidate | — |
+| [Aryan98999/scanmind-line-ocr](https://huggingface.co/Aryan98999/scanmind-line-ocr) | 2026-10-05 | text-recognition | candidate | — |
+| [wannaphong/typhoon-ocr1.5-2b](https://huggingface.co/wannaphong/typhoon-ocr1.5-2b) | 2026-10-04 | text-recognition | candidate | — |
+| [wannaphong/typhoon-ocr-7b](https://huggingface.co/wannaphong/typhoon-ocr-7b) | 2026-10-04 | text-recognition | candidate | — |
+| [wannaphong/typhoon-ocr-3b](https://huggingface.co/wannaphong/typhoon-ocr-3b) | 2026-10-04 | text-recognition | candidate | — |
+| [vvs184/deepseek-ocr-page-classifier-b04](https://huggingface.co/vvs184/deepseek-ocr-page-classifier-b04) | 2026-10-04 | text-recognition | candidate | — |
+| [subash1652007/indian-plate-ocr](https://huggingface.co/subash1652007/indian-plate-ocr) | 2026-10-04 | text-recognition | candidate | — |
+| [ppatelsandeep88/ocr-freeform-review](https://huggingface.co/ppatelsandeep88/ocr-freeform-review) | 2026-10-04 | text-recognition | candidate | — |
+| [nathangrousseau/ocr-freeform-int8-2024](https://huggingface.co/nathangrousseau/ocr-freeform-int8-2024) | 2026-10-04 | text-recognition | candidate | — |
+| [nadanedon/arabic-legalAI-ocr-merged-checkpoint-5](https://huggingface.co/nadanedon/arabic-legalAI-ocr-merged-checkpoint-5) | 2026-10-04 | text-recognition | candidate | — |
+| [nadanedon/arabic-legalAI-documents-ocr-merged](https://huggingface.co/nadanedon/arabic-legalAI-documents-ocr-merged) | 2026-10-04 | text-recognition | candidate | — |
+| [mradermacher/arabic-legalAI-documents-ocr-merged-GGUF](https://huggingface.co/mradermacher/arabic-legalAI-documents-ocr-merged-GGUF) | 2026-10-04 | text-recognition | candidate | — |
+| [keystats/Legend_ocr_llama3.2_11b_vision_lora-highavg](https://huggingface.co/keystats/Legend_ocr_llama3.2_11b_vision_lora-highavg) | 2026-10-04 | text-recognition | candidate | — |
+| [keystats/Legend_ocr_llama3.2_11b_vision_lora](https://huggingface.co/keystats/Legend_ocr_llama3.2_11b_vision_lora) | 2026-10-04 | text-recognition | candidate | — |
+| [keystats/Legend_ocr_gemma4_31b_lora](https://huggingface.co/keystats/Legend_ocr_gemma4_31b_lora) | 2026-10-04 | text-recognition | candidate | — |
+| [heatherwhite/ocr-freeform-reading](https://huggingface.co/heatherwhite/ocr-freeform-reading) | 2026-10-04 | text-recognition | candidate | — |
 | [AutomatosX/AX-Unlimited-OCR-3B-MoE-CUDA-AXQ-NVFP4-W4A4](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-CUDA-AXQ-NVFP4-W4A4) | 2026-10-04 | text-recognition | candidate | — |
 | [AutomatosX/AX-DeepSeek-OCR-2-CUDA-AXQ-NVFP4-W4A4](https://huggingface.co/AutomatosX/AX-DeepSeek-OCR-2-CUDA-AXQ-NVFP4-W4A4) | 2026-10-04 | text-recognition | candidate | — |
 | [AutomatosX/AX-DeepSeek-OCR-2-CUDA-AXQ-NVFP4-W4A16](https://huggingface.co/AutomatosX/AX-DeepSeek-OCR-2-CUDA-AXQ-NVFP4-W4A16) | 2026-10-04 | text-recognition | candidate | — |
@@ -61,6 +79,7 @@
 | [Var3n/byt5-large-ocr-postcorrection](https://huggingface.co/Var3n/byt5-large-ocr-postcorrection) | 2026-09-29 | text-recognition | candidate | — |
 | [truonggiabao7/ocrdoc-models](https://huggingface.co/truonggiabao7/ocrdoc-models) | 2026-09-29 | text-recognition | candidate | — |
 | [SeerRay-Lab/Xiaomi-OCR-0](https://huggingface.co/SeerRay-Lab/Xiaomi-OCR-0) | 2026-09-29 | text-recognition | candidate | — |
+| [ScienceSoft/scnsoft-ocr-rec-multilingual](https://huggingface.co/ScienceSoft/scnsoft-ocr-rec-multilingual) | 2026-09-29 | text-recognition | candidate | — |
 | [schift-io/schift-ocr-1-beta](https://huggingface.co/schift-io/schift-ocr-1-beta) | 2026-09-29 | text-recognition | candidate | — |
 | [sahilagarwal/pan-ocr-models](https://huggingface.co/sahilagarwal/pan-ocr-models) | 2026-09-29 | text-recognition | candidate | — |
 | [richardyoung/Unlimited-OCR-GGUF](https://huggingface.co/richardyoung/Unlimited-OCR-GGUF) | 2026-09-29 | text-recognition | candidate | — |

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300
+kind: model
+name: nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300
+released_at:
+  value: '2026-10-05'
+  precision: day
+added_at: '2026-10-05'
+last_verified_at: '2026-10-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300
+  discovered_via: huggingface
+  discovered_at: '2026-10-05'
+  source_id: nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300
+  source_metadata:
+    repository_id: nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: nadanedon
+repository_id: nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300
+deployment: []
