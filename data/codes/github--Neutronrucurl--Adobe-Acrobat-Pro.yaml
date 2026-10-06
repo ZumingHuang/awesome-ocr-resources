@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Neutronrucurl/Adobe-Acrobat-Pro
+kind: code
+name: Neutronrucurl/Adobe-Acrobat-Pro
+released_at:
+  value: '2026-10-05'
+  precision: day
+added_at: '2026-10-06'
+last_verified_at: '2026-10-06'
+summary: Adobe Acrobat Pro optimizes your professional desktop workflow by providing an advanced set of
+  tools that streamline document management tasks and enable...
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Neutronrucurl/Adobe-Acrobat-Pro
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Neutronrucurl/Adobe-Acrobat-Pro
+  discovered_via: github
+  discovered_at: '2026-10-06'
+  source_id: R_kgDOU8cDkw
+  source_metadata:
+    repository: Neutronrucurl/Adobe-Acrobat-Pro
+    stars: 392
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Neutronrucurl/Adobe-Acrobat-Pro
+landmark: false
+programming_languages: []
+maintenance_status: active

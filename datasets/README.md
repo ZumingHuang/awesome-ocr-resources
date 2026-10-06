@@ -4,6 +4,146 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [JerryLeeji/document-ocr-data](https://huggingface.co/datasets/JerryLeeji/document-ocr-data) | 2026-10-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Video Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/JerryLeeji/document-ocr-data. |
+| [annaszymanski/document-ocr-dataset](https://huggingface.co/datasets/annaszymanski/document-ocr-dataset) | 2026-10-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Multimodal3 Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Multimodal3 data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/annaszymanski/document-ocr-dataset. |
+| [alvesdiegopib/document-ocr-text-tabular](https://huggingface.co/datasets/alvesdiegopib/document-ocr-text-tabular) | 2026-10-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Text Tabular Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Text Tabular metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/alvesdiegopib/document-ocr-text-tabular. |
+| [Kumarakashsy/document-ocr-pointcloud-text](https://huggingface.co/datasets/Kumarakashsy/document-ocr-pointcloud-text) | 2026-10-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/Kumarakashsy/document-ocr-pointcloud-text. |
+| [koussedia/nko-ocr-dataset](https://huggingface.co/datasets/koussedia/nko-ocr-dataset) | 2026-10-05 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		N'Ko OCR Dataset
+	
+
+Training dataset for N'Ko (ߒߞߏ) optical character recognition — the script of Manding languages (Bambara, Maninka, Dioula), ~50 million speakers in West Africa.
+Built from scratch (Oct 2026) because no usable N'Ko OCR dataset existed anywhere.
+
+	
+		
+	
+	
+		Contents
+	
+
+
+4,422 PNG images + transcriptions (.gt.txt) + Tesseract box files (.box)
+2,211 unique N'Ko lines (Bambara, Mali), each rendered in 2 variants (clean 40pt / noisy 32pt)
+2 fonts: Noto Sans NKo… See the full description on the dataset page: https://huggingface.co/datasets/koussedia/nko-ocr-dataset. |
 | [Chauhan93/study-document-ocr](https://huggingface.co/datasets/Chauhan93/study-document-ocr) | 2026-10-04 | text-recognition | candidate | 
 	
 		

@@ -4,8 +4,13 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [not-bhattey/qwen35-nepali-ocr-lora-continued](https://huggingface.co/not-bhattey/qwen35-nepali-ocr-lora-continued) | 2026-10-06 | text-recognition | candidate | — |
 | [xinyihan2000/cs229-ocr-freeform-2024](https://huggingface.co/xinyihan2000/cs229-ocr-freeform-2024) | 2026-10-05 | text-recognition | candidate | — |
+| [nikolayini83/ocr-freeform-v1](https://huggingface.co/nikolayini83/ocr-freeform-v1) | 2026-10-05 | text-recognition | candidate | — |
 | [nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300](https://huggingface.co/nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300) | 2026-10-05 | text-recognition | candidate | — |
+| [martinezwyn/simple-ocr-freeform](https://huggingface.co/martinezwyn/simple-ocr-freeform) | 2026-10-05 | text-recognition | candidate | — |
+| [Jlopez99x/ocr-freeform](https://huggingface.co/Jlopez99x/ocr-freeform) | 2026-10-05 | text-recognition | candidate | — |
+| [ByronLeeee/Xiaomi-OCR-0-Ninfer](https://huggingface.co/ByronLeeee/Xiaomi-OCR-0-Ninfer) | 2026-10-05 | text-recognition | candidate | — |
 | [Aryan98999/scanmind-word-ocr](https://huggingface.co/Aryan98999/scanmind-word-ocr) | 2026-10-05 | text-recognition | candidate | — |
 | [Aryan98999/scanmind-line-ocr](https://huggingface.co/Aryan98999/scanmind-line-ocr) | 2026-10-05 | text-recognition | candidate | — |
 | [wannaphong/typhoon-ocr1.5-2b](https://huggingface.co/wannaphong/typhoon-ocr1.5-2b) | 2026-10-04 | text-recognition | candidate | — |
@@ -31,6 +36,7 @@
 | [ismamNur/ocr-chandra-full-stage-2](https://huggingface.co/ismamNur/ocr-chandra-full-stage-2) | 2026-10-03 | text-recognition | candidate | — |
 | [ismamNur/ocr-chandra-full-stage-1](https://huggingface.co/ismamNur/ocr-chandra-full-stage-1) | 2026-10-03 | text-recognition | candidate | — |
 | [FineEnvs/gemma-4-E4B-it-kannada-ocr-grpo](https://huggingface.co/FineEnvs/gemma-4-E4B-it-kannada-ocr-grpo) | 2026-10-03 | text-recognition | candidate | — |
+| [DuyTa/vi-en-ocr-student-0.25b](https://huggingface.co/DuyTa/vi-en-ocr-student-0.25b) | 2026-10-03 | text-recognition | candidate | — |
 | [bernardosilvatip/ocr-freeform-scratch](https://huggingface.co/bernardosilvatip/ocr-freeform-scratch) | 2026-10-03 | text-recognition | candidate | — |
 | [AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-MXFP8](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-MXFP8) | 2026-10-03 | text-recognition | candidate | — |
 | [AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-MXFP4](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-MXFP4) | 2026-10-03 | text-recognition | candidate | — |

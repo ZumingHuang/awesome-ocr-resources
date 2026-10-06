@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:DuyTa/vi-en-ocr-student-0.25b
+kind: model
+name: DuyTa/vi-en-ocr-student-0.25b
+released_at:
+  value: '2026-10-03'
+  precision: day
+added_at: '2026-10-06'
+last_verified_at: '2026-10-06'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/DuyTa/vi-en-ocr-student-0.25b
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/DuyTa/vi-en-ocr-student-0.25b
+  discovered_via: huggingface
+  discovered_at: '2026-10-06'
+  source_id: DuyTa/vi-en-ocr-student-0.25b
+  source_metadata:
+    repository_id: DuyTa/vi-en-ocr-student-0.25b
+    downloads: 7
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: DuyTa
+repository_id: DuyTa/vi-en-ocr-student-0.25b
+deployment: []
