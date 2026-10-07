@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [d8349565/MultiTool-Office-Next](https://github.com/d8349565/MultiTool-Office-Next) | 2026-10-06 | text-recognition | candidate | 面向 Windows 的文件管理与办公工作台，集成本地检索、AI 助手、OCR、翻译和待办。 |
 | [ilramdhan/dompetku](https://github.com/ilramdhan/dompetku) | 2026-10-03 | text-recognition | candidate | Dompetku — a private, self-hosted personal finance tracker: budgets, goals, recurring & split transactions, gold & net worth, Telegram bot, receipt OCR, 2FA and backups. |
 | [Aimee51819/FileFlipper](https://github.com/Aimee51819/FileFlipper) | 2026-10-02 | text-recognition | candidate | FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tokens. Plus drag-and-Shift conversion in Finder: JPG, PNG, PDF, HEIC, MP4, crop, OCR, background removal. 100% on-device, free and open source. 一键转 Markdown，喂给 AI 更省 token。 |
 | [SeerRay-Lab/Xiaomi-OCR-0](https://github.com/SeerRay-Lab/Xiaomi-OCR-0) | 2026-09-28 | text-recognition | candidate | — |

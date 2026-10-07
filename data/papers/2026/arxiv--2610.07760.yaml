@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:arxiv:2610.07760
+kind: paper
+name: 'Token-Budgeted Escalation for Financial Document QA: Cost Is Predictable, Benefit Is the Bottleneck'
+released_at:
+  value: '2026-10-06'
+  precision: day
+added_at: '2026-10-07'
+last_verified_at: '2026-10-07'
+summary: Retrieval-augmented generation systems can route difficult queries to deeper context, but batch
+  deployments must allocate a shared token budget across calls whose costs vary by query. We formulate
+  selective escalation as finite-batch allocation for financial document question answering. Each of 150
+  FinanceBench questions first receives a top-1 retrieval answer. Predictors estimate the adjudication-quality
+  gain and token cost of an optional top-5 call, and the allocator prioritizes calls by predicted gain
+  per token. At the nominal 10% budget, gain-per-token allocation improves adjudication quality over gain-only
+  ranking by 0.034 (95% document-bootstrap CI [0.001, 0.072]) while using 46.6% fewer total tokens than
+  one-pass top-5 retrieval. Additional-call cost is accurately predictable (R-squared 0.93), whereas beneficial
+  escalation remains difficult to rank (AUROC 0.60). These results show that heterogeneous cost is actionable
+  under tight constraints, while progress across the full budget frontier depends on stronger query-specific
+  benefit estimates.
+tasks:
+- document-vqa
+- formula-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.07760
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.07760
+  discovered_via: arxiv
+  discovered_at: '2026-10-07'
+  source_id: '2610.07760'
+  source_metadata:
+    arxiv_id: '2610.07760'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Junru Zhu
+- Yixin Yang
+- Xiaoqing Ding
+- Ruoyu Qi
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.07760'

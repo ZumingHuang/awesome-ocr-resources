@@ -249,6 +249,10 @@ Nuzhat Khan, Ab Al-Hadi Ab Rahman, Shahriyar Masud Rizvi, Ibrahim Yousef Alshare
 Jahanvi Rajput, Dhruv Kudale, Saikiran Kasturi, Utkarsh Verma, Ganesh Ramakrishnan
 \[document-vqa\]\[table-recognition\]\[text-recognition\]
 
+**Token-Budgeted Escalation for Financial Document QA: Cost Is Predictable, Benefit Is the Bottleneck**
+Junru Zhu, Yixin Yang, Xiaoqing Ding, Ruoyu Qi
+\[document-vqa\]\[formula-recognition\]
+
 **TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents**
 Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi Peng, Minghui Liao, Lianwen Jin
 \[text-recognition\]

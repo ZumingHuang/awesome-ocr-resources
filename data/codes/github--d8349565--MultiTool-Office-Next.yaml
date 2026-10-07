@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:d8349565/MultiTool-Office-Next
+kind: code
+name: d8349565/MultiTool-Office-Next
+released_at:
+  value: '2026-10-06'
+  precision: day
+added_at: '2026-10-07'
+last_verified_at: '2026-10-07'
+summary: 面向 Windows 的文件管理与办公工作台，集成本地检索、AI 助手、OCR、翻译和待办。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/d8349565/MultiTool-Office-Next
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/d8349565/MultiTool-Office-Next
+  discovered_via: github
+  discovered_at: '2026-10-07'
+  source_id: R_kgDOU9-6Qw
+  source_metadata:
+    repository: d8349565/MultiTool-Office-Next
+    stars: 11
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: d8349565/MultiTool-Office-Next
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active
