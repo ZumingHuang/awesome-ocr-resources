@@ -4,6 +4,439 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [sophiaramos/postdoc-document-ocr](https://huggingface.co/datasets/sophiaramos/postdoc-document-ocr) | 2026-10-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+loader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/sophiaramos/postdoc-document-ocr. |
+| [sgutierrezse/dl-document-ocr](https://huggingface.co/datasets/sgutierrezse/dl-document-ocr) | 2026-10-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Image Audio metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/sgutierrezse/dl-document-ocr. |
+| [IRUCAAI/Japanreceipt_ocr_v1.0](https://huggingface.co/datasets/IRUCAAI/Japanreceipt_ocr_v1.0) | 2026-10-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		JapanReceipt OCR v1.0 / 日本語レシート OCR v1.0
+	
+
+Japanese receipt understanding with refined structured annotations.構造化アノテーションを再校訂した日本語レシート理解データセット。
+Maintained by IRUCAAI. / IRUCAAI が整備・公開。
+
+	
+		
+	
+	
+		English
+	
+
+
+	
+		
+	
+	
+		Overview
+	
+
+JapanReceipt OCR v1.0 is an annotation refinement release for Japanese receipt OCR and key information extraction (KIE). It publishes IRUCAAI's full_1260 corpus, pairing receipt images with structured reference annotations and an evaluation manifest. The… See the full description on the dataset page: https://huggingface.co/datasets/IRUCAAI/Japanreceipt_ocr_v1.0. |
+| [ilhamanggraini/course-document-ocr](https://huggingface.co/datasets/ilhamanggraini/course-document-ocr) | 2026-10-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Image Audio metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/ilhamanggraini/course-document-ocr. |
+| [gsarch/ocrbench_500_lite](https://huggingface.co/datasets/gsarch/ocrbench_500_lite) | 2026-10-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocrbench: 500-sample lite benchmark
+	
+
+500 evaluation examples sampled with seed 42. Sampling: uniform random rows without replacement.
+
+	
+		
+	
+	
+		Sources and attribution
+	
+
+
+echo840/OCRBench, revision 92a54bd1384387c178d5a07140a2d85e0a3d12e1.
+
+Original dataset and source-image terms apply; this subset does not relicense them. See the linked upstream datasets for their license and citation information.
+
+	
+		
+	
+	
+		Reproducibility
+	
+
+subset.json records the pinned sources, selected… See the full description on the dataset page: https://huggingface.co/datasets/gsarch/ocrbench_500_lite. |
+| [ddavisamber/document-ocr-audio-text](https://huggingface.co/datasets/ddavisamber/document-ocr-audio-text) | 2026-10-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Audio Text records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/ddavisamber/document-ocr-audio-text. |
+| [Chowderlena2002/document-ocr-dataset](https://huggingface.co/datasets/Chowderlena2002/document-ocr-dataset) | 2026-10-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Multimodal3 Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Multimodal3 inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/Chowderlena2002/document-ocr-dataset. |
+| [ANRICHARD/undergrad-document-ocr](https://huggingface.co/datasets/ANRICHARD/undergrad-document-ocr) | 2026-10-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Sensor Fusion data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md… See the full description on the dataset page: https://huggingface.co/datasets/ANRICHARD/undergrad-document-ocr. |
+| [nicoleherna90/document-ocr-data](https://huggingface.co/datasets/nicoleherna90/document-ocr-data) | 2026-10-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Audio Video data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/nicoleherna90/document-ocr-data. |
+| [JerryLeeji/document-ocr-data](https://huggingface.co/datasets/JerryLeeji/document-ocr-data) | 2026-10-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Video Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/JerryLeeji/document-ocr-data. |
+| [annaszymanski/document-ocr-dataset](https://huggingface.co/datasets/annaszymanski/document-ocr-dataset) | 2026-10-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Multimodal3 Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Multimodal3 data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/annaszymanski/document-ocr-dataset. |
+| [alvesdiegopib/document-ocr-text-tabular](https://huggingface.co/datasets/alvesdiegopib/document-ocr-text-tabular) | 2026-10-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Text Tabular Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Text Tabular metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/alvesdiegopib/document-ocr-text-tabular. |
+| [akme-lnyk/document-ocr-text-tabular-benchmark](https://huggingface.co/datasets/akme-lnyk/document-ocr-text-tabular-benchmark) | 2026-10-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Text Tabular Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Text Tabular inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small… See the full description on the dataset page: https://huggingface.co/datasets/akme-lnyk/document-ocr-text-tabular-benchmark. |
+| [Kumarakashsy/document-ocr-pointcloud-text](https://huggingface.co/datasets/Kumarakashsy/document-ocr-pointcloud-text) | 2026-10-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/Kumarakashsy/document-ocr-pointcloud-text. |
+| [koussedia/nko-ocr-dataset](https://huggingface.co/datasets/koussedia/nko-ocr-dataset) | 2026-10-05 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		N'Ko OCR Dataset
+	
+
+Training dataset for N'Ko (ߒߞߏ) optical character recognition — the script of Manding languages (Bambara, Maninka, Dioula), ~50 million speakers in West Africa.
+Built from scratch (Oct 2026) because no usable N'Ko OCR dataset existed anywhere.
+
+	
+		
+	
+	
+		Contents
+	
+
+
+4,422 PNG images + transcriptions (.gt.txt) + Tesseract box files (.box)
+2,211 unique N'Ko lines (Bambara, Mali), each rendered in 2 variants (clean 40pt / noisy 32pt)
+2 fonts: Noto Sans NKo… See the full description on the dataset page: https://huggingface.co/datasets/koussedia/nko-ocr-dataset. |
 | [Chauhan93/study-document-ocr](https://huggingface.co/datasets/Chauhan93/study-document-ocr) | 2026-10-04 | text-recognition | candidate | 
 	
 		
