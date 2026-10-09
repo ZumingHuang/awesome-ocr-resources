@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:albertklorer/safedocs-ocr-newmath-sft-20480-20261007
+kind: dataset
+name: albertklorer/safedocs-ocr-newmath-sft-20480-20261007
+released_at:
+  value: '2026-10-08'
+  precision: day
+added_at: '2026-10-09'
+last_verified_at: '2026-10-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSafeDocs OCR new-math SFT\n\t\n\nThis public dataset contains the exact\
+  \ 20,480 unique page examples used in the\n2026-10-07/08 Qwen3.5-4B LoRA experiment, including the actual\
+  \ page images and\nassistant Markdown transcriptions. It is not merely an index of local files.\nThere\
+  \ are 1,515 formula-containing pages (7.40%). The mixture adds 1,059 distinct\nsyntax-screened math\
+  \ pages rather than repeating a small math subset. Targets\nhave mixed provenance: source-reviewed examples\
+  \ and… See the full description on the dataset page: https://huggingface.co/datasets/albertklorer/safedocs-ocr-newmath-sft-20480-20261007."
+tasks:
+- formula-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/albertklorer/safedocs-ocr-newmath-sft-20480-20261007
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/albertklorer/safedocs-ocr-newmath-sft-20480-20261007
+  discovered_via: huggingface
+  discovered_at: '2026-10-09'
+  source_id: albertklorer/safedocs-ocr-newmath-sft-20480-20261007
+  source_metadata:
+    repository_id: albertklorer/safedocs-ocr-newmath-sft-20480-20261007
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: albertklorer
+repository_id: albertklorer/safedocs-ocr-newmath-sft-20480-20261007
+usage: []
+annotations: []
+access: unknown

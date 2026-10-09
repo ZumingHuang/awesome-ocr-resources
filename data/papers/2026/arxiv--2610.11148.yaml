@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:arxiv:2610.11148
+kind: paper
+name: 'SP-DocReader: Difference-Aware Self-Play for Precise Document OCR'
+released_at:
+  value: '2026-10-08'
+  precision: day
+added_at: '2026-10-09'
+last_verified_at: '2026-10-09'
+summary: Accurate page transcription remains difficult for vision language models under limited input
+  and training budgets. We present SP-DocReader, a self-play framework for optical character recognition
+  (OCR) that targets residual errors after supervised fine-tuning. Reading Discrepancy Masking aligns
+  reference and generated model tokens through a longest common subsequence, then scores unmatched positions
+  with their full conditioning prefixes. Focused Fidelity Loss adds direct negative log-likelihood supervision
+  at unmatched ground-truth positions. Only the OCR module is trained, while the backbone remains frozen.
+  We derive the combined gradient to distinguish relative score optimization from direct supervision.
+  Compared with SFT-2, SP-DR-3 reduces Vary-600K character error rate on both backbones. On Qwen3-VL-4B,
+  it reduces character error rate by approximately 54 percent and improves DocVQA Average Normalized Levenshtein
+  Similarity (ANLS) by 3.7 points. These results show the value of focusing self-play training on the
+  discrepancies that remain after supervised fine-tuning.
+tasks:
+- document-vqa
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.11148
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.11148
+  discovered_via: arxiv
+  discovered_at: '2026-10-09'
+  source_id: '2610.11148'
+  source_metadata:
+    arxiv_id: '2610.11148'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Wenjie Liao
+- Xiaohui Song
+- Liangjie Zhao
+- Haonan Lu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.11148'

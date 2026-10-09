@@ -4,10 +4,21 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [MuseMesh/sansar-ocr-2b](https://huggingface.co/MuseMesh/sansar-ocr-2b) | 2026-10-09 | text-recognition | candidate | — |
+| [krishpate/thesis-ocr-freeform](https://huggingface.co/krishpate/thesis-ocr-freeform) | 2026-10-09 | text-recognition | candidate | — |
+| [IRUCAAI/ope_ocr](https://huggingface.co/IRUCAAI/ope_ocr) | 2026-10-09 | text-recognition | candidate | — |
+| [fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx](https://huggingface.co/fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx) | 2026-10-09 | text-recognition | candidate | — |
+| [fajarhmv1995/fun-ocr-freeform](https://huggingface.co/fajarhmv1995/fun-ocr-freeform) | 2026-10-09 | text-recognition | candidate | — |
+| [wzwyl/PP-OCRv6_medium_det_safetensors](https://huggingface.co/wzwyl/PP-OCRv6_medium_det_safetensors) | 2026-10-08 | text-recognition | candidate | — |
 | [vitoralme/study-ocr-freeform](https://huggingface.co/vitoralme/study-ocr-freeform) | 2026-10-08 | text-recognition | candidate | — |
+| [Soulfate24/Xiaomi-OCR-0-Paretrix](https://huggingface.co/Soulfate24/Xiaomi-OCR-0-Paretrix) | 2026-10-08 | text-recognition | candidate | — |
 | [ramenrudi/ocr-freeform](https://huggingface.co/ramenrudi/ocr-freeform) | 2026-10-08 | text-recognition | candidate | — |
+| [poorvika4566/YOLOv8-Traffic-Sign-Light-OCR](https://huggingface.co/poorvika4566/YOLOv8-Traffic-Sign-Light-OCR) | 2026-10-08 | text-recognition | candidate | — |
+| [MikhailKn/ocr-freeform-v3](https://huggingface.co/MikhailKn/ocr-freeform-v3) | 2026-10-08 | text-recognition | candidate | — |
+| [Hoffmann0412/survey-ocr-freeform](https://huggingface.co/Hoffmann0412/survey-ocr-freeform) | 2026-10-08 | text-recognition | candidate | — |
 | [fikaminski/paper-ocr-freeform](https://huggingface.co/fikaminski/paper-ocr-freeform) | 2026-10-08 | text-recognition | candidate | — |
 | [diegoalvesve/ocr-freeform-review](https://huggingface.co/diegoalvesve/ocr-freeform-review) | 2026-10-08 | text-recognition | candidate | — |
+| [Daffasari/ocr-freeform-quantized](https://huggingface.co/Daffasari/ocr-freeform-quantized) | 2026-10-08 | text-recognition | candidate | — |
 | [APMIC/APMIC-OCR-Parse](https://huggingface.co/APMIC/APMIC-OCR-Parse) | 2026-10-08 | text-recognition | candidate | — |
 | [timfromhcs/vlm_ocr_gguf](https://huggingface.co/timfromhcs/vlm_ocr_gguf) | 2026-10-07 | text-recognition | candidate | — |
 | [syamazakimi/ocr-freeform](https://huggingface.co/syamazakimi/ocr-freeform) | 2026-10-07 | text-recognition | candidate | — |

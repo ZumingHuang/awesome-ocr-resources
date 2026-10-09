@@ -129,9 +129,17 @@ Hang Wang, Jin Zhang, Guoliang Xu, Pengyue Lu, Yao Li, Zijiao Zhang, Tianyu Huan
 Qingtao Xia, Siyao Cheng, Jiahua Bao, Jiaxing Du, Jie Liu
 \[document-vqa\]\[text-recognition\]
 
+**From Pixels to Structure: Lightweight Vision-Language Models for Document OCR and Structured JSON Extraction**
+Uddipan Basu Bir, Vincent Christlein, Andreas Maier, Mathias Zinnen
+\[document-parsing\]\[handwriting-recognition\]\[text-recognition\]
+
 **Handwritten Text Recognition Lives in the High-Pixel Variance Subspace**
 Carlos Garrido-Munoz, Jorge Calvo-Zaragoza
 \[handwriting-recognition\]\[text-recognition\]
+
+**HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing**
+Xiazhen Wu, Wansong Qin, Yangbin Zheng, Liangda Fang, Zhan Li, Xiujie Huang, Liushen Zhou, Quanlong Guan
+\[formula-recognition\]\[document-parsing\]\[handwriting-recognition\]
 
 **Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images**
 A. Said Gurbuz, Ahmed Nassar, Christoph Auer, Maksym Lysak, Lucas Morin, Matteo Omenetti, Tim Strohmeyer, Panagiotis Vagenas, Nikolaos Livathinos, Michele Dolfi, Peter Staar
@@ -233,6 +241,10 @@ Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 Mert İncidelen, Yamen Kashkash, Asya Berker, Murat Aydoğan
 \[text-recognition\]
 
+**SP-DocReader: Difference-Aware Self-Play for Precise Document OCR**
+Wenjie Liao, Xiaohui Song, Liangjie Zhao, Haonan Lu
+\[document-vqa\]\[text-recognition\]
+
 **Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
 Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang
 \[handwriting-recognition\]\[text-recognition\]
@@ -296,6 +308,10 @@ Srikanta Datta Tumkur, Jay Iyer, Mehar Simhadri, Sai Pavan Kumar, Sai Kapil Kuma
 **Which papyrus HTR is good enough? Character-error-rate tolerance of four papyrological tasks on Greek texts**
 Anton Repushko, Elena Chepel
 \[handwriting-recognition\]\[text-recognition\]
+
+**Wieszcz-XIX: A 3.1-Billion-Word Corpus of Pre-1918 Polish and Temporally Bounded Language Models Trained From Scratch**
+Szymon Kocur
+\[text-recognition\]
 
 **WildHandBench: A Benchmark for Handwritten Text Understanding that Challenges MLLMs and Humans**
 Jun Zhang, Qiao Zhao, Cheng Cui, Jianying Qu, Zhongkai Sun, Jianwen Yang, Changda Zhou, ZhuoXin Liu, Shubin Han

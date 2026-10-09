@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:2610.12363
+kind: paper
+name: 'HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing'
+released_at:
+  value: '2026-10-08'
+  precision: day
+added_at: '2026-10-09'
+last_verified_at: '2026-10-09'
+summary: Intelligent grading and automated scoring technologies constitute critical infrastructure for
+  smart education. However, existing document parsing and handwriting recognition benchmarks are predominantly
+  designed for well-structured printed documents or isolated mathematical expressions, lacking datasets
+  that capture the complex characteristics inherent to student answer sheets, including multi-line derivation
+  processes, heterogeneous mixtures of text and mathematical formulae, and noise artifacts such as strikethroughs.
+  To address this gap, we introduce HANS, the first dataset explicitly constructed for real-world educational
+  scenarios, encompassing mathematical expressions, natural language text, hand-drawn tables, and diverse
+  noise patterns including corrections and deletions, accompanied by fine-grained annotations that establish
+  a reliable foundation for robust recognition research. Building upon HANS, we propose NA-GOT, an end-to-end
+  framework that achieves two-stage noise suppression through a lightweight noise suppression module operating
+  at the feature level, complemented by a noiseaware attention mechanism incorporated into the decoding
+  stage. Experimental results demonstrate that HANS poses substantial challenges to existing methods,
+  while NA-GOT achieves significant improvements in both accuracy and stability for answer process recognition.
+  The dataset will be made publicly available upon publication.
+tasks:
+- formula-recognition
+- document-parsing
+- handwriting-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.12363
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.12363
+  discovered_via: arxiv
+  discovered_at: '2026-10-09'
+  source_id: '2610.12363'
+  source_metadata:
+    arxiv_id: '2610.12363'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Xiazhen Wu
+- Wansong Qin
+- Yangbin Zheng
+- Liangda Fang
+- Zhan Li
+- Xiujie Huang
+- Liushen Zhou
+- Quanlong Guan
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.12363'
