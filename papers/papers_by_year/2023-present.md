@@ -137,6 +137,10 @@ Carlos Garrido-Munoz, Jorge Calvo-Zaragoza
 A. Said Gurbuz, Ahmed Nassar, Christoph Auer, Maksym Lysak, Lucas Morin, Matteo Omenetti, Tim Strohmeyer, Panagiotis Vagenas, Nikolaos Livathinos, Michele Dolfi, Peter Staar
 \[text-recognition\]
 
+**InscriptionOCR: A Dataset and Method for Understanding Inscriptions**
+Jaidev Sanjay Khalane, Akbar Ali, V. N. Prabhakar, Shanmuganathan Raman
+\[text-recognition\]
+
 **Institutional Books - Visual Elements: An open-source pipeline for extracting, classifying, deduplicating, and captioning visual elements from digital book collections**
 Jimmy Mendez, Matteo Cargnelutti, David Lowry-Duda, Catherine Brobston, Salwa Ismail, Greg Leppert, Amanda Watson, Jonathan Zittrain
 \[text-recognition\]
@@ -248,6 +252,10 @@ Nuzhat Khan, Ab Al-Hadi Ab Rahman, Shahriyar Masud Rizvi, Ibrahim Yousef Alshare
 **Tables Decoded: DELTA for Structure, TARQA for Understanding**
 Jahanvi Rajput, Dhruv Kudale, Saikiran Kasturi, Utkarsh Verma, Ganesh Ramakrishnan
 \[document-vqa\]\[table-recognition\]\[text-recognition\]
+
+**Token-Budgeted Escalation for Financial Document QA: Cost Is Predictable, Benefit Is the Bottleneck**
+Junru Zhu, Yixin Yang, Xiaoqing Ding, Ruoyu Qi
+\[document-vqa\]\[formula-recognition\]
 
 **TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents**
 Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi Peng, Minghui Liao, Lianwen Jin

@@ -4,8 +4,35 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [vitoralme/study-ocr-freeform](https://huggingface.co/vitoralme/study-ocr-freeform) | 2026-10-08 | text-recognition | candidate | — |
+| [ramenrudi/ocr-freeform](https://huggingface.co/ramenrudi/ocr-freeform) | 2026-10-08 | text-recognition | candidate | — |
+| [fikaminski/paper-ocr-freeform](https://huggingface.co/fikaminski/paper-ocr-freeform) | 2026-10-08 | text-recognition | candidate | — |
+| [diegoalvesve/ocr-freeform-review](https://huggingface.co/diegoalvesve/ocr-freeform-review) | 2026-10-08 | text-recognition | candidate | — |
+| [APMIC/APMIC-OCR-Parse](https://huggingface.co/APMIC/APMIC-OCR-Parse) | 2026-10-08 | text-recognition | candidate | — |
+| [timfromhcs/vlm_ocr_gguf](https://huggingface.co/timfromhcs/vlm_ocr_gguf) | 2026-10-07 | text-recognition | candidate | — |
+| [syamazakimi/ocr-freeform](https://huggingface.co/syamazakimi/ocr-freeform) | 2026-10-07 | text-recognition | candidate | — |
+| [rashidCSM101/multilingual-nastaleeq-ocr](https://huggingface.co/rashidCSM101/multilingual-nastaleeq-ocr) | 2026-10-07 | text-recognition | candidate | — |
+| [prithivMLmods/Xiaomi-OCR-0-GGUF](https://huggingface.co/prithivMLmods/Xiaomi-OCR-0-GGUF) | 2026-10-07 | text-recognition | candidate | — |
+| [nau-ai/Nau-OCR-1.0](https://huggingface.co/nau-ai/Nau-OCR-1.0) | 2026-10-07 | text-recognition | candidate | — |
+| [localdeel/ko-hand-ocr-vl-GGUF](https://huggingface.co/localdeel/ko-hand-ocr-vl-GGUF) | 2026-10-07 | handwriting-recognition, text-recognition | candidate | — |
+| [localdeel/ko-hand-ocr-vl](https://huggingface.co/localdeel/ko-hand-ocr-vl) | 2026-10-07 | handwriting-recognition, text-recognition | candidate | — |
+| [localdeel/ko-hand-ocr](https://huggingface.co/localdeel/ko-hand-ocr) | 2026-10-07 | handwriting-recognition, text-recognition | candidate | — |
+| [gabrielpere/ocr-freeform-study](https://huggingface.co/gabrielpere/ocr-freeform-study) | 2026-10-07 | text-recognition | candidate | — |
+| [ankandrew/PP-OCRv6_small_det_onnx](https://huggingface.co/ankandrew/PP-OCRv6_small_det_onnx) | 2026-10-07 | text-recognition | candidate | — |
+| [Sbymaulana/thesis-ocr-freeform](https://huggingface.co/Sbymaulana/thesis-ocr-freeform) | 2026-10-06 | text-recognition | candidate | — |
+| [koussedia/nko-ocr](https://huggingface.co/koussedia/nko-ocr) | 2026-10-06 | text-recognition | candidate | — |
+| [KeraCare/glm-ocr-field-bbox-kto-lr2e-5](https://huggingface.co/KeraCare/glm-ocr-field-bbox-kto-lr2e-5) | 2026-10-06 | text-recognition | candidate | — |
+| [KeraCare/glm-ocr-field-bbox-kto-kl-lr2e-5](https://huggingface.co/KeraCare/glm-ocr-field-bbox-kto-kl-lr2e-5) | 2026-10-06 | text-recognition | candidate | — |
+| [KeraCare/glm-ocr-field-bbox-kto-kl-lr1e-4](https://huggingface.co/KeraCare/glm-ocr-field-bbox-kto-kl-lr1e-4) | 2026-10-06 | text-recognition | candidate | — |
+| [joshuawalke/ocr-freeform](https://huggingface.co/joshuawalke/ocr-freeform) | 2026-10-06 | text-recognition | candidate | — |
+| [Fantominsight/Polina-Lumen-OCR](https://huggingface.co/Fantominsight/Polina-Lumen-OCR) | 2026-10-06 | text-recognition | candidate | — |
+| [aeddix-labs/aeddix-alpine-ocr](https://huggingface.co/aeddix-labs/aeddix-alpine-ocr) | 2026-10-06 | text-recognition | candidate | — |
 | [xinyihan2000/cs229-ocr-freeform-2024](https://huggingface.co/xinyihan2000/cs229-ocr-freeform-2024) | 2026-10-05 | text-recognition | candidate | — |
+| [nikolayini83/ocr-freeform-v1](https://huggingface.co/nikolayini83/ocr-freeform-v1) | 2026-10-05 | text-recognition | candidate | — |
 | [nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300](https://huggingface.co/nadanedon/arabic-legalAI-ocr-merged-checkpoint-1300) | 2026-10-05 | text-recognition | candidate | — |
+| [martinezwyn/simple-ocr-freeform](https://huggingface.co/martinezwyn/simple-ocr-freeform) | 2026-10-05 | text-recognition | candidate | — |
+| [Jlopez99x/ocr-freeform](https://huggingface.co/Jlopez99x/ocr-freeform) | 2026-10-05 | text-recognition | candidate | — |
+| [ByronLeeee/Xiaomi-OCR-0-Ninfer](https://huggingface.co/ByronLeeee/Xiaomi-OCR-0-Ninfer) | 2026-10-05 | text-recognition | candidate | — |
 | [Aryan98999/scanmind-word-ocr](https://huggingface.co/Aryan98999/scanmind-word-ocr) | 2026-10-05 | text-recognition | candidate | — |
 | [Aryan98999/scanmind-line-ocr](https://huggingface.co/Aryan98999/scanmind-line-ocr) | 2026-10-05 | text-recognition | candidate | — |
 | [wannaphong/typhoon-ocr1.5-2b](https://huggingface.co/wannaphong/typhoon-ocr1.5-2b) | 2026-10-04 | text-recognition | candidate | — |

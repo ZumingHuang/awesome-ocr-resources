@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:timfromhcs/vlm_ocr_gguf
+kind: model
+name: timfromhcs/vlm_ocr_gguf
+released_at:
+  value: '2026-10-07'
+  precision: day
+added_at: '2026-10-08'
+last_verified_at: '2026-10-08'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/timfromhcs/vlm_ocr_gguf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/timfromhcs/vlm_ocr_gguf
+  discovered_via: huggingface
+  discovered_at: '2026-10-08'
+  source_id: timfromhcs/vlm_ocr_gguf
+  source_metadata:
+    repository_id: timfromhcs/vlm_ocr_gguf
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: timfromhcs
+repository_id: timfromhcs/vlm_ocr_gguf
+deployment: []

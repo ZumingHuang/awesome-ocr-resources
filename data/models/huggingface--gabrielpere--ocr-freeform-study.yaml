@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:gabrielpere/ocr-freeform-study
+kind: model
+name: gabrielpere/ocr-freeform-study
+released_at:
+  value: '2026-10-07'
+  precision: day
+added_at: '2026-10-08'
+last_verified_at: '2026-10-08'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/gabrielpere/ocr-freeform-study
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/gabrielpere/ocr-freeform-study
+  discovered_via: huggingface
+  discovered_at: '2026-10-08'
+  source_id: gabrielpere/ocr-freeform-study
+  source_metadata:
+    repository_id: gabrielpere/ocr-freeform-study
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: gabrielpere
+repository_id: gabrielpere/ocr-freeform-study
+deployment: []
