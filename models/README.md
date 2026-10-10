@@ -4,7 +4,13 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Nightsnow66/PP-OCRv6_medium_det_onnx](https://huggingface.co/Nightsnow66/PP-OCRv6_medium_det_onnx) | 2026-10-10 | text-recognition | candidate | — |
+| [mradermacher/sansar-ocr-2b-GGUF](https://huggingface.co/mradermacher/sansar-ocr-2b-GGUF) | 2026-10-10 | text-recognition | candidate | — |
+| [jimenezdaniel/ocr-freeform](https://huggingface.co/jimenezdaniel/ocr-freeform) | 2026-10-10 | text-recognition | candidate | — |
+| [Seoul12/khmer-ocr-architecture3-best](https://huggingface.co/Seoul12/khmer-ocr-architecture3-best) | 2026-10-09 | text-recognition | candidate | — |
+| [nafis8766/adaptive-donut-ocr-router](https://huggingface.co/nafis8766/adaptive-donut-ocr-router) | 2026-10-09 | text-recognition | candidate | — |
 | [MuseMesh/sansar-ocr-2b](https://huggingface.co/MuseMesh/sansar-ocr-2b) | 2026-10-09 | text-recognition | candidate | — |
+| [LeeAeron/OCR](https://huggingface.co/LeeAeron/OCR) | 2026-10-09 | text-recognition | candidate | — |
 | [krishpate/thesis-ocr-freeform](https://huggingface.co/krishpate/thesis-ocr-freeform) | 2026-10-09 | text-recognition | candidate | — |
 | [IRUCAAI/ope_ocr](https://huggingface.co/IRUCAAI/ope_ocr) | 2026-10-09 | text-recognition | candidate | — |
 | [fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx](https://huggingface.co/fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx) | 2026-10-09 | text-recognition | candidate | — |

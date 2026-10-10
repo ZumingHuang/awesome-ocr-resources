@@ -4,6 +4,46 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [tobiasfis1985/phd-document-ocr2](https://huggingface.co/datasets/tobiasfis1985/phd-document-ocr2) | 2026-10-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Text Tabular Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Text Tabular records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/tobiasfis1985/phd-document-ocr2. |
+| [Seoul12/khmer-ocr-selected-demo](https://huggingface.co/datasets/Seoul12/khmer-ocr-selected-demo) | 2026-10-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Selected successful Khmer OCR demo examples
+	
+
+20 cropped text-line images verified with Architecture 3 best.pt (step 87,000).
+These examples were selected after screening 40 images from the source validation split. This dataset is for demonstrating inference, not measuring general accuracy. Full predictions, including failures, are in screening_results.json. No claim of writer-independent testing or absence of overlap across source corpora is made.
+Source:… See the full description on the dataset page: https://huggingface.co/datasets/Seoul12/khmer-ocr-selected-demo. |
 | [Ppereir-arodrigo/document-ocr-sensor-fusion-mini](https://huggingface.co/datasets/Ppereir-arodrigo/document-ocr-sensor-fusion-mini) | 2026-10-09 | text-recognition | candidate | 
 	
 		
@@ -34,6 +74,33 @@ load_data.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.
 README.md… See the full description on the dataset page: https://huggingface.co/datasets/Ppereir-arodrigo/document-ocr-sensor-fusion-mini. |
+| [Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark](https://huggingface.co/datasets/Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark) | 2026-10-09 | document-parsing | candidate | 
+	
+		
+	
+	
+		Scaffolding Design and Load Specification Document Understanding Benchmark
+	
+
+This benchmark focuses on web text covering scaffolding design guidance, load classifications, and configuration restrictions. Its questions test whether a model can interpret relationships among numerical conditions, applicable configurations, and limitations using the source text. Each record includes a source document, question, reference answer, supporting evidence, and a summary of constraint… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark. |
+| [JinghIzKing/OCR-Synthetic-Multilingual-v1](https://huggingface.co/datasets/JinghIzKing/OCR-Synthetic-Multilingual-v1) | 2026-10-09 | text-detection, text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Synthetic-Multilingual-v1
+	
+
+
+	
+		
+	
+	
+		Dataset Description
+	
+
+Large-scale synthetically generated OCR training dataset for multilingual text detection and recognition. The data was produced using a heavily modified and extended version of SynthDoG (Synthetic Document Generator), originally introduced in the Donut project by Kim et al.
+This dataset was used to train Nemotron OCR v2, a state-of-the-art multilingual OCR model that is part of the NVIDIA NeMo Retriever collection.… See the full description on the dataset page: https://huggingface.co/datasets/JinghIzKing/OCR-Synthetic-Multilingual-v1. |
 | [Itojerry/document-ocr-pointcloud-text-clean](https://huggingface.co/datasets/Itojerry/document-ocr-pointcloud-text-clean) | 2026-10-09 | text-recognition | candidate | 
 	
 		

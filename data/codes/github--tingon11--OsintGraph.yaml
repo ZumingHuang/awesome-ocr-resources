@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:tingon11/OsintGraph
+kind: code
+name: tingon11/OsintGraph
+released_at:
+  value: '2026-10-07'
+  precision: day
+added_at: '2026-10-10'
+last_verified_at: '2026-10-10'
+summary: 'Visual exploration of OSINT data for investigative cases: people, phones, social profiles, vehicles
+  and places as an interactive local graph. Cases, guided CSV import, document search with OCR, optional
+  AI. GPL-3.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/tingon11/OsintGraph
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/tingon11/OsintGraph
+  discovered_via: github
+  discovered_at: '2026-10-10'
+  source_id: R_kgDOU_9Z_g
+  source_metadata:
+    repository: tingon11/OsintGraph
+    stars: 11
+    language: JavaScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: tingon11/OsintGraph
+landmark: false
+programming_languages:
+- JavaScript
+maintenance_status: active

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:tobiasfis1985/phd-document-ocr2
+kind: dataset
+name: tobiasfis1985/phd-document-ocr2
+released_at:
+  value: '2026-10-09'
+  precision: day
+added_at: '2026-10-10'
+last_verified_at: '2026-10-10'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Text Tabular Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset summary\n\t\n\nA documented Document OCR data-preparation workflow for Text Tabular records.\
+  \ The bundled rows demonstrate the schema and validation path rather than pretending to be a full training\
+  \ corpus.\n\n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\ndataset.py — loading, cleaning, and split\
+  \ preparation code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small,\
+  \ human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/tobiasfis1985/phd-document-ocr2."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/tobiasfis1985/phd-document-ocr2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/tobiasfis1985/phd-document-ocr2
+  discovered_via: huggingface
+  discovered_at: '2026-10-10'
+  source_id: tobiasfis1985/phd-document-ocr2
+  source_metadata:
+    repository_id: tobiasfis1985/phd-document-ocr2
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: tobiasfis1985
+repository_id: tobiasfis1985/phd-document-ocr2
+usage: []
+annotations: []
+access: unknown

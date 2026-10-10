@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:wayprovidercommand/windows-offline-pdf-ocr-text-extractor
+kind: code
+name: wayprovidercommand/windows-offline-pdf-ocr-text-extractor
+released_at:
+  value: '2026-10-09'
+  precision: day
+added_at: '2026-10-10'
+last_verified_at: '2026-10-10'
+summary: Offline Windows OCR utility for extracting searchable text from scanned PDFs and image-based
+  documents, reviewing recognized text, and exporting results locally.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/wayprovidercommand/windows-offline-pdf-ocr-text-extractor
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/wayprovidercommand/windows-offline-pdf-ocr-text-extractor
+  discovered_via: github
+  discovered_at: '2026-10-10'
+  source_id: R_kgDOVC75Kw
+  source_metadata:
+    repository: wayprovidercommand/windows-offline-pdf-ocr-text-extractor
+    stars: 25
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: wayprovidercommand/windows-offline-pdf-ocr-text-extractor
+landmark: false
+programming_languages: []
+maintenance_status: active

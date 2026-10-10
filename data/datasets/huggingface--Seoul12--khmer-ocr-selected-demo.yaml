@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Seoul12/khmer-ocr-selected-demo
+kind: dataset
+name: Seoul12/khmer-ocr-selected-demo
+released_at:
+  value: '2026-10-09'
+  precision: day
+added_at: '2026-10-10'
+last_verified_at: '2026-10-10'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSelected successful Khmer OCR demo examples\n\t\n\n20 cropped text-line\
+  \ images verified with Architecture 3 best.pt (step 87,000).\nThese examples were selected after screening\
+  \ 40 images from the source validation split. This dataset is for demonstrating inference, not measuring\
+  \ general accuracy. Full predictions, including failures, are in screening_results.json. No claim of\
+  \ writer-independent testing or absence of overlap across source corpora is made.\nSource:… See the\
+  \ full description on the dataset page: https://huggingface.co/datasets/Seoul12/khmer-ocr-selected-demo."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Seoul12/khmer-ocr-selected-demo
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Seoul12/khmer-ocr-selected-demo
+  discovered_via: huggingface
+  discovered_at: '2026-10-10'
+  source_id: Seoul12/khmer-ocr-selected-demo
+  source_metadata:
+    repository_id: Seoul12/khmer-ocr-selected-demo
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Seoul12
+repository_id: Seoul12/khmer-ocr-selected-demo
+usage: []
+annotations: []
+access: unknown
