@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark
+kind: dataset
+name: Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark
+released_at:
+  value: '2026-10-09'
+  precision: day
+added_at: '2026-10-10'
+last_verified_at: '2026-10-10'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tScaffolding Design and Load Specification Document Understanding Benchmark\n\
+  \t\n\nThis benchmark focuses on web text covering scaffolding design guidance, load classifications,\
+  \ and configuration restrictions. Its questions test whether a model can interpret relationships among\
+  \ numerical conditions, applicable configurations, and limitations using the source text. Each record\
+  \ includes a source document, question, reference answer, supporting evidence, and a summary of constraint…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark."
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-10-10'
+  source_id: Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark
+  source_metadata:
+    repository_id: Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark
+    downloads: 0
+    likes: 0
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Mobiusi
+repository_id: Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark
+usage: []
+annotations: []
+access: unknown

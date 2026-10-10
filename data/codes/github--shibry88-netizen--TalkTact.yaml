@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:shibry88-netizen/TalkTact
+kind: code
+name: shibry88-netizen/TalkTact
+released_at:
+  value: '2026-10-04'
+  precision: day
+added_at: '2026-10-10'
+last_verified_at: '2026-10-10'
+summary: TalkTact · 微信聊天助手（LSPosed 模块）：聊天页悬浮候选回复卡片（★最推荐+理由、单条改写），多套提示词 skill，角色关系档案；直通/模型分级双模式，本地代理让 API
+  Key 不出 App 进程，会话白名单，以及本机离线的图片文字识别（OCR）。只填输入框，绝不自动发送。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/shibry88-netizen/TalkTact
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/shibry88-netizen/TalkTact
+  discovered_via: github
+  discovered_at: '2026-10-10'
+  source_id: R_kgDOU7Nz1w
+  source_metadata:
+    repository: shibry88-netizen/TalkTact
+    stars: 10
+    language: Kotlin
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: shibry88-netizen/TalkTact
+landmark: false
+programming_languages:
+- Kotlin
+maintenance_status: active
