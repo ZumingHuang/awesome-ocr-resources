@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:IRUCAAI/ope_ocr
+kind: model
+name: IRUCAAI/ope_ocr
+released_at:
+  value: '2026-10-09'
+  precision: day
+added_at: '2026-10-09'
+last_verified_at: '2026-10-09'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/IRUCAAI/ope_ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/IRUCAAI/ope_ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-09'
+  source_id: IRUCAAI/ope_ocr
+  source_metadata:
+    repository_id: IRUCAAI/ope_ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: IRUCAAI
+repository_id: IRUCAAI/ope_ocr
+deployment: []

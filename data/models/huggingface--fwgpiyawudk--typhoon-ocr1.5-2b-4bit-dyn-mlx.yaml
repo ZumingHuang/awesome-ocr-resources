@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx
+kind: model
+name: fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx
+released_at:
+  value: '2026-10-09'
+  precision: day
+added_at: '2026-10-09'
+last_verified_at: '2026-10-09'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx
+  discovered_via: huggingface
+  discovered_at: '2026-10-09'
+  source_id: fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx
+  source_metadata:
+    repository_id: fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: fwgpiyawudk
+repository_id: fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx
+deployment: []

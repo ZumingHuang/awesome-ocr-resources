@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:wzwyl/PP-OCRv6_medium_det_safetensors
+kind: model
+name: wzwyl/PP-OCRv6_medium_det_safetensors
+released_at:
+  value: '2026-10-08'
+  precision: day
+added_at: '2026-10-09'
+last_verified_at: '2026-10-09'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/wzwyl/PP-OCRv6_medium_det_safetensors
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/wzwyl/PP-OCRv6_medium_det_safetensors
+  discovered_via: huggingface
+  discovered_at: '2026-10-09'
+  source_id: wzwyl/PP-OCRv6_medium_det_safetensors
+  source_metadata:
+    repository_id: wzwyl/PP-OCRv6_medium_det_safetensors
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: wzwyl
+repository_id: wzwyl/PP-OCRv6_medium_det_safetensors
+deployment: []

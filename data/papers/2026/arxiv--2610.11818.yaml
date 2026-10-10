@@ -1,0 +1,65 @@
+schema_version: 1
+id: paper:arxiv:2610.11818
+kind: paper
+name: 'From Pixels to Structure: Lightweight Vision-Language Models for Document OCR and Structured JSON
+  Extraction'
+released_at:
+  value: '2026-10-08'
+  precision: day
+added_at: '2026-10-09'
+last_verified_at: '2026-10-09'
+summary: While massive, closed-source Vision-Language Models (VLMs) set strong benchmarks for document
+  understanding, their dependence on commercial APIs limits adoption in institutional archives due to
+  data autonomy concerns, recurring costs, and the environmental footprint of hyperscale computing. This
+  is especially acute in heritage digitization, where documents include historical handwriting, domain-specific
+  terminology (e.g., jewelry, prehistory, architecture), and non-standard layouts requiring high-dimensional
+  structured extraction. We present a comparative study of eight open-source lightweight VLMs (up to 7B
+  parameters) for Optical Character Recognition (OCR)-to-structure across three university heritage collections.
+  Given a document image, models must extract text and generate schema-compliant JSON, enabling automatic
+  validation and downstream use. We evaluate models under a constraint-aware protocol across zero-shot,
+  few-shot, and fine-tuning settings, measuring extraction fidelity and structured-output quality using
+  Character Error Rate (CER), Approximate Normalized Levenshtein Similarity (ANLS*), and mean Average
+  Precision F1 (mAP-F1). Against a fine-tuning baseline, we further test the independent impact of (i)
+  hyperparameter optimization, (ii) classical image preprocessing (illumination flattening, denoising,
+  and CLAHE), and (iii) multi-stage training. Finally, we analyze the trade-off between dataset-specific
+  fine-tuning and a single multi-dataset checkpoint, where joint training enables one model to operate
+  across collections but can shift performance between datasets. Overall, we show that carefully adapted
+  VLMs with up to 7B parameters can provide a sustainable, private, high-performing alternative to manual
+  transcription or commercial black-box systems, and we offer actionable guidance for heritage institutions
+  seeking institution-controlled OCR-to-JSON extraction.
+tasks:
+- document-parsing
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.11818
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.11818
+  discovered_via: arxiv
+  discovered_at: '2026-10-09'
+  source_id: '2610.11818'
+  source_metadata:
+    arxiv_id: '2610.11818'
+    doi: 10.1007/978-3-032-36039-7_30
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Uddipan Basu Bir
+- Vincent Christlein
+- Andreas Maier
+- Mathias Zinnen
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.11818'
+doi: 10.1007/978-3-032-36039-7_30

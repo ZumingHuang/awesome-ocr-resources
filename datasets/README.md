@@ -4,6 +4,94 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Ppereir-arodrigo/document-ocr-sensor-fusion-mini](https://huggingface.co/datasets/Ppereir-arodrigo/document-ocr-sensor-fusion-mini) | 2026-10-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Sensor Fusion metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+load_data.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md… See the full description on the dataset page: https://huggingface.co/datasets/Ppereir-arodrigo/document-ocr-sensor-fusion-mini. |
+| [Itojerry/document-ocr-pointcloud-text-clean](https://huggingface.co/datasets/Itojerry/document-ocr-pointcloud-text-clean) | 2026-10-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Pointcloud Text metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/Itojerry/document-ocr-pointcloud-text-clean. |
+| [heitorcqiq/document-ocr-collection](https://huggingface.co/datasets/heitorcqiq/document-ocr-collection) | 2026-10-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Image Audio inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataloader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/heitorcqiq/document-ocr-collection. |
 | [sophiaramos/postdoc-document-ocr](https://huggingface.co/datasets/sophiaramos/postdoc-document-ocr) | 2026-10-08 | text-recognition | candidate | 
 	
 		
@@ -33,6 +121,84 @@ This repository contains a preparation pipeline and a small metadata sample for 
 loader.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl —… See the full description on the dataset page: https://huggingface.co/datasets/sophiaramos/postdoc-document-ocr. |
+| [RfKnowledge/wp3-finepdfs-ocr-evaluation](https://huggingface.co/datasets/RfKnowledge/wp3-finepdfs-ocr-evaluation) | 2026-10-08 | text-recognition | candidate | — |
+| [OCR-Data/ocr_eval](https://huggingface.co/datasets/OCR-Data/ocr_eval) | 2026-10-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR Eval
+	
+
+A small, fixed evaluation set of synthetic Arabic document images with layout
+annotations — the held-out companion to OCR-Data/ocr_data.
+Do not train on this. It exists so OCR models trained on ocr_data can be scored on
+unseen pages from the same generator.
+
+	
+		
+
+
+
+
+		
+Originals
+1500 (lossless PNG + JSON)
+
+
+Augmented
+1500 — exactly one variant per original (lossless PNG + JSON)
+
+
+Shards
+2 (data/shard_001.tar, data_aug/shard_001_aug1.tar)
+
+
+Templates
+the same 14… See the full description on the dataset page: https://huggingface.co/datasets/OCR-Data/ocr_eval. |
+| [jamesmzmp/document-ocr-sensor-fusion-clean](https://huggingface.co/datasets/jamesmzmp/document-ocr-sensor-fusion-clean) | 2026-10-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Sensor Fusion metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/jamesmzmp/document-ocr-sensor-fusion-clean. |
+| [albertklorer/safedocs-ocr-newmath-sft-20480-20261007](https://huggingface.co/datasets/albertklorer/safedocs-ocr-newmath-sft-20480-20261007) | 2026-10-08 | formula-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		SafeDocs OCR new-math SFT
+	
+
+This public dataset contains the exact 20,480 unique page examples used in the
+2026-10-07/08 Qwen3.5-4B LoRA experiment, including the actual page images and
+assistant Markdown transcriptions. It is not merely an index of local files.
+There are 1,515 formula-containing pages (7.40%). The mixture adds 1,059 distinct
+syntax-screened math pages rather than repeating a small math subset. Targets
+have mixed provenance: source-reviewed examples and… See the full description on the dataset page: https://huggingface.co/datasets/albertklorer/safedocs-ocr-newmath-sft-20480-20261007. |
 | [sgutierrezse/dl-document-ocr](https://huggingface.co/datasets/sgutierrezse/dl-document-ocr) | 2026-10-07 | text-recognition | candidate | 
 	
 		

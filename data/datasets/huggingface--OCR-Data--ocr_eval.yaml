@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:OCR-Data/ocr_eval
+kind: dataset
+name: OCR-Data/ocr_eval
+released_at:
+  value: '2026-10-08'
+  precision: day
+added_at: '2026-10-09'
+last_verified_at: '2026-10-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR Eval\n\t\n\nA small, fixed evaluation set of synthetic Arabic document\
+  \ images with layout\nannotations — the held-out companion to OCR-Data/ocr_data.\nDo not train on this.\
+  \ It exists so OCR models trained on ocr_data can be scored on\nunseen pages from the same generator.\n\
+  \n\t\n\t\t\n\n\n\n\n\t\t\nOriginals\n1500 (lossless PNG + JSON)\n\n\nAugmented\n1500 — exactly one variant\
+  \ per original (lossless PNG + JSON)\n\n\nShards\n2 (data/shard_001.tar, data_aug/shard_001_aug1.tar)\n\
+  \n\nTemplates\nthe same 14… See the full description on the dataset page: https://huggingface.co/datasets/OCR-Data/ocr_eval."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/OCR-Data/ocr_eval
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/OCR-Data/ocr_eval
+  discovered_via: huggingface
+  discovered_at: '2026-10-09'
+  source_id: OCR-Data/ocr_eval
+  source_metadata:
+    repository_id: OCR-Data/ocr_eval
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: OCR-Data
+repository_id: OCR-Data/ocr_eval
+usage: []
+annotations: []
+access: unknown

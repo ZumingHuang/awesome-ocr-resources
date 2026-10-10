@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:Cuongyd196/cit-pdf
+kind: code
+name: Cuongyd196/cit-pdf
+released_at:
+  value: '2026-10-06'
+  precision: day
+added_at: '2026-10-09'
+last_verified_at: '2026-10-09'
+summary: 'Free desktop PDF toolkit with a Vietnamese interface: merge, split, compress, convert, OCR,
+  sign, print. 50+ tools, all processing stays on your computer. Bộ công cụ PDF miễn phí cho máy tính.
+  Based on BentoPDF (AGPL-3.0).'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Cuongyd196/cit-pdf
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Cuongyd196/cit-pdf
+  discovered_via: github
+  discovered_at: '2026-10-09'
+  source_id: R_kgDOU-O8Hg
+  source_metadata:
+    repository: Cuongyd196/cit-pdf
+    stars: 19
+    language: JavaScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Cuongyd196/cit-pdf
+landmark: false
+programming_languages:
+- JavaScript
+maintenance_status: active

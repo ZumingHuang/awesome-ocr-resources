@@ -4,6 +4,10 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [ZacharyZhang-NY/ElyOffice](https://github.com/ZacharyZhang-NY/ElyOffice) | 2026-10-09 | other | candidate | Offline-first desktop office suite in Rust and GPUI: documents, spreadsheets, presentations, PDF, Git, Markdown |
+| [nobell001/YES-BD2](https://github.com/nobell001/YES-BD2) | 2026-10-08 | text-recognition | candidate | Brown Dust 2 (BD2) PC automation tool: daily tasks, map runs, trading, Fiend Hunt. 棕色塵埃2 PC 自動化工具 |
+| [d8349565/MultiTool-Office-Next](https://github.com/d8349565/MultiTool-Office-Next) | 2026-10-06 | text-recognition | candidate | 面向 Windows 的文件管理与办公工作台，集成本地检索、AI 助手、OCR、翻译和待办。 |
+| [Cuongyd196/cit-pdf](https://github.com/Cuongyd196/cit-pdf) | 2026-10-06 | text-recognition | candidate | Free desktop PDF toolkit with a Vietnamese interface: merge, split, compress, convert, OCR, sign, print. 50+ tools, all processing stays on your computer. Bộ công cụ PDF miễn phí cho máy tính. Based on BentoPDF (AGPL-3.0). |
 | [ilramdhan/dompetku](https://github.com/ilramdhan/dompetku) | 2026-10-03 | text-recognition | candidate | Dompetku — a private, self-hosted personal finance tracker: budgets, goals, recurring & split transactions, gold & net worth, Telegram bot, receipt OCR, 2FA and backups. |
 | [Aimee51819/FileFlipper](https://github.com/Aimee51819/FileFlipper) | 2026-10-02 | text-recognition | candidate | FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tokens. Plus drag-and-Shift conversion in Finder: JPG, PNG, PDF, HEIC, MP4, crop, OCR, background removal. 100% on-device, free and open source. 一键转 Markdown，喂给 AI 更省 token。 |
 | [SeerRay-Lab/Xiaomi-OCR-0](https://github.com/SeerRay-Lab/Xiaomi-OCR-0) | 2026-09-28 | text-recognition | candidate | — |
