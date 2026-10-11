@@ -4,7 +4,21 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [vermouth97/road-barbados-ocr-p9217](https://huggingface.co/vermouth97/road-barbados-ocr-p9217) | 2026-10-11 | text-recognition | candidate | — |
+| [MichaelZimm/ocr-freeform-2024](https://huggingface.co/MichaelZimm/ocr-freeform-2024) | 2026-10-11 | text-recognition | candidate | — |
+| [Kus669/ViSceT5-abl-vitextvqa-noimg-scespavis-ocraug-r1](https://huggingface.co/Kus669/ViSceT5-abl-vitextvqa-noimg-scespavis-ocraug-r1) | 2026-10-11 | document-vqa, text-recognition | candidate | — |
+| [Nightsnow66/PP-OCRv6_medium_det_onnx](https://huggingface.co/Nightsnow66/PP-OCRv6_medium_det_onnx) | 2026-10-10 | text-recognition | candidate | — |
+| [mradermacher/sansar-ocr-2b-GGUF](https://huggingface.co/mradermacher/sansar-ocr-2b-GGUF) | 2026-10-10 | text-recognition | candidate | — |
+| [Jinstudio/Unlimited-OCR](https://huggingface.co/Jinstudio/Unlimited-OCR) | 2026-10-10 | text-recognition | candidate | — |
+| [Jinstudio/Qianfan-OCR](https://huggingface.co/Jinstudio/Qianfan-OCR) | 2026-10-10 | text-recognition | candidate | — |
+| [Jinstudio/GLM-OCR](https://huggingface.co/Jinstudio/GLM-OCR) | 2026-10-10 | text-recognition | candidate | — |
+| [Jinstudio/DeepSeek-OCR-2](https://huggingface.co/Jinstudio/DeepSeek-OCR-2) | 2026-10-10 | text-recognition | candidate | — |
+| [Jinstudio/DeepSeek-OCR](https://huggingface.co/Jinstudio/DeepSeek-OCR) | 2026-10-10 | text-recognition | candidate | — |
+| [jimenezdaniel/ocr-freeform](https://huggingface.co/jimenezdaniel/ocr-freeform) | 2026-10-10 | text-recognition | candidate | — |
+| [Seoul12/khmer-ocr-architecture3-best](https://huggingface.co/Seoul12/khmer-ocr-architecture3-best) | 2026-10-09 | text-recognition | candidate | — |
+| [nafis8766/adaptive-donut-ocr-router](https://huggingface.co/nafis8766/adaptive-donut-ocr-router) | 2026-10-09 | text-recognition | candidate | — |
 | [MuseMesh/sansar-ocr-2b](https://huggingface.co/MuseMesh/sansar-ocr-2b) | 2026-10-09 | text-recognition | candidate | — |
+| [LeeAeron/OCR](https://huggingface.co/LeeAeron/OCR) | 2026-10-09 | text-recognition | candidate | — |
 | [krishpate/thesis-ocr-freeform](https://huggingface.co/krishpate/thesis-ocr-freeform) | 2026-10-09 | text-recognition | candidate | — |
 | [IRUCAAI/ope_ocr](https://huggingface.co/IRUCAAI/ope_ocr) | 2026-10-09 | text-recognition | candidate | — |
 | [fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx](https://huggingface.co/fwgpiyawudk/typhoon-ocr1.5-2b-4bit-dyn-mlx) | 2026-10-09 | text-recognition | candidate | — |

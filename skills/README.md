@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [xberg-io/html-to-markdown / plugin/.opencode/skills/html-to-markdown/SKILL.md](https://github.com/xberg-io/html-to-markdown/blob/4ce9e3f4821a70c6573d9e8d079388fa4e80233d/plugin/.opencode/skills/html-to-markdown/SKILL.md) | 2026-10-11 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [xberg-io/html-to-markdown / plugin/.ai-rulez/skills/html-to-markdown/SKILL.md](https://github.com/xberg-io/html-to-markdown/blob/9db2110995e73b76f5d3c070882fbef7f2291419/plugin/.ai-rulez/skills/html-to-markdown/SKILL.md) | 2026-10-05 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [Prismer-AI/PrismerCloud / sdk/cloud/skill/Skill.md](https://github.com/Prismer-AI/PrismerCloud/blob/e5d9444e6e76c399f0004ec9f109b29fa7792d8d/sdk/cloud/skill/Skill.md) | 2026-10-05 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [Prismer-AI/PrismerCloud / sdk/cloud/catalog/skills/liteparse/SKILL.md](https://github.com/Prismer-AI/PrismerCloud/blob/e5d9444e6e76c399f0004ec9f109b29fa7792d8d/sdk/cloud/catalog/skills/liteparse/SKILL.md) | 2026-10-05 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

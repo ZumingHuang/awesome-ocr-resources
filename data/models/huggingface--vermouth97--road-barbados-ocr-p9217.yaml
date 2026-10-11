@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:vermouth97/road-barbados-ocr-p9217
+kind: model
+name: vermouth97/road-barbados-ocr-p9217
+released_at:
+  value: '2026-10-11'
+  precision: day
+added_at: '2026-10-11'
+last_verified_at: '2026-10-11'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/vermouth97/road-barbados-ocr-p9217
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/vermouth97/road-barbados-ocr-p9217
+  discovered_via: huggingface
+  discovered_at: '2026-10-11'
+  source_id: vermouth97/road-barbados-ocr-p9217
+  source_metadata:
+    repository_id: vermouth97/road-barbados-ocr-p9217
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: vermouth97
+repository_id: vermouth97/road-barbados-ocr-p9217
+deployment: []
