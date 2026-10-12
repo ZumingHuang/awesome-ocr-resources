@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:pixend/Persian_Manuscript_OCR
+kind: dataset
+name: pixend/Persian_Manuscript_OCR
+released_at:
+  value: '2026-10-11'
+  precision: day
+added_at: '2026-10-11'
+last_verified_at: '2026-10-11'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/pixend/Persian_Manuscript_OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/pixend/Persian_Manuscript_OCR
+  discovered_via: huggingface
+  discovered_at: '2026-10-11'
+  source_id: pixend/Persian_Manuscript_OCR
+  source_metadata:
+    repository_id: pixend/Persian_Manuscript_OCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: pixend
+repository_id: pixend/Persian_Manuscript_OCR
+usage: []
+annotations: []
+access: unknown

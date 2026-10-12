@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:JoTalbot/perestoroha-ocr
+kind: dataset
+name: JoTalbot/perestoroha-ocr
+released_at:
+  value: '2026-10-11'
+  precision: day
+added_at: '2026-10-11'
+last_verified_at: '2026-10-11'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tPerestoroha OCR\n\t\n\nHandwritten index cards containing a 20th-century\
+  \ scholarly transcription of the early 17th-century Ukrainian polemical text Perestoroha (Пересторога)\
+  \ by Iov Boretskyi (Lviv, 1605–1606). The cards preserve Old Ukrainian / Ruthenian orthography with\
+  \ archaic diacritics, historical letters (ѣ, ѳ, ѵ), and the source's distinctive line-by-line layout.\
+  \ Each record pairs a 300 DPI card image with line-aligned ground-truth text.\nThis dataset accompanies\
+  \ the paper… See the full description on the dataset page: https://huggingface.co/datasets/JoTalbot/perestoroha-ocr."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/JoTalbot/perestoroha-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/JoTalbot/perestoroha-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-11'
+  source_id: JoTalbot/perestoroha-ocr
+  source_metadata:
+    repository_id: JoTalbot/perestoroha-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: JoTalbot
+repository_id: JoTalbot/perestoroha-ocr
+usage: []
+annotations: []
+access: unknown

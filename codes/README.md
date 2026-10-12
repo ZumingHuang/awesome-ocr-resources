@@ -4,8 +4,13 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [syhily/advanced-chinese-literacy-reader](https://github.com/syhily/advanced-chinese-literacy-reader) | 2026-10-10 | text-recognition | candidate | 《语文素养高级读本》EPUB 版：扫描 PDF 经 OCR 转 Markdown 后排版构建，仅供学习研究 |
+| [inclusionAI/PolyOCR-Venus](https://github.com/inclusionAI/PolyOCR-Venus) | 2026-10-10 | text-recognition | candidate | — |
 | [ZacharyZhang-NY/ElyOffice](https://github.com/ZacharyZhang-NY/ElyOffice) | 2026-10-09 | other | candidate | Offline-first desktop office suite in Rust and GPUI: documents, spreadsheets, presentations, PDF, Git, Markdown |
+| [wayprovidercommand/windows-offline-pdf-ocr-text-extractor](https://github.com/wayprovidercommand/windows-offline-pdf-ocr-text-extractor) | 2026-10-09 | text-recognition | candidate | Offline Windows OCR utility for extracting searchable text from scanned PDFs and image-based documents, reviewing recognized text, and exporting results locally. |
 | [nobell001/YES-BD2](https://github.com/nobell001/YES-BD2) | 2026-10-08 | text-recognition | candidate | Brown Dust 2 (BD2) PC automation tool: daily tasks, map runs, trading, Fiend Hunt. 棕色塵埃2 PC 自動化工具 |
+| [tingon11/OsintGraph](https://github.com/tingon11/OsintGraph) | 2026-10-07 | text-recognition | candidate | Visual exploration of OSINT data for investigative cases: people, phones, social profiles, vehicles and places as an interactive local graph. Cases, guided CSV import, document search with OCR, optional AI. GPL-3. |
+| [meztinos515/Acrobat-Pro-DC](https://github.com/meztinos515/Acrobat-Pro-DC) | 2026-10-06 | other | candidate | Adobe Acrobat Pro is a professional PDF tool for creating, editing, converting, signing, organizing, and securely managing PDF documents on your computer. |
 | [d8349565/MultiTool-Office-Next](https://github.com/d8349565/MultiTool-Office-Next) | 2026-10-06 | text-recognition | candidate | 面向 Windows 的文件管理与办公工作台，集成本地检索、AI 助手、OCR、翻译和待办。 |
 | [Cuongyd196/cit-pdf](https://github.com/Cuongyd196/cit-pdf) | 2026-10-06 | text-recognition | candidate | Free desktop PDF toolkit with a Vietnamese interface: merge, split, compress, convert, OCR, sign, print. 50+ tools, all processing stays on your computer. Bộ công cụ PDF miễn phí cho máy tính. Based on BentoPDF (AGPL-3.0). |
 | [ilramdhan/dompetku](https://github.com/ilramdhan/dompetku) | 2026-10-03 | text-recognition | candidate | Dompetku — a private, self-hosted personal finance tracker: budgets, goals, recurring & split transactions, gold & net worth, Telegram bot, receipt OCR, 2FA and backups. |
