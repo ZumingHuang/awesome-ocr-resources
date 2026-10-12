@@ -4,9 +4,18 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [manateelazycat/AIPod-Unlimited-OCR](https://huggingface.co/manateelazycat/AIPod-Unlimited-OCR) | 2026-10-12 | text-recognition | candidate | — |
+| [Ladyjane003/Unlimited-OCR](https://huggingface.co/Ladyjane003/Unlimited-OCR) | 2026-10-12 | text-recognition | candidate | — |
+| [ecollins0214/ocr-freeform-review](https://huggingface.co/ecollins0214/ocr-freeform-review) | 2026-10-12 | text-recognition | candidate | — |
 | [vermouth97/road-barbados-ocr-p9217](https://huggingface.co/vermouth97/road-barbados-ocr-p9217) | 2026-10-11 | text-recognition | candidate | — |
+| [sharonSD/Unlimited-OCR](https://huggingface.co/sharonSD/Unlimited-OCR) | 2026-10-11 | text-recognition | candidate | — |
+| [RichardGohTH/optasia-container-ocr](https://huggingface.co/RichardGohTH/optasia-container-ocr) | 2026-10-11 | text-recognition | candidate | — |
+| [PiotrSty/slayer-ocr-qwen3vl-4b-frozen](https://huggingface.co/PiotrSty/slayer-ocr-qwen3vl-4b-frozen) | 2026-10-11 | text-recognition | candidate | — |
 | [MichaelZimm/ocr-freeform-2024](https://huggingface.co/MichaelZimm/ocr-freeform-2024) | 2026-10-11 | text-recognition | candidate | — |
+| [MaryamAlAli/Unlimited-OCR](https://huggingface.co/MaryamAlAli/Unlimited-OCR) | 2026-10-11 | text-recognition | candidate | — |
 | [Kus669/ViSceT5-abl-vitextvqa-noimg-scespavis-ocraug-r1](https://huggingface.co/Kus669/ViSceT5-abl-vitextvqa-noimg-scespavis-ocraug-r1) | 2026-10-11 | document-vqa, text-recognition | candidate | — |
+| [FluidInference/unlimited-ocr-coreml](https://huggingface.co/FluidInference/unlimited-ocr-coreml) | 2026-10-11 | text-recognition | candidate | — |
+| [baker76/ocrtool-models](https://huggingface.co/baker76/ocrtool-models) | 2026-10-11 | text-recognition | candidate | — |
 | [Nightsnow66/PP-OCRv6_medium_det_onnx](https://huggingface.co/Nightsnow66/PP-OCRv6_medium_det_onnx) | 2026-10-10 | text-recognition | candidate | — |
 | [mradermacher/sansar-ocr-2b-GGUF](https://huggingface.co/mradermacher/sansar-ocr-2b-GGUF) | 2026-10-10 | text-recognition | candidate | — |
 | [Jinstudio/Unlimited-OCR](https://huggingface.co/Jinstudio/Unlimited-OCR) | 2026-10-10 | text-recognition | candidate | — |

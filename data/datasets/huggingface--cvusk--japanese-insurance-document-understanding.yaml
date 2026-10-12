@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:cvusk/japanese-insurance-document-understanding
+kind: dataset
+name: cvusk/japanese-insurance-document-understanding
+released_at:
+  value: '2026-10-12'
+  precision: day
+added_at: '2026-10-12'
+last_verified_at: '2026-10-12'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tJapanese Insurance Policy Document Understanding (synthetic, with full\
+  \ ground truth)\n\t\n\n113 synthetic Japanese insurance policy documents rendered to PDF, each paired\n\
+  with complete, machine-generated ground truth — page text, the clause tree\n(part / chapter / article\
+  \ / paragraph / item), tables, figures, cross-references,\ndefined terms, bounding boxes, reading order,\
+  \ and 5,085 QA pairs. Every company,\nproduct, pet name, contact detail, form number and amount is fictional;\
+  \ no… See the full description on the dataset page: https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding."
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding
+  discovered_via: huggingface
+  discovered_at: '2026-10-12'
+  source_id: cvusk/japanese-insurance-document-understanding
+  source_metadata:
+    repository_id: cvusk/japanese-insurance-document-understanding
+    downloads: 0
+    likes: 0
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: cvusk
+repository_id: cvusk/japanese-insurance-document-understanding
+usage: []
+annotations: []
+access: unknown

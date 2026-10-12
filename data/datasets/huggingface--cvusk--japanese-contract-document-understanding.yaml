@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:cvusk/japanese-contract-document-understanding
+kind: dataset
+name: cvusk/japanese-contract-document-understanding
+released_at:
+  value: '2026-10-12'
+  precision: day
+added_at: '2026-10-12'
+last_verified_at: '2026-10-12'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tJapanese Contract Document Understanding (synthetic, with full ground\
+  \ truth)\n\t\n\n100 synthetic Japanese business contracts rendered to PDF, each paired with complete,\
+  \ machine-generated ground truth — page text, clause tree (chapter / article / paragraph / item), tables,\
+  \ figures, cross-references, party roles, bounding boxes, reading order, and 4,500 QA pairs. Every company,\
+  \ person, address, amount and document number is fictional; nothing is copied from real templates.\n\
+  \n100… See the full description on the dataset page: https://huggingface.co/datasets/cvusk/japanese-contract-document-understanding."
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/cvusk/japanese-contract-document-understanding
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/cvusk/japanese-contract-document-understanding
+  discovered_via: huggingface
+  discovered_at: '2026-10-12'
+  source_id: cvusk/japanese-contract-document-understanding
+  source_metadata:
+    repository_id: cvusk/japanese-contract-document-understanding
+    downloads: 0
+    likes: 1
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: cvusk
+repository_id: cvusk/japanese-contract-document-understanding
+usage: []
+annotations: []
+access: unknown

@@ -4,7 +4,247 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [tanishaiwozo/high-quality-invoice-images-for-ocr](https://huggingface.co/datasets/tanishaiwozo/high-quality-invoice-images-for-ocr) | 2026-10-12 | document-parsing, text-recognition | candidate | 
+	
+		
+	
+	
+		Dataset Card for high_quality_invoice_images_ocr
+	
+
+
+This is a FiftyOne dataset containing 8,181 high-quality synthetic invoice images for OCR and document understanding tasks. The dataset includes 1,489 fully annotated samples with structured JSON metadata and raw OCR text, plus 6,692 unannotated images for semi-supervised learning or annotation projects.
+
+	
+		
+	
+	
+		Installation
+	
+
+If you haven't already, install FiftyOne:
+pip install -U fiftyone
+
+
+	
+		
+	
+	
+		Usage
+	
+
+import… See the full description on the dataset page: https://huggingface.co/datasets/tanishaiwozo/high-quality-invoice-images-for-ocr. |
+| [Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset](https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset) | 2026-10-12 | document-parsing | candidate | 
+	
+		
+	
+	
+		Commercial Litigation Pleading and Response Document Understanding Dataset
+	
+
+This dataset covers complaints, answers, and counterclaims used in commercial litigation, pairing source document text with structured understanding annotations. Its fields capture parties, assertions, case facts, disputed issues, admissions or denials, and requests for relief, supporting the extraction of key information and interpretation of pleading semantics. It is suitable for legal document… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset. |
+| [Ethandiazeli/document-ocr-image-audio-benchmark-2023](https://huggingface.co/datasets/Ethandiazeli/document-ocr-image-audio-benchmark-2023) | 2026-10-12 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Image Audio metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+load_data.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/Ethandiazeli/document-ocr-image-audio-benchmark-2023. |
+| [cvusk/japanese-insurance-document-understanding-retrieval](https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding-retrieval) | 2026-10-12 | other | candidate | 
+	
+		
+	
+	
+		Japanese Insurance Policy Retrieval Evaluation Set (synthetic, derived ground truth)
+	
+
+A retrieval evaluation set over fully synthetic Japanese insurance policy
+documents — 9,456 passages, 8,824 queries in 10 families and
+25,435 relevance judgements. The passages are cut along the real structure of
+each policy (article, paragraph, table row, defined term, figure), not by a fixed
+window, and the judgements are derived from the generator's ground truth, not
+from human pooling.
+
+The… See the full description on the dataset page: https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding-retrieval. |
+| [cvusk/japanese-insurance-document-understanding-calculation](https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding-calculation) | 2026-10-12 | document-parsing, text-recognition | candidate | 
+	
+		
+	
+	
+		Japanese Insurance Document Understanding — Calculation (synthetic, with ground-truth programs and test cases)
+	
+
+完全に架空の日本語保険約款 100 文書に、機械生成した計算・判定の規定
+（条・表・算式・図）を足し、その正解プログラム（Python）とテストケースを
+同じ計算仕様から作ったデータセットです。
+「約款のこの条を読んで、支払額を計算する関数を書けるか」を測れます。
+文言・正解プログラム・テストの期待値はすべて同じ計算仕様から機械的に作ってあるので、
+三者がずれることが原理的に起きません。
+
+	
+		
+項目
+実測
+
+
+		
+文書
+100（8 種目・既定の約款 67 件）
+
+
+種目
+auto 13・golf 12・group 9・health 16・life 11・oneday 12・quake 14・travel 13
+
+
+計算・判定の規定（ルール）
+324
+
+
+テストケース
+7,444（boundary 2,809・example… See the full description on the dataset page: https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding-calculation. |
+| [cvusk/japanese-insurance-document-understanding](https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding) | 2026-10-12 | document-parsing, text-recognition | candidate | 
+	
+		
+	
+	
+		Japanese Insurance Policy Document Understanding (synthetic, with full ground truth)
+	
+
+113 synthetic Japanese insurance policy documents rendered to PDF, each paired
+with complete, machine-generated ground truth — page text, the clause tree
+(part / chapter / article / paragraph / item), tables, figures, cross-references,
+defined terms, bounding boxes, reading order, and 5,085 QA pairs. Every company,
+product, pet name, contact detail, form number and amount is fictional; no… See the full description on the dataset page: https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding. |
+| [cvusk/japanese-contract-document-understanding-retrieval](https://huggingface.co/datasets/cvusk/japanese-contract-document-understanding-retrieval) | 2026-10-12 | other | candidate | 
+	
+		
+	
+	
+		Japanese Contract Retrieval Evaluation Set (synthetic, derived ground truth)
+	
+
+A retrieval evaluation set over fully synthetic Japanese business contracts — 1,691 passages, 2,664 queries and 6,584 relevance judgements. The passages are cut along the real structure of each contract (article, paragraph, table, figure, defined term), not by a fixed window, and the judgements are derived from the generator's ground truth, not from human pooling.
+
+The documents themselves (PDF, 150 dpi… See the full description on the dataset page: https://huggingface.co/datasets/cvusk/japanese-contract-document-understanding-retrieval. |
+| [cvusk/japanese-contract-document-understanding-calculation](https://huggingface.co/datasets/cvusk/japanese-contract-document-understanding-calculation) | 2026-10-12 | other | candidate | 
+	
+		
+	
+	
+		日本語契約書の計算・判定条項データセット（合成）
+	
+
+本物そっくりだが完全に架空の日本語ビジネス契約書と、そこに書かれた計算・判定条項の
+計算仕様・正解プログラム・テストケースを対で持つ合成データセット。
+「契約書から計算が必要な条項を見つけ、実装し、テストする」システムの評価用に作った。
+計算仕様が唯一の正であり、契約書の文言・正解プログラム・テストの期待値は同じ仕様から
+機械的に生成している。文言と式を別々に書いていないので三者はずれず、出力前に機械検査で
+一致を確かめてある。
+生成物は cc-by-4.0 で配布する（著作権表示：© 2026 Yusuke Shibui (shibuiwilliam)）。本文は LICENSE。
+
+English summary
+
+Synthetic Japanese business contracts (entirely fictional, no real templates reproduced)
+paired with machine-checked ground truth for the… See the full description on the dataset page: https://huggingface.co/datasets/cvusk/japanese-contract-document-understanding-calculation. |
+| [cvusk/japanese-contract-document-understanding](https://huggingface.co/datasets/cvusk/japanese-contract-document-understanding) | 2026-10-12 | document-parsing, text-recognition | candidate | 
+	
+		
+	
+	
+		Japanese Contract Document Understanding (synthetic, with full ground truth)
+	
+
+100 synthetic Japanese business contracts rendered to PDF, each paired with complete, machine-generated ground truth — page text, clause tree (chapter / article / paragraph / item), tables, figures, cross-references, party roles, bounding boxes, reading order, and 4,500 QA pairs. Every company, person, address, amount and document number is fictional; nothing is copied from real templates.
+
+100… See the full description on the dataset page: https://huggingface.co/datasets/cvusk/japanese-contract-document-understanding. |
+| [bryan-li/assignment-document-ocr](https://huggingface.co/datasets/bryan-li/assignment-document-ocr) | 2026-10-12 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Audio Video metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md… See the full description on the dataset page: https://huggingface.co/datasets/bryan-li/assignment-document-ocr. |
+| [varadsrivastava/financial-chart-ocr](https://huggingface.co/datasets/varadsrivastava/financial-chart-ocr) | 2026-10-11 | text-recognition | candidate | 
+	
+		
+	
+	
+		Financial Chart OCR
+	
+
+Financial charts paired with gold markdown tables, for chart-to-table
+extraction and for deriving chart question-answering supervision. The release
+accompanies the ICAIF '26 paper From Curriculum to Rehearsal Learning: Towards
+Small Financial Chart VLMs, and includes the paper's 50-chart held-out
+extraction benchmark.
+
+	
+		
+config
+split
+charts
+what it is
+
+
+		
+natural
+train
+199
+real charts cropped from public financial disclosures
+
+
+natural
+benchmark
+50
+real… See the full description on the dataset page: https://huggingface.co/datasets/varadsrivastava/financial-chart-ocr. |
 | [pixend/Persian_Manuscript_OCR](https://huggingface.co/datasets/pixend/Persian_Manuscript_OCR) | 2026-10-11 | text-recognition | candidate | — |
+| [Nexuss0781/Geez-OCR-Dataset](https://huggingface.co/datasets/Nexuss0781/Geez-OCR-Dataset) | 2026-10-11 | text-recognition | candidate | — |
 | [JoTalbot/perestoroha-ocr](https://huggingface.co/datasets/JoTalbot/perestoroha-ocr) | 2026-10-11 | handwriting-recognition, text-recognition | candidate | 
 	
 		
@@ -15,6 +255,23 @@
 
 Handwritten index cards containing a 20th-century scholarly transcription of the early 17th-century Ukrainian polemical text Perestoroha (Пересторога) by Iov Boretskyi (Lviv, 1605–1606). The cards preserve Old Ukrainian / Ruthenian orthography with archaic diacritics, historical letters (ѣ, ѳ, ѵ), and the source's distinctive line-by-line layout. Each record pairs a 300 DPI card image with line-aligned ground-truth text.
 This dataset accompanies the paper… See the full description on the dataset page: https://huggingface.co/datasets/JoTalbot/perestoroha-ocr. |
+| [a7x3a/kurdish-real-books-ocr-v1](https://huggingface.co/datasets/a7x3a/kurdish-real-books-ocr-v1) | 2026-10-11 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		QAI Kurdish Real Books OCR Dataset v1 (kurdish-real-books-ocr-v1)
+	
+
+A production-grade, meticulously curated dataset of 4,100 high-resolution line crops and verified ground-truth text in Central Kurdish (Sorani / کوردیی ناوەندی) in Arabic-Kurdish script.
+Curated specifically for OCR model training, fine-tuning, and benchmarking on real published books, eliminating synthetic distribution drift and ensuring robust recognition across complex typographic layouts.
+
+
+	
+		
+	
+	
+		📊… See the full description on the dataset page: https://huggingface.co/datasets/a7x3a/kurdish-real-books-ocr-v1. |
 | [syamjithnk/ocr-numeral-fidelity](https://huggingface.co/datasets/syamjithnk/ocr-numeral-fidelity) | 2026-10-10 | text-recognition | candidate | 
 	
 		

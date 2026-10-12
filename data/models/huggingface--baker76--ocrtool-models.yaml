@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:baker76/ocrtool-models
+kind: model
+name: baker76/ocrtool-models
+released_at:
+  value: '2026-10-11'
+  precision: day
+added_at: '2026-10-12'
+last_verified_at: '2026-10-12'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/baker76/ocrtool-models
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/baker76/ocrtool-models
+  discovered_via: huggingface
+  discovered_at: '2026-10-12'
+  source_id: baker76/ocrtool-models
+  source_metadata:
+    repository_id: baker76/ocrtool-models
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: baker76
+repository_id: baker76/ocrtool-models
+deployment: []

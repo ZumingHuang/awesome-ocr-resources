@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset
+kind: dataset
+name: Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset
+released_at:
+  value: '2026-10-12'
+  precision: day
+added_at: '2026-10-12'
+last_verified_at: '2026-10-12'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tCommercial Litigation Pleading and Response Document Understanding Dataset\n\
+  \t\n\nThis dataset covers complaints, answers, and counterclaims used in commercial litigation, pairing\
+  \ source document text with structured understanding annotations. Its fields capture parties, assertions,\
+  \ case facts, disputed issues, admissions or denials, and requests for relief, supporting the extraction\
+  \ of key information and interpretation of pleading semantics. It is suitable for legal document… See\
+  \ the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset."
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset
+  discovered_via: huggingface
+  discovered_at: '2026-10-12'
+  source_id: Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset
+  source_metadata:
+    repository_id: Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset
+    downloads: 0
+    likes: 1
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Mobiusi
+repository_id: Mobiusi/Commercial-Litigation-Pleading-And-Response-Document-Understanding-Dataset
+usage: []
+annotations: []
+access: unknown
