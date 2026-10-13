@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:cvusk/japanese-insurance-document-understanding-calculation
+kind: dataset
+name: cvusk/japanese-insurance-document-understanding-calculation
+released_at:
+  value: '2026-10-12'
+  precision: day
+added_at: '2026-10-12'
+last_verified_at: '2026-10-12'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tJapanese Insurance Document Understanding — Calculation (synthetic,\
+  \ with ground-truth programs and test cases)\n\t\n\n完全に架空の日本語保険約款 100 文書に、機械生成した計算・判定の規定\n（条・表・算式・図）を足し、その正解プログラム（Python）とテストケースを\n\
+  同じ計算仕様から作ったデータセットです。\n「約款のこの条を読んで、支払額を計算する関数を書けるか」を測れます。\n文言・正解プログラム・テストの期待値はすべて同じ計算仕様から機械的に作ってあるので、\n\
+  三者がずれることが原理的に起きません。\n\n\t\n\t\t\n項目\n実測\n\n\n\t\t\n文書\n100（8 種目・既定の約款 67 件）\n\n\n種目\nauto 13・golf 12・group\
+  \ 9・health 16・life 11・oneday 12・quake 14・travel 13\n\n\n計算・判定の規定（ルール）\n324\n\n\nテストケース\n7,444（boundary\
+  \ 2,809・example… See the full description on the dataset page: https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding-calculation."
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding-calculation
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/cvusk/japanese-insurance-document-understanding-calculation
+  discovered_via: huggingface
+  discovered_at: '2026-10-12'
+  source_id: cvusk/japanese-insurance-document-understanding-calculation
+  source_metadata:
+    repository_id: cvusk/japanese-insurance-document-understanding-calculation
+    downloads: 0
+    likes: 0
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: cvusk
+repository_id: cvusk/japanese-insurance-document-understanding-calculation
+usage: []
+annotations: []
+access: unknown

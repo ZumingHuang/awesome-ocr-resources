@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:LingCore/WinShun
+kind: code
+name: LingCore/WinShun
+released_at:
+  value: '2026-10-08'
+  precision: day
+added_at: '2026-10-12'
+last_verified_at: '2026-10-12'
+summary: 'Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI
+  助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server.
+  Everything/Listary alternative.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/LingCore/WinShun
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/LingCore/WinShun
+  discovered_via: github
+  discovered_at: '2026-10-12'
+  source_id: R_kgDOVAW3Eg
+  source_metadata:
+    repository: LingCore/WinShun
+    stars: 208
+    language: C++
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: LingCore/WinShun
+landmark: false
+programming_languages:
+- C++
+maintenance_status: active

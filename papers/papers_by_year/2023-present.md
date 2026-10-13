@@ -169,6 +169,10 @@ Tasmiad Hasan, Arafat Zaman Ratul, Sarker Sadman Saalim, S. M. Shah Nawaz Hossai
 Yongbin Choi, Yongwoo Song, Mujeen Sung
 \[document-parsing\]
 
+**KV-Repurpose: A Testbed for Evaluating Non-Prefix KV-Cache Reuse**
+Taiga Ikeda, Daisuke Miyashita, Jun Deguchi
+\[document-vqa\]
+
 **LongDocBench: Benchmarking TOC Hierarchy and Contextual Relationship Recovery in Long Documents**
 Yuefeng Zou, Yichen Lu, Jingxiao Yang, Bingtao Fu, Gaoyang Zhang, Xiongfei Bai, Tian Chen, Xiang Qi
 \[document-vqa\]\[table-recognition\]\[formula-recognition\]\[document-parsing\]

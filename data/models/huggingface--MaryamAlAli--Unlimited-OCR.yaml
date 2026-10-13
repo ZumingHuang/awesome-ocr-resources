@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:MaryamAlAli/Unlimited-OCR
+kind: model
+name: MaryamAlAli/Unlimited-OCR
+released_at:
+  value: '2026-10-11'
+  precision: day
+added_at: '2026-10-12'
+last_verified_at: '2026-10-12'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/MaryamAlAli/Unlimited-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/MaryamAlAli/Unlimited-OCR
+  discovered_via: huggingface
+  discovered_at: '2026-10-12'
+  source_id: MaryamAlAli/Unlimited-OCR
+  source_metadata:
+    repository_id: MaryamAlAli/Unlimited-OCR
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: MaryamAlAli
+repository_id: MaryamAlAli/Unlimited-OCR
+deployment: []

@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:a7x3a/kurdish-real-books-ocr-v1
+kind: dataset
+name: a7x3a/kurdish-real-books-ocr-v1
+released_at:
+  value: '2026-10-11'
+  precision: day
+added_at: '2026-10-12'
+last_verified_at: '2026-10-12'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tQAI Kurdish Real Books OCR Dataset v1 (kurdish-real-books-ocr-v1)\n\t\
+  \n\nA production-grade, meticulously curated dataset of 4,100 high-resolution line crops and verified\
+  \ ground-truth text in Central Kurdish (Sorani / کوردیی ناوەندی) in Arabic-Kurdish script.\nCurated\
+  \ specifically for OCR model training, fine-tuning, and benchmarking on real published books, eliminating\
+  \ synthetic distribution drift and ensuring robust recognition across complex typographic layouts.\n\
+  \n\n\t\n\t\t\n\t\n\t\n\t\t\U0001F4CA… See the full description on the dataset page: https://huggingface.co/datasets/a7x3a/kurdish-real-books-ocr-v1."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/a7x3a/kurdish-real-books-ocr-v1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/a7x3a/kurdish-real-books-ocr-v1
+  discovered_via: huggingface
+  discovered_at: '2026-10-12'
+  source_id: a7x3a/kurdish-real-books-ocr-v1
+  source_metadata:
+    repository_id: a7x3a/kurdish-real-books-ocr-v1
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: a7x3a
+repository_id: a7x3a/kurdish-real-books-ocr-v1
+usage: []
+annotations: []
+access: unknown
