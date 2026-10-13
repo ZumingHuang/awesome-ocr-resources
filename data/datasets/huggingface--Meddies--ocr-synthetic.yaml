@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:Meddies/ocr-synthetic
+kind: dataset
+name: Meddies/ocr-synthetic
+released_at:
+  value: '2026-10-13'
+  precision: day
+added_at: '2026-10-13'
+last_verified_at: '2026-10-13'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Meddies/ocr-synthetic
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Meddies/ocr-synthetic
+  discovered_via: huggingface
+  discovered_at: '2026-10-13'
+  source_id: Meddies/ocr-synthetic
+  source_metadata:
+    repository_id: Meddies/ocr-synthetic
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Meddies
+repository_id: Meddies/ocr-synthetic
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:rubenitx/stackshot
+kind: code
+name: rubenitx/stackshot
+released_at:
+  value: '2026-10-07'
+  precision: day
+added_at: '2026-10-13'
+last_verified_at: '2026-10-13'
+summary: 'Free screenshot tool and screen recorder for Windows: floating thumbnails, quick editor, scrolling
+  capture, text search with OCR, MP4 and GIF. Built with C#.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/rubenitx/stackshot
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/rubenitx/stackshot
+  discovered_via: github
+  discovered_at: '2026-10-13'
+  source_id: R_kgDOU_h-fg
+  source_metadata:
+    repository: rubenitx/stackshot
+    stars: 16
+    language: C#
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: rubenitx/stackshot
+landmark: false
+programming_languages:
+- C#
+maintenance_status: active

@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:angletech2026-arch/desktop-sense
+kind: code
+name: angletech2026-arch/desktop-sense
+released_at:
+  value: '2026-10-09'
+  precision: day
+added_at: '2026-10-13'
+last_verified_at: '2026-10-13'
+summary: Your AI coding assistant can finally see what you're doing. Local-first screen context for Claude
+  Code, Codex, Gemini CLI and Muse Code.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/angletech2026-arch/desktop-sense
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/angletech2026-arch/desktop-sense
+  discovered_via: github
+  discovered_at: '2026-10-13'
+  source_id: R_kgDOVCGEFQ
+  source_metadata:
+    repository: angletech2026-arch/desktop-sense
+    stars: 16
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: angletech2026-arch/desktop-sense
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

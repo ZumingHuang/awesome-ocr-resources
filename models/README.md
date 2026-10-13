@@ -4,9 +4,21 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [zosmaai/zorro-ocr](https://huggingface.co/zosmaai/zorro-ocr) | 2026-10-13 | text-recognition | candidate | — |
+| [Shamika2004/coco1-ocr](https://huggingface.co/Shamika2004/coco1-ocr) | 2026-10-13 | text-recognition | candidate | — |
+| [qayang1987/ocr-freeform-reading](https://huggingface.co/qayang1987/ocr-freeform-reading) | 2026-10-13 | text-recognition | candidate | — |
+| [PiotrSty/slayer-ocr-qwen3vl-hist-0p5-frozen](https://huggingface.co/PiotrSty/slayer-ocr-qwen3vl-hist-0p5-frozen) | 2026-10-13 | text-recognition | candidate | — |
+| [manojkumardob/survey-ocr-freeform](https://huggingface.co/manojkumardob/survey-ocr-freeform) | 2026-10-13 | text-recognition | candidate | — |
+| [LRHFGR/OCR_Foy](https://huggingface.co/LRHFGR/OCR_Foy) | 2026-10-13 | text-recognition | candidate | — |
+| [jadonharsh/smriti-ocr-ppocrv4-onnx](https://huggingface.co/jadonharsh/smriti-ocr-ppocrv4-onnx) | 2026-10-13 | text-recognition | candidate | — |
+| [SOTAagi2030/Scriptoria-OCR-Preservation](https://huggingface.co/SOTAagi2030/Scriptoria-OCR-Preservation) | 2026-10-12 | text-recognition | candidate | — |
+| [Saidakmal/GLM-OCR-uz](https://huggingface.co/Saidakmal/GLM-OCR-uz) | 2026-10-12 | text-recognition | candidate | — |
+| [nathansns8323/review-ocr-freeform](https://huggingface.co/nathansns8323/review-ocr-freeform) | 2026-10-12 | text-recognition | candidate | — |
 | [manateelazycat/AIPod-Unlimited-OCR](https://huggingface.co/manateelazycat/AIPod-Unlimited-OCR) | 2026-10-12 | text-recognition | candidate | — |
+| [lalalalalaa/chandra-ocr-2-mlx-mixed-4-8](https://huggingface.co/lalalalalaa/chandra-ocr-2-mlx-mixed-4-8) | 2026-10-12 | handwriting-recognition, text-recognition | candidate | — |
 | [Ladyjane003/Unlimited-OCR](https://huggingface.co/Ladyjane003/Unlimited-OCR) | 2026-10-12 | text-recognition | candidate | — |
 | [ecollins0214/ocr-freeform-review](https://huggingface.co/ecollins0214/ocr-freeform-review) | 2026-10-12 | text-recognition | candidate | — |
+| [alexeyvsmirnov/ocr-freeform-review](https://huggingface.co/alexeyvsmirnov/ocr-freeform-review) | 2026-10-12 | text-recognition | candidate | — |
 | [vermouth97/road-barbados-ocr-p9217](https://huggingface.co/vermouth97/road-barbados-ocr-p9217) | 2026-10-11 | text-recognition | candidate | — |
 | [sharonSD/Unlimited-OCR](https://huggingface.co/sharonSD/Unlimited-OCR) | 2026-10-11 | text-recognition | candidate | — |
 | [RichardGohTH/optasia-container-ocr](https://huggingface.co/RichardGohTH/optasia-container-ocr) | 2026-10-11 | text-recognition | candidate | — |
@@ -14,6 +26,7 @@
 | [MichaelZimm/ocr-freeform-2024](https://huggingface.co/MichaelZimm/ocr-freeform-2024) | 2026-10-11 | text-recognition | candidate | — |
 | [MaryamAlAli/Unlimited-OCR](https://huggingface.co/MaryamAlAli/Unlimited-OCR) | 2026-10-11 | text-recognition | candidate | — |
 | [Kus669/ViSceT5-abl-vitextvqa-noimg-scespavis-ocraug-r1](https://huggingface.co/Kus669/ViSceT5-abl-vitextvqa-noimg-scespavis-ocraug-r1) | 2026-10-11 | document-vqa, text-recognition | candidate | — |
+| [FluidInference/unlimited-ocr-mlx-coreml](https://huggingface.co/FluidInference/unlimited-ocr-mlx-coreml) | 2026-10-11 | text-recognition | candidate | — |
 | [FluidInference/unlimited-ocr-coreml](https://huggingface.co/FluidInference/unlimited-ocr-coreml) | 2026-10-11 | text-recognition | candidate | — |
 | [baker76/ocrtool-models](https://huggingface.co/baker76/ocrtool-models) | 2026-10-11 | text-recognition | candidate | — |
 | [Nightsnow66/PP-OCRv6_medium_det_onnx](https://huggingface.co/Nightsnow66/PP-OCRv6_medium_det_onnx) | 2026-10-10 | text-recognition | candidate | — |
