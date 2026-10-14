@@ -4,6 +4,36 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Meddies/ocr-synthetic](https://huggingface.co/datasets/Meddies/ocr-synthetic) | 2026-10-13 | text-recognition | candidate | — |
+| [kxkowalczyk/document-ocr-pointcloud-text](https://huggingface.co/datasets/kxkowalczyk/document-ocr-pointcloud-text) | 2026-10-13 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Pointcloud Text data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/kxkowalczyk/document-ocr-pointcloud-text. |
 | [tanishaiwozo/high-quality-invoice-images-for-ocr](https://huggingface.co/datasets/tanishaiwozo/high-quality-invoice-images-for-ocr) | 2026-10-12 | document-parsing, text-recognition | candidate | 
 	
 		

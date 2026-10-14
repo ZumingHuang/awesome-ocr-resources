@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:SOTAagi2030/Scriptoria-OCR-Preservation
+kind: model
+name: SOTAagi2030/Scriptoria-OCR-Preservation
+released_at:
+  value: '2026-10-12'
+  precision: day
+added_at: '2026-10-13'
+last_verified_at: '2026-10-13'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/SOTAagi2030/Scriptoria-OCR-Preservation
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/SOTAagi2030/Scriptoria-OCR-Preservation
+  discovered_via: huggingface
+  discovered_at: '2026-10-13'
+  source_id: SOTAagi2030/Scriptoria-OCR-Preservation
+  source_metadata:
+    repository_id: SOTAagi2030/Scriptoria-OCR-Preservation
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: SOTAagi2030
+repository_id: SOTAagi2030/Scriptoria-OCR-Preservation
+deployment: []
