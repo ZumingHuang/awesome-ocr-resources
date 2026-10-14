@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:arxiv:2610.15902
+kind: paper
+name: Forensic Text Recovery from Document Thumbnails Using Text-Aware U-Net
+released_at:
+  value: '2026-10-11'
+  precision: day
+added_at: '2026-10-14'
+last_verified_at: '2026-10-14'
+summary: Forensic analysis of low-resolution Word thumbnails presents a significant challenge because
+  these artifacts may constitute the only remaining visual evidence of deleted documents. Standard Optical
+  Character Recognition (OCR) tools perform poorly on such severely degraded images, creating a critical
+  bottleneck in forensic evidence recovery. Although deep learning architectures, such as U-Net, can improve
+  visual image quality, models optimized solely using pixel-based loss functions tend to favor visual
+  smoothness over the structural fidelity required for accurate text recognition. To address this limitation,
+  we propose a text-aware restoration framework designed for forensic triage. The proposed approach employs
+  a U-Net architecture guided by a hybrid optimization strategy that integrates pixel-level fidelity with
+  machine-readable text constraints. Specifically, an OCR-based Normalized Levenshtein Distance (NLD)
+  metric is used during model selection to prioritize the recovery of an accurate character topology.
+  Experimental results demonstrate that the proposed method significantly reduces the NLD, enabling reliable
+  recovery of machine-readable text from severely degraded thumbnails.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.15902
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.15902
+  discovered_via: arxiv
+  discovered_at: '2026-10-14'
+  source_id: '2610.15902'
+  source_metadata:
+    arxiv_id: '2610.15902'
+    doi: 10.1109/ICAIBD69640.2026.11637178
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Mohit Ajaykumar Dhabuwala
+- Weifeng Xu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.15902'
+doi: 10.1109/ICAIBD69640.2026.11637178

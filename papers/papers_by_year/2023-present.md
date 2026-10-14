@@ -125,6 +125,10 @@ Eric Ayllon, Abel Gandia, Jorge Calvo-Zaragoza
 Hang Wang, Jin Zhang, Guoliang Xu, Pengyue Lu, Yao Li, Zijiao Zhang, Tianyu Huang, Weiqi Xiong, Yulong Wang, Chuqiao Lu, Wenkang Huang, Kai Yang, Yadong Li, Hui Li, Xingzhong Xu, Xiao Xu
 \[document-parsing\]
 
+**Forensic Text Recovery from Document Thumbnails Using Text-Aware U-Net**
+Mohit Ajaykumar Dhabuwala, Weifeng Xu
+\[text-recognition\]
+
 **Found but Not Read: When Extracted Text Closes the Retrieval-Reading Gap in Document Vision-Language Models**
 Qingtao Xia, Siyao Cheng, Jiahua Bao, Jiaxing Du, Jie Liu
 \[document-vqa\]\[text-recognition\]
@@ -140,6 +144,10 @@ Carlos Garrido-Munoz, Jorge Calvo-Zaragoza
 **HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing**
 Xiazhen Wu, Wansong Qin, Yangbin Zheng, Liangda Fang, Zhan Li, Xiujie Huang, Liushen Zhou, Quanlong Guan
 \[formula-recognition\]\[document-parsing\]\[handwriting-recognition\]
+
+**Heading Hierarchy Reconstruction for Complex and Long Documents with Level-Wise Multimodal Memory**
+Qian Chen, Xianyin Zhang, Lifan Guo, Chi Zhang
+\[document-parsing\]\[text-recognition\]
 
 **Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images**
 A. Said Gurbuz, Ahmed Nassar, Christoph Auer, Maksym Lysak, Lucas Morin, Matteo Omenetti, Tim Strohmeyer, Panagiotis Vagenas, Nikolaos Livathinos, Michele Dolfi, Peter Staar
