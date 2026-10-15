@@ -1,0 +1,44 @@
+schema_version: 1
+id: dataset:huggingface:SOTAagi2030/Proof-Bank-OCR-Consensus-229
+kind: dataset
+name: SOTAagi2030/Proof-Bank-OCR-Consensus-229
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tProof Bank OCR Consensus\n\t\n\nThis release distills 18 submitted corrections\
+  \ into reviewer-level votes.\n\n\t\n\t\t\n\t\n\t\n\t\tRelease totals\n\t\n\n\nRetained votes: 12\nConsensus\
+  \ slots reviewed: 4\nAccepted corrections: 2\nNo-quorum slots: 1\nNo-majority slots: 1\nPublic pages\
+  \ represented by the authority: 2\n\nOnly accepted correction text is included in the public correction\
+  \ stream.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/SOTAagi2030/Proof-Bank-OCR-Consensus-229
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/SOTAagi2030/Proof-Bank-OCR-Consensus-229
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: SOTAagi2030/Proof-Bank-OCR-Consensus-229
+  source_metadata:
+    repository_id: SOTAagi2030/Proof-Bank-OCR-Consensus-229
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: SOTAagi2030
+repository_id: SOTAagi2030/Proof-Bank-OCR-Consensus-229
+usage: []
+annotations: []
+access: unknown

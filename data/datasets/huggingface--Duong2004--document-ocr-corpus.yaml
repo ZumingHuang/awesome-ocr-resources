@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Duong2004/document-ocr-corpus
+kind: dataset
+name: Duong2004/document-ocr-corpus
+released_at:
+  value: '2026-10-13'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Video Text Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset\
+  \ summary\n\t\n\nA documented Document OCR data-preparation workflow for Video Text records. The bundled\
+  \ rows demonstrate the schema and validation path rather than pretending to be a full training corpus.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nbuild_dataset.py — loading, cleaning, and split preparation\
+  \ code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small, human-readable\
+  \ records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/Duong2004/document-ocr-corpus."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Duong2004/document-ocr-corpus
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Duong2004/document-ocr-corpus
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: Duong2004/document-ocr-corpus
+  source_metadata:
+    repository_id: Duong2004/document-ocr-corpus
+    downloads: 12
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Duong2004
+repository_id: Duong2004/document-ocr-corpus
+usage: []
+annotations: []
+access: unknown

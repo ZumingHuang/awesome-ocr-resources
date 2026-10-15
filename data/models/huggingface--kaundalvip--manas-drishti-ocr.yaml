@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:kaundalvip/manas-drishti-ocr
+kind: model
+name: kaundalvip/manas-drishti-ocr
+released_at:
+  value: '2026-10-14'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/kaundalvip/manas-drishti-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/kaundalvip/manas-drishti-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: kaundalvip/manas-drishti-ocr
+  source_metadata:
+    repository_id: kaundalvip/manas-drishti-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: kaundalvip
+repository_id: kaundalvip/manas-drishti-ocr
+deployment: []

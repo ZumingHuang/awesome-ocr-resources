@@ -4,6 +4,249 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SOTAagi2030/Proof-Bank-OCR-Consensus-229](https://huggingface.co/datasets/SOTAagi2030/Proof-Bank-OCR-Consensus-229) | 2026-10-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Proof Bank OCR Consensus
+	
+
+This release distills 18 submitted corrections into reviewer-level votes.
+
+	
+		
+	
+	
+		Release totals
+	
+
+
+Retained votes: 12
+Consensus slots reviewed: 4
+Accepted corrections: 2
+No-quorum slots: 1
+No-majority slots: 1
+Public pages represented by the authority: 2
+
+Only accepted correction text is included in the public correction stream.
+ |
+| [QuarterMill26/qv5-308-bhl-tesseract-ocr](https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-tesseract-ocr) | 2026-10-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using Tesseract
+	
+
+This dataset contains OCR results from images in finebooks/bhl-impact-gt using Tesseract, the classical open-source CPU OCR engine — a cheap, no-GPU baseline alongside the VLM OCR recipes.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: finebooks/bhl-impact-gt
+Engine: Tesseract 5.3.0
+Language(s): eng
+Number of Samples: 20
+Processing Time: 1.4 min
+Processing Date: 2026-10-14 09:57 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Output… See the full description on the dataset page: https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-tesseract-ocr. |
+| [QuarterMill26/qv5-308-bhl-pp-ocrv6](https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-pp-ocrv6) | 2026-10-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR with PP-OCRv6 Medium
+	
+
+Plain-text OCR results for images from finebooks/bhl-impact-gt, produced by
+PaddlePaddle's PP-OCRv6
+medium pipeline (34.5M (22M det + 19M rec)).
+
+	
+		
+	
+	
+		Processing details
+	
+
+
+Source: finebooks/bhl-impact-gt
+Model: PP-OCRv6_medium (PP-OCRv6_medium_det + PP-OCRv6_medium_rec)
+Tier: medium (34.5M (22M det + 19M rec))
+Recognition accuracy: 83.2%
+Languages: 50 languages (zh, zh-Hant, en, ja + 46 Latin-script)
+Engine: paddle_static
+Samples: 20
+Processing… See the full description on the dataset page: https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-pp-ocrv6. |
+| [QuarterMill26/qv5-308-bhl-firered-ocr](https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-firered-ocr) | 2026-10-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using FireRed-OCR
+	
+
+This dataset contains OCR results from images in finebooks/bhl-impact-gt using FireRed-OCR, a 2.1B model fine-tuned from Qwen3-VL-2B-Instruct.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: finebooks/bhl-impact-gt
+Model: FireRedTeam/FireRed-OCR
+Number of Samples: 20
+Processing Time: 6.6 min
+Processing Date: 2026-10-14 11:23 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Output Column: markdown
+Dataset Split: train
+Batch Size: 16
+Max… See the full description on the dataset page: https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-firered-ocr. |
+| [QuarterMill26/qv5-308-bhl-deepseek-ocr](https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-deepseek-ocr) | 2026-10-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using DeepSeek-OCR
+	
+
+This dataset contains markdown-formatted OCR results from images in finebooks/bhl-impact-gt using DeepSeek-OCR.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: finebooks/bhl-impact-gt
+Model: deepseek-ai/DeepSeek-OCR
+Number of Samples: 20
+Processing Time: 5.8 minutes
+Processing Date: 2026-10-14 12:08 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Output Column: markdown
+Dataset Split: train
+Resolution Mode: gundam
+Base Size: 1024
+Image… See the full description on the dataset page: https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-deepseek-ocr. |
+| [Iusokolov/thesis-document-ocr](https://huggingface.co/datasets/Iusokolov/thesis-document-ocr) | 2026-10-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Text Tabular Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Text Tabular metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataloader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/Iusokolov/thesis-document-ocr. |
+| [Formian-Labs/ocra-v2.1-agreement-tests](https://huggingface.co/datasets/Formian-Labs/ocra-v2.1-agreement-tests) | 2026-10-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		O-CRA V2.1 — agreement tests and sample evaluations
+	
+
+The evidence behind the method. Published so that the O-CRA framework can be examined directly.
+This is the companion to the paper. The paper makes a claim that the disposition of a model is
+visible in the evaluations it produces rather than in the scores it returns. This dataset contains
+the material to check that claim.
+Two files:
+
+	
+		
+File
+What it is
+Rows
+
+
+		
+ocra-agreement-tests.jsonl
+the twelve agreement tests: scenario… See the full description on the dataset page: https://huggingface.co/datasets/Formian-Labs/ocra-v2.1-agreement-tests. |
+| [emgena/multimodal_document_ocr_hallucination_guard_teaser](https://huggingface.co/datasets/emgena/multimodal_document_ocr_hallucination_guard_teaser) | 2026-10-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		👁️ Financial Document OCR Table Transposition & Number Fabricator Guard (50-Sample Evaluation Teaser)
+	
+
+
+Official Evaluation Teaser by Emgena AI Labs.Contains 50 verified production trajectories for multi-modal agent safety, coordinate grounding and vision protection.
+
+
+
+	
+		
+	
+	
+		🎁 Full Enterprise MCP Suite (500 Trajektorien + Turnkey Zero-Latency Engine)
+	
+
+Die vollständige Version enthält 500 AST-geprüfte Trajektorien, 30 Produktions-Incidents, den Zero-Dependency MCP Server… See the full description on the dataset page: https://huggingface.co/datasets/emgena/multimodal_document_ocr_hallucination_guard_teaser. |
 | [Meddies/ocr-synthetic](https://huggingface.co/datasets/Meddies/ocr-synthetic) | 2026-10-13 | text-recognition | candidate | — |
 | [kxkowalczyk/document-ocr-pointcloud-text](https://huggingface.co/datasets/kxkowalczyk/document-ocr-pointcloud-text) | 2026-10-13 | text-recognition | candidate | 
 	
@@ -34,6 +277,72 @@ Preparation notes and schema examples for Document OCR tasks using Pointcloud Te
 clean.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/kxkowalczyk/document-ocr-pointcloud-text. |
+| [justintdoj/document-ocr-image-depth-clean](https://huggingface.co/datasets/justintdoj/document-ocr-image-depth-clean) | 2026-10-13 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Depth Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Image Depth data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+loader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/justintdoj/document-ocr-image-depth-clean. |
+| [Duong2004/document-ocr-corpus](https://huggingface.co/datasets/Duong2004/document-ocr-corpus) | 2026-10-13 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Video Text records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/Duong2004/document-ocr-corpus. |
+| [ahmedsamirtarjama/arabic-ocr-research-evals](https://huggingface.co/datasets/ahmedsamirtarjama/arabic-ocr-research-evals) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-research-data](https://huggingface.co/datasets/ahmedsamirtarjama/arabic-ocr-research-data) | 2026-10-13 | text-recognition | candidate | Pack project data into ~1 GB tar shards and push to the public HF dataset repos (replaces the slow per-file upload).
+usage: HF_TOKEN=... hf_pack_push.py
+Repo ahmedsamirtarjama/arabic-ocr-research-data:
+  unified/.jsonl                 labels/targets; their "image" fields are paths relative to unified/
+  unified_images/-NNN.tar    image shards; extract into unified/:  for f in unified_images/.tar; do tar -xf $f -C unified; done
+  test/, dev_lowres/              held-out test splits… See the full description on the dataset page: https://huggingface.co/datasets/ahmedsamirtarjama/arabic-ocr-research-data. |
 | [tanishaiwozo/high-quality-invoice-images-for-ocr](https://huggingface.co/datasets/tanishaiwozo/high-quality-invoice-images-for-ocr) | 2026-10-12 | document-parsing, text-recognition | candidate | 
 	
 		
@@ -240,6 +549,37 @@ build_dataset.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.
 README.md… See the full description on the dataset page: https://huggingface.co/datasets/bryan-li/assignment-document-ocr. |
+| [Bhashini-IITJ/Bharat-Scene-Text-Dataset](https://huggingface.co/datasets/Bhashini-IITJ/Bharat-Scene-Text-Dataset) | 2026-10-12 | text-recognition | candidate | 
+	
+		
+	
+	
+		Bharat Scene Text Dataset (BSTD) v17.58
+	
+
+BSTD is a benchmark for Indian-language scene text: 6,582 scene images with 126,292
+manually annotated text regions (polygons, transcriptions, and script labels). Labels cover
+English and Indic languages, including Assamese, Bengali, Gujarati, Hindi, Kannada,
+Malayalam, Marathi, Odia, Punjabi, Tamil, and Telugu.
+
+	
+		
+	
+	
+		Project Links
+	
+
+
+Project page
+GitHub repository
+Interactive Hugging Face Space
+
+
+	
+		
+	
+	
+		Configurations… See the full description on the dataset page: https://huggingface.co/datasets/Bhashini-IITJ/Bharat-Scene-Text-Dataset. |
 | [varadsrivastava/financial-chart-ocr](https://huggingface.co/datasets/varadsrivastava/financial-chart-ocr) | 2026-10-11 | text-recognition | candidate | 
 	
 		

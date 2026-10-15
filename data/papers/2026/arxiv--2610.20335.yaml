@@ -1,0 +1,66 @@
+schema_version: 1
+id: paper:arxiv:2610.20335
+kind: paper
+name: 'Read, Parse, Describe: Unified Document Parsing with Visual Element Description Generation'
+released_at:
+  value: '2026-10-14'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: Document understanding systems are typically evaluated as separate components via layout analysis,
+  optical text recognition, reading-order prediction, and image captioning. This separation leaves scientific
+  figures, captions, and visual semantics weakly connected, and fails to measure whether a model can produce
+  a single page-level parse that is both structurally faithful and semantically accessible. We introduce
+  Read-Parse-Describe, a unified dataset for document parsing with visual element description generation.
+  Given a page image, models are required to output an ordered list of layout elements containing bounding
+  boxes, semantic labels, reading-order indices, recognized textual content, and alternative text descriptions
+  for visual elements. The benchmark is built from 2,402 documents, comprising 18,163 continuous pages,
+  125,218 layout elements, and 11,338 visual instances. Besides, we further propose a plug-and-play space-awareness
+  enhancer that reuses multi-layer visual features and injects grid-aware spatial guidance into vision-language
+  tokens for layout-aware generation. Experiments across end-to-end VLMs and pipeline parsers show that
+  existing systems still struggle to jointly recover reading order and visual semantics, while our enhanced
+  model achieves strong joint performance. These results highlight the need to move beyond isolated document
+  parsing modules toward unified models that jointly read, parse, and describe complex documents. The
+  new dataset and code will be made publicly available at https://github.com/yufanchen96/RPD
+tasks:
+- document-layout-analysis
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.20335
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.20335
+  discovered_via: arxiv
+  discovered_at: '2026-10-15'
+  source_id: '2610.20335'
+  source_metadata:
+    arxiv_id: '2610.20335'
+    doi: null
+    query: all:"layout analysis"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Yuheng Chen
+- Yufan Chen
+- Zhuojun Cai
+- Ruiping Liu
+- Junwei Zheng
+- Jiale Wei
+- Di Wen
+- Weijia Fan
+- Kunyu Peng
+- Jiaming Zhang
+- Rainer Stiefelhagen
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.20335'

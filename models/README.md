@@ -4,16 +4,52 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Seoul12/khmer-ocr-three-architectures](https://huggingface.co/Seoul12/khmer-ocr-three-architectures) | 2026-10-15 | text-recognition | candidate | — |
+| [MinhoHwang/reading-ocr-freeform](https://huggingface.co/MinhoHwang/reading-ocr-freeform) | 2026-10-15 | text-recognition | candidate | — |
+| [JUROCLINIC/ocr](https://huggingface.co/JUROCLINIC/ocr) | 2026-10-15 | text-recognition | candidate | — |
+| [wjbmattingly/comma-indra-ocr-1k](https://huggingface.co/wjbmattingly/comma-indra-ocr-1k) | 2026-10-14 | handwriting-recognition, text-recognition | candidate | — |
+| [wjbmattingly/comma-indra-ocr-10k](https://huggingface.co/wjbmattingly/comma-indra-ocr-10k) | 2026-10-14 | handwriting-recognition, text-recognition | candidate | — |
+| [Shamika2004/coco_01-ocr-GGUF](https://huggingface.co/Shamika2004/coco_01-ocr-GGUF) | 2026-10-14 | handwriting-recognition, text-recognition | candidate | — |
+| [riccardogiordano/ocr-freeform-rc1](https://huggingface.co/riccardogiordano/ocr-freeform-rc1) | 2026-10-14 | text-recognition | candidate | — |
+| [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-t1](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-t1) | 2026-10-14 | document-vqa, text-recognition | candidate | — |
+| [kaundalvip/manas-drishti-ocr](https://huggingface.co/kaundalvip/manas-drishti-ocr) | 2026-10-14 | text-recognition | candidate | — |
+| [immich-testing/PP-OCRv6_medium](https://huggingface.co/immich-testing/PP-OCRv6_medium) | 2026-10-14 | text-recognition | candidate | — |
+| [fabriziosalmi/GLM-OCR-ita-mlx-8bit](https://huggingface.co/fabriziosalmi/GLM-OCR-ita-mlx-8bit) | 2026-10-14 | text-recognition | candidate | — |
 | [zosmaai/zorro-ocr](https://huggingface.co/zosmaai/zorro-ocr) | 2026-10-13 | text-recognition | candidate | — |
 | [Shamika2004/coco1-ocr](https://huggingface.co/Shamika2004/coco1-ocr) | 2026-10-13 | text-recognition | candidate | — |
+| [rudisiregar/ocr-freeform-test](https://huggingface.co/rudisiregar/ocr-freeform-test) | 2026-10-13 | text-recognition | candidate | — |
+| [rty813/Unlimited-OCR-bf16](https://huggingface.co/rty813/Unlimited-OCR-bf16) | 2026-10-13 | text-recognition | candidate | — |
 | [qayang1987/ocr-freeform-reading](https://huggingface.co/qayang1987/ocr-freeform-reading) | 2026-10-13 | text-recognition | candidate | — |
 | [PiotrSty/slayer-ocr-qwen3vl-hist-0p5-frozen](https://huggingface.co/PiotrSty/slayer-ocr-qwen3vl-hist-0p5-frozen) | 2026-10-13 | text-recognition | candidate | — |
 | [manojkumardob/survey-ocr-freeform](https://huggingface.co/manojkumardob/survey-ocr-freeform) | 2026-10-13 | text-recognition | candidate | — |
 | [LRHFGR/OCR_Foy](https://huggingface.co/LRHFGR/OCR_Foy) | 2026-10-13 | text-recognition | candidate | — |
 | [jadonharsh/smriti-ocr-ppocrv4-onnx](https://huggingface.co/jadonharsh/smriti-ocr-ppocrv4-onnx) | 2026-10-13 | text-recognition | candidate | — |
+| [g3ida/araelectra-arabic-ocr-detector](https://huggingface.co/g3ida/araelectra-arabic-ocr-detector) | 2026-10-13 | text-recognition | candidate | — |
+| [g3ida/arabart-arabic-ocr-infiller](https://huggingface.co/g3ida/arabart-arabic-ocr-infiller) | 2026-10-13 | text-recognition | candidate | — |
+| [deepika-shah/ocr-freeform-study-2024](https://huggingface.co/deepika-shah/ocr-freeform-study-2024) | 2026-10-13 | text-recognition | candidate | — |
+| [Alisafedorov/ocr-freeform22](https://huggingface.co/Alisafedorov/ocr-freeform22) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-qwen3vl4b-v1](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-qwen3vl4b-v1) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-v5hw](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-v5hw) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-ocr-clean6k](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-ocr-clean6k) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-layout-v4](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-layout-v4) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-layout-clean](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-layout-clean) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-e6f](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-e6f) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-e6e](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-e6e) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-e6d](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-e6d) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-e6c](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-e6c) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-e6b](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-e6b) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-dots-ft-e6a](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-dots-ft-e6a) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-abl-plain6k-lr3e5](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-abl-plain6k-lr3e5) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-abl-plain3k-px2500k](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-abl-plain3k-px2500k) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-abl-plain3k](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-abl-plain3k) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-abl-plain1k-nopres](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-abl-plain1k-nopres) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-abl-plain1k](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-abl-plain1k) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-abl-ctrl1k](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-abl-ctrl1k) | 2026-10-13 | text-recognition | candidate | — |
+| [ahmedsamirtarjama/arabic-ocr-abl-aug3k](https://huggingface.co/ahmedsamirtarjama/arabic-ocr-abl-aug3k) | 2026-10-13 | text-recognition | candidate | — |
 | [SOTAagi2030/Scriptoria-OCR-Preservation](https://huggingface.co/SOTAagi2030/Scriptoria-OCR-Preservation) | 2026-10-12 | text-recognition | candidate | — |
 | [Saidakmal/GLM-OCR-uz](https://huggingface.co/Saidakmal/GLM-OCR-uz) | 2026-10-12 | text-recognition | candidate | — |
 | [nathansns8323/review-ocr-freeform](https://huggingface.co/nathansns8323/review-ocr-freeform) | 2026-10-12 | text-recognition | candidate | — |
+| [muscgab/manga-ocr-nar-small](https://huggingface.co/muscgab/manga-ocr-nar-small) | 2026-10-12 | text-recognition | candidate | — |
 | [manateelazycat/AIPod-Unlimited-OCR](https://huggingface.co/manateelazycat/AIPod-Unlimited-OCR) | 2026-10-12 | text-recognition | candidate | — |
 | [lalalalalaa/chandra-ocr-2-mlx-mixed-4-8](https://huggingface.co/lalalalalaa/chandra-ocr-2-mlx-mixed-4-8) | 2026-10-12 | handwriting-recognition, text-recognition | candidate | — |
 | [Ladyjane003/Unlimited-OCR](https://huggingface.co/Ladyjane003/Unlimited-OCR) | 2026-10-12 | text-recognition | candidate | — |
@@ -37,6 +73,7 @@
 | [Jinstudio/DeepSeek-OCR-2](https://huggingface.co/Jinstudio/DeepSeek-OCR-2) | 2026-10-10 | text-recognition | candidate | — |
 | [Jinstudio/DeepSeek-OCR](https://huggingface.co/Jinstudio/DeepSeek-OCR) | 2026-10-10 | text-recognition | candidate | — |
 | [jimenezdaniel/ocr-freeform](https://huggingface.co/jimenezdaniel/ocr-freeform) | 2026-10-10 | text-recognition | candidate | — |
+| [datalab-to/indra-ocr](https://huggingface.co/datalab-to/indra-ocr) | 2026-10-10 | text-recognition | candidate | — |
 | [Seoul12/khmer-ocr-architecture3-best](https://huggingface.co/Seoul12/khmer-ocr-architecture3-best) | 2026-10-09 | text-recognition | candidate | — |
 | [nafis8766/adaptive-donut-ocr-router](https://huggingface.co/nafis8766/adaptive-donut-ocr-router) | 2026-10-09 | text-recognition | candidate | — |
 | [MuseMesh/sansar-ocr-2b](https://huggingface.co/MuseMesh/sansar-ocr-2b) | 2026-10-09 | text-recognition | candidate | — |

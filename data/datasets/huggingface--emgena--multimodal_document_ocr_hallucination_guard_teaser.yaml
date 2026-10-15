@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:emgena/multimodal_document_ocr_hallucination_guard_teaser
+kind: dataset
+name: emgena/multimodal_document_ocr_hallucination_guard_teaser
+released_at:
+  value: '2026-10-14'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t\U0001F441️ Financial Document OCR Table Transposition & Number Fabricator\
+  \ Guard (50-Sample Evaluation Teaser)\n\t\n\n\nOfficial Evaluation Teaser by Emgena AI Labs.Contains\
+  \ 50 verified production trajectories for multi-modal agent safety, coordinate grounding and vision\
+  \ protection.\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t\U0001F381 Full Enterprise MCP Suite (500 Trajektorien +\
+  \ Turnkey Zero-Latency Engine)\n\t\n\nDie vollständige Version enthält 500 AST-geprüfte Trajektorien,\
+  \ 30 Produktions-Incidents, den Zero-Dependency MCP Server… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/emgena/multimodal_document_ocr_hallucination_guard_teaser."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/emgena/multimodal_document_ocr_hallucination_guard_teaser
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/emgena/multimodal_document_ocr_hallucination_guard_teaser
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: emgena/multimodal_document_ocr_hallucination_guard_teaser
+  source_metadata:
+    repository_id: emgena/multimodal_document_ocr_hallucination_guard_teaser
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: emgena
+repository_id: emgena/multimodal_document_ocr_hallucination_guard_teaser
+usage: []
+annotations: []
+access: unknown

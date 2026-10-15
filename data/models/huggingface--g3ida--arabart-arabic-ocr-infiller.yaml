@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:g3ida/arabart-arabic-ocr-infiller
+kind: model
+name: g3ida/arabart-arabic-ocr-infiller
+released_at:
+  value: '2026-10-13'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/g3ida/arabart-arabic-ocr-infiller
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/g3ida/arabart-arabic-ocr-infiller
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: g3ida/arabart-arabic-ocr-infiller
+  source_metadata:
+    repository_id: g3ida/arabart-arabic-ocr-infiller
+    downloads: 31
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: g3ida
+repository_id: g3ida/arabart-arabic-ocr-infiller
+deployment: []

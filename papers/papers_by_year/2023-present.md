@@ -245,6 +245,10 @@ Isam Abdullah Balghari, Muhammad Sabieh Anwar
 GuangJian Team, Kaili Huang, Yongshuo Zhang, Bingtao Fu, Changjiang Jiang, Chenfan Qu, Chenfeng Zhang, Fangming Cui, Gaoyang Zhang, Jiangwei Xie, Jianshu Li, Jing Huang, Jingwen Bai, Mingqi Fang, Tao Fang, Weihong Zhang, Wenbo Du, Xiongfei Bai, Xuekang Zhu, Yinan Xia, Zhenming Wang, Jian Liu, Jingjing Liu, Xiang Qi, Weiqiang Wang
 \[text-recognition\]
 
+**Read, Parse, Describe: Unified Document Parsing with Visual Element Description Generation**
+Yuheng Chen, Yufan Chen, Zhuojun Cai, Ruiping Liu, Junwei Zheng, Jiale Wei, Di Wen, Weijia Fan, Kunyu Peng, Jiaming Zhang, Rainer Stiefelhagen
+\[document-layout-analysis\]\[document-parsing\]\[text-recognition\]
+
 **RefLAM: A Reference-Grounded Line Annotation Pipeline for Historical Arabic Manuscripts**
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[handwriting-recognition\]\[text-recognition\]

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:muscgab/manga-ocr-nar-small
+kind: model
+name: muscgab/manga-ocr-nar-small
+released_at:
+  value: '2026-10-12'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/muscgab/manga-ocr-nar-small
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/muscgab/manga-ocr-nar-small
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: muscgab/manga-ocr-nar-small
+  source_metadata:
+    repository_id: muscgab/manga-ocr-nar-small
+    downloads: 27
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: muscgab
+repository_id: muscgab/manga-ocr-nar-small
+deployment: []

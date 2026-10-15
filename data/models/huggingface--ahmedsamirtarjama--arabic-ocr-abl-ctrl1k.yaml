@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:ahmedsamirtarjama/arabic-ocr-abl-ctrl1k
+kind: model
+name: ahmedsamirtarjama/arabic-ocr-abl-ctrl1k
+released_at:
+  value: '2026-10-13'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/ahmedsamirtarjama/arabic-ocr-abl-ctrl1k
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/ahmedsamirtarjama/arabic-ocr-abl-ctrl1k
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: ahmedsamirtarjama/arabic-ocr-abl-ctrl1k
+  source_metadata:
+    repository_id: ahmedsamirtarjama/arabic-ocr-abl-ctrl1k
+    downloads: 10
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: ahmedsamirtarjama
+repository_id: ahmedsamirtarjama/arabic-ocr-abl-ctrl1k
+deployment: []
