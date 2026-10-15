@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:datalab-to/indra
+kind: code
+name: datalab-to/indra
+released_at:
+  value: '2026-10-13'
+  precision: day
+added_at: '2026-10-14'
+last_verified_at: '2026-10-14'
+summary: 'Fast CPU OCR: line detection, CTC recognition, reading order, markdown'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/datalab-to/indra
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/datalab-to/indra
+  discovered_via: github
+  discovered_at: '2026-10-14'
+  source_id: R_kgDOVHP7AQ
+  source_metadata:
+    repository: datalab-to/indra
+    stars: 86
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: datalab-to/indra
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:raisulsohan/lazyFinds
+kind: code
+name: raisulsohan/lazyFinds
+released_at:
+  value: '2026-10-13'
+  precision: day
+added_at: '2026-10-14'
+last_verified_at: '2026-10-14'
+summary: 'Search your Windows PC by what''s inside your files: photos, screenshots, PDFs, documents, audio,
+  video and code, in English and Bengali. On-device, with EmbeddingGemma 2.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/raisulsohan/lazyFinds
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/raisulsohan/lazyFinds
+  discovered_via: github
+  discovered_at: '2026-10-14'
+  source_id: R_kgDOVHXhjA
+  source_metadata:
+    repository: raisulsohan/lazyFinds
+    stars: 10
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: raisulsohan/lazyFinds
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:2610.18238
+kind: paper
+name: Heading Hierarchy Reconstruction for Complex and Long Documents with Level-Wise Multimodal Memory
+released_at:
+  value: '2026-10-13'
+  precision: day
+added_at: '2026-10-14'
+last_verified_at: '2026-10-14'
+summary: Vision-language models (VLMs) have been widely adopted for document parsing and optical character
+  recognition (OCR), as they can accurately extract page-level elements. However, downstream applications
+  such as retrieval-augmented generation (RAG) also require coherent document-level structure. Although
+  these models indicate heading levels using different numbers of preceding ``\#'' symbols, page-by-page
+  prediction often lacks document-level consistency. In practice, input-resolution and context-length
+  constraints make it infeasible for a VLM to jointly process all page images in documents containing
+  tens or hundreds of pages. To address this limitation, we propose a VLM-based framework that incrementally
+  reconstructs heading hierarchies with a \emph{level-wise multimodal memory}. The memory retains a compact
+  subset of all previously processed pages, selected by anchors. Our framework supports flexible anchor
+  selection, and in this work we select the most recent node at each level, allowing the VLM to observe
+  the visual, textual, and layout patterns of headings at every level. For comprehensive evaluation, we
+  also introduce the Complex and Long Document Heading Hierarchy Reconstruction Benchmark (CLDoc-HHRBench),
+  comprising 250 documents and 11,212 pages with expert-verified annotations. Experiments on CLDoc-HHRBench
+  and three existing benchmarks demonstrate the effectiveness of our method.
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.18238
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.18238
+  discovered_via: arxiv
+  discovered_at: '2026-10-14'
+  source_id: '2610.18238'
+  source_metadata:
+    arxiv_id: '2610.18238'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Qian Chen
+- Xianyin Zhang
+- Lifan Guo
+- Chi Zhang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.18238'
