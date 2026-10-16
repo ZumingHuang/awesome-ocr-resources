@@ -4,6 +4,61 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Mobiusi/Korean-Workplace-Document-Understanding-Dataset](https://huggingface.co/datasets/Mobiusi/Korean-Workplace-Document-Understanding-Dataset) | 2026-10-16 | document-parsing | candidate | 
+	
+		
+	
+	
+		Korean Workplace Document Understanding Dataset
+	
+
+Designed for Korean for Business learning and document understanding, this resource contains JSON-structured samples of common workplace materials, including emails, meeting notices, schedules, internal process guides, leave policies, and handover documents. Annotations cover document categories and topics, tasks and assignees, deadlines, request intent, priority, execution conditions, and implied collaboration relationships… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Korean-Workplace-Document-Understanding-Dataset. |
+| [Mobiusi/Korean-Housing-And-Rental-Document-Understanding-Dataset](https://huggingface.co/datasets/Mobiusi/Korean-Housing-And-Rental-Document-Understanding-Dataset) | 2026-10-16 | document-parsing | candidate | 
+	
+		
+	
+	
+		Korean Housing and Rental Document Understanding Dataset
+	
+
+This dataset provides structured JSON samples of Korean housing and rental documents, including property listings, move-in guides, maintenance fee notices, repair announcements, and simplified rental terms. Annotations capture fee breakdowns, living conditions, assigned responsibilities, prohibitions, action steps, key terms, and interpretation notes. It supports training and evaluating models that interpret everyday… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Korean-Housing-And-Rental-Document-Understanding-Dataset. |
+| [Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset](https://huggingface.co/datasets/Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset) | 2026-10-16 | other | candidate | 
+	
+		
+	
+	
+		Korean Document Ambiguity and Implicit Meaning Understanding Benchmark Dataset
+	
+
+This benchmark covers challenging phenomena in Korean documents, including omitted subjects, honorific tone, negation, conditional exceptions, ambiguous references, polysemy, and polite refusals. Its JSON records organize the source document, ambiguity points, candidate interpretations, correct semantics, and semantic parses. The examples support domain-specific supervised fine-tuning and evaluation… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset. |
+| [Jktivan1998/dl-document-ocr](https://huggingface.co/datasets/Jktivan1998/dl-document-ocr) | 2026-10-16 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataloader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.… See the full description on the dataset page: https://huggingface.co/datasets/Jktivan1998/dl-document-ocr. |
 | [SOTAagi2030/Proof-Bank-OCR-Consensus-229](https://huggingface.co/datasets/SOTAagi2030/Proof-Bank-OCR-Consensus-229) | 2026-10-15 | text-recognition | candidate | 
 	
 		
@@ -31,6 +86,113 @@ Public pages represented by the authority: 2
 
 Only accepted correction text is included in the public correction stream.
  |
+| [Seoul12/khmer-ocr-handwriting-demo](https://huggingface.co/datasets/Seoul12/khmer-ocr-handwriting-demo) | 2026-10-15 | handwriting-recognition, text-recognition | candidate | — |
+| [pinballankita/learn-document-ocr-2024](https://huggingface.co/datasets/pinballankita/learn-document-ocr-2024) | 2026-10-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Depth Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Image Depth metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataloader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/pinballankita/learn-document-ocr-2024. |
+| [Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset](https://huggingface.co/datasets/Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset) | 2026-10-15 | document-parsing | candidate | 
+	
+		
+	
+	
+		Patent Infringement Pleadings Document Understanding Dataset
+	
+
+This dataset covers complaints, statements of defense, counterclaims, legal briefs, and other written submissions in patent infringement cases. Its structured content focuses on case and patent details, disputed facts, claim-by-claim infringement comparisons, party positions, defense arguments, evidence references, and cited legal authorities. It supports domain-specific training, information retrieval, legal analysis… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset. |
+| [Mobiusi/Legal-Document-Understanding-Dataset-For-Trade-Secret-Misappropriation-Cases](https://huggingface.co/datasets/Mobiusi/Legal-Document-Understanding-Dataset-For-Trade-Secret-Misappropriation-Cases) | 2026-10-15 | document-parsing | candidate | 
+	
+		
+	
+	
+		Legal Document Understanding Dataset for Trade Secret Misappropriation Cases
+	
+
+This dataset covers pleadings, evidence review opinions, and judicial decisions in trade secret misappropriation cases, addressing issues such as secrecy, reasonable confidentiality measures, access, use or disclosure, causation, and damages. Its structured information includes document types, case parties, claims and defenses, evidence, element analysis, and judgments, supporting models that interpret… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Legal-Document-Understanding-Dataset-For-Trade-Secret-Misappropriation-Cases. |
+| [Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset](https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset) | 2026-10-15 | document-parsing | candidate | 
+	
+		
+	
+	
+		Commercial Litigation Motion Document Semantic Understanding Dataset
+	
+
+This benchmark covers commercial litigation filings, including motions to dismiss, motions for summary judgment, motions to exclude evidence, and briefs supporting or opposing those motions. It organizes information on motion type and position, targets, applicable standards, argument chains, cited facts, legal authorities, and requested rulings. Use it to evaluate legal document understanding, argument… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset. |
+| [Mobiusi/Commercial-Litigation-Discovery-Document-Understanding-Dataset](https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Discovery-Document-Understanding-Dataset) | 2026-10-15 | document-parsing | candidate | 
+	
+		
+	
+	
+		Commercial Litigation Discovery Document Understanding Dataset
+	
+
+This dataset covers commercial litigation discovery documents, including interrogatories, requests for production, requests for admission, responses, objections, and supplemental responses. It focuses on analyzing the scope of requests, response positions, grounds for objections, reservations, and disputed issues, with fields for extracting item-level details and case context. It supports legal document analysis… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Discovery-Document-Understanding-Dataset. |
+| [Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu](https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu) | 2026-10-15 | document-parsing | candidate | 
+	
+		
+	
+	
+		Commercial Litigation Confidentiality and Privilege Document Understanding Evaluation Dataset
+	
+
+This dataset focuses on protective orders, privilege logs, sealing motions, confidentiality designation challenges, and related court rulings in commercial litigation. It captures key elements such as protected information categories, grounds for protection, disclosure restrictions, dispute scope, and case outcomes through source documents and structured semantic annotations. It… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu. |
+| [michaelreye/document-ocr-text-tabular-v2-2024](https://huggingface.co/datasets/michaelreye/document-ocr-text-tabular-v2-2024) | 2026-10-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Text Tabular Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Text Tabular metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/michaelreye/document-ocr-text-tabular-v2-2024. |
+| [Ali000007/urdu-shayari-ocr-lines](https://huggingface.co/datasets/Ali000007/urdu-shayari-ocr-lines) | 2026-10-15 | text-recognition | candidate | — |
 | [QuarterMill26/qv5-308-bhl-tesseract-ocr](https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-tesseract-ocr) | 2026-10-14 | text-recognition | candidate | 
 	
 		

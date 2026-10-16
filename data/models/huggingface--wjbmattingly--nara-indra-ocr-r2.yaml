@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:wjbmattingly/nara-indra-ocr-r2
+kind: model
+name: wjbmattingly/nara-indra-ocr-r2
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-16'
+last_verified_at: '2026-10-16'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/wjbmattingly/nara-indra-ocr-r2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/wjbmattingly/nara-indra-ocr-r2
+  discovered_via: huggingface
+  discovered_at: '2026-10-16'
+  source_id: wjbmattingly/nara-indra-ocr-r2
+  source_metadata:
+    repository_id: wjbmattingly/nara-indra-ocr-r2
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: wjbmattingly
+repository_id: wjbmattingly/nara-indra-ocr-r2
+deployment: []

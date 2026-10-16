@@ -4,11 +4,14 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [2430816465/campus-knowledge-agent](https://github.com/2430816465/campus-knowledge-agent) | 2026-10-14 | other | candidate | 校园知识服务 Agent 智能体平台：基于 FastAPI、Qwen3 与 RAG，贯通公开资料解析、时间范围检索、证据溯源及人工审核。 |
 | [raisulsohan/lazyFinds](https://github.com/raisulsohan/lazyFinds) | 2026-10-13 | text-recognition | candidate | Search your Windows PC by what's inside your files: photos, screenshots, PDFs, documents, audio, video and code, in English and Bengali. On-device, with EmbeddingGemma 2. |
 | [joeseesun/qiaomu-screen2video](https://github.com/joeseesun/qiaomu-screen2video) | 2026-10-13 | text-recognition | candidate | 将已有录屏与讲述制作成带中英双语字幕、语义动效、轻配乐和内容封面的成片，使用 FFmpeg/ASS，支持逐词重点高亮、抖音式关键词花字、表情与梗图贴纸（Noto/Fluent/memegen）、界面箭头与聚光框、章节卡、原创轻音效、屏幕 OCR 词表与镜头运动检测、本地剪映或 FFmpeg 音频降噪 |
 | [datalab-to/indra](https://github.com/datalab-to/indra) | 2026-10-13 | text-recognition | candidate | Fast CPU OCR: line detection, CTC recognition, reading order, markdown |
+| [equalang-ai/awesome-translation-tools](https://github.com/equalang-ai/awesome-translation-tools) | 2026-10-12 | other | candidate | A curated directory of translation tools and workflows across travel, web reading, formatted documents, academic research, open-source local engines, and developer pipelines. |
 | [syhily/advanced-chinese-literacy-reader](https://github.com/syhily/advanced-chinese-literacy-reader) | 2026-10-10 | text-recognition | candidate | 《语文素养高级读本》EPUB 版：扫描 PDF 经 OCR 转 Markdown 后排版构建，仅供学习研究 |
 | [slobys/telegram-group-manager](https://github.com/slobys/telegram-group-manager) | 2026-10-10 | text-recognition | candidate | GroupGuard: self-hosted Chinese Telegram group moderation, points, schedules, optional OCR |
+| [sdcb/SimdGcdrNet](https://github.com/sdcb/SimdGcdrNet) | 2026-10-10 | other | candidate | a pure C# implementation of GCDRNet (Appearance Enhancement for Camera-captured Document Images in the Wild, IEEE TAI 2023) — document-image shadow removal and appearance enhancement without onnxruntime or any other third-party inference engine. It ships its own compiled-model inference engine |
 | [inclusionAI/PolyOCR-Venus](https://github.com/inclusionAI/PolyOCR-Venus) | 2026-10-10 | text-recognition | candidate | — |
 | [ZacharyZhang-NY/ElyOffice](https://github.com/ZacharyZhang-NY/ElyOffice) | 2026-10-09 | other | candidate | Offline-first desktop office suite in Rust and GPUI: documents, spreadsheets, presentations, PDF, Git, Markdown |
 | [wayprovidercommand/windows-offline-pdf-ocr-text-extractor](https://github.com/wayprovidercommand/windows-offline-pdf-ocr-text-extractor) | 2026-10-09 | text-recognition | candidate | Offline Windows OCR utility for extracting searchable text from scanned PDFs and image-based documents, reviewing recognized text, and exporting results locally. |
