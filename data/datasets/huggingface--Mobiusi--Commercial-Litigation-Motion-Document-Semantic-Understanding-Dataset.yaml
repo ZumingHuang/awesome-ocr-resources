@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset
+kind: dataset
+name: Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-16'
+last_verified_at: '2026-10-16'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tCommercial Litigation Motion Document Semantic Understanding Dataset\n\
+  \t\n\nThis benchmark covers commercial litigation filings, including motions to dismiss, motions for\
+  \ summary judgment, motions to exclude evidence, and briefs supporting or opposing those motions. It\
+  \ organizes information on motion type and position, targets, applicable standards, argument chains,\
+  \ cited facts, legal authorities, and requested rulings. Use it to evaluate legal document understanding,\
+  \ argument… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset."
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset
+  discovered_via: huggingface
+  discovered_at: '2026-10-16'
+  source_id: Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset
+  source_metadata:
+    repository_id: Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset
+    downloads: 0
+    likes: 0
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Mobiusi
+repository_id: Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset
+usage: []
+annotations: []
+access: unknown

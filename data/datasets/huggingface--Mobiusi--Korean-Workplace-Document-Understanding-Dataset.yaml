@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Mobiusi/Korean-Workplace-Document-Understanding-Dataset
+kind: dataset
+name: Mobiusi/Korean-Workplace-Document-Understanding-Dataset
+released_at:
+  value: '2026-10-16'
+  precision: day
+added_at: '2026-10-16'
+last_verified_at: '2026-10-16'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKorean Workplace Document Understanding Dataset\n\t\n\nDesigned for\
+  \ Korean for Business learning and document understanding, this resource contains JSON-structured samples\
+  \ of common workplace materials, including emails, meeting notices, schedules, internal process guides,\
+  \ leave policies, and handover documents. Annotations cover document categories and topics, tasks and\
+  \ assignees, deadlines, request intent, priority, execution conditions, and implied collaboration relationships…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Korean-Workplace-Document-Understanding-Dataset."
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Mobiusi/Korean-Workplace-Document-Understanding-Dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Mobiusi/Korean-Workplace-Document-Understanding-Dataset
+  discovered_via: huggingface
+  discovered_at: '2026-10-16'
+  source_id: Mobiusi/Korean-Workplace-Document-Understanding-Dataset
+  source_metadata:
+    repository_id: Mobiusi/Korean-Workplace-Document-Understanding-Dataset
+    downloads: 0
+    likes: 0
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Mobiusi
+repository_id: Mobiusi/Korean-Workplace-Document-Understanding-Dataset
+usage: []
+annotations: []
+access: unknown
