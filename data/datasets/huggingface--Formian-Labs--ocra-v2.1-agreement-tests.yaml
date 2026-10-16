@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Formian-Labs/ocra-v2.1-agreement-tests
+kind: dataset
+name: Formian-Labs/ocra-v2.1-agreement-tests
+released_at:
+  value: '2026-10-14'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tO-CRA V2.1 — agreement tests and sample evaluations\n\t\n\nThe evidence\
+  \ behind the method. Published so that the O-CRA framework can be examined directly.\nThis is the companion\
+  \ to the paper. The paper makes a claim that the disposition of a model is\nvisible in the evaluations\
+  \ it produces rather than in the scores it returns. This dataset contains\nthe material to check that\
+  \ claim.\nTwo files:\n\n\t\n\t\t\nFile\nWhat it is\nRows\n\n\n\t\t\nocra-agreement-tests.jsonl\nthe\
+  \ twelve agreement tests: scenario… See the full description on the dataset page: https://huggingface.co/datasets/Formian-Labs/ocra-v2.1-agreement-tests."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Formian-Labs/ocra-v2.1-agreement-tests
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Formian-Labs/ocra-v2.1-agreement-tests
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: Formian-Labs/ocra-v2.1-agreement-tests
+  source_metadata:
+    repository_id: Formian-Labs/ocra-v2.1-agreement-tests
+    downloads: 25
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Formian-Labs
+repository_id: Formian-Labs/ocra-v2.1-agreement-tests
+usage: []
+annotations: []
+access: unknown

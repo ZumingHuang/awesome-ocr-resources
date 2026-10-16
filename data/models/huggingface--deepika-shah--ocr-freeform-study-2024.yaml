@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:deepika-shah/ocr-freeform-study-2024
+kind: model
+name: deepika-shah/ocr-freeform-study-2024
+released_at:
+  value: '2026-10-13'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/deepika-shah/ocr-freeform-study-2024
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/deepika-shah/ocr-freeform-study-2024
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: deepika-shah/ocr-freeform-study-2024
+  source_metadata:
+    repository_id: deepika-shah/ocr-freeform-study-2024
+    downloads: 10
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: deepika-shah
+repository_id: deepika-shah/ocr-freeform-study-2024
+deployment: []

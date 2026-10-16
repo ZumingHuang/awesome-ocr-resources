@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:QuarterMill26/qv5-308-bhl-deepseek-ocr
+kind: dataset
+name: QuarterMill26/qv5-308-bhl-deepseek-ocr
+released_at:
+  value: '2026-10-14'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR using DeepSeek-OCR\n\t\n\nThis dataset contains markdown-formatted\
+  \ OCR results from images in finebooks/bhl-impact-gt using DeepSeek-OCR.\n\n\t\n\t\t\n\t\n\t\n\t\tProcessing\
+  \ Details\n\t\n\n\nSource Dataset: finebooks/bhl-impact-gt\nModel: deepseek-ai/DeepSeek-OCR\nNumber\
+  \ of Samples: 20\nProcessing Time: 5.8 minutes\nProcessing Date: 2026-10-14 12:08 UTC\n\n\n\t\n\t\t\n\
+  \t\n\t\n\t\tConfiguration\n\t\n\n\nImage Column: image\nOutput Column: markdown\nDataset Split: train\n\
+  Resolution Mode: gundam\nBase Size: 1024\nImage… See the full description on the dataset page: https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-deepseek-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-deepseek-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/QuarterMill26/qv5-308-bhl-deepseek-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: QuarterMill26/qv5-308-bhl-deepseek-ocr
+  source_metadata:
+    repository_id: QuarterMill26/qv5-308-bhl-deepseek-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: QuarterMill26
+repository_id: QuarterMill26/qv5-308-bhl-deepseek-ocr
+usage: []
+annotations: []
+access: unknown

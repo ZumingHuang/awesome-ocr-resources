@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:Shamika2004/coco_01-ocr-GGUF
+kind: model
+name: Shamika2004/coco_01-ocr-GGUF
+released_at:
+  value: '2026-10-14'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Shamika2004/coco_01-ocr-GGUF
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Shamika2004/coco_01-ocr-GGUF
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: Shamika2004/coco_01-ocr-GGUF
+  source_metadata:
+    repository_id: Shamika2004/coco_01-ocr-GGUF
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Shamika2004
+repository_id: Shamika2004/coco_01-ocr-GGUF
+deployment: []

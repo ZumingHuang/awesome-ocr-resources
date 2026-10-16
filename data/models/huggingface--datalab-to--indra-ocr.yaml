@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:datalab-to/indra-ocr
+kind: model
+name: datalab-to/indra-ocr
+released_at:
+  value: '2026-10-10'
+  precision: day
+added_at: '2026-10-15'
+last_verified_at: '2026-10-15'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datalab-to/indra-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datalab-to/indra-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-15'
+  source_id: datalab-to/indra-ocr
+  source_metadata:
+    repository_id: datalab-to/indra-ocr
+    downloads: 0
+    likes: 74
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: datalab-to
+repository_id: datalab-to/indra-ocr
+deployment: []
