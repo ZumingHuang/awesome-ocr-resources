@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:hari31416/hindi-english-line-ocr
+kind: dataset
+name: hari31416/hindi-english-line-ocr
+released_at:
+  value: '2026-10-16'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tHindi-English Line OCR Dataset\n\t\n\nPrinted Hindi, English, and mixed-script\
+  \ line images from scanned documents, rendered PDFs, and synthetic text. Images are embedded directly\
+  \ in Parquet format with exact Unicode transcriptions. This final release contains 98,195 verified line\
+  \ crops organized into standard training, validation, and test splits.\n\n\t\n\t\t\n\t\n\t\n\t\tSplits\
+  \ and Script Distribution\n\t\n\n\n\t\n\t\t\nSplit\nReal\nSynthetic\nTotal\n\n\n\t\t\ntrain\n8,833\n\
+  83,000\n91,833\n\n\nvalidation\n1,224\n2,000\n3,224… See the full description on the dataset page: https://huggingface.co/datasets/hari31416/hindi-english-line-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/hari31416/hindi-english-line-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/hari31416/hindi-english-line-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-17'
+  source_id: hari31416/hindi-english-line-ocr
+  source_metadata:
+    repository_id: hari31416/hindi-english-line-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: hari31416
+repository_id: hari31416/hindi-english-line-ocr
+usage: []
+annotations: []
+access: unknown

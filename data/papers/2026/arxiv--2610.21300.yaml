@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:2610.21300
+kind: paper
+name: Making every stage of medical device document assessment with large language models deterministic
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: 'To show that a medical device complies with regulation, experts judge whether documents and
+  records meet each requirement and record the judgment for others to verify. For each assessment item
+  that experts define, large language models could prepare a preliminary assessment: a label such as Satisfied
+  or Not satisfied, a reason and quoted evidence. We sent fourteen commercial deployments of such models
+  (seven models from three providers, through six routes) the same request repeatedly, with the deterministic
+  sampling settings each accepted; every deployment returned differing assessments for at least one request,
+  and in twelve the label changed. Reducing reasoning where the interface allows it did not reduce the
+  variation, and prompts of retrieved passages removed it only for the smallest models. The same open-weight
+  model was reproducible or not depending only on how it was served. A pipeline we built to be deterministic
+  at every stage -- text extraction and optical character recognition (OCR), chunking, embedding, indexing,
+  retrieval and inference -- returned byte-identical output at each stage across reruns, interruptions,
+  edits, machines of one graphics processing unit (GPU) model and days, for blood glucose meter and infusion
+  pump documents. OCR, embedding and approximate retrieval varied when their own serving was not made
+  invariant, and outputs changed with the GPU model and with the inference engine''s scheduling settings,
+  which therefore belong in the recorded configuration. End-to-end determinism is achievable and gives
+  a testable basis for audit and change control.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.21300
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.21300
+  discovered_via: arxiv
+  discovered_at: '2026-10-17'
+  source_id: '2610.21300'
+  source_metadata:
+    arxiv_id: '2610.21300'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Ryosuke Suzuki
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.21300'

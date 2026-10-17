@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Nope-im-not-pro/galeree-ocr-latin
+kind: model
+name: Nope-im-not-pro/galeree-ocr-latin
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Nope-im-not-pro/galeree-ocr-latin
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Nope-im-not-pro/galeree-ocr-latin
+  discovered_via: huggingface
+  discovered_at: '2026-10-17'
+  source_id: Nope-im-not-pro/galeree-ocr-latin
+  source_metadata:
+    repository_id: Nope-im-not-pro/galeree-ocr-latin
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Nope-im-not-pro
+repository_id: Nope-im-not-pro/galeree-ocr-latin
+deployment: []

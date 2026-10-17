@@ -77,6 +77,10 @@ Zihan Huang, Shihang Wu, Junle Liu, Peirong Zhang, Yongxin Shi, Xuhan Zheng, Lia
 Dongyang Xie, Yao Tian, Hao Zhang, Yifei Yuan, Tieyun Qian, Ming Zhong, Jiawei Jiang, Yuanyuan Zhu
 \[document-vqa\]
 
+**DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding**
+Zhuowen Liang, Xiaotian Lin, Yuyu Luo, Haixun Wang, Nan Tang
+\[document-vqa\]\[document-parsing\]
+
 **DocPO: Advancing Document Policy Optimization via Tailored Step-Aware Rewards**
 Yunhao Wang, Binghong Wu, Zhenyu Huang, Jiacheng Shi, Shuo Huang, Tinghao Yu, Feng Zhang
 \[formula-recognition\]\[document-parsing\]
@@ -185,6 +189,10 @@ Taiga Ikeda, Daisuke Miyashita, Jun Deguchi
 Yuefeng Zou, Yichen Lu, Jingxiao Yang, Bingtao Fu, Gaoyang Zhang, Xiongfei Bai, Tian Chen, Xiang Qi
 \[document-vqa\]\[table-recognition\]\[formula-recognition\]\[document-parsing\]
 
+**Making every stage of medical device document assessment with large language models deterministic**
+Ryosuke Suzuki
+\[text-recognition\]
+
 **Masking Is Not Enough: Generative Restoration for Multimodal De-Identification in Medical AI**
 Shiva Shrestha, Zongxing Xie, Chen Zhao, Liran Ma, Zhipeng Cai, Honghui Xu
 \[document-vqa\]\[text-recognition\]
@@ -232,6 +240,10 @@ Rui Tang, Wentao Yang, Peirong Zhang, Yongxin Shi, Shun Zhang, Huiguo He, Lianwe
 **Open Vocabulary Word Recognition From Transcribed Bangla Texts**
 Faias Satter, Sk. Md. Masudul Ahsan
 \[handwriting-recognition\]\[text-recognition\]
+
+**P2TPO: Structure-Aligned Page-to-Token Credit Assignment for Full-Page Document Parsing**
+Yong Zu, Ninghua Yang, Zezhong Tan, Xinhong Ma, Ziqiang Dong, Yang Yang
+\[document-parsing\]
 
 **PaDoc: Layout-Grounded Parallel Decoding for Document Parsing**
 Hao Yu, Jiabo Zhan, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
