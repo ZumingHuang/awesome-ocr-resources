@@ -17,7 +17,7 @@
 | [数据集](datasets/README.md) | 407 | 训练、预训练和评测数据集 |
 | [代码](codes/README.md) | 140 | 著名 OCR 与 Document AI 项目 |
 | [Skills](skills/README.md) | 267 | 可安装、可复用的 OCR/文档 Agent Skills |
-| [平台](platforms/README.md) | 0 | 国内外 OCR 平台、服务及介绍 |
+| [平台](platforms/README.md) | 1 | 国内外 OCR 平台、服务及介绍 |
 
 ## 最近更新
 

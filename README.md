@@ -17,7 +17,7 @@ A structured and human-curated collection of OCR and Document AI resources. Auto
 | [Datasets](datasets/README.md) | 407 | Training datasets and evaluation benchmarks |
 | [Codes](codes/README.md) | 140 | Notable OCR and Document AI codebases |
 | [Skills](skills/README.md) | 267 | Installable agent skills for OCR and document workflows |
-| [Platforms](platforms/README.md) | 0 | Domestic and international OCR platforms and services |
+| [Platforms](platforms/README.md) | 1 | Domestic and international OCR platforms and services |
 
 ## Latest Updates
 
