@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2610.21327
+kind: paper
+name: 'DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding'
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: Multimodal long-document question answering requires models to seek sparse evidence across pages
+  and modalities, understand heterogeneous document content, and reason over the collected evidence. Even
+  advanced vision-language models (VLMs) can overlook sparse evidence and struggle with cross-modal reasoning
+  in a single pass. Existing document agents further introduce multi-step interaction, but some still
+  rely on predefined workflows or coarse-grained actions, limiting the flexibility and granularity of
+  document reasoning. We introduce DocPilot, an agentic document framework that supports expressive orchestration
+  and makes complex document solving learnable by small language models (SLMs). DocPilot orchestrates
+  evidence seeking through page-level navigation and fine-grained evidence localization, and integrates
+  local visual inspection, code-based numerical reasoning, and cross-modal reasoning for multimodal understanding.
+  To transfer these capabilities to small models, we propose curriculum-based agentic training that progresses
+  from single-ability learning to adaptive orchestration through supervision from data-grounded reasoning
+  traces and executable interaction trajectories. Across MMLongBench-Doc, DocBench, FinRAGBench-V, and
+  MADQA, DocPilot achieves strong gains with frontier VLM backbones, while DocPilot-4B delivers competitive
+  performance against substantially larger models, demonstrating strong effectiveness and generalization
+  across diverse long-document reasoning settings. The code is available at https://github.com/HKUSTDial/DocPilot.
+tasks:
+- document-vqa
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.21327
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.21327
+  discovered_via: arxiv
+  discovered_at: '2026-10-17'
+  source_id: '2610.21327'
+  source_metadata:
+    arxiv_id: '2610.21327'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Zhuowen Liang
+- Xiaotian Lin
+- Yuyu Luo
+- Haixun Wang
+- Nan Tang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.21327'

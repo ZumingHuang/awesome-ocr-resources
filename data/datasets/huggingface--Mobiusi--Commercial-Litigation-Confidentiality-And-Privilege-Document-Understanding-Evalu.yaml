@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu
+kind: dataset
+name: Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tCommercial Litigation Confidentiality and Privilege Document Understanding\
+  \ Evaluation Dataset\n\t\n\nThis dataset focuses on protective orders, privilege logs, sealing motions,\
+  \ confidentiality designation challenges, and related court rulings in commercial litigation. It captures\
+  \ key elements such as protected information categories, grounds for protection, disclosure restrictions,\
+  \ dispute scope, and case outcomes through source documents and structured semantic annotations. It…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu."
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu
+  discovered_via: huggingface
+  discovered_at: '2026-10-17'
+  source_id: Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu
+  source_metadata:
+    repository_id: Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu
+    downloads: 28
+    likes: 0
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Mobiusi
+repository_id: Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu
+usage: []
+annotations: []
+access: unknown

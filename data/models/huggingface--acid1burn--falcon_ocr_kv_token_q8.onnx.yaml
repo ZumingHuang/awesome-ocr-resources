@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:acid1burn/falcon_ocr_kv_token_q8.onnx
+kind: model
+name: acid1burn/falcon_ocr_kv_token_q8.onnx
+released_at:
+  value: '2026-10-16'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/acid1burn/falcon_ocr_kv_token_q8.onnx
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/acid1burn/falcon_ocr_kv_token_q8.onnx
+  discovered_via: huggingface
+  discovered_at: '2026-10-17'
+  source_id: acid1burn/falcon_ocr_kv_token_q8.onnx
+  source_metadata:
+    repository_id: acid1burn/falcon_ocr_kv_token_q8.onnx
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: acid1burn
+repository_id: acid1burn/falcon_ocr_kv_token_q8.onnx
+deployment: []

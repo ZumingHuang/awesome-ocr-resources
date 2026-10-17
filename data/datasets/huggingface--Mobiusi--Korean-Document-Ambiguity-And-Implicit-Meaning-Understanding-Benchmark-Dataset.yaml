@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset
+kind: dataset
+name: Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset
+released_at:
+  value: '2026-10-16'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKorean Document Ambiguity and Implicit Meaning Understanding Benchmark\
+  \ Dataset\n\t\n\nThis benchmark covers challenging phenomena in Korean documents, including omitted\
+  \ subjects, honorific tone, negation, conditional exceptions, ambiguous references, polysemy, and polite\
+  \ refusals. Its JSON records organize the source document, ambiguity points, candidate interpretations,\
+  \ correct semantics, and semantic parses. The examples support domain-specific supervised fine-tuning\
+  \ and evaluation… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset."
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset
+  discovered_via: huggingface
+  discovered_at: '2026-10-17'
+  source_id: Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset
+  source_metadata:
+    repository_id: Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset
+    downloads: 17
+    likes: 0
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Mobiusi
+repository_id: Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset
+usage: []
+annotations: []
+access: unknown

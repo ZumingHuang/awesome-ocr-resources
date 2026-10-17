@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:CardAnvilModels/PP-OCRv3-det-ONNX
+kind: model
+name: CardAnvilModels/PP-OCRv3-det-ONNX
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/CardAnvilModels/PP-OCRv3-det-ONNX
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/CardAnvilModels/PP-OCRv3-det-ONNX
+  discovered_via: huggingface
+  discovered_at: '2026-10-17'
+  source_id: CardAnvilModels/PP-OCRv3-det-ONNX
+  source_metadata:
+    repository_id: CardAnvilModels/PP-OCRv3-det-ONNX
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: CardAnvilModels
+repository_id: CardAnvilModels/PP-OCRv3-det-ONNX
+deployment: []

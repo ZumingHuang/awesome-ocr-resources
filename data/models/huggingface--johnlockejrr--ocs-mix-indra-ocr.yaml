@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:johnlockejrr/ocs-mix-indra-ocr
+kind: model
+name: johnlockejrr/ocs-mix-indra-ocr
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/johnlockejrr/ocs-mix-indra-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/johnlockejrr/ocs-mix-indra-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-17'
+  source_id: johnlockejrr/ocs-mix-indra-ocr
+  source_metadata:
+    repository_id: johnlockejrr/ocs-mix-indra-ocr
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: johnlockejrr
+repository_id: johnlockejrr/ocs-mix-indra-ocr
+deployment: []
