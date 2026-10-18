@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset
+kind: dataset
+name: Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-17'
+last_verified_at: '2026-10-17'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tPatent Infringement Pleadings Document Understanding Dataset\n\t\n\n\
+  This dataset covers complaints, statements of defense, counterclaims, legal briefs, and other written\
+  \ submissions in patent infringement cases. Its structured content focuses on case and patent details,\
+  \ disputed facts, claim-by-claim infringement comparisons, party positions, defense arguments, evidence\
+  \ references, and cited legal authorities. It supports domain-specific training, information retrieval,\
+  \ legal analysis… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset."
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset
+  discovered_via: huggingface
+  discovered_at: '2026-10-17'
+  source_id: Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset
+  source_metadata:
+    repository_id: Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset
+    downloads: 32
+    likes: 0
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Mobiusi
+repository_id: Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset
+usage: []
+annotations: []
+access: unknown

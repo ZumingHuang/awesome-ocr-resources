@@ -4,9 +4,34 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [IntelligenceResearchLab/Hausa-OCR-AJAMI-v11-20261015](https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI-v11-20261015) | 2026-10-17 | handwriting-recognition, text-recognition | candidate | — |
+| [smile-forge/unlimited-ocr](https://huggingface.co/smile-forge/unlimited-ocr) | 2026-10-16 | text-recognition | candidate | — |
+| [noramirez/ocr-freeform-v2](https://huggingface.co/noramirez/ocr-freeform-v2) | 2026-10-16 | text-recognition | candidate | — |
+| [muscgab/manga-ocr-nar-small-distil](https://huggingface.co/muscgab/manga-ocr-nar-small-distil) | 2026-10-16 | text-recognition | candidate | — |
+| [matveifedorov/postdoc-ocr-freeform](https://huggingface.co/matveifedorov/postdoc-ocr-freeform) | 2026-10-16 | text-recognition | candidate | — |
+| [Kus669/ViSceT5-twcbr-vitextvqa-noimg-scespavis-ocraug-twc-q16384-t5](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-noimg-scespavis-ocraug-twc-q16384-t5) | 2026-10-16 | document-vqa, text-recognition | candidate | — |
+| [IntelligenceResearchLab/Hausa-OCR-AJAMI-v9-20261015](https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI-v9-20261015) | 2026-10-16 | handwriting-recognition, text-recognition | candidate | — |
+| [IntelligenceResearchLab/Hausa-OCR-AJAMI-v10-20261015](https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI-v10-20261015) | 2026-10-16 | handwriting-recognition, text-recognition | candidate | — |
+| [hon-lu/manga-ocr-base-CPT-flex-onnx-fp16](https://huggingface.co/hon-lu/manga-ocr-base-CPT-flex-onnx-fp16) | 2026-10-16 | text-recognition | candidate | — |
+| [acid1burn/falcon_ocr_kv_token_q8.onnx](https://huggingface.co/acid1burn/falcon_ocr_kv_token_q8.onnx) | 2026-10-16 | text-recognition | candidate | — |
+| [yoyio/Unlimited-OCR](https://huggingface.co/yoyio/Unlimited-OCR) | 2026-10-15 | text-recognition | candidate | — |
+| [wjbmattingly/nara-indra-ocr-r2](https://huggingface.co/wjbmattingly/nara-indra-ocr-r2) | 2026-10-15 | handwriting-recognition, text-recognition | candidate | — |
+| [thanujhf/akshara-telugu-handwriting-ocr](https://huggingface.co/thanujhf/akshara-telugu-handwriting-ocr) | 2026-10-15 | handwriting-recognition, text-recognition | candidate | — |
 | [Seoul12/khmer-ocr-three-architectures](https://huggingface.co/Seoul12/khmer-ocr-three-architectures) | 2026-10-15 | text-recognition | candidate | — |
+| [richardyoung/Xiaomi-OCR-0-GGUF](https://huggingface.co/richardyoung/Xiaomi-OCR-0-GGUF) | 2026-10-15 | text-recognition | candidate | — |
+| [PiotrSty/slayer-ocr-print-engine-frozen](https://huggingface.co/PiotrSty/slayer-ocr-print-engine-frozen) | 2026-10-15 | text-recognition | candidate | — |
+| [Nope-im-not-pro/galeree-ocr-latin](https://huggingface.co/Nope-im-not-pro/galeree-ocr-latin) | 2026-10-15 | text-recognition | candidate | — |
+| [muscgab/manga-ocr-base-CPT-flex](https://huggingface.co/muscgab/manga-ocr-base-CPT-flex) | 2026-10-15 | text-recognition | candidate | — |
+| [muscgab/manga-ocr-base-CPT](https://huggingface.co/muscgab/manga-ocr-base-CPT) | 2026-10-15 | text-recognition | candidate | — |
 | [MinhoHwang/reading-ocr-freeform](https://huggingface.co/MinhoHwang/reading-ocr-freeform) | 2026-10-15 | text-recognition | candidate | — |
 | [JUROCLINIC/ocr](https://huggingface.co/JUROCLINIC/ocr) | 2026-10-15 | text-recognition | candidate | — |
+| [johnlockejrr/ocs-mix-indra-ocr](https://huggingface.co/johnlockejrr/ocs-mix-indra-ocr) | 2026-10-15 | text-recognition | candidate | — |
+| [intel-ai/DeepSeek-OCR-2-MXFP8-CT-AutoRound](https://huggingface.co/intel-ai/DeepSeek-OCR-2-MXFP8-CT-AutoRound) | 2026-10-15 | text-recognition | candidate | — |
+| [inference4j/pp-ocrv6-tiny-rec](https://huggingface.co/inference4j/pp-ocrv6-tiny-rec) | 2026-10-15 | text-recognition | candidate | — |
+| [inference4j/pp-ocrv6-tiny-det](https://huggingface.co/inference4j/pp-ocrv6-tiny-det) | 2026-10-15 | text-recognition | candidate | — |
+| [inference4j/pp-ocrv6-small-rec](https://huggingface.co/inference4j/pp-ocrv6-small-rec) | 2026-10-15 | text-recognition | candidate | — |
+| [inference4j/pp-ocrv6-small-det](https://huggingface.co/inference4j/pp-ocrv6-small-det) | 2026-10-15 | text-recognition | candidate | — |
+| [CardAnvilModels/PP-OCRv3-det-ONNX](https://huggingface.co/CardAnvilModels/PP-OCRv3-det-ONNX) | 2026-10-15 | text-recognition | candidate | — |
 | [wjbmattingly/comma-indra-ocr-1k](https://huggingface.co/wjbmattingly/comma-indra-ocr-1k) | 2026-10-14 | handwriting-recognition, text-recognition | candidate | — |
 | [wjbmattingly/comma-indra-ocr-10k](https://huggingface.co/wjbmattingly/comma-indra-ocr-10k) | 2026-10-14 | handwriting-recognition, text-recognition | candidate | — |
 | [Shamika2004/coco_01-ocr-GGUF](https://huggingface.co/Shamika2004/coco_01-ocr-GGUF) | 2026-10-14 | handwriting-recognition, text-recognition | candidate | — |
