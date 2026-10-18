@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Ali000007/Urdu-Ocr-Dataset
+kind: dataset
+name: Ali000007/Urdu-Ocr-Dataset
+released_at:
+  value: '2026-10-17'
+  precision: day
+added_at: '2026-10-18'
+last_verified_at: '2026-10-18'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tUrdu Shayari OCR Dataset (50k Pages)\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Dataset Description\n\t\n\nThis is a large-scale, synthetically generated dataset designed for Urdu\
+  \ OCR (Optical Character Recognition), specifically focusing on the Nastaliq script. It contains 50,000\
+  \ high-quality, full-page images of Urdu Shayari (Poetry) along with their exact ground-truth text transcriptions.\n\
+  This dataset is intended to fine-tune Vision-Language Models (VLMs) like Qwen2-VL-2B, Qaari-Urdu, or\
+  \ TrOCR for extracting… See the full description on the dataset page: https://huggingface.co/datasets/Ali000007/Urdu-Ocr-Dataset."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Ali000007/Urdu-Ocr-Dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Ali000007/Urdu-Ocr-Dataset
+  discovered_via: huggingface
+  discovered_at: '2026-10-18'
+  source_id: Ali000007/Urdu-Ocr-Dataset
+  source_metadata:
+    repository_id: Ali000007/Urdu-Ocr-Dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Ali000007
+repository_id: Ali000007/Urdu-Ocr-Dataset
+usage: []
+annotations: []
+access: unknown
