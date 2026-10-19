@@ -4,7 +4,15 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [tomngdev/indra-ocr-web](https://huggingface.co/tomngdev/indra-ocr-web) | 2026-10-18 | text-recognition | candidate | — |
+| [SOTAagi2030/Municipal-Archive-OCR-359](https://huggingface.co/SOTAagi2030/Municipal-Archive-OCR-359) | 2026-10-17 | text-recognition | candidate | — |
+| [snowfluke/ppu-indra-ocr-models](https://huggingface.co/snowfluke/ppu-indra-ocr-models) | 2026-10-17 | text-recognition | candidate | — |
+| [mhamada231/arabic-line-ocr-lora](https://huggingface.co/mhamada231/arabic-line-ocr-lora) | 2026-10-17 | text-recognition | candidate | — |
+| [islamsidratul/jonaki-bangla-ocr](https://huggingface.co/islamsidratul/jonaki-bangla-ocr) | 2026-10-17 | text-recognition | candidate | — |
+| [IntelligenceResearchLab/Hausa-OCR-AJAMI-v12-20261015](https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI-v12-20261015) | 2026-10-17 | handwriting-recognition, text-recognition | candidate | — |
 | [IntelligenceResearchLab/Hausa-OCR-AJAMI-v11-20261015](https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI-v11-20261015) | 2026-10-17 | handwriting-recognition, text-recognition | candidate | — |
+| [imjoshuagarcia/ocr-freeform-2023](https://huggingface.co/imjoshuagarcia/ocr-freeform-2023) | 2026-10-17 | text-recognition | candidate | — |
+| [fabriziosalmi/GLM-OCR-ita-GGUF](https://huggingface.co/fabriziosalmi/GLM-OCR-ita-GGUF) | 2026-10-17 | text-recognition | candidate | — |
 | [smile-forge/unlimited-ocr](https://huggingface.co/smile-forge/unlimited-ocr) | 2026-10-16 | text-recognition | candidate | — |
 | [noramirez/ocr-freeform-v2](https://huggingface.co/noramirez/ocr-freeform-v2) | 2026-10-16 | text-recognition | candidate | — |
 | [muscgab/manga-ocr-nar-small-distil](https://huggingface.co/muscgab/manga-ocr-nar-small-distil) | 2026-10-16 | text-recognition | candidate | — |

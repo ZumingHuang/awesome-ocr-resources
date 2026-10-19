@@ -4,6 +4,62 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [jai9999/hindi-english-line-ocr](https://huggingface.co/datasets/jai9999/hindi-english-line-ocr) | 2026-10-17 | text-recognition | candidate | 
+	
+		
+	
+	
+		Hindi-English Line OCR Dataset
+	
+
+Printed Hindi, English, and mixed-script line images from scanned documents, rendered PDFs, and synthetic text. Images are embedded directly in Parquet format with exact Unicode transcriptions. This final release contains 98,195 verified line crops organized into standard training, validation, and test splits.
+
+	
+		
+	
+	
+		Splits and Script Distribution
+	
+
+
+	
+		
+Split
+Real
+Synthetic
+Total
+
+
+		
+train
+8,833
+83,000
+91,833
+
+
+validation
+1,224
+2,000
+3,224… See the full description on the dataset page: https://huggingface.co/datasets/jai9999/hindi-english-line-ocr. |
+| [GJoeRC/my-ocr-test-files](https://huggingface.co/datasets/GJoeRC/my-ocr-test-files) | 2026-10-17 | text-recognition | candidate | — |
+| [Ali000007/Urdu-Ocr-Dataset](https://huggingface.co/datasets/Ali000007/Urdu-Ocr-Dataset) | 2026-10-17 | text-recognition | candidate | 
+	
+		
+	
+	
+		Urdu Shayari OCR Dataset (50k Pages)
+	
+
+
+	
+		
+	
+	
+		Dataset Description
+	
+
+This is a large-scale, synthetically generated dataset designed for Urdu OCR (Optical Character Recognition), specifically focusing on the Nastaliq script. It contains 50,000 high-quality, full-page images of Urdu Shayari (Poetry) along with their exact ground-truth text transcriptions.
+This dataset is intended to fine-tune Vision-Language Models (VLMs) like Qwen2-VL-2B, Qaari-Urdu, or TrOCR for extracting… See the full description on the dataset page: https://huggingface.co/datasets/Ali000007/Urdu-Ocr-Dataset. |
 | [OCR-Data/Multi-Lang-OCR](https://huggingface.co/datasets/OCR-Data/Multi-Lang-OCR) | 2026-10-16 | text-recognition | candidate | — |
 | [Mobiusi/Korean-Workplace-Document-Understanding-Dataset](https://huggingface.co/datasets/Mobiusi/Korean-Workplace-Document-Understanding-Dataset) | 2026-10-16 | document-parsing | candidate | 
 	
