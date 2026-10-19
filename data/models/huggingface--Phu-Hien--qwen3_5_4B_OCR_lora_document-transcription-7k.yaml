@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k
+kind: model
+name: Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k
+released_at:
+  value: '2026-10-18'
+  precision: day
+added_at: '2026-10-19'
+last_verified_at: '2026-10-19'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k
+  discovered_via: huggingface
+  discovered_at: '2026-10-19'
+  source_id: Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k
+  source_metadata:
+    repository_id: Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Phu-Hien
+repository_id: Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k
+deployment: []

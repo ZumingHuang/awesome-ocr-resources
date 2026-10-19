@@ -4,6 +4,128 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [blragarwal/document-ocr-sensor-fusion](https://huggingface.co/datasets/blragarwal/document-ocr-sensor-fusion) | 2026-10-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Sensor Fusion Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Sensor Fusion metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/blragarwal/document-ocr-sensor-fusion. |
+| [nukafever/signalisation-routiere-ocr](https://huggingface.co/datasets/nukafever/signalisation-routiere-ocr) | 2026-10-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Traffic Sign Benchmark · Regulatory, Warning & Direction Placards
+	
+
+
+Regulatory road signs, danger warnings, street name plates and traffic guidance in real scenes (900+ photos).Complete authentic collection photographed on the ground by Henry St John (Author & Photographer, nukafever.com).
+
+
+
+
+
+	
+		
+	
+	
+		📸 Dataset Preview Sample
+	
+
+
+  
+    NKF-HDW3ZSGNProfessional Camera
+    NKF-AZ8FNB3AProfessional Camera
+    NKF-7TBVJN8HProfessional Camera
+    NKF-EVFZ7HNAProfessional Camera… See the full description on the dataset page: https://huggingface.co/datasets/nukafever/signalisation-routiere-ocr. |
+| [nukafever/ocr-enseignes](https://huggingface.co/datasets/nukafever/ocr-enseignes) | 2026-10-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Ground-Truth OCR · Real-World Street & Signboard Dataset
+	
+
+
+Real shop signs, street placards, graffiti, urban typography and text in natural scenes (1,100+ photos).Complete authentic collection photographed on the ground by Henry St John (Author & Photographer, nukafever.com).
+
+
+
+
+
+	
+		
+	
+	
+		📸 Dataset Preview Sample
+	
+
+
+  
+    NKF-VDA9D6MAProfessional Camera
+    NKF-YXXUHSNZProfessional Camera
+    NKF-EQU4AQPWProfessional Camera
+    NKF-56UQEYMHProfessional Camera
+  
+
+
+
+Above:… See the full description on the dataset page: https://huggingface.co/datasets/nukafever/ocr-enseignes. |
+| [heyvamshii/synthetic-receipts-ocr-json](https://huggingface.co/datasets/heyvamshii/synthetic-receipts-ocr-json) | 2026-10-18 | text-recognition | candidate | — |
+| [danielwdw/assignment-document-ocr76](https://huggingface.co/datasets/danielwdw/assignment-document-ocr76) | 2026-10-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Depth Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Image Depth data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/danielwdw/assignment-document-ocr76. |
 | [jai9999/hindi-english-line-ocr](https://huggingface.co/datasets/jai9999/hindi-english-line-ocr) | 2026-10-17 | text-recognition | candidate | 
 	
 		

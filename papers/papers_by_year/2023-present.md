@@ -157,6 +157,10 @@ Qian Chen, Xianyin Zhang, Lifan Guo, Chi Zhang
 A. Said Gurbuz, Ahmed Nassar, Christoph Auer, Maksym Lysak, Lucas Morin, Matteo Omenetti, Tim Strohmeyer, Panagiotis Vagenas, Nikolaos Livathinos, Michele Dolfi, Peter Staar
 \[text-recognition\]
 
+**Improving OCR Accuracy Through Multi-Classifier Verification of Visually Similar Characters**
+Nuzhat Khan, Ab Al-Hadi Ab Rahman, Mohamad Anuar Kamaruddin, Muhammad Paend Bakht, Sana Fatima, Farhad Khodadadi, Ibrahim Yousef Alshareef
+\[text-recognition\]
+
 **InscriptionOCR: A Dataset and Method for Understanding Inscriptions**
 Jaidev Sanjay Khalane, Akbar Ali, V. N. Prabhakar, Shanmuganathan Raman
 \[text-recognition\]

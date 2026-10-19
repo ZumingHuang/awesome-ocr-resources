@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:nukafever/ocr-enseignes
+kind: dataset
+name: nukafever/ocr-enseignes
+released_at:
+  value: '2026-10-18'
+  precision: day
+added_at: '2026-10-19'
+last_verified_at: '2026-10-19'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGround-Truth OCR · Real-World Street & Signboard Dataset\n\t\n\n\nReal\
+  \ shop signs, street placards, graffiti, urban typography and text in natural scenes (1,100+ photos).Complete\
+  \ authentic collection photographed on the ground by Henry St John (Author & Photographer, nukafever.com).\n\
+  \n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t\U0001F4F8 Dataset Preview Sample\n\t\n\n\n  \n    NKF-VDA9D6MAProfessional\
+  \ Camera\n    NKF-YXXUHSNZProfessional Camera\n    NKF-EQU4AQPWProfessional Camera\n    NKF-56UQEYMHProfessional\
+  \ Camera\n  \n\n\n\nAbove:… See the full description on the dataset page: https://huggingface.co/datasets/nukafever/ocr-enseignes."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/nukafever/ocr-enseignes
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/nukafever/ocr-enseignes
+  discovered_via: huggingface
+  discovered_at: '2026-10-19'
+  source_id: nukafever/ocr-enseignes
+  source_metadata:
+    repository_id: nukafever/ocr-enseignes
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: nukafever
+repository_id: nukafever/ocr-enseignes
+usage: []
+annotations: []
+access: unknown

@@ -4,7 +4,19 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [taheraljabi3/Falcon-OCR](https://huggingface.co/taheraljabi3/Falcon-OCR) | 2026-10-19 | text-recognition | candidate | — |
+| [spoonn/GLM-OCR-BF16-ComfyUI](https://huggingface.co/spoonn/GLM-OCR-BF16-ComfyUI) | 2026-10-19 | text-recognition | candidate | — |
+| [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-ans-t6](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-ans-t6) | 2026-10-19 | document-vqa, text-recognition | candidate | — |
+| [janmejaypandya/akshar-setu-gujarati-ocr](https://huggingface.co/janmejaypandya/akshar-setu-gujarati-ocr) | 2026-10-19 | text-recognition | candidate | — |
 | [tomngdev/indra-ocr-web](https://huggingface.co/tomngdev/indra-ocr-web) | 2026-10-18 | text-recognition | candidate | — |
+| [tiffanyhn/ocr-freeform-colab](https://huggingface.co/tiffanyhn/ocr-freeform-colab) | 2026-10-18 | text-recognition | candidate | — |
+| [SOUHAILF77/qwen35-arabic-ocr](https://huggingface.co/SOUHAILF77/qwen35-arabic-ocr) | 2026-10-18 | text-recognition | candidate | — |
+| [Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k](https://huggingface.co/Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k) | 2026-10-18 | text-recognition | candidate | — |
+| [muscgab/manga-ocr-charspot-nano](https://huggingface.co/muscgab/manga-ocr-charspot-nano) | 2026-10-18 | text-recognition | candidate | — |
+| [michalkcre/ocr-freeform-notes](https://huggingface.co/michalkcre/ocr-freeform-notes) | 2026-10-18 | text-recognition | candidate | — |
+| [ivanreyesher/study-ocr-freeform](https://huggingface.co/ivanreyesher/study-ocr-freeform) | 2026-10-18 | text-recognition | candidate | — |
+| [IntelligenceResearchLab/Hausa-OCR-AJAMI-v13-20261015](https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI-v13-20261015) | 2026-10-18 | handwriting-recognition, text-recognition | candidate | — |
+| [asanchezdaj/ocr-freeform-2023](https://huggingface.co/asanchezdaj/ocr-freeform-2023) | 2026-10-18 | text-recognition | candidate | — |
 | [SOTAagi2030/Municipal-Archive-OCR-359](https://huggingface.co/SOTAagi2030/Municipal-Archive-OCR-359) | 2026-10-17 | text-recognition | candidate | — |
 | [snowfluke/ppu-indra-ocr-models](https://huggingface.co/snowfluke/ppu-indra-ocr-models) | 2026-10-17 | text-recognition | candidate | — |
 | [mhamada231/arabic-line-ocr-lora](https://huggingface.co/mhamada231/arabic-line-ocr-lora) | 2026-10-17 | text-recognition | candidate | — |
