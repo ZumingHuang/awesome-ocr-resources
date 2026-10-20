@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:SeerRay-Lab/Xiaomi-OCR-0:skill-md
+kind: skill
+name: SeerRay-Lab/Xiaomi-OCR-0 / SKILL.md
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/SeerRay-Lab/Xiaomi-OCR-0/blob/67ac29a85150ed7455b753e4a2243b6d7a46b1dc/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/SeerRay-Lab/Xiaomi-OCR-0/blob/67ac29a85150ed7455b753e4a2243b6d7a46b1dc/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: SeerRay-Lab/Xiaomi-OCR-0:SKILL.md
+  source_metadata:
+    repository: SeerRay-Lab/Xiaomi-OCR-0
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: SeerRay-Lab/Xiaomi-OCR-0
+manifest_path: SKILL.md
+capabilities: {}

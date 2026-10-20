@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2610.25621
+kind: paper
+name: Weighted State Souping for Efficient Long-Context Retrieval
+released_at:
+  value: '2026-10-19'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: State space models (SSMs) combine fast inference and fixed state size with competitive language-modeling
+  performance. Recently, state souping has been proposed as a procedure whereby an SSM independently encodes
+  chunks of tokens like documents, tool definitions, or memory records. The resulting state encodings
+  may be cached and recombined to cheaply construct a context for downstream queries. However, both state
+  souping and vanilla SSMs deteriorate on long, crowded contexts, limiting their utility for long-horizon
+  domains. To address this issue, we propose weighted state souping, a simple method that learns query-dependent
+  weights for composing cached states. The resulting models improve long-context performance substantially
+  across both single- and multi-hop document question answering, needle-in-a-haystack retrieval, variable
+  tracking, and tool use. Our method can be further adapted into an efficient sparse variant, yielding
+  near-constant encoding cost with respect to context length while preserving (and sometimes improving)
+  performance. We also present simple theoretical arguments that illustrate why souping works and when
+  it may fail, and discuss informally the advantages of weighted souping. Weighted state souping thus
+  combines reusable context representations with selective retrieval, offering an efficient approach to
+  language modeling over large collections of documents, tools, and other forms of structured context
+  that increasingly dominate modern agentic workloads.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.25621
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.25621
+  discovered_via: arxiv
+  discovered_at: '2026-10-20'
+  source_id: '2610.25621'
+  source_metadata:
+    arxiv_id: '2610.25621'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- William L. Tong
+- Aryo Lotfi
+- Emmanuel Abbe
+- Josh Susskind
+- Cengiz Pehlevan
+- Eran Malach
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.25621'

@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:2610.25235
+kind: paper
+name: 'Evaluating Cloud and Self-Hosted OCR Systems for Arabic, English, and French Documents: Bounding
+  Box Detection, Text Recognition, and Mathematical Expression Recognition'
+released_at:
+  value: '2026-10-18'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: 'Choosing an OCR system for a multilingual archive requires balancing accuracy against deployment
+  constraints. This study compares cloud and self-hosted systems on three tasks: bounding box detection
+  on 48 Arabic, English, and French pages, text recognition on 315 pages across nine document types, and
+  mathematical expression recognition on 83 English and Arabic samples. Detection was assessed by page-level
+  visual grades, text by character error rate (CER) against a Gemini-generated reference transcription,
+  and mathematics by scores against known answers. Main estimates are accompanied by 95% intervals and
+  paired comparisons. Google Document AI and Surya produced Good line boxes on 47 of 48 (98%) and 46 of
+  48 (96%) pages. Datalab, Azure Document Intelligence, and Document AI had mean CERs of 0.145-0.152,
+  with no difference detected in unadjusted paired comparisons. Surya had the lowest mean CER among self-hosted
+  systems (0.199). No mathematical test had a statistically clear leader. Strict checks showed that near-perfect
+  page scores could conceal a replaced Arabic variable or Eastern Arabic digits rewritten in Western form.
+  Reliable evaluation therefore requires uncertainty estimates, structural checks, and notation-specific
+  tests in addition to aggregate recognition scores.'
+tasks:
+- formula-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.25235
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.25235
+  discovered_via: arxiv
+  discovered_at: '2026-10-20'
+  source_id: '2610.25235'
+  source_metadata:
+    arxiv_id: '2610.25235'
+    doi: null
+    query: all:"mathematical expression recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Jumana Alsubhi
+- Ahmed Alhusayni
+- Abdulrahman Gharawi
+- Israa Hamdine
+- Khadija Alansari
+- Alshaymaa Allahim
+- Lamees Alhumaid
+- Ahmad Shabana
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.25235'

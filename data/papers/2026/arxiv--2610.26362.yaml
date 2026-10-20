@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2610.26362
+kind: paper
+name: 'GAIDA: Generative AI for Human-in-the-Loop Document Annotation'
+released_at:
+  value: '2026-10-19'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: Document annotation is a fundamental yet labor-intensive step in building document information
+  extraction systems. While Optical Character Recognition (OCR) and Large Language Models (LLMs) can automate
+  parts of this process, we argue that annotation systems should be judged not by how completely they
+  remove human effort, but by how effectively they redirect it toward review and correction. We propose
+  a modular human-in-the-loop architecture that integrates OCR-based extraction, LLM-based semantic pre-annotation,
+  and human validation in a single editable workflow, and present \textbf{GAIDA}, a research prototype
+  serving as its reference implementation. GAIDA supports interchangeable OCR engines, LLM backends, and
+  prompt configurations, and enables stage-specific measurement of annotation effort. In an initial single-annotator,
+  stage-specific study on the FUNSD scanned-form and WildReceipt retail-receipt benchmarks, OCR assistance
+  reduced region-creation and transcription time by up to \textbf{80.9\%}, and reviewing LLM pre-annotations
+  reduced semantic-labeling time by up to \textbf{73.7\%}, despite imperfect pre-annotations of 78.86\%
+  and 86.98\% Micro F1 on FUNSD and WildReceipt, respectively. Finally, we reuse the same implementation,
+  adapting only OCR and prompt configuration, to build and openly release \textbf{AraReceipt}, a manually
+  annotated dataset of 100 Arabic receipt images labeled with 25 key-information classes. The results
+  indicate that imperfect automated outputs provide practical value when presented as editable suggestions
+  under human control.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.26362
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.26362
+  discovered_via: arxiv
+  discovered_at: '2026-10-20'
+  source_id: '2610.26362'
+  source_metadata:
+    arxiv_id: '2610.26362'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Islam Mesabah
+- Ali Elhosary
+- Priyabanta Sandulu
+- Darko Obradovic
+- Sebastian J. Vollmer
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.26362'

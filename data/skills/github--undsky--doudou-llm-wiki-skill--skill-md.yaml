@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:undsky/doudou-llm-wiki-skill:skill-md
+kind: skill
+name: undsky/doudou-llm-wiki-skill / SKILL.md
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/undsky/doudou-llm-wiki-skill/blob/43b74093a44919a73e7db09f9e3cca475667aac3/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/undsky/doudou-llm-wiki-skill/blob/43b74093a44919a73e7db09f9e3cca475667aac3/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: undsky/doudou-llm-wiki-skill:SKILL.md
+  source_metadata:
+    repository: undsky/doudou-llm-wiki-skill
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: undsky/doudou-llm-wiki-skill
+manifest_path: SKILL.md
+capabilities: {}

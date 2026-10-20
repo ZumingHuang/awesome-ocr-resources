@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:solana-foundation/pay:agent-plugins-pay-cli-skills-pay-skill-md
+kind: skill
+name: solana-foundation/pay / agent-plugins/pay-cli/skills/pay/SKILL.md
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/solana-foundation/pay/blob/b71de20d092225c8046b2640f0808969bd597f44/agent-plugins/pay-cli/skills/pay/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/solana-foundation/pay/blob/b71de20d092225c8046b2640f0808969bd597f44/agent-plugins/pay-cli/skills/pay/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: solana-foundation/pay:agent-plugins/pay-cli/skills/pay/SKILL.md
+  source_metadata:
+    repository: solana-foundation/pay
+    manifest_path: agent-plugins/pay-cli/skills/pay/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: solana-foundation/pay
+manifest_path: agent-plugins/pay-cli/skills/pay/SKILL.md
+capabilities: {}

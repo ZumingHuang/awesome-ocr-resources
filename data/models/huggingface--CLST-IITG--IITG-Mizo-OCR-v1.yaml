@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:CLST-IITG/IITG-Mizo-OCR-v1
+kind: model
+name: CLST-IITG/IITG-Mizo-OCR-v1
+released_at:
+  value: '2026-10-19'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/CLST-IITG/IITG-Mizo-OCR-v1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/CLST-IITG/IITG-Mizo-OCR-v1
+  discovered_via: huggingface
+  discovered_at: '2026-10-20'
+  source_id: CLST-IITG/IITG-Mizo-OCR-v1
+  source_metadata:
+    repository_id: CLST-IITG/IITG-Mizo-OCR-v1
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: CLST-IITG
+repository_id: CLST-IITG/IITG-Mizo-OCR-v1
+deployment: []

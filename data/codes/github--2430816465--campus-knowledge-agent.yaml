@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:2430816465/campus-knowledge-agent
+kind: code
+name: 2430816465/campus-knowledge-agent
+released_at:
+  value: '2026-10-14'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: 校园知识服务 Agent 智能体平台：基于 FastAPI、Qwen3 与 RAG，贯通公开资料解析、时间范围检索、证据溯源及人工审核。
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/2430816465/campus-knowledge-agent
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/2430816465/campus-knowledge-agent
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: R_kgDOVIiaLA
+  source_metadata:
+    repository: 2430816465/campus-knowledge-agent
+    stars: 62
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: 2430816465/campus-knowledge-agent
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

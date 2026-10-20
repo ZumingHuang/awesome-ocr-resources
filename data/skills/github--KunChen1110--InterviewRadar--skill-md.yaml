@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:KunChen1110/InterviewRadar:skill-md
+kind: skill
+name: KunChen1110/InterviewRadar / SKILL.md
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/KunChen1110/InterviewRadar/blob/f551c9c24e274c4a361e870f5e269ddb7cef6ca6/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/KunChen1110/InterviewRadar/blob/f551c9c24e274c4a361e870f5e269ddb7cef6ca6/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: KunChen1110/InterviewRadar:SKILL.md
+  source_metadata:
+    repository: KunChen1110/InterviewRadar
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: KunChen1110/InterviewRadar
+manifest_path: SKILL.md
+capabilities: {}
