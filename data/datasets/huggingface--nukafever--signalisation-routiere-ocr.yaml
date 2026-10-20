@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:nukafever/signalisation-routiere-ocr
+kind: dataset
+name: nukafever/signalisation-routiere-ocr
+released_at:
+  value: '2026-10-18'
+  precision: day
+added_at: '2026-10-19'
+last_verified_at: '2026-10-19'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tTraffic Sign Benchmark · Regulatory, Warning & Direction Placards\n\t\
+  \n\n\nRegulatory road signs, danger warnings, street name plates and traffic guidance in real scenes\
+  \ (900+ photos).Complete authentic collection photographed on the ground by Henry St John (Author &\
+  \ Photographer, nukafever.com).\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t\U0001F4F8 Dataset Preview Sample\n\
+  \t\n\n\n  \n    NKF-HDW3ZSGNProfessional Camera\n    NKF-AZ8FNB3AProfessional Camera\n    NKF-7TBVJN8HProfessional\
+  \ Camera\n    NKF-EVFZ7HNAProfessional Camera… See the full description on the dataset page: https://huggingface.co/datasets/nukafever/signalisation-routiere-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/nukafever/signalisation-routiere-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/nukafever/signalisation-routiere-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-19'
+  source_id: nukafever/signalisation-routiere-ocr
+  source_metadata:
+    repository_id: nukafever/signalisation-routiere-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: nukafever
+repository_id: nukafever/signalisation-routiere-ocr
+usage: []
+annotations: []
+access: unknown

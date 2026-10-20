@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:2610.22726
+kind: paper
+name: Improving OCR Accuracy Through Multi-Classifier Verification of Visually Similar Characters
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-19'
+last_verified_at: '2026-10-19'
+summary: Distinguishing visually similar characters is a persistent challenge for optical character recognition
+  (OCR) systems, causing errors in critical applications of text digitization. While preprocessing techniques
+  improve image quality and word-level post-processing corrects spelling errors, neither addresses character-level
+  visual ambiguity, an intrinsic property of certain character pairs that limits even state-of-the-art
+  OCR models. We present the Character Verification Model (CVM), a character-level post-processing framework
+  that verifies and corrects ambiguous characters in OCR outputs using specialized binary classifiers
+  trained on visually confusable pairs such as 'O'/'0', 'Z'/'2', and 'S'/'5'. CVM operates independently
+  of dictionary validation, making it suitable for non-lexical data including serial numbers, alphanumeric
+  codes, and license plates. Experiments on three OCR engines (Tesseract, EasyOCR, TrOCR) and ten fonts
+  with low to high complexity demonstrate accuracy improvements of 3.95-14.81 percentage points, with
+  an 87.3% correction rate for visually similar character errors and a false-correction rate of only 2.3%.
+  The modular architecture integrates with existing OCR pipelines without modification to underlying recognition
+  models.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.22726
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.22726
+  discovered_via: arxiv
+  discovered_at: '2026-10-19'
+  source_id: '2610.22726'
+  source_metadata:
+    arxiv_id: '2610.22726'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Nuzhat Khan
+- Ab Al-Hadi Ab Rahman
+- Mohamad Anuar Kamaruddin
+- Muhammad Paend Bakht
+- Sana Fatima
+- Farhad Khodadadi
+- Ibrahim Yousef Alshareef
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.22726'

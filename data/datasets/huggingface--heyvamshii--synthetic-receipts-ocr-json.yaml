@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:heyvamshii/synthetic-receipts-ocr-json
+kind: dataset
+name: heyvamshii/synthetic-receipts-ocr-json
+released_at:
+  value: '2026-10-18'
+  precision: day
+added_at: '2026-10-19'
+last_verified_at: '2026-10-19'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/heyvamshii/synthetic-receipts-ocr-json
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/heyvamshii/synthetic-receipts-ocr-json
+  discovered_via: huggingface
+  discovered_at: '2026-10-19'
+  source_id: heyvamshii/synthetic-receipts-ocr-json
+  source_metadata:
+    repository_id: heyvamshii/synthetic-receipts-ocr-json
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: heyvamshii
+repository_id: heyvamshii/synthetic-receipts-ocr-json
+usage: []
+annotations: []
+access: unknown
