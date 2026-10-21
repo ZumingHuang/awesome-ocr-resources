@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:Ivorychugenerator/formula-scan
+kind: code
+name: Ivorychugenerator/formula-scan
+released_at:
+  value: '2026-10-18'
+  precision: day
+added_at: '2026-10-21'
+last_verified_at: '2026-10-21'
+summary: 'Published: 2026-10-18'
+tasks:
+- formula-recognition
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Ivorychugenerator/formula-scan
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Ivorychugenerator/formula-scan
+  discovered_via: github
+  discovered_at: '2026-10-21'
+  source_id: R_kgDOVOyDrg
+  source_metadata:
+    repository: Ivorychugenerator/formula-scan
+    stars: 11
+    language: C#
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Ivorychugenerator/formula-scan
+landmark: false
+programming_languages:
+- C#
+maintenance_status: active

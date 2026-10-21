@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:hasanzadee/convertino
+kind: code
+name: hasanzadee/convertino
+released_at:
+  value: '2026-10-19'
+  precision: day
+added_at: '2026-10-21'
+last_verified_at: '2026-10-21'
+summary: Drag a file, tap Shift (or Ctrl, Alt, Shift twice), pick a petal — a radial file converter &
+  quick editor for Windows, Linux and macOS (images, PDF, Office, video, OCR, AI cut-out)
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/hasanzadee/convertino
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/hasanzadee/convertino
+  discovered_via: github
+  discovered_at: '2026-10-21'
+  source_id: R_kgDOVQBjeA
+  source_metadata:
+    repository: hasanzadee/convertino
+    stars: 12
+    language: C#
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: hasanzadee/convertino
+landmark: false
+programming_languages:
+- C#
+maintenance_status: active

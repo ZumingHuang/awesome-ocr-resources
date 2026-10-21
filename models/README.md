@@ -4,12 +4,25 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [shahid4017/pashto-ocr-deepseek-lora](https://huggingface.co/shahid4017/pashto-ocr-deepseek-lora) | 2026-10-21 | text-recognition | candidate | — |
+| [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0-rms-noadapter-t11](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0-rms-noadapter-t11) | 2026-10-21 | document-vqa, text-recognition | candidate | — |
+| [Jinstudio/indra-ocr](https://huggingface.co/Jinstudio/indra-ocr) | 2026-10-21 | handwriting-recognition, text-recognition | candidate | — |
+| [Jinstudio/Falcon-OCR](https://huggingface.co/Jinstudio/Falcon-OCR) | 2026-10-21 | text-recognition | candidate | — |
 | [MISDev/OCR-Service](https://huggingface.co/MISDev/OCR-Service) | 2026-10-20 | text-recognition | candidate | — |
+| [lyhourt/khmer-ocr-gemma4-lora](https://huggingface.co/lyhourt/khmer-ocr-gemma4-lora) | 2026-10-20 | text-recognition | candidate | — |
 | [lkhapple/vlm_khmer_ocr](https://huggingface.co/lkhapple/vlm_khmer_ocr) | 2026-10-20 | text-recognition | candidate | — |
 | [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0-rms-noadapter-t9](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0-rms-noadapter-t9) | 2026-10-20 | document-vqa, text-recognition | candidate | — |
 | [Klissh/layoutlmv3-struk-summa-ocr](https://huggingface.co/Klissh/layoutlmv3-struk-summa-ocr) | 2026-10-20 | text-recognition | candidate | — |
 | [Julesbonnetley/ocr-freeform-lite17](https://huggingface.co/Julesbonnetley/ocr-freeform-lite17) | 2026-10-20 | text-recognition | candidate | — |
+| [J-Fraudster/Unlimited-OCR-W4A16-LLM-Compressor](https://huggingface.co/J-Fraudster/Unlimited-OCR-W4A16-LLM-Compressor) | 2026-10-20 | text-recognition | candidate | — |
+| [J-Fraudster/Unlimited-OCR-W4A16-GPTQ](https://huggingface.co/J-Fraudster/Unlimited-OCR-W4A16-GPTQ) | 2026-10-20 | text-recognition | candidate | — |
+| [J-Fraudster/Unlimited-OCR-W4A16-AutoRound](https://huggingface.co/J-Fraudster/Unlimited-OCR-W4A16-AutoRound) | 2026-10-20 | text-recognition | candidate | — |
 | [Iisharma/research-ocr-freeform](https://huggingface.co/Iisharma/research-ocr-freeform) | 2026-10-20 | text-recognition | candidate | — |
+| [haotruong-hitlab/pp-ocrv6-medium-onnx](https://huggingface.co/haotruong-hitlab/pp-ocrv6-medium-onnx) | 2026-10-20 | text-recognition | candidate | — |
+| [hajeongun/K_Bite_OCR](https://huggingface.co/hajeongun/K_Bite_OCR) | 2026-10-20 | text-recognition | candidate | — |
+| [eole-nlp/DeepSeek-OCR-eole](https://huggingface.co/eole-nlp/DeepSeek-OCR-eole) | 2026-10-20 | text-recognition | candidate | — |
+| [ciddwd/manga-ocr-2025-decoder-int8-pc](https://huggingface.co/ciddwd/manga-ocr-2025-decoder-int8-pc) | 2026-10-20 | text-recognition | candidate | — |
+| [artsaraiva/manga-ocr-2025-onnx-past](https://huggingface.co/artsaraiva/manga-ocr-2025-onnx-past) | 2026-10-20 | text-recognition | candidate | — |
 | [AhmetArslanford/ocr-freeform-weights](https://huggingface.co/AhmetArslanford/ocr-freeform-weights) | 2026-10-20 | text-recognition | candidate | — |
 | [taheraljabi3/Falcon-OCR](https://huggingface.co/taheraljabi3/Falcon-OCR) | 2026-10-19 | text-recognition | candidate | — |
 | [spoonn/GLM-OCR-BF16-ComfyUI](https://huggingface.co/spoonn/GLM-OCR-BF16-ComfyUI) | 2026-10-19 | text-recognition | candidate | — |
@@ -21,6 +34,10 @@
 | [tomngdev/indra-ocr-web](https://huggingface.co/tomngdev/indra-ocr-web) | 2026-10-18 | text-recognition | candidate | — |
 | [tiffanyhn/ocr-freeform-colab](https://huggingface.co/tiffanyhn/ocr-freeform-colab) | 2026-10-18 | text-recognition | candidate | — |
 | [SOUHAILF77/qwen35-arabic-ocr](https://huggingface.co/SOUHAILF77/qwen35-arabic-ocr) | 2026-10-18 | text-recognition | candidate | — |
+| [SalahALHaismawi/Nuqta-OCR-4B-GGUF](https://huggingface.co/SalahALHaismawi/Nuqta-OCR-4B-GGUF) | 2026-10-18 | text-recognition | candidate | — |
+| [SalahALHaismawi/Nuqta-OCR-4B](https://huggingface.co/SalahALHaismawi/Nuqta-OCR-4B) | 2026-10-18 | handwriting-recognition, text-recognition | candidate | — |
+| [SalahALHaismawi/Nuqta-OCR-0.8B-GGUF](https://huggingface.co/SalahALHaismawi/Nuqta-OCR-0.8B-GGUF) | 2026-10-18 | text-recognition | candidate | — |
+| [SalahALHaismawi/Nuqta-OCR-0.8B](https://huggingface.co/SalahALHaismawi/Nuqta-OCR-0.8B) | 2026-10-18 | handwriting-recognition, text-recognition | candidate | — |
 | [Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k](https://huggingface.co/Phu-Hien/qwen3_5_4B_OCR_lora_document-transcription-7k) | 2026-10-18 | text-recognition | candidate | — |
 | [muscgab/manga-ocr-charspot-nano](https://huggingface.co/muscgab/manga-ocr-charspot-nano) | 2026-10-18 | text-recognition | candidate | — |
 | [michalkcre/ocr-freeform-notes](https://huggingface.co/michalkcre/ocr-freeform-notes) | 2026-10-18 | text-recognition | candidate | — |

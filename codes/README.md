@@ -5,10 +5,17 @@
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
 | [Meteorkureckon/windows-pdf-ocr-text-extractor](https://github.com/Meteorkureckon/windows-pdf-ocr-text-extractor) | 2026-10-19 | text-recognition | candidate | A Windows PDF OCR workflow for extracting readable text from scanned documents and working with searchable document content. |
+| [hasanzadee/convertino](https://github.com/hasanzadee/convertino) | 2026-10-19 | text-recognition | candidate | Drag a file, tap Shift (or Ctrl, Alt, Shift twice), pick a petal — a radial file converter & quick editor for Windows, Linux and macOS (images, PDF, Office, video, OCR, AI cut-out) |
+| [slmonker/ComfyUI-MOSS-PromptEnhancer](https://github.com/slmonker/ComfyUI-MOSS-PromptEnhancer) | 2026-10-18 | other | candidate | Local GGUF prompt generation for MOSS-Image in ComfyUI, with Caption/Layout modes and Chinese text preservation. |
+| [pridebearthrust/invoice-scan](https://github.com/pridebearthrust/invoice-scan) | 2026-10-18 | text-recognition | candidate | Published: 2026-10-18 |
+| [Ivorychugenerator/formula-scan](https://github.com/Ivorychugenerator/formula-scan) | 2026-10-18 | formula-recognition, handwriting-recognition, text-recognition | candidate | Published: 2026-10-18 |
 | [h0ll0w-AkuZr0guY/tmall-miao-double11](https://github.com/h0ll0w-AkuZr0guY/tmall-miao-double11) | 2026-10-18 | text-recognition | candidate | 基于 MonsterNone/tmall-miao next 分支改造的淘宝双11任务助手：本地网页控制台、离线 OCR、跨应用恢复与 Windows 便携版。 |
+| [gryphonrollershift/table-pull](https://github.com/gryphonrollershift/table-pull) | 2026-10-18 | text-recognition | candidate | Published: 2026-10-19 |
 | [claspmakerprotect/scan-ocr](https://github.com/claspmakerprotect/scan-ocr) | 2026-10-18 | text-recognition | candidate | Published: 2026-10-18 |
 | [VerifiedIdiot/korean-handwriting-rec](https://github.com/VerifiedIdiot/korean-handwriting-rec) | 2026-10-17 | handwriting-recognition, text-recognition | candidate | 한국어 손글씨 OCR 모델. PP-OCRv5를 손글씨·공문서 460만 단어로 추가 학습했습니다. Korean handwriting OCR for handwritten Hangul text recognition (ONNX) |
 | [windquill/FreeMouse](https://github.com/windquill/FreeMouse) | 2026-10-16 | text-recognition | candidate | 独立实现的 macOS 本地工具，提供截图、连续长截图、标注/OCR、录屏和右键文件操作。媒体处理在本机完成；只有主动选择 Google/百度翻译时，文字才会发送到所选网站。 |
+| [WalidHadri-Iron/dowse](https://github.com/WalidHadri-Iron/dowse) | 2026-10-16 | other | candidate | Find anything on your PC by what's in it: local, private semantic search for Windows. Photos, screenshots, PDFs, documents, recordings and videos, in 100+ languages, with EmbeddingGemma 2 on llama.cpp. |
+| [crow-hq/crow-desktop](https://github.com/crow-hq/crow-desktop) | 2026-10-16 | other | candidate | Crow: build your second brain from the documents on your computer. Downloads for macOS, Windows and Linux. |
 | [YEMIN11238/Pop](https://github.com/YEMIN11238/Pop) | 2026-10-15 | text-recognition | candidate | macOS 划词翻译与截图 OCR，支持本地词典及自定义 AI 服务。Translation, OCR and dictionary for macOS. |
 | [2430816465/campus-knowledge-agent](https://github.com/2430816465/campus-knowledge-agent) | 2026-10-14 | other | candidate | 校园知识服务 Agent 智能体平台：基于 FastAPI、Qwen3 与 RAG，贯通公开资料解析、时间范围检索、证据溯源及人工审核。 |
 | [raisulsohan/lazyFinds](https://github.com/raisulsohan/lazyFinds) | 2026-10-13 | text-recognition | candidate | Search your Windows PC by what's inside your files: photos, screenshots, PDFs, documents, audio, video and code, in English and Bengali. On-device, with EmbeddingGemma 2. |

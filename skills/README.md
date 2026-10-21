@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [xberg-io/html-to-markdown / plugin/.pi/skills/html-to-markdown/SKILL.md](https://github.com/xberg-io/html-to-markdown/blob/bb4140d68a9c82273fcd43e8f8b376590012aa9c/plugin/.pi/skills/html-to-markdown/SKILL.md) | 2026-10-21 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [Zyrexnn/Cybermes / skills/upload-insecure-files/SKILL.md](https://github.com/Zyrexnn/Cybermes/blob/961a0dd3d2d2f66a07a416ade3b1d4473b64802e/skills/upload-insecure-files/SKILL.md) | 2026-10-20 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [zhimaAi/BookToSkill / SKILL.md](https://github.com/zhimaAi/BookToSkill/blob/b8499c103588e303eaa23c238fbe13ae632c1ff4/SKILL.md) | 2026-10-20 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [xberg-io/html-to-markdown / skills/html-to-markdown/SKILL.md](https://github.com/xberg-io/html-to-markdown/blob/2892797c3334d02cbca85d7926b9087245d06913/skills/html-to-markdown/SKILL.md) | 2026-10-20 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

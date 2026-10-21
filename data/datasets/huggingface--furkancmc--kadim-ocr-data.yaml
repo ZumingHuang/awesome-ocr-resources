@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:furkancmc/kadim-ocr-data
+kind: dataset
+name: furkancmc/kadim-ocr-data
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-21'
+last_verified_at: '2026-10-21'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKADİM Turkish OCR Dataset (kadim-ocr-data)\n\t\n\n1,000 synthetic Turkish\
+  \ document page images with ground-truth text, at four levels of scan degradation. It is the training\
+  \ and evaluation data of furkancmc/kadim-ocr-lora, the reader (OCR) component of KADİM — Kamu Dilekçe\
+  \ ve İnceleme Mekanizması, built for the TEKNOFEST 2026 Language Agents Competition (Scenario 1: Public\
+  \ Documents and Correspondence).\n\nProject code: github.com/furkancmc/teknofest-kadim-kamu-evrak-ajani\
+  \ (QWEN_VL_ocr/)… See the full description on the dataset page: https://huggingface.co/datasets/furkancmc/kadim-ocr-data."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/furkancmc/kadim-ocr-data
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/furkancmc/kadim-ocr-data
+  discovered_via: huggingface
+  discovered_at: '2026-10-21'
+  source_id: furkancmc/kadim-ocr-data
+  source_metadata:
+    repository_id: furkancmc/kadim-ocr-data
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: furkancmc
+repository_id: furkancmc/kadim-ocr-data
+usage: []
+annotations: []
+access: unknown
