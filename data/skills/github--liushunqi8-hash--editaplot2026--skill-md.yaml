@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:liushunqi8-hash/editaplot2026:skill-md
+kind: skill
+name: liushunqi8-hash/editaplot2026 / SKILL.md
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/liushunqi8-hash/editaplot2026/blob/cc12ad41b4464ae01a49dee932d15c7e2ec83c8d/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/liushunqi8-hash/editaplot2026/blob/cc12ad41b4464ae01a49dee932d15c7e2ec83c8d/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: liushunqi8-hash/editaplot2026:SKILL.md
+  source_metadata:
+    repository: liushunqi8-hash/editaplot2026
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: liushunqi8-hash/editaplot2026
+manifest_path: SKILL.md
+capabilities: {}

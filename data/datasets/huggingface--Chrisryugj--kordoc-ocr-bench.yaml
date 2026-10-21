@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Chrisryugj/kordoc-ocr-bench
+kind: dataset
+name: Chrisryugj/kordoc-ocr-bench
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tkordoc OCR bench — 한국 공문서 OCR 벤치\n\t\n\nkordoc의 OCR 회귀 벤치(bench/ocr-accuracy.mjs)를\
+  \ 모델과 상관없이 돌릴 수 있게 옮긴 데이터셋입니다.\n한국 공공기관 PDF(보도자료·예산서·계획서·회의록·법령 서식 등)의 쪽 이미지와, 그 쪽의 정답 텍스트를 담았습니다.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\t만든 방법\n\t\n\n\n정답: 텍스트층이 깨끗한 PDF 쪽(쪽당 200자 이상, 품질 신호 정상)을 골라 텍스트층을 kordoc으로\
+  \ 추출했습니다. 사람이 단 라벨이 아닙니다.\n원본 PDF: pdf/ 에 문서 전체를 둡니다(kordoc 저장소 bench/corpus/pdf/ 에 넣으면 저장소 벤치가 그대로\
+  \ 돕니다). web066 은 사진이 공공누리 범위 밖이라 쪽 이미지만 둡니다.\n이미지: 같은 쪽을 pdfium으로 216dpi(72dpi × 3) 렌더한 PNG입니다. kordoc\
+  \ OCR이 실제로 받는 입력과 같습니다.\n채점에서 뺀 것… See the full description on the dataset page: https://huggingface.co/datasets/Chrisryugj/kordoc-ocr-bench."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Chrisryugj/kordoc-ocr-bench
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Chrisryugj/kordoc-ocr-bench
+  discovered_via: huggingface
+  discovered_at: '2026-10-20'
+  source_id: Chrisryugj/kordoc-ocr-bench
+  source_metadata:
+    repository_id: Chrisryugj/kordoc-ocr-bench
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Chrisryugj
+repository_id: Chrisryugj/kordoc-ocr-bench
+usage: []
+annotations: []
+access: unknown

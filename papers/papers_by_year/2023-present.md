@@ -61,6 +61,10 @@ Mustafa Sertaç Türkel, Fatma Nur Korkmaz, Ahmet Tuğrul Bayrak
 Paulo Grane Gabriel Silva, Lorenz Bernard Marqueses, Joel Ilao
 \[formula-recognition\]\[handwriting-recognition\]
 
+**Design Considerations in Low-Resource Archival OCR: A Case Study in Lakota**
+Téa Wright, Laura X. Ma, Claudia Iron Hawk, Hannah J. Haynie, Alexis Palmer, Alane Suhr, Abteen Ebrahimi, Katharina von der Wense
+\[text-recognition\]
+
 **DocClaw: A Unified Agentic System for Intelligent Document Processing**
 Siqi Xiang, Zhipeng Xu, Yufei Liu, Junhao Ji, Qing Liu, Zulong Chen, Zhibo Yang, Chunyan Miao, Shijian Lu
 \[document-vqa\]\[formula-recognition\]\[text-recognition\]
@@ -96,6 +100,10 @@ Zhibin Ma, Pengwen Dai, Yi Liu, Xugong Qin, Chenyun Yu, Xiaochun Cao
 **EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering**
 Xuanyu Meng, Jiashuo Sun, Jash Rajesh Parekh, Jiawei Han
 \[document-vqa\]
+
+**Evaluating Cloud and Self-Hosted OCR Systems for Arabic, English, and French Documents: Bounding Box Detection, Text Recognition, and Mathematical Expression Recognition**
+Jumana Alsubhi, Ahmed Alhusayni, Abdulrahman Gharawi, Israa Hamdine, Khadija Alansari, Alshaymaa Allahim, Lamees Alhumaid, Ahmad Shabana
+\[formula-recognition\]\[text-recognition\]
 
 **Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints**
 Imtiaz Ul Hassan, Öykü Akbulut, Onur Kaya, Ardhendu Behera, Swagat Kumar, Peter Matthew, Yonghuai Liu
@@ -140,6 +148,14 @@ Qingtao Xia, Siyao Cheng, Jiahua Bao, Jiaxing Du, Jie Liu
 **From Pixels to Structure: Lightweight Vision-Language Models for Document OCR and Structured JSON Extraction**
 Uddipan Basu Bir, Vincent Christlein, Andreas Maier, Mathias Zinnen
 \[document-parsing\]\[handwriting-recognition\]\[text-recognition\]
+
+**GAIDA: Generative AI for Human-in-the-Loop Document Annotation**
+Islam Mesabah, Ali Elhosary, Priyabanta Sandulu, Darko Obradovic, Sebastian J. Vollmer
+\[text-recognition\]
+
+**Generative Text Modelling and Language-Guided Visual Attention for Deciphering Palimpsests**
+Robin Hollifeldt, Tianru Zhang, Jessica Ström, Ekta Vats
+\[handwriting-recognition\]\[text-recognition\]
 
 **Handwritten Text Recognition Lives in the High-Pixel Variance Subspace**
 Carlos Garrido-Munoz, Jorge Calvo-Zaragoza
@@ -188,6 +204,10 @@ Yongbin Choi, Yongwoo Song, Mujeen Sung
 **KV-Repurpose: A Testbed for Evaluating Non-Prefix KV-Cache Reuse**
 Taiga Ikeda, Daisuke Miyashita, Jun Deguchi
 \[document-vqa\]
+
+**Long-form Video-to-Text Summarization using Recursive Language Models**
+Alessia Intini, Lorenzo Vaiani, Enrico Chen, Luca Cagliero
+\[text-recognition\]
 
 **LongDocBench: Benchmarking TOC Hierarchy and Contextual Relationship Recovery in Long Documents**
 Yuefeng Zou, Yichen Lu, Jingxiao Yang, Bingtao Fu, Gaoyang Zhang, Xiongfei Bai, Tian Chen, Xiang Qi
@@ -320,6 +340,10 @@ Adrien Mialland, Marc Plantevit, Julien Gallois, Céline Robardet
 **VPEvolve: A Self-Evolving Virtual Process Engineer for Computational Lithography**
 Tianyi Li, Wenxuan Dong, Donger Luo, Nan Wang, Yanpeng Chen, Jiaqi Liu, Xinyun Zhang, Hao Geng
 \[document-layout-analysis\]
+
+**Weighted State Souping for Efficient Long-Context Retrieval**
+William L. Tong, Aryo Lotfi, Emmanuel Abbe, Josh Susskind, Cengiz Pehlevan, Eran Malach
+\[document-vqa\]
 
 **What Can Low Resource Languages Learn From Each Other?**
 Achyuth P, Kahaan Shah, Chetan Arora

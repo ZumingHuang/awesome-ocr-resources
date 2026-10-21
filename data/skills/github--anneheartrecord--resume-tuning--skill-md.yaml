@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:anneheartrecord/resume-tuning:skill-md
+kind: skill
+name: anneheartrecord/resume-tuning / SKILL.md
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/anneheartrecord/resume-tuning/blob/709a02991e8f33a29a24df51d9a2353a74578110/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/anneheartrecord/resume-tuning/blob/709a02991e8f33a29a24df51d9a2353a74578110/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: anneheartrecord/resume-tuning:SKILL.md
+  source_metadata:
+    repository: anneheartrecord/resume-tuning
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: anneheartrecord/resume-tuning
+manifest_path: SKILL.md
+capabilities: {}

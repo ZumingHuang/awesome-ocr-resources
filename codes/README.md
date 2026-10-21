@@ -4,6 +4,13 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Meteorkureckon/windows-pdf-ocr-text-extractor](https://github.com/Meteorkureckon/windows-pdf-ocr-text-extractor) | 2026-10-19 | text-recognition | candidate | A Windows PDF OCR workflow for extracting readable text from scanned documents and working with searchable document content. |
+| [h0ll0w-AkuZr0guY/tmall-miao-double11](https://github.com/h0ll0w-AkuZr0guY/tmall-miao-double11) | 2026-10-18 | text-recognition | candidate | 基于 MonsterNone/tmall-miao next 分支改造的淘宝双11任务助手：本地网页控制台、离线 OCR、跨应用恢复与 Windows 便携版。 |
+| [claspmakerprotect/scan-ocr](https://github.com/claspmakerprotect/scan-ocr) | 2026-10-18 | text-recognition | candidate | Published: 2026-10-18 |
+| [VerifiedIdiot/korean-handwriting-rec](https://github.com/VerifiedIdiot/korean-handwriting-rec) | 2026-10-17 | handwriting-recognition, text-recognition | candidate | 한국어 손글씨 OCR 모델. PP-OCRv5를 손글씨·공문서 460만 단어로 추가 학습했습니다. Korean handwriting OCR for handwritten Hangul text recognition (ONNX) |
+| [windquill/FreeMouse](https://github.com/windquill/FreeMouse) | 2026-10-16 | text-recognition | candidate | 独立实现的 macOS 本地工具，提供截图、连续长截图、标注/OCR、录屏和右键文件操作。媒体处理在本机完成；只有主动选择 Google/百度翻译时，文字才会发送到所选网站。 |
+| [YEMIN11238/Pop](https://github.com/YEMIN11238/Pop) | 2026-10-15 | text-recognition | candidate | macOS 划词翻译与截图 OCR，支持本地词典及自定义 AI 服务。Translation, OCR and dictionary for macOS. |
+| [2430816465/campus-knowledge-agent](https://github.com/2430816465/campus-knowledge-agent) | 2026-10-14 | other | candidate | 校园知识服务 Agent 智能体平台：基于 FastAPI、Qwen3 与 RAG，贯通公开资料解析、时间范围检索、证据溯源及人工审核。 |
 | [raisulsohan/lazyFinds](https://github.com/raisulsohan/lazyFinds) | 2026-10-13 | text-recognition | candidate | Search your Windows PC by what's inside your files: photos, screenshots, PDFs, documents, audio, video and code, in English and Bengali. On-device, with EmbeddingGemma 2. |
 | [joeseesun/qiaomu-screen2video](https://github.com/joeseesun/qiaomu-screen2video) | 2026-10-13 | text-recognition | candidate | 将已有录屏与讲述制作成带中英双语字幕、语义动效、轻配乐和内容封面的成片，使用 FFmpeg/ASS，支持逐词重点高亮、抖音式关键词花字、表情与梗图贴纸（Noto/Fluent/memegen）、界面箭头与聚光框、章节卡、原创轻音效、屏幕 OCR 词表与镜头运动检测、本地剪映或 FFmpeg 音频降噪 |
 | [datalab-to/indra](https://github.com/datalab-to/indra) | 2026-10-13 | text-recognition | candidate | Fast CPU OCR: line detection, CTC recognition, reading order, markdown |

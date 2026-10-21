@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2610.26431
+kind: paper
+name: Long-form Video-to-Text Summarization using Recursive Language Models
+released_at:
+  value: '2026-10-19'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: While VideoLLMs have made significant progress in understanding short video benchmarks, they
+  often struggle to summarize long-form ones. This is mainly due to performance degradation caused by
+  long-context prompts, the inherent difficulty of preserving temporal continuity and a lack of semantically
+  rich concepts in event descriptions. To tackle these issues, this paper introduces the first recursive
+  Video Language Summarization Model (RVLSM) designed for video processing and tailored to long-form video-to-text
+  summarization. RVLSM recursively decomposes videos into semantically coherent segments and delegates
+  chunk-level reasoning to VideoLLM sub-models and external tools. It employs (1) Semantic Temporal Decomposition
+  (STD), which preserves temporal coherence and continuity through a scene-aware chunking strategy that
+  dynamically partitions videos according to semantic boundaries, and (2) Adaptive Multimodal Tool Calling
+  (AMTC), which ensures semantic richness of the summary via a routing mechanism that selectively invokes
+  auxiliary modules such as action recognition, optical character recognition, automatic speech recognition,
+  and object detection. Experiments on the VideoXum and MixTyVSum benchmarks show that RVLSM consistently
+  improves over zero-shot VideoLLM baselines across multiple model settings and performance metrics, and
+  is competitive with a state-of-the-art fine-tuned model for video-to-text summarization. Importantly,
+  the named entities in the RVLSM's summaries align more closely with those detected in the ground-truth
+  summaries than those detected by baseline and state-of-the-art methods, confirming the saliency of the
+  event descriptions it generates.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.26431
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.26431
+  discovered_via: arxiv
+  discovered_at: '2026-10-20'
+  source_id: '2610.26431'
+  source_metadata:
+    arxiv_id: '2610.26431'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Alessia Intini
+- Lorenzo Vaiani
+- Enrico Chen
+- Luca Cagliero
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.26431'

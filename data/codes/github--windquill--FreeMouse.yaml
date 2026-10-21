@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:windquill/FreeMouse
+kind: code
+name: windquill/FreeMouse
+released_at:
+  value: '2026-10-16'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: 独立实现的 macOS 本地工具，提供截图、连续长截图、标注/OCR、录屏和右键文件操作。媒体处理在本机完成；只有主动选择 Google/百度翻译时，文字才会发送到所选网站。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/windquill/FreeMouse
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/windquill/FreeMouse
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: R_kgDOVLsSkQ
+  source_metadata:
+    repository: windquill/FreeMouse
+    stars: 11
+    language: Swift
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: windquill/FreeMouse
+landmark: false
+programming_languages:
+- Swift
+maintenance_status: active

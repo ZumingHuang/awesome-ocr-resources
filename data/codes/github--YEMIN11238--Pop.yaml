@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:YEMIN11238/Pop
+kind: code
+name: YEMIN11238/Pop
+released_at:
+  value: '2026-10-15'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: macOS 划词翻译与截图 OCR，支持本地词典及自定义 AI 服务。Translation, OCR and dictionary for macOS.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/YEMIN11238/Pop
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/YEMIN11238/Pop
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: R_kgDOVKpNkg
+  source_metadata:
+    repository: YEMIN11238/Pop
+    stars: 22
+    language: Swift
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: YEMIN11238/Pop
+landmark: false
+programming_languages:
+- Swift
+maintenance_status: active

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:MISDev/OCR-Service
+kind: model
+name: MISDev/OCR-Service
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/MISDev/OCR-Service
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/MISDev/OCR-Service
+  discovered_via: huggingface
+  discovered_at: '2026-10-20'
+  source_id: MISDev/OCR-Service
+  source_metadata:
+    repository_id: MISDev/OCR-Service
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: MISDev
+repository_id: MISDev/OCR-Service
+deployment: []

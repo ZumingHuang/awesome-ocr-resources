@@ -4,6 +4,174 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [siyuanbwang/document-ocr-image-audio-v2](https://huggingface.co/datasets/siyuanbwang/document-ocr-image-audio-v2) | 2026-10-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Audio Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Image Audio records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/siyuanbwang/document-ocr-image-audio-v2. |
+| [Chrisryugj/kordoc-ocr-bench](https://huggingface.co/datasets/Chrisryugj/kordoc-ocr-bench) | 2026-10-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		kordoc OCR bench — 한국 공문서 OCR 벤치
+	
+
+kordoc의 OCR 회귀 벤치(bench/ocr-accuracy.mjs)를 모델과 상관없이 돌릴 수 있게 옮긴 데이터셋입니다.
+한국 공공기관 PDF(보도자료·예산서·계획서·회의록·법령 서식 등)의 쪽 이미지와, 그 쪽의 정답 텍스트를 담았습니다.
+
+	
+		
+	
+	
+		만든 방법
+	
+
+
+정답: 텍스트층이 깨끗한 PDF 쪽(쪽당 200자 이상, 품질 신호 정상)을 골라 텍스트층을 kordoc으로 추출했습니다. 사람이 단 라벨이 아닙니다.
+원본 PDF: pdf/ 에 문서 전체를 둡니다(kordoc 저장소 bench/corpus/pdf/ 에 넣으면 저장소 벤치가 그대로 돕니다). web066 은 사진이 공공누리 범위 밖이라 쪽 이미지만 둡니다.
+이미지: 같은 쪽을 pdfium으로 216dpi(72dpi × 3) 렌더한 PNG입니다. kordoc OCR이 실제로 받는 입력과 같습니다.
+채점에서 뺀 것… See the full description on the dataset page: https://huggingface.co/datasets/Chrisryugj/kordoc-ocr-bench. |
+| [OCRDataMtnra/ocr_eval](https://huggingface.co/datasets/OCRDataMtnra/ocr_eval) | 2026-10-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR Eval
+	
+
+A small, fixed evaluation set of synthetic Arabic document images with layout
+annotations — the held-out companion to OCRDataMtnra/ocr_data.
+Do not train on this. It exists so OCR models trained on ocr_data can be scored on
+unseen pages from the same generator.
+
+	
+		
+
+
+
+
+		
+Originals
+1500 (lossless PNG + JSON)
+
+
+Augmented
+1500 — exactly one variant per original (lossless PNG + JSON)
+
+
+Shards
+2 (data/shard_001.tar, data_aug/shard_001_aug1.tar)
+
+
+Templates
+the same 14… See the full description on the dataset page: https://huggingface.co/datasets/OCRDataMtnra/ocr_eval. |
+| [OCRDataMtnra/ocr_data](https://huggingface.co/datasets/OCRDataMtnra/ocr_data) | 2026-10-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocr_data
+	
+
+Synthetic Arabic document images with layout annotations, for OCR training.
+
+	
+		
+	
+	
+		Layout
+	
+
+WebDataset .tar shards. Files sharing a basename are one sample, so the image
+becomes the png/jpg column and the annotation the json column.
+data/shard_001.tar ... data/shard_103.tar                 originals (PNG + JSON)
+data_aug/shard_001_aug1.tar ... data_aug/shard_103_aug3.tar   augmented variants (JPEG + JSON)
+
+Each shard holds up to 9990 samples (~1 GB). data/ and… See the full description on the dataset page: https://huggingface.co/datasets/OCRDataMtnra/ocr_data. |
+| [Leazschaefer/toy-document-ocr20](https://huggingface.co/datasets/Leazschaefer/toy-document-ocr20) | 2026-10-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Multimodal3 Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Multimodal3 records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataloader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/Leazschaefer/toy-document-ocr20. |
+| [cvbertrand/dissertation-document-ocr](https://huggingface.co/datasets/cvbertrand/dissertation-document-ocr) | 2026-10-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Video Text data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+prepare.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md — data… See the full description on the dataset page: https://huggingface.co/datasets/cvbertrand/dissertation-document-ocr. |
 | [blragarwal/document-ocr-sensor-fusion](https://huggingface.co/datasets/blragarwal/document-ocr-sensor-fusion) | 2026-10-19 | text-recognition | candidate | 
 	
 		
@@ -34,6 +202,22 @@ clean.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.
 README.md —… See the full description on the dataset page: https://huggingface.co/datasets/blragarwal/document-ocr-sensor-fusion. |
+| [bicolino34/uk-wikisource-OCR-full](https://huggingface.co/datasets/bicolino34/uk-wikisource-OCR-full) | 2026-10-19 | text-recognition | candidate | — |
+| [aicrazy124/ocr-model-zips](https://huggingface.co/datasets/aicrazy124/ocr-model-zips) | 2026-10-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR model zips (full checkpoints)
+	
+
+Complete Hugging Face snapshots including weights:
+
+echo840/MonkeyOCR-pro-3B
+stepfun-ai/GOT-OCR2_0
+
+Each zip is a full repo dump (configs, tokenizers, and checkpoints).
+ |
 | [nukafever/signalisation-routiere-ocr](https://huggingface.co/datasets/nukafever/signalisation-routiere-ocr) | 2026-10-18 | text-recognition | candidate | 
 	
 		

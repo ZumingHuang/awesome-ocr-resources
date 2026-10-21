@@ -4,10 +4,20 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [MISDev/OCR-Service](https://huggingface.co/MISDev/OCR-Service) | 2026-10-20 | text-recognition | candidate | — |
+| [lkhapple/vlm_khmer_ocr](https://huggingface.co/lkhapple/vlm_khmer_ocr) | 2026-10-20 | text-recognition | candidate | — |
+| [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0-rms-noadapter-t9](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0-rms-noadapter-t9) | 2026-10-20 | document-vqa, text-recognition | candidate | — |
+| [Klissh/layoutlmv3-struk-summa-ocr](https://huggingface.co/Klissh/layoutlmv3-struk-summa-ocr) | 2026-10-20 | text-recognition | candidate | — |
+| [Julesbonnetley/ocr-freeform-lite17](https://huggingface.co/Julesbonnetley/ocr-freeform-lite17) | 2026-10-20 | text-recognition | candidate | — |
+| [Iisharma/research-ocr-freeform](https://huggingface.co/Iisharma/research-ocr-freeform) | 2026-10-20 | text-recognition | candidate | — |
+| [AhmetArslanford/ocr-freeform-weights](https://huggingface.co/AhmetArslanford/ocr-freeform-weights) | 2026-10-20 | text-recognition | candidate | — |
 | [taheraljabi3/Falcon-OCR](https://huggingface.co/taheraljabi3/Falcon-OCR) | 2026-10-19 | text-recognition | candidate | — |
 | [spoonn/GLM-OCR-BF16-ComfyUI](https://huggingface.co/spoonn/GLM-OCR-BF16-ComfyUI) | 2026-10-19 | text-recognition | candidate | — |
 | [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-ans-t6](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-ans-t6) | 2026-10-19 | document-vqa, text-recognition | candidate | — |
 | [janmejaypandya/akshar-setu-gujarati-ocr](https://huggingface.co/janmejaypandya/akshar-setu-gujarati-ocr) | 2026-10-19 | text-recognition | candidate | — |
+| [CLST-IITG/IITG-Mizo-OCR-v1](https://huggingface.co/CLST-IITG/IITG-Mizo-OCR-v1) | 2026-10-19 | text-recognition | candidate | — |
+| [Aijuus/unlimited-ocr-bf16](https://huggingface.co/Aijuus/unlimited-ocr-bf16) | 2026-10-19 | text-recognition | candidate | — |
+| [adityanan/research-ocr-freeform63](https://huggingface.co/adityanan/research-ocr-freeform63) | 2026-10-19 | text-recognition | candidate | — |
 | [tomngdev/indra-ocr-web](https://huggingface.co/tomngdev/indra-ocr-web) | 2026-10-18 | text-recognition | candidate | — |
 | [tiffanyhn/ocr-freeform-colab](https://huggingface.co/tiffanyhn/ocr-freeform-colab) | 2026-10-18 | text-recognition | candidate | — |
 | [SOUHAILF77/qwen35-arabic-ocr](https://huggingface.co/SOUHAILF77/qwen35-arabic-ocr) | 2026-10-18 | text-recognition | candidate | — |

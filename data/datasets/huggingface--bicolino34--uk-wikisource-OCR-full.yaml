@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:bicolino34/uk-wikisource-OCR-full
+kind: dataset
+name: bicolino34/uk-wikisource-OCR-full
+released_at:
+  value: '2026-10-19'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/bicolino34/uk-wikisource-OCR-full
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/bicolino34/uk-wikisource-OCR-full
+  discovered_via: huggingface
+  discovered_at: '2026-10-20'
+  source_id: bicolino34/uk-wikisource-OCR-full
+  source_metadata:
+    repository_id: bicolino34/uk-wikisource-OCR-full
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: bicolino34
+repository_id: bicolino34/uk-wikisource-OCR-full
+usage: []
+annotations: []
+access: unknown

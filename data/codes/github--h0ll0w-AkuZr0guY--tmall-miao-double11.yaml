@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:h0ll0w-AkuZr0guY/tmall-miao-double11
+kind: code
+name: h0ll0w-AkuZr0guY/tmall-miao-double11
+released_at:
+  value: '2026-10-18'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: 基于 MonsterNone/tmall-miao next 分支改造的淘宝双11任务助手：本地网页控制台、离线 OCR、跨应用恢复与 Windows 便携版。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/h0ll0w-AkuZr0guY/tmall-miao-double11
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/h0ll0w-AkuZr0guY/tmall-miao-double11
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: R_kgDOVOKA-A
+  source_metadata:
+    repository: h0ll0w-AkuZr0guY/tmall-miao-double11
+    stars: 13
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: h0ll0w-AkuZr0guY/tmall-miao-double11
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:cheneternity/Research-Vault-Literature-Retrieval:skill-md
+kind: skill
+name: cheneternity/Research-Vault-Literature-Retrieval / SKILL.md
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-20'
+last_verified_at: '2026-10-20'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/cheneternity/Research-Vault-Literature-Retrieval/blob/d18a46e7f382cdd5a2c6584dd50f7428e3894c2e/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/cheneternity/Research-Vault-Literature-Retrieval/blob/d18a46e7f382cdd5a2c6584dd50f7428e3894c2e/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-20'
+  source_id: cheneternity/Research-Vault-Literature-Retrieval:SKILL.md
+  source_metadata:
+    repository: cheneternity/Research-Vault-Literature-Retrieval
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: cheneternity/Research-Vault-Literature-Retrieval
+manifest_path: SKILL.md
+capabilities: {}
