@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:assafvayner/translatte-ocr-ncnn
+kind: model
+name: assafvayner/translatte-ocr-ncnn
+released_at:
+  value: '2026-10-22'
+  precision: day
+added_at: '2026-10-22'
+last_verified_at: '2026-10-22'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/assafvayner/translatte-ocr-ncnn
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/assafvayner/translatte-ocr-ncnn
+  discovered_via: huggingface
+  discovered_at: '2026-10-22'
+  source_id: assafvayner/translatte-ocr-ncnn
+  source_metadata:
+    repository_id: assafvayner/translatte-ocr-ncnn
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: assafvayner
+repository_id: assafvayner/translatte-ocr-ncnn
+deployment: []

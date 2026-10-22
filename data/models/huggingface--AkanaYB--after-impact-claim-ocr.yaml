@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:AkanaYB/after-impact-claim-ocr
+kind: model
+name: AkanaYB/after-impact-claim-ocr
+released_at:
+  value: '2026-10-21'
+  precision: day
+added_at: '2026-10-22'
+last_verified_at: '2026-10-22'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/AkanaYB/after-impact-claim-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/AkanaYB/after-impact-claim-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-22'
+  source_id: AkanaYB/after-impact-claim-ocr
+  source_metadata:
+    repository_id: AkanaYB/after-impact-claim-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: AkanaYB
+repository_id: AkanaYB/after-impact-claim-ocr
+deployment: []

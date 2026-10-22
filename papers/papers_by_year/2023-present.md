@@ -293,6 +293,10 @@ Yuheng Chen, Yufan Chen, Zhuojun Cai, Ruiping Liu, Junwei Zheng, Jiale Wei, Di W
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[handwriting-recognition\]\[text-recognition\]
 
+**Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis**
+Mohammad Kawsar, Al Amin Islam Ridoy, Md Rakib Hossain, Farzana Akter, AKM Bahalul Haque, Rejwan Bin Sulaiman, Mohammed Amin Almaiah
+\[handwriting-recognition\]\[text-recognition\]
+
 **Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers**
 Mert İncidelen, Yamen Kashkash, Asya Berker, Murat Aydoğan
 \[text-recognition\]

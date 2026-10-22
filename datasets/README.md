@@ -4,6 +4,46 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [RfKnowledge/wp3-docduck-ocr-evaluation](https://huggingface.co/datasets/RfKnowledge/wp3-docduck-ocr-evaluation) | 2026-10-21 | text-recognition | candidate | 
+	
+		
+	
+	
+		WP3 Docduck OCR evaluation inputs
+	
+
+Private evaluation inputs for the WP3 multilingual OCR study, across 31 languages. The collection contains page images, the PDFs submitted to the OCR pipelines, generated reference text, text-block coordinates and the saved sample selections. It contains inputs and references, not model predictions or human-certified transcriptions.
+
+	
+		
+Archive
+Contents
+
+
+		
+full-pages.tar.gz
+3,100 original canonical PNG pages, 31 original 100-page image-only… See the full description on the dataset page: https://huggingface.co/datasets/RfKnowledge/wp3-docduck-ocr-evaluation. |
+| [ocr-research/messy-ocr-content](https://huggingface.co/datasets/ocr-research/messy-ocr-content) | 2026-10-21 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Dataset Card for Messy OCR Content
+	
+
+This dataset contains 100 unique publicly-accessible pdf documents from the internet, intended for Optical Character Recognition (OCR) tasks. The team currently uses this data for vLLM preliminary testing. 
+
+	
+		
+	
+	
+		Dataset Details
+	
+
+The 100 documents are divided equally into four content groups : 
+
+Folder 1, Clear Tables : documents with clear, structured, and outlined tables. Handwritten text included.
+Folder 2, Unclear Tables : documents… See the full description on the dataset page: https://huggingface.co/datasets/ocr-research/messy-ocr-content. |
 | [myandev/myanmar_typeset_dictionary_OCR](https://huggingface.co/datasets/myandev/myanmar_typeset_dictionary_OCR) | 2026-10-21 | document-layout-analysis, text-recognition | candidate | 
 	
 		
@@ -14,6 +54,42 @@
 
 This is a synthetically generated, realistically formatted dataset modeling a Myanmar-Myanmar dictionary. It is designed for training and validating OCR models, Document Layout Analysis (DLA) pipelines, and structural key-value extraction models.
 The dataset contains a highly diverse set of pages containing multiple column flows, tabular glossaries, running headers/footers, realistic backgrounds, and dynamic typography (four fonts paired… See the full description on the dataset page: https://huggingface.co/datasets/myandev/myanmar_typeset_dictionary_OCR. |
+| [divinity-library/03-open-theology-ocr](https://huggingface.co/datasets/divinity-library/03-open-theology-ocr) | 2026-10-21 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using GLM-OCR
+	
+
+This dataset contains OCR results from images in divinity-library/open-theology-pages using GLM-OCR, a compact 0.9B OCR model achieving SOTA performance.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: divinity-library/open-theology-pages
+Model: zai-org/GLM-OCR
+Task: text recognition
+Number of Samples: 255
+Processing Time: 16.4 min
+Processing Date: 2026-10-21 22:39 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image Column: image
+Output Column: markdown… See the full description on the dataset page: https://huggingface.co/datasets/divinity-library/03-open-theology-ocr. |
 | [siyuanbwang/document-ocr-image-audio-v2](https://huggingface.co/datasets/siyuanbwang/document-ocr-image-audio-v2) | 2026-10-20 | text-recognition | candidate | 
 	
 		
