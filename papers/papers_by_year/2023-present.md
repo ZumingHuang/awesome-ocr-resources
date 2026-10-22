@@ -77,6 +77,10 @@ Zhuoran Yu, Le Thien Phuc Nguyen, Jaden Park, Xinyi Gu, Zexue He, Soochahn Lee, 
 Zihan Huang, Shihang Wu, Junle Liu, Peirong Zhang, Yongxin Shi, Xuhan Zheng, Lianwen Jin
 \[document-vqa\]
 
+**DocLayout-YOLO: Axis-Attentive Document Layout Detector with Mesh-Guided Synthetic Pretraining**
+Zhiyuan Zhao, Hengrui Kang, Guang Liang, Bin Wang, Conghui He
+\[document-layout-analysis\]\[document-parsing\]
+
 **DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**
 Dongyang Xie, Yao Tian, Hao Zhang, Yifei Yuan, Tieyun Qian, Ming Zhong, Jiawei Jiang, Yuanyuan Zhu
 \[document-vqa\]
@@ -348,6 +352,10 @@ William L. Tong, Aryo Lotfi, Emmanuel Abbe, Josh Susskind, Cengiz Pehlevan, Eran
 **What Can Low Resource Languages Learn From Each Other?**
 Achyuth P, Kahaan Shah, Chetan Arora
 \[text-recognition\]
+
+**What Not to Erase: Saliency-Constrained Augmentation for Low-Resource Handwritten Character Recognition**
+Paraskevi Platanou, John Pavlopoulos
+\[handwriting-recognition\]\[text-recognition\]
 
 **When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents**
 Marina Gardella, Camilo Mari{ñ}o, Diego Belzarena, Ignacio Ram{í}rez, Gregory Randall, Jean-Michel Morel

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:eole-nlp/DeepSeek-OCR-eole
+kind: model
+name: eole-nlp/DeepSeek-OCR-eole
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-21'
+last_verified_at: '2026-10-21'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/eole-nlp/DeepSeek-OCR-eole
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/eole-nlp/DeepSeek-OCR-eole
+  discovered_via: huggingface
+  discovered_at: '2026-10-21'
+  source_id: eole-nlp/DeepSeek-OCR-eole
+  source_metadata:
+    repository_id: eole-nlp/DeepSeek-OCR-eole
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: eole-nlp
+repository_id: eole-nlp/DeepSeek-OCR-eole
+deployment: []

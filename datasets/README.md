@@ -4,6 +4,16 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [myandev/myanmar_typeset_dictionary_OCR](https://huggingface.co/datasets/myandev/myanmar_typeset_dictionary_OCR) | 2026-10-21 | document-layout-analysis, text-recognition | candidate | 
+	
+		
+	
+	
+		Myanmar Typeset Dictionary OCR Dataset
+	
+
+This is a synthetically generated, realistically formatted dataset modeling a Myanmar-Myanmar dictionary. It is designed for training and validating OCR models, Document Layout Analysis (DLA) pipelines, and structural key-value extraction models.
+The dataset contains a highly diverse set of pages containing multiple column flows, tabular glossaries, running headers/footers, realistic backgrounds, and dynamic typography (four fonts paired… See the full description on the dataset page: https://huggingface.co/datasets/myandev/myanmar_typeset_dictionary_OCR. |
 | [siyuanbwang/document-ocr-image-audio-v2](https://huggingface.co/datasets/siyuanbwang/document-ocr-image-audio-v2) | 2026-10-20 | text-recognition | candidate | 
 	
 		
@@ -33,6 +43,27 @@ A documented Document OCR data-preparation workflow for Image Audio records. The
 build_dataset.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/siyuanbwang/document-ocr-image-audio-v2. |
+| [shethjenil/jain-books-ocr](https://huggingface.co/datasets/shethjenil/jain-books-ocr) | 2026-10-20 | text-recognition | candidate | — |
+| [Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset](https://huggingface.co/datasets/Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset) | 2026-10-20 | document-parsing | candidate | 
+	
+		
+	
+	
+		Road Traffic Accident Rescue Legal Case Document Understanding Dataset
+	
+
+This dataset focuses on judgments and related legal handling documents concerning road traffic accident rescue. It pairs source documents with structured information on case profiles, parties, disputed issues, rescue responsibilities, legal grounds, reasoning, and outcomes. Evidence excerpts support verification of key conclusions, making the data suitable for legal document understanding and domain-specific… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset. |
+| [furkancmc/kadim-ocr-data](https://huggingface.co/datasets/furkancmc/kadim-ocr-data) | 2026-10-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		KADİM Turkish OCR Dataset (kadim-ocr-data)
+	
+
+1,000 synthetic Turkish document page images with ground-truth text, at four levels of scan degradation. It is the training and evaluation data of furkancmc/kadim-ocr-lora, the reader (OCR) component of KADİM — Kamu Dilekçe ve İnceleme Mekanizması, built for the TEKNOFEST 2026 Language Agents Competition (Scenario 1: Public Documents and Correspondence).
+
+Project code: github.com/furkancmc/teknofest-kadim-kamu-evrak-ajani (QWEN_VL_ocr/)… See the full description on the dataset page: https://huggingface.co/datasets/furkancmc/kadim-ocr-data. |
 | [Chrisryugj/kordoc-ocr-bench](https://huggingface.co/datasets/Chrisryugj/kordoc-ocr-bench) | 2026-10-20 | text-recognition | candidate | 
 	
 		
@@ -56,6 +87,22 @@ kordoc의 OCR 회귀 벤치(bench/ocr-accuracy.mjs)를 모델과 상관없이 �
 원본 PDF: pdf/ 에 문서 전체를 둡니다(kordoc 저장소 bench/corpus/pdf/ 에 넣으면 저장소 벤치가 그대로 돕니다). web066 은 사진이 공공누리 범위 밖이라 쪽 이미지만 둡니다.
 이미지: 같은 쪽을 pdfium으로 216dpi(72dpi × 3) 렌더한 PNG입니다. kordoc OCR이 실제로 받는 입력과 같습니다.
 채점에서 뺀 것… See the full description on the dataset page: https://huggingface.co/datasets/Chrisryugj/kordoc-ocr-bench. |
+| [alea-institute/alea-historical-ocr](https://huggingface.co/datasets/alea-institute/alea-historical-ocr) | 2026-10-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		ALEA historical OCR cleanup
+	
+
+Early American law reports (decisions before 1850) shown with period typography and OCR damage (long s, f-for-long-s misreads, ligatures, ye/yt abbreviations, period spellings, -ed elisions) are restored either to modern spelling or with the original spelling kept and only typography and OCR fixed.
+21,543 documents, 8,593,669 tokens (alea-v2b-sw32k, the ALEA R4 tokenizer, counting each document's start and end tokens).
+
+	
+		
+	
+	
+		Part of the ALEA R4… See the full description on the dataset page: https://huggingface.co/datasets/alea-institute/alea-historical-ocr. |
 | [OCRDataMtnra/ocr_eval](https://huggingface.co/datasets/OCRDataMtnra/ocr_eval) | 2026-10-19 | text-recognition | candidate | 
 	
 		

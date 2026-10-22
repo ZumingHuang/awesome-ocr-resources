@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:alea-institute/alea-historical-ocr
+kind: dataset
+name: alea-institute/alea-historical-ocr
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-21'
+last_verified_at: '2026-10-21'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tALEA historical OCR cleanup\n\t\n\nEarly American law reports (decisions\
+  \ before 1850) shown with period typography and OCR damage (long s, f-for-long-s misreads, ligatures,\
+  \ ye/yt abbreviations, period spellings, -ed elisions) are restored either to modern spelling or with\
+  \ the original spelling kept and only typography and OCR fixed.\n21,543 documents, 8,593,669 tokens\
+  \ (alea-v2b-sw32k, the ALEA R4 tokenizer, counting each document's start and end tokens).\n\n\t\n\t\t\
+  \n\t\n\t\n\t\tPart of the ALEA R4… See the full description on the dataset page: https://huggingface.co/datasets/alea-institute/alea-historical-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/alea-institute/alea-historical-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/alea-institute/alea-historical-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-21'
+  source_id: alea-institute/alea-historical-ocr
+  source_metadata:
+    repository_id: alea-institute/alea-historical-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: alea-institute
+repository_id: alea-institute/alea-historical-ocr
+usage: []
+annotations: []
+access: unknown

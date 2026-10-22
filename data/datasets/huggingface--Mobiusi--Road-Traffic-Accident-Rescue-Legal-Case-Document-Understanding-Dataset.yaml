@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset
+kind: dataset
+name: Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-21'
+last_verified_at: '2026-10-21'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tRoad Traffic Accident Rescue Legal Case Document Understanding Dataset\n\
+  \t\n\nThis dataset focuses on judgments and related legal handling documents concerning road traffic\
+  \ accident rescue. It pairs source documents with structured information on case profiles, parties,\
+  \ disputed issues, rescue responsibilities, legal grounds, reasoning, and outcomes. Evidence excerpts\
+  \ support verification of key conclusions, making the data suitable for legal document understanding\
+  \ and domain-specific… See the full description on the dataset page: https://huggingface.co/datasets/Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset."
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset
+  discovered_via: huggingface
+  discovered_at: '2026-10-21'
+  source_id: Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset
+  source_metadata:
+    repository_id: Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset
+    downloads: 0
+    likes: 0
+    query: document understanding
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Mobiusi
+repository_id: Mobiusi/Road-Traffic-Accident-Rescue-Legal-Case-Document-Understanding-Dataset
+usage: []
+annotations: []
+access: unknown
