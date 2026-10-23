@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:ocr-research/messy-ocr-content
+kind: dataset
+name: ocr-research/messy-ocr-content
+released_at:
+  value: '2026-10-21'
+  precision: day
+added_at: '2026-10-22'
+last_verified_at: '2026-10-22'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for Messy OCR Content\n\t\n\nThis dataset contains 100\
+  \ unique publicly-accessible pdf documents from the internet, intended for Optical Character Recognition\
+  \ (OCR) tasks. The team currently uses this data for vLLM preliminary testing. \n\n\t\n\t\t\n\t\n\t\n\
+  \t\tDataset Details\n\t\n\nThe 100 documents are divided equally into four content groups : \n\nFolder\
+  \ 1, Clear Tables : documents with clear, structured, and outlined tables. Handwritten text included.\n\
+  Folder 2, Unclear Tables : documents… See the full description on the dataset page: https://huggingface.co/datasets/ocr-research/messy-ocr-content."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/ocr-research/messy-ocr-content
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/ocr-research/messy-ocr-content
+  discovered_via: huggingface
+  discovered_at: '2026-10-22'
+  source_id: ocr-research/messy-ocr-content
+  source_metadata:
+    repository_id: ocr-research/messy-ocr-content
+    downloads: 4
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: ocr-research
+repository_id: ocr-research/messy-ocr-content
+usage: []
+annotations: []
+access: unknown

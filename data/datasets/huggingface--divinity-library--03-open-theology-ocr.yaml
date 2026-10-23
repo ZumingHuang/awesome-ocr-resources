@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:divinity-library/03-open-theology-ocr
+kind: dataset
+name: divinity-library/03-open-theology-ocr
+released_at:
+  value: '2026-10-21'
+  precision: day
+added_at: '2026-10-22'
+last_verified_at: '2026-10-22'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR using GLM-OCR\n\t\n\nThis dataset contains OCR results\
+  \ from images in divinity-library/open-theology-pages using GLM-OCR, a compact 0.9B OCR model achieving\
+  \ SOTA performance.\n\n\t\n\t\t\n\t\n\t\n\t\tProcessing Details\n\t\n\n\nSource Dataset: divinity-library/open-theology-pages\n\
+  Model: zai-org/GLM-OCR\nTask: text recognition\nNumber of Samples: 255\nProcessing Time: 16.4 min\n\
+  Processing Date: 2026-10-21 22:39 UTC\n\n\n\t\n\t\t\n\t\n\t\n\t\tConfiguration\n\t\n\n\nImage Column:\
+  \ image\nOutput Column: markdown… See the full description on the dataset page: https://huggingface.co/datasets/divinity-library/03-open-theology-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/divinity-library/03-open-theology-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/divinity-library/03-open-theology-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-22'
+  source_id: divinity-library/03-open-theology-ocr
+  source_metadata:
+    repository_id: divinity-library/03-open-theology-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: divinity-library
+repository_id: divinity-library/03-open-theology-ocr
+usage: []
+annotations: []
+access: unknown

@@ -4,10 +4,20 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [CharlZKP/indra-ocr-fp16](https://huggingface.co/CharlZKP/indra-ocr-fp16) | 2026-10-22 | text-recognition | candidate | — |
+| [assafvayner/translatte-ocr-ncnn](https://huggingface.co/assafvayner/translatte-ocr-ncnn) | 2026-10-22 | text-recognition | candidate | — |
 | [shahid4017/pashto-ocr-deepseek-lora](https://huggingface.co/shahid4017/pashto-ocr-deepseek-lora) | 2026-10-21 | text-recognition | candidate | — |
+| [Nawal42/balochi-ocr-gemma4](https://huggingface.co/Nawal42/balochi-ocr-gemma4) | 2026-10-21 | text-recognition | candidate | — |
+| [muscgab/manga-ocr-charspot-small](https://huggingface.co/muscgab/manga-ocr-charspot-small) | 2026-10-21 | text-recognition | candidate | — |
+| [mhabrar/Orus-OCR-V0](https://huggingface.co/mhabrar/Orus-OCR-V0) | 2026-10-21 | handwriting-recognition, text-recognition | candidate | — |
+| [lyhourt/khmer-ocr-gemma4-qlora](https://huggingface.co/lyhourt/khmer-ocr-gemma4-qlora) | 2026-10-21 | text-recognition | candidate | — |
 | [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0-rms-noadapter-t11](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0-rms-noadapter-t11) | 2026-10-21 | document-vqa, text-recognition | candidate | — |
+| [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0) | 2026-10-21 | document-vqa, text-recognition | candidate | — |
 | [Jinstudio/indra-ocr](https://huggingface.co/Jinstudio/indra-ocr) | 2026-10-21 | handwriting-recognition, text-recognition | candidate | — |
 | [Jinstudio/Falcon-OCR](https://huggingface.co/Jinstudio/Falcon-OCR) | 2026-10-21 | text-recognition | candidate | — |
+| [cjjohnson2001/ocr-freeform36](https://huggingface.co/cjjohnson2001/ocr-freeform36) | 2026-10-21 | text-recognition | candidate | — |
+| [azeranex/kemolate-ocr](https://huggingface.co/azeranex/kemolate-ocr) | 2026-10-21 | text-recognition | candidate | — |
+| [AkanaYB/after-impact-claim-ocr](https://huggingface.co/AkanaYB/after-impact-claim-ocr) | 2026-10-21 | text-recognition | candidate | — |
 | [MISDev/OCR-Service](https://huggingface.co/MISDev/OCR-Service) | 2026-10-20 | text-recognition | candidate | — |
 | [lyhourt/khmer-ocr-gemma4-lora](https://huggingface.co/lyhourt/khmer-ocr-gemma4-lora) | 2026-10-20 | text-recognition | candidate | — |
 | [lkhapple/vlm_khmer_ocr](https://huggingface.co/lkhapple/vlm_khmer_ocr) | 2026-10-20 | text-recognition | candidate | — |
@@ -44,6 +54,7 @@
 | [ivanreyesher/study-ocr-freeform](https://huggingface.co/ivanreyesher/study-ocr-freeform) | 2026-10-18 | text-recognition | candidate | — |
 | [IntelligenceResearchLab/Hausa-OCR-AJAMI-v13-20261015](https://huggingface.co/IntelligenceResearchLab/Hausa-OCR-AJAMI-v13-20261015) | 2026-10-18 | handwriting-recognition, text-recognition | candidate | — |
 | [asanchezdaj/ocr-freeform-2023](https://huggingface.co/asanchezdaj/ocr-freeform-2023) | 2026-10-18 | text-recognition | candidate | — |
+| [arkhabbazan/ocr-digits-captcha](https://huggingface.co/arkhabbazan/ocr-digits-captcha) | 2026-10-18 | text-recognition | candidate | — |
 | [SOTAagi2030/Municipal-Archive-OCR-359](https://huggingface.co/SOTAagi2030/Municipal-Archive-OCR-359) | 2026-10-17 | text-recognition | candidate | — |
 | [snowfluke/ppu-indra-ocr-models](https://huggingface.co/snowfluke/ppu-indra-ocr-models) | 2026-10-17 | text-recognition | candidate | — |
 | [mhamada231/arabic-line-ocr-lora](https://huggingface.co/mhamada231/arabic-line-ocr-lora) | 2026-10-17 | text-recognition | candidate | — |
