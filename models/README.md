@@ -4,6 +4,14 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [whrrr/DeepSeek-OCR](https://huggingface.co/whrrr/DeepSeek-OCR) | 2026-10-22 | text-recognition | candidate | — |
+| [Wenvia/OCR_Model](https://huggingface.co/Wenvia/OCR_Model) | 2026-10-22 | text-recognition | candidate | — |
+| [Nawal42/balochi-ocr-lora](https://huggingface.co/Nawal42/balochi-ocr-lora) | 2026-10-22 | text-recognition | candidate | — |
+| [mhamada231/arabic-line-ocr-lora-v2](https://huggingface.co/mhamada231/arabic-line-ocr-lora-v2) | 2026-10-22 | text-recognition | candidate | — |
+| [Lindarixon/linda-ocr](https://huggingface.co/Lindarixon/linda-ocr) | 2026-10-22 | text-recognition | candidate | — |
+| [l1utiezhu/ocrdino_4scale_ctc](https://huggingface.co/l1utiezhu/ocrdino_4scale_ctc) | 2026-10-22 | text-recognition | candidate | — |
+| [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-lat-p70-twc-lex-q0](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-lat-p70-twc-lex-q0) | 2026-10-22 | document-vqa, text-recognition | candidate | — |
+| [EmogheneAkpomedaye/Qwen3.5-0.8B-latex-ocr-v0.1-GGUF](https://huggingface.co/EmogheneAkpomedaye/Qwen3.5-0.8B-latex-ocr-v0.1-GGUF) | 2026-10-22 | text-recognition | candidate | — |
 | [CharlZKP/indra-ocr-fp16](https://huggingface.co/CharlZKP/indra-ocr-fp16) | 2026-10-22 | text-recognition | candidate | — |
 | [assafvayner/translatte-ocr-ncnn](https://huggingface.co/assafvayner/translatte-ocr-ncnn) | 2026-10-22 | text-recognition | candidate | — |
 | [shahid4017/pashto-ocr-deepseek-lora](https://huggingface.co/shahid4017/pashto-ocr-deepseek-lora) | 2026-10-21 | text-recognition | candidate | — |
@@ -15,6 +23,7 @@
 | [Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0](https://huggingface.co/Kus669/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-twc-lex-q0) | 2026-10-21 | document-vqa, text-recognition | candidate | — |
 | [Jinstudio/indra-ocr](https://huggingface.co/Jinstudio/indra-ocr) | 2026-10-21 | handwriting-recognition, text-recognition | candidate | — |
 | [Jinstudio/Falcon-OCR](https://huggingface.co/Jinstudio/Falcon-OCR) | 2026-10-21 | text-recognition | candidate | — |
+| [IJyad/unlimited-ocr-arabic-typewritten](https://huggingface.co/IJyad/unlimited-ocr-arabic-typewritten) | 2026-10-21 | text-recognition | candidate | — |
 | [cjjohnson2001/ocr-freeform36](https://huggingface.co/cjjohnson2001/ocr-freeform36) | 2026-10-21 | text-recognition | candidate | — |
 | [azeranex/kemolate-ocr](https://huggingface.co/azeranex/kemolate-ocr) | 2026-10-21 | text-recognition | candidate | — |
 | [AkanaYB/after-impact-claim-ocr](https://huggingface.co/AkanaYB/after-impact-claim-ocr) | 2026-10-21 | text-recognition | candidate | — |

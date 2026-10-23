@@ -17,6 +17,10 @@ Vladimir Beskorovainyi
 Iñigo Alonso, Mirella Lapata
 \[document-vqa\]
 
+**A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions**
+Yufei Tong, Guanjie Cheng, Tianle Wu, Leilei Zhang, Hang Zheng, Peihan Wu, Jianwei Yin, Shuiguang Deng
+\[document-vqa\]\[document-parsing\]
+
 **AISA: AI Safety Assistant Framework for Continuous Improvement of Highway Construction**
 Mason Smetana, Trevor Neece, Lev Khazanovich
 \[document-vqa\]

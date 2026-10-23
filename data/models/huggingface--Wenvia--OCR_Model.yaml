@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Wenvia/OCR_Model
+kind: model
+name: Wenvia/OCR_Model
+released_at:
+  value: '2026-10-22'
+  precision: day
+added_at: '2026-10-23'
+last_verified_at: '2026-10-23'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Wenvia/OCR_Model
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Wenvia/OCR_Model
+  discovered_via: huggingface
+  discovered_at: '2026-10-23'
+  source_id: Wenvia/OCR_Model
+  source_metadata:
+    repository_id: Wenvia/OCR_Model
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Wenvia
+repository_id: Wenvia/OCR_Model
+deployment: []
