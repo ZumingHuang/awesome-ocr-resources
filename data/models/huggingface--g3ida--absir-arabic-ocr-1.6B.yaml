@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:g3ida/absir-arabic-ocr-1.6B
+kind: model
+name: g3ida/absir-arabic-ocr-1.6B
+released_at:
+  value: '2026-10-23'
+  precision: day
+added_at: '2026-10-24'
+last_verified_at: '2026-10-24'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/g3ida/absir-arabic-ocr-1.6B
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/g3ida/absir-arabic-ocr-1.6B
+  discovered_via: huggingface
+  discovered_at: '2026-10-24'
+  source_id: g3ida/absir-arabic-ocr-1.6B
+  source_metadata:
+    repository_id: g3ida/absir-arabic-ocr-1.6B
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: g3ida
+repository_id: g3ida/absir-arabic-ocr-1.6B
+deployment: []

@@ -4,6 +4,12 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [xiaozhangxiao/pp-ocrv6-medium-coreml](https://huggingface.co/xiaozhangxiao/pp-ocrv6-medium-coreml) | 2026-10-24 | text-recognition | candidate | — |
+| [CADT-IDRI/deepseek-ocr-2-khmer-lora-17k](https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-17k) | 2026-10-24 | text-recognition | candidate | — |
+| [AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit) | 2026-10-24 | text-recognition | candidate | — |
+| [AeliaTR/aelia-ocr-tur4-ckpt](https://huggingface.co/AeliaTR/aelia-ocr-tur4-ckpt) | 2026-10-24 | text-recognition | candidate | — |
+| [sametpehlivann/japanase-plate-ocr-trained-models](https://huggingface.co/sametpehlivann/japanase-plate-ocr-trained-models) | 2026-10-23 | text-recognition | candidate | — |
+| [g3ida/absir-arabic-ocr-1.6B](https://huggingface.co/g3ida/absir-arabic-ocr-1.6B) | 2026-10-23 | text-recognition | candidate | — |
 | [whrrr/DeepSeek-OCR](https://huggingface.co/whrrr/DeepSeek-OCR) | 2026-10-22 | text-recognition | candidate | — |
 | [Wenvia/OCR_Model](https://huggingface.co/Wenvia/OCR_Model) | 2026-10-22 | text-recognition | candidate | — |
 | [Nawal42/balochi-ocr-lora](https://huggingface.co/Nawal42/balochi-ocr-lora) | 2026-10-22 | text-recognition | candidate | — |
