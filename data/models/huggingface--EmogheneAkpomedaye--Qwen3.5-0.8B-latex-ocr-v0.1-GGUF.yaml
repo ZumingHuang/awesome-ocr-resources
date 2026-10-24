@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:EmogheneAkpomedaye/Qwen3.5-0.8B-latex-ocr-v0.1-GGUF
+kind: model
+name: EmogheneAkpomedaye/Qwen3.5-0.8B-latex-ocr-v0.1-GGUF
+released_at:
+  value: '2026-10-22'
+  precision: day
+added_at: '2026-10-23'
+last_verified_at: '2026-10-23'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/EmogheneAkpomedaye/Qwen3.5-0.8B-latex-ocr-v0.1-GGUF
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/EmogheneAkpomedaye/Qwen3.5-0.8B-latex-ocr-v0.1-GGUF
+  discovered_via: huggingface
+  discovered_at: '2026-10-23'
+  source_id: EmogheneAkpomedaye/Qwen3.5-0.8B-latex-ocr-v0.1-GGUF
+  source_metadata:
+    repository_id: EmogheneAkpomedaye/Qwen3.5-0.8B-latex-ocr-v0.1-GGUF
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: EmogheneAkpomedaye
+repository_id: EmogheneAkpomedaye/Qwen3.5-0.8B-latex-ocr-v0.1-GGUF
+deployment: []

@@ -4,6 +4,87 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [thordata/multilingual-ocr-image-v1](https://huggingface.co/datasets/thordata/multilingual-ocr-image-v1) | 2026-10-22 | text-recognition | candidate | 
+	
+		
+	
+	
+		German and Russian Scene Text OCR Preview
+	
+
+This is a small preview of four scene-text images in German and Russian. The examples cover a shop sign, an outdoor banner, a product package, and a public museum sign.
+
+	
+		
+	
+	
+		Contents
+	
+
+
+images/: four JPG image samples
+metadata.csv: image paths, language, scene category, image-level OCR text, and review status
+
+
+	
+		
+	
+	
+		Annotation format
+	
+
+Each row in metadata.csv points to one image using file_name and includes an image-level… See the full description on the dataset page: https://huggingface.co/datasets/thordata/multilingual-ocr-image-v1. |
+| [mhamada231/arabic-ocr-vowelled-data](https://huggingface.co/datasets/mhamada231/arabic-ocr-vowelled-data) | 2026-10-22 | text-recognition | candidate | — |
+| [kayakanthonycodes/document-ocr-multimodal3](https://huggingface.co/datasets/kayakanthonycodes/document-ocr-multimodal3) | 2026-10-22 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Multimodal3 Data Notes
+	
+
+
+	
+		
+	
+	
+		Overview
+	
+
+A documented Document OCR data-preparation workflow for Multimodal3 records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+
+	
+		
+	
+	
+		Data sources
+	
+
+
+external sources are referenced, not redistributed
+record retrieval date and filtering rules
+keep provenance explicit before any training run
+
+
+
+	
+		
+	
+	
+		Environment
+	
+
+
+	
+		
+Item
+Value
+
+
+		
+Python
+>=… See the full description on the dataset page: https://huggingface.co/datasets/kayakanthonycodes/document-ocr-multimodal3. |
 | [RfKnowledge/wp3-docduck-ocr-evaluation](https://huggingface.co/datasets/RfKnowledge/wp3-docduck-ocr-evaluation) | 2026-10-21 | text-recognition | candidate | 
 	
 		
