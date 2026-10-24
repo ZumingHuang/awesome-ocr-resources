@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:h0ll0w-AkuZr0guY/MiaoTask
+kind: code
+name: h0ll0w-AkuZr0guY/MiaoTask
+released_at:
+  value: '2026-10-18'
+  precision: day
+added_at: '2026-10-24'
+last_verified_at: '2026-10-24'
+summary: MiaoTask：本地多设备任务工作台，支持 USB / Wi-Fi 调试、离线 OCR、任务队列与 Windows 便携版；当前适配淘宝淘金币活动。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/h0ll0w-AkuZr0guY/MiaoTask
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/h0ll0w-AkuZr0guY/MiaoTask
+  discovered_via: github
+  discovered_at: '2026-10-24'
+  source_id: R_kgDOVOKA-A
+  source_metadata:
+    repository: h0ll0w-AkuZr0guY/MiaoTask
+    stars: 29
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: h0ll0w-AkuZr0guY/MiaoTask
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

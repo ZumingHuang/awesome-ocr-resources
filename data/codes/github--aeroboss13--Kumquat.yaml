@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:aeroboss13/Kumquat
+kind: code
+name: aeroboss13/Kumquat
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-24'
+last_verified_at: '2026-10-24'
+summary: 'Офлайн-конвертер файлов для macOS: перетащите файл, нажмите клавишу, бросьте на колесо'
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/aeroboss13/Kumquat
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/aeroboss13/Kumquat
+  discovered_via: github
+  discovered_at: '2026-10-24'
+  source_id: R_kgDOVRSkog
+  source_metadata:
+    repository: aeroboss13/Kumquat
+    stars: 18
+    language: Swift
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: aeroboss13/Kumquat
+landmark: false
+programming_languages:
+- Swift
+maintenance_status: active

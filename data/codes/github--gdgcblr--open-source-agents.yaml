@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:gdgcblr/open-source-agents
+kind: code
+name: gdgcblr/open-source-agents
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-24'
+last_verified_at: '2026-10-24'
+summary: A community-driven collection of practical, documented, and open-source AI agents and developer
+  tools, built with diverse frameworks and technologies.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/gdgcblr/open-source-agents
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/gdgcblr/open-source-agents
+  discovered_via: github
+  discovered_at: '2026-10-24'
+  source_id: R_kgDOVRfdzg
+  source_metadata:
+    repository: gdgcblr/open-source-agents
+    stars: 26
+    language: null
+    archived: false
+    query: '"document AI" in:name,description,readme'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: gdgcblr/open-source-agents
+landmark: false
+programming_languages: []
+maintenance_status: active

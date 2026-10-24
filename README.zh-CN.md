@@ -13,14 +13,15 @@
 | 分类 | 数量 | 说明 |
 | --- | ---: | --- |
 | [论文](papers/README.md) | 330 | OCR、文档解析、版面分析和文档理解研究 |
-| [模型](models/README.md) | 866 | 具有模型卡、权重、API 或正式发布页的模型 |
-| [数据集](datasets/README.md) | 449 | 训练、预训练和评测数据集 |
-| [代码](codes/README.md) | 154 | 著名 OCR 与 Document AI 项目 |
+| [模型](models/README.md) | 872 | 具有模型卡、权重、API 或正式发布页的模型 |
+| [数据集](datasets/README.md) | 451 | 训练、预训练和评测数据集 |
+| [代码](codes/README.md) | 164 | 著名 OCR 与 Document AI 项目 |
 | [Skills](skills/README.md) | 285 | 可安装、可复用的 OCR/文档 Agent Skills |
 | [平台](platforms/README.md) | 1 | 国内外 OCR 平台、服务及介绍 |
 
 ## 最近更新
 
+- [2026-10-24](updates/2026/2026-10-24.md)
 - [2026-10-23](updates/2026/2026-10-23.md)
 - [2026-10-22](updates/2026/2026-10-22.md)
 - [2026-10-21](updates/2026/2026-10-21.md)
@@ -30,7 +31,6 @@
 - [2026-10-17](updates/2026/2026-10-17.md)
 - [2026-10-15](updates/2026/2026-10-15.md)
 - [2026-10-14](updates/2026/2026-10-14.md)
-- [2026-10-13](updates/2026/2026-10-13.md)
 
 ## 维护方式
 

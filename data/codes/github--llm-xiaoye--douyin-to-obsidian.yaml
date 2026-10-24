@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:llm-xiaoye/douyin-to-obsidian
+kind: code
+name: llm-xiaoye/douyin-to-obsidian
+released_at:
+  value: '2026-10-20'
+  precision: day
+added_at: '2026-10-24'
+last_verified_at: '2026-10-24'
+summary: 'A portable /dy skill for cc-connect + Claude Code: Douyin videos, image posts and collections
+  to Obsidian, with local ASR/OCR and private configuration.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/llm-xiaoye/douyin-to-obsidian
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/llm-xiaoye/douyin-to-obsidian
+  discovered_via: github
+  discovered_at: '2026-10-24'
+  source_id: R_kgDOVRA9nA
+  source_metadata:
+    repository: llm-xiaoye/douyin-to-obsidian
+    stars: 145
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: llm-xiaoye/douyin-to-obsidian
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active
