@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit
+kind: model
+name: AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit
+released_at:
+  value: '2026-10-24'
+  precision: day
+added_at: '2026-10-25'
+last_verified_at: '2026-10-25'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit
+  discovered_via: huggingface
+  discovered_at: '2026-10-25'
+  source_id: AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit
+  source_metadata:
+    repository_id: AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: AutomatosX
+repository_id: AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit
+deployment: []

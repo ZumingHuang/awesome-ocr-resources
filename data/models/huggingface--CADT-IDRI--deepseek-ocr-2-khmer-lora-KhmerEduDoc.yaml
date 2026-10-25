@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc
+kind: model
+name: CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc
+released_at:
+  value: '2026-10-25'
+  precision: day
+added_at: '2026-10-25'
+last_verified_at: '2026-10-25'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc
+  discovered_via: huggingface
+  discovered_at: '2026-10-25'
+  source_id: CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc
+  source_metadata:
+    repository_id: CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: CADT-IDRI
+repository_id: CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc
+deployment: []

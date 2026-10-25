@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:CADT-IDRI/deepseek-ocr-2-khmer-lora-17k
+kind: model
+name: CADT-IDRI/deepseek-ocr-2-khmer-lora-17k
+released_at:
+  value: '2026-10-24'
+  precision: day
+added_at: '2026-10-25'
+last_verified_at: '2026-10-25'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-17k
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-17k
+  discovered_via: huggingface
+  discovered_at: '2026-10-25'
+  source_id: CADT-IDRI/deepseek-ocr-2-khmer-lora-17k
+  source_metadata:
+    repository_id: CADT-IDRI/deepseek-ocr-2-khmer-lora-17k
+    downloads: 2
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: CADT-IDRI
+repository_id: CADT-IDRI/deepseek-ocr-2-khmer-lora-17k
+deployment: []
