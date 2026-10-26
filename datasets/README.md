@@ -4,6 +4,58 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [CADT-IDRI/khmer-sala-ocr-17k](https://huggingface.co/datasets/CADT-IDRI/khmer-sala-ocr-17k) | 2026-10-24 | text-recognition | candidate | 
+	
+		
+	
+	
+		Khmer Sala OCR 17k
+	
+
+17,516 page images from Khmer educational textbooks (Sala Digital), paired with
+plain-text transcriptions (Khmer, English, and LaTeX equations). Labels were
+generated automatically by Gemini 3 Flash Preview (response-based knowledge
+distillation); only the test split is human-verified.
+
+Paper: Distilling Multimodal Foundation Models into Lightweight OCR for
+Low-Resource Khmer (ACET). TODO: add link.
+Model: CADT-IDRI/deepseek-ocr-2-lora-khmer-sala-ocr-17k
+Code:… See the full description on the dataset page: https://huggingface.co/datasets/CADT-IDRI/khmer-sala-ocr-17k. |
+| [divinity-library/03-journal-of-theological-studies-ocr](https://huggingface.co/datasets/divinity-library/03-journal-of-theological-studies-ocr) | 2026-10-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR using GLM-OCR
+	
+
+This dataset contains OCR results from images in divinity-library/02-journal-of-theological-studies-pages using GLM-OCR, a compact 0.9B OCR model achieving SOTA performance.
+
+	
+		
+	
+	
+		Processing Details
+	
+
+
+Source Dataset: divinity-library/02-journal-of-theological-studies-pages
+Model: zai-org/GLM-OCR
+Task: text recognition
+Number of Samples: 288
+Processing Time: 18.1 min
+Processing Date: 2026-10-23 20:41 UTC
+
+
+	
+		
+	
+	
+		Configuration
+	
+
+
+Image… See the full description on the dataset page: https://huggingface.co/datasets/divinity-library/03-journal-of-theological-studies-ocr. |
 | [thordata/multilingual-ocr-image-v1](https://huggingface.co/datasets/thordata/multilingual-ocr-image-v1) | 2026-10-22 | text-recognition | candidate | 
 	
 		

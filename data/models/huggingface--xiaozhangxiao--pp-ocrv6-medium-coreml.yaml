@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:xiaozhangxiao/pp-ocrv6-medium-coreml
+kind: model
+name: xiaozhangxiao/pp-ocrv6-medium-coreml
+released_at:
+  value: '2026-10-24'
+  precision: day
+added_at: '2026-10-25'
+last_verified_at: '2026-10-25'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/xiaozhangxiao/pp-ocrv6-medium-coreml
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/xiaozhangxiao/pp-ocrv6-medium-coreml
+  discovered_via: huggingface
+  discovered_at: '2026-10-25'
+  source_id: xiaozhangxiao/pp-ocrv6-medium-coreml
+  source_metadata:
+    repository_id: xiaozhangxiao/pp-ocrv6-medium-coreml
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: xiaozhangxiao
+repository_id: xiaozhangxiao/pp-ocrv6-medium-coreml
+deployment: []

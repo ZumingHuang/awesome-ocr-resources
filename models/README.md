@@ -4,6 +4,20 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [MrFox131/Unlimited-OCR](https://huggingface.co/MrFox131/Unlimited-OCR) | 2026-10-25 | text-recognition | candidate | — |
+| [dicksondickson/Xiaomi-OCR-0-oQ8e-mtp-bf16-MLX](https://huggingface.co/dicksondickson/Xiaomi-OCR-0-oQ8e-mtp-bf16-MLX) | 2026-10-25 | text-recognition | candidate | — |
+| [CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc](https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc) | 2026-10-25 | text-recognition | candidate | — |
+| [xiaozhangxiao/pp-ocrv6-medium-coreml](https://huggingface.co/xiaozhangxiao/pp-ocrv6-medium-coreml) | 2026-10-24 | text-recognition | candidate | — |
+| [msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.2](https://huggingface.co/msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.2) | 2026-10-24 | text-recognition | candidate | — |
+| [msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.1](https://huggingface.co/msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.1) | 2026-10-24 | text-recognition | candidate | — |
+| [cyttic/hebrew-ocr-android](https://huggingface.co/cyttic/hebrew-ocr-android) | 2026-10-24 | handwriting-recognition, text-recognition | candidate | — |
+| [CADT-IDRI/deepseek-ocr-2-khmer-lora-17k](https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-17k) | 2026-10-24 | text-recognition | candidate | — |
+| [AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit) | 2026-10-24 | text-recognition | candidate | — |
+| [asterxlabs/asternet-vietnamese-ocr](https://huggingface.co/asterxlabs/asternet-vietnamese-ocr) | 2026-10-24 | text-recognition | candidate | — |
+| [ampixa/deva-ocr-75m-research](https://huggingface.co/ampixa/deva-ocr-75m-research) | 2026-10-24 | handwriting-recognition, text-recognition | candidate | — |
+| [AeliaTR/aelia-ocr-tur4-ckpt](https://huggingface.co/AeliaTR/aelia-ocr-tur4-ckpt) | 2026-10-24 | text-recognition | candidate | — |
+| [sametpehlivann/japanase-plate-ocr-trained-models](https://huggingface.co/sametpehlivann/japanase-plate-ocr-trained-models) | 2026-10-23 | text-recognition | candidate | — |
+| [g3ida/absir-arabic-ocr-1.6B](https://huggingface.co/g3ida/absir-arabic-ocr-1.6B) | 2026-10-23 | text-recognition | candidate | — |
 | [whrrr/DeepSeek-OCR](https://huggingface.co/whrrr/DeepSeek-OCR) | 2026-10-22 | text-recognition | candidate | — |
 | [Wenvia/OCR_Model](https://huggingface.co/Wenvia/OCR_Model) | 2026-10-22 | text-recognition | candidate | — |
 | [Nawal42/balochi-ocr-lora](https://huggingface.co/Nawal42/balochi-ocr-lora) | 2026-10-22 | text-recognition | candidate | — |
