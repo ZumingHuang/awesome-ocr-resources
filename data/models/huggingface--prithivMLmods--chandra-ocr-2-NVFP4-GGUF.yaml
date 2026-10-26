@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:prithivMLmods/chandra-ocr-2-NVFP4-GGUF
+kind: model
+name: prithivMLmods/chandra-ocr-2-NVFP4-GGUF
+released_at:
+  value: '2026-10-25'
+  precision: day
+added_at: '2026-10-26'
+last_verified_at: '2026-10-26'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/prithivMLmods/chandra-ocr-2-NVFP4-GGUF
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/prithivMLmods/chandra-ocr-2-NVFP4-GGUF
+  discovered_via: huggingface
+  discovered_at: '2026-10-26'
+  source_id: prithivMLmods/chandra-ocr-2-NVFP4-GGUF
+  source_metadata:
+    repository_id: prithivMLmods/chandra-ocr-2-NVFP4-GGUF
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: prithivMLmods
+repository_id: prithivMLmods/chandra-ocr-2-NVFP4-GGUF
+deployment: []

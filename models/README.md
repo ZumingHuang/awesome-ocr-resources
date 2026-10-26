@@ -4,9 +4,12 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [prithivMLmods/chandra-ocr-2-NVFP4-GGUF](https://huggingface.co/prithivMLmods/chandra-ocr-2-NVFP4-GGUF) | 2026-10-25 | text-recognition | candidate | — |
+| [Nawal42/balochi-ocr-merged](https://huggingface.co/Nawal42/balochi-ocr-merged) | 2026-10-25 | text-recognition | candidate | — |
 | [MrFox131/Unlimited-OCR](https://huggingface.co/MrFox131/Unlimited-OCR) | 2026-10-25 | text-recognition | candidate | — |
 | [dicksondickson/Xiaomi-OCR-0-oQ8e-mtp-bf16-MLX](https://huggingface.co/dicksondickson/Xiaomi-OCR-0-oQ8e-mtp-bf16-MLX) | 2026-10-25 | text-recognition | candidate | — |
 | [CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc](https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc) | 2026-10-25 | text-recognition | candidate | — |
+| [arankays/pp-ocrv6-small-onnx](https://huggingface.co/arankays/pp-ocrv6-small-onnx) | 2026-10-25 | text-recognition | candidate | — |
 | [xiaozhangxiao/pp-ocrv6-medium-coreml](https://huggingface.co/xiaozhangxiao/pp-ocrv6-medium-coreml) | 2026-10-24 | text-recognition | candidate | — |
 | [msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.2](https://huggingface.co/msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.2) | 2026-10-24 | text-recognition | candidate | — |
 | [msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.1](https://huggingface.co/msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.1) | 2026-10-24 | text-recognition | candidate | — |

@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:arxiv:2610.32463
+kind: paper
+name: 'Reading Between the Layers: Cross-Modal Alignment and Representational Hierarchy in Vision Transformers'
+released_at:
+  value: '2026-10-23'
+  precision: day
+added_at: '2026-10-26'
+last_verified_at: '2026-10-26'
+summary: While large vision-language models excel at optical character recognition, it remains unclear
+  how their underlying vision encoders process text and its meaning, and whether they support anything
+  resembling reading comprehension. We systematically study transformer-based vision encoders, using cross-modal
+  alignment between rendered text and visual concepts together with probing and retrieval-based analyses
+  as a controlled window into these broader capabilities. Our layer-wise analyses span orthographic, grammatical,
+  and semantic organization, and reveal that strong cross-modal mapping emerges only in the deepest layers,
+  after unimodal object and text recognition have already developed, coinciding with a progression from
+  surface-level to semantic representations. Although this hierarchy is strongest in contrastively trained
+  models, larger self-supervised models and text-rich training data partially support similar behaviors
+  without explicit language supervision. Together, our results suggest that increasing model and training-data
+  scale, as well as text-rich training data, can partially compensate for the absence of language supervision.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.32463
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.32463
+  discovered_via: arxiv
+  discovered_at: '2026-10-26'
+  source_id: '2610.32463'
+  source_metadata:
+    arxiv_id: '2610.32463'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Sugam Karki
+- Raúl Vázquez
+- Yova Kementchedjhieva
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.32463'

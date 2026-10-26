@@ -4,6 +4,24 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [atmike/LaTeX_OCR](https://huggingface.co/datasets/atmike/LaTeX_OCR) | 2026-10-26 | text-recognition | candidate | 1% sampled from https://huggingface.co/datasets/linxy/LaTeX_OCR
+ |
+| [CADT-IDRI/khmer-multifont-ocr](https://huggingface.co/datasets/CADT-IDRI/khmer-multifont-ocr) | 2026-10-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		Khmer Multi-Font OCR
+	
+
+393 images of clean rendered Khmer text in ten Khmer OS fonts. The same source
+text is rendered in every font, so content and total text length are identical
+across fonts and only the typeface (and the resulting page layout) varies. The
+number of images per font differs (34-48) because glyph width and letter design
+change how much text fits on each image.
+
+Used in: Distilling Multimodal Foundation Models into Lightweight OCR for
+Low-Resource Khmer (ACET).… See the full description on the dataset page: https://huggingface.co/datasets/CADT-IDRI/khmer-multifont-ocr. |
 | [CADT-IDRI/khmer-sala-ocr-17k](https://huggingface.co/datasets/CADT-IDRI/khmer-sala-ocr-17k) | 2026-10-24 | text-recognition | candidate | 
 	
 		
