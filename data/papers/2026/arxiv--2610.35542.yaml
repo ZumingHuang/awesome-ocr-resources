@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2610.35542
+kind: paper
+name: Hypergraph-Enhanced Evidence Selection for Long-Context Multimodal Document QA
+released_at:
+  value: '2026-10-26'
+  precision: day
+added_at: '2026-10-27'
+last_verified_at: '2026-10-27'
+summary: Long-context multimodal document question answering (QA) has become an important yet challenging
+  task for modern vision-language models (VLMs), as it requires reasoning over evidence dispersed across
+  pages and modalities within limited input budgets. Current pipelines adopt retrieval-augmented generation
+  (RAG) to select multimodal evidence for downstream VLMs. However, existing systems mainly rely on static
+  selection rules over fixed-granularity retrieval units such as pages or blocks, resulting in information
+  loss during retrieval and suboptimal performance in downstream reasoning. To alleviate these issues,
+  we formulate the core task as budget-aware evidence selection over structured document evidence and
+  propose HyperDoc, a document RAG framework that constructs compact yet sufficient evidence while preserving
+  document relations. Specifically, HyperDoc constructs a document hypergraph to explicitly capture structural,
+  logical, and cross-modal relationships among multimodal document elements. Over this structured evidence
+  space, HyperDoc performs adaptive cost-aware hyperedge selection based on query intent and input budget.
+  Extensive experiments on three representative benchmarks demonstrate that HyperDoc outperforms various
+  types of state-of-the-art baselines.
+tasks:
+- document-vqa
+- formula-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.35542
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.35542
+  discovered_via: arxiv
+  discovered_at: '2026-10-27'
+  source_id: '2610.35542'
+  source_metadata:
+    arxiv_id: '2610.35542'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Wenxin Zhao
+- Jiachuan Wang
+- Xinyi Zhu
+- Jiake Ge
+- Haoyang Li
+- Yongqi Zhang
+- Shuangyin Li
+- Lei Chen
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.35542'

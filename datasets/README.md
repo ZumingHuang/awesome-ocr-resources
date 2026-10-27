@@ -6,6 +6,24 @@
 | --- | --- | --- | --- | --- |
 | [atmike/LaTeX_OCR](https://huggingface.co/datasets/atmike/LaTeX_OCR) | 2026-10-26 | text-recognition | candidate | 1% sampled from https://huggingface.co/datasets/linxy/LaTeX_OCR
  |
+| [AtharvBhujade/OCR-Synthetic-Multilingual-v1](https://huggingface.co/datasets/AtharvBhujade/OCR-Synthetic-Multilingual-v1) | 2026-10-26 | text-detection, text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Synthetic-Multilingual-v1
+	
+
+
+	
+		
+	
+	
+		Dataset Description
+	
+
+Large-scale synthetically generated OCR training dataset for multilingual text detection and recognition. The data was produced using a heavily modified and extended version of SynthDoG (Synthetic Document Generator), originally introduced in the Donut project by Kim et al.
+This dataset was used to train Nemotron OCR v2, a state-of-the-art multilingual OCR model that is part of the NVIDIA NeMo Retriever collection.… See the full description on the dataset page: https://huggingface.co/datasets/AtharvBhujade/OCR-Synthetic-Multilingual-v1. |
 | [CADT-IDRI/khmer-multifont-ocr](https://huggingface.co/datasets/CADT-IDRI/khmer-multifont-ocr) | 2026-10-25 | text-recognition | candidate | 
 	
 		
@@ -39,6 +57,23 @@ Paper: Distilling Multimodal Foundation Models into Lightweight OCR for
 Low-Resource Khmer (ACET). TODO: add link.
 Model: CADT-IDRI/deepseek-ocr-2-lora-khmer-sala-ocr-17k
 Code:… See the full description on the dataset page: https://huggingface.co/datasets/CADT-IDRI/khmer-sala-ocr-17k. |
+| [CADT-IDRI/khmer-sala-ocr-16k](https://huggingface.co/datasets/CADT-IDRI/khmer-sala-ocr-16k) | 2026-10-24 | text-recognition | candidate | 
+	
+		
+	
+	
+		Khmer Sala OCR 17k
+	
+
+17,516 page images from Khmer educational textbooks (Sala Digital), paired with
+plain-text transcriptions (Khmer, English, and LaTeX equations). Labels were
+generated automatically by Gemini 3 Flash Preview (response-based knowledge
+distillation); only the test split is human-verified.
+
+Paper: Distilling Multimodal Foundation Models into Lightweight OCR for
+Low-Resource Khmer (ACET). TODO: add link.
+Model: CADT-IDRI/deepseek-ocr-2-lora-khmer-sala-ocr-17k
+Code:… See the full description on the dataset page: https://huggingface.co/datasets/CADT-IDRI/khmer-sala-ocr-16k. |
 | [divinity-library/03-journal-of-theological-studies-ocr](https://huggingface.co/datasets/divinity-library/03-journal-of-theological-studies-ocr) | 2026-10-23 | text-recognition | candidate | 
 	
 		
