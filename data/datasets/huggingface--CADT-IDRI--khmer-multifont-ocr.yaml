@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:CADT-IDRI/khmer-multifont-ocr
+kind: dataset
+name: CADT-IDRI/khmer-multifont-ocr
+released_at:
+  value: '2026-10-25'
+  precision: day
+added_at: '2026-10-26'
+last_verified_at: '2026-10-26'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKhmer Multi-Font OCR\n\t\n\n393 images of clean rendered Khmer text\
+  \ in ten Khmer OS fonts. The same source\ntext is rendered in every font, so content and total text\
+  \ length are identical\nacross fonts and only the typeface (and the resulting page layout) varies. The\n\
+  number of images per font differs (34-48) because glyph width and letter design\nchange how much text\
+  \ fits on each image.\n\nUsed in: Distilling Multimodal Foundation Models into Lightweight OCR for\n\
+  Low-Resource Khmer (ACET).… See the full description on the dataset page: https://huggingface.co/datasets/CADT-IDRI/khmer-multifont-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/CADT-IDRI/khmer-multifont-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/CADT-IDRI/khmer-multifont-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-26'
+  source_id: CADT-IDRI/khmer-multifont-ocr
+  source_metadata:
+    repository_id: CADT-IDRI/khmer-multifont-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: CADT-IDRI
+repository_id: CADT-IDRI/khmer-multifont-ocr
+usage: []
+annotations: []
+access: unknown

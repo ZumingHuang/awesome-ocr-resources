@@ -293,6 +293,10 @@ GuangJian Team, Kaili Huang, Yongshuo Zhang, Bingtao Fu, Changjiang Jiang, Chenf
 Yuheng Chen, Yufan Chen, Zhuojun Cai, Ruiping Liu, Junwei Zheng, Jiale Wei, Di Wen, Weijia Fan, Kunyu Peng, Jiaming Zhang, Rainer Stiefelhagen
 \[document-layout-analysis\]\[document-parsing\]\[text-recognition\]
 
+**Reading Between the Layers: Cross-Modal Alignment and Representational Hierarchy in Vision Transformers**
+Sugam Karki, Raúl Vázquez, Yova Kementchedjhieva
+\[text-recognition\]
+
 **RefLAM: A Reference-Grounded Line Annotation Pipeline for Historical Arabic Manuscripts**
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[handwriting-recognition\]\[text-recognition\]
