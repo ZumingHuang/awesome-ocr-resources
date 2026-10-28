@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:p4ulbr4dl3y/doc2seek-distill-ocr
+kind: dataset
+name: p4ulbr4dl3y/doc2seek-distill-ocr
+released_at:
+  value: '2026-10-28'
+  precision: day
+added_at: '2026-10-28'
+last_verified_at: '2026-10-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDoc2Seek distill OCR: raw page reads\n\t\n\nThe raw output of Baidu\
+  \ Unlimited-OCR 2 (GGUF, Q4_K_M) over the PDFs in\np4ulbr4dl3y/doc2seek-distill-corpus.\nNothing here\
+  \ is parsed, cleaned or chunked. One JSON line is one page, exactly as the decoder\nemitted it, plus\
+  \ why it stopped and what it cost. Parsing, chunking and any normalization happen\noffline against the\
+  \ same codec the service uses, so the markup stays recoverable: re-reading a\npage must never mean a\
+  \ second GPU pass.… See the full description on the dataset page: https://huggingface.co/datasets/p4ulbr4dl3y/doc2seek-distill-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/p4ulbr4dl3y/doc2seek-distill-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/p4ulbr4dl3y/doc2seek-distill-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-28'
+  source_id: p4ulbr4dl3y/doc2seek-distill-ocr
+  source_metadata:
+    repository_id: p4ulbr4dl3y/doc2seek-distill-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: p4ulbr4dl3y
+repository_id: p4ulbr4dl3y/doc2seek-distill-ocr
+usage: []
+annotations: []
+access: unknown

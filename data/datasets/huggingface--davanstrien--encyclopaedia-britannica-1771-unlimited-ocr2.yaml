@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2
+kind: dataset
+name: davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2
+released_at:
+  value: '2026-10-27'
+  precision: day
+added_at: '2026-10-28'
+last_verified_at: '2026-10-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tEncyclopaedia Britannica, 1771 — Unlimited-OCR-2\n\t\n\nOCR of the first\
+  \ edition of the Encyclopaedia Britannica (Edinburgh, 1768–1771; three volumes, A–B, C–L, M–Z), 2,724\
+  \ page images, read by baidu/Unlimited-OCR-2 16 consecutive pages at a time. The scans are the National\
+  \ Library of Scotland's, via the Internet Archive item 1771EncyclopediaBritannicaNLS, mirrored in the\
+  \ bucket biglam/britannica.\nBecause the model sees several pages per request, it keeps context across\
+  \ page breaks: a… See the full description on the dataset page: https://huggingface.co/datasets/davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2
+  discovered_via: huggingface
+  discovered_at: '2026-10-28'
+  source_id: davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2
+  source_metadata:
+    repository_id: davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: davanstrien
+repository_id: davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2
+usage: []
+annotations: []
+access: unknown

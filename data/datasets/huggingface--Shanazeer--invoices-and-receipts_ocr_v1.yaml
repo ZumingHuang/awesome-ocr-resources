@@ -1,0 +1,41 @@
+schema_version: 1
+id: dataset:huggingface:Shanazeer/invoices-and-receipts_ocr_v1
+kind: dataset
+name: Shanazeer/invoices-and-receipts_ocr_v1
+released_at:
+  value: '2026-10-28'
+  precision: day
+added_at: '2026-10-28'
+last_verified_at: '2026-10-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for \"invoices-and-receipts_ocr_v1\"\n\t\n\nMore Information\
+  \ needed\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Shanazeer/invoices-and-receipts_ocr_v1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Shanazeer/invoices-and-receipts_ocr_v1
+  discovered_via: huggingface
+  discovered_at: '2026-10-28'
+  source_id: Shanazeer/invoices-and-receipts_ocr_v1
+  source_metadata:
+    repository_id: Shanazeer/invoices-and-receipts_ocr_v1
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Shanazeer
+repository_id: Shanazeer/invoices-and-receipts_ocr_v1
+usage: []
+annotations: []
+access: unknown
