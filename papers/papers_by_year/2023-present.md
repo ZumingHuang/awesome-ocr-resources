@@ -177,6 +177,10 @@ Xiazhen Wu, Wansong Qin, Yangbin Zheng, Liangda Fang, Zhan Li, Xiujie Huang, Liu
 Qian Chen, Xianyin Zhang, Lifan Guo, Chi Zhang
 \[document-parsing\]\[text-recognition\]
 
+**Hypergraph-Enhanced Evidence Selection for Long-Context Multimodal Document QA**
+Wenxin Zhao, Jiachuan Wang, Xinyi Zhu, Jiake Ge, Haoyang Li, Yongqi Zhang, Shuangyin Li, Lei Chen
+\[document-vqa\]\[formula-recognition\]
+
 **Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images**
 A. Said Gurbuz, Ahmed Nassar, Christoph Auer, Maksym Lysak, Lucas Morin, Matteo Omenetti, Tim Strohmeyer, Panagiotis Vagenas, Nikolaos Livathinos, Michele Dolfi, Peter Staar
 \[text-recognition\]
@@ -212,6 +216,10 @@ Yongbin Choi, Yongwoo Song, Mujeen Sung
 **KV-Repurpose: A Testbed for Evaluating Non-Prefix KV-Cache Reuse**
 Taiga Ikeda, Daisuke Miyashita, Jun Deguchi
 \[document-vqa\]
+
+**LayoutMamba: Efficient Document Layout Analysis with Hybrid Mamba-Transformer Networks**
+Kehua Chen, Mingyi Chen
+\[document-layout-analysis\]
 
 **Long-form Video-to-Text Summarization using Recursive Language Models**
 Alessia Intini, Lorenzo Vaiani, Enrico Chen, Luca Cagliero
@@ -252,6 +260,10 @@ Jason Luo, Saibilila Abudukelimu, Judy Song, Andrew Feng, Shivank Garg, Vasu Sha
 **Multi-Layer Context Camouflaging: A Semantic Superposition and Contextual Lamination Framework for Malpractice-Resilient Online Assessment**
 Gupta Lovi Raj, Kaur Kamalpreet, Dama Sri Ram, Parani Prajithaa
 \[formula-recognition\]\[text-recognition\]
+
+**MuSTEL: A Large-Scale Multilingual Synthetic Text-Line Image Dataset for OCR**
+Majid Adibian, Hossein Saberi, Hossein Zeinali
+\[text-recognition\]
 
 **NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents**
 Peng Cai, Zhaofan Zou, Shifa Liu, Yikun Wang, Jiawei Tang, Kaicheng Yang, Meng Tong, Zhongjiang He, Hao Sun

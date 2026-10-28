@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:CADT-IDRI/khmer-sala-ocr-16k
+kind: dataset
+name: CADT-IDRI/khmer-sala-ocr-16k
+released_at:
+  value: '2026-10-24'
+  precision: day
+added_at: '2026-10-27'
+last_verified_at: '2026-10-27'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKhmer Sala OCR 17k\n\t\n\n17,516 page images from Khmer educational\
+  \ textbooks (Sala Digital), paired with\nplain-text transcriptions (Khmer, English, and LaTeX equations).\
+  \ Labels were\ngenerated automatically by Gemini 3 Flash Preview (response-based knowledge\ndistillation);\
+  \ only the test split is human-verified.\n\nPaper: Distilling Multimodal Foundation Models into Lightweight\
+  \ OCR for\nLow-Resource Khmer (ACET). TODO: add link.\nModel: CADT-IDRI/deepseek-ocr-2-lora-khmer-sala-ocr-17k\n\
+  Code:… See the full description on the dataset page: https://huggingface.co/datasets/CADT-IDRI/khmer-sala-ocr-16k."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/CADT-IDRI/khmer-sala-ocr-16k
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/CADT-IDRI/khmer-sala-ocr-16k
+  discovered_via: huggingface
+  discovered_at: '2026-10-27'
+  source_id: CADT-IDRI/khmer-sala-ocr-16k
+  source_metadata:
+    repository_id: CADT-IDRI/khmer-sala-ocr-16k
+    downloads: 58
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: CADT-IDRI
+repository_id: CADT-IDRI/khmer-sala-ocr-16k
+usage: []
+annotations: []
+access: unknown

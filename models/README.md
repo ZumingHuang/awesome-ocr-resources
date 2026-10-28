@@ -4,6 +4,19 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [sekkit/Unlimited-OCR-2](https://huggingface.co/sekkit/Unlimited-OCR-2) | 2026-10-27 | text-recognition | candidate | — |
+| [myteaalreadyexists/nom-ocr-group9](https://huggingface.co/myteaalreadyexists/nom-ocr-group9) | 2026-10-27 | text-recognition | candidate | — |
+| [mlx-community/Unlimited-OCR-2-bf16](https://huggingface.co/mlx-community/Unlimited-OCR-2-bf16) | 2026-10-27 | text-recognition | candidate | — |
+| [mlx-community/Unlimited-OCR-2-8bit](https://huggingface.co/mlx-community/Unlimited-OCR-2-8bit) | 2026-10-27 | text-recognition | candidate | — |
+| [mlx-community/Unlimited-OCR-2-6bit](https://huggingface.co/mlx-community/Unlimited-OCR-2-6bit) | 2026-10-27 | text-recognition | candidate | — |
+| [mlx-community/Unlimited-OCR-2-4bit](https://huggingface.co/mlx-community/Unlimited-OCR-2-4bit) | 2026-10-27 | text-recognition | candidate | — |
+| [colaiby2/DeepSeek-OCR](https://huggingface.co/colaiby2/DeepSeek-OCR) | 2026-10-27 | text-recognition | candidate | — |
+| [one-code/indra-ocr](https://huggingface.co/one-code/indra-ocr) | 2026-10-26 | handwriting-recognition, text-recognition | candidate | — |
+| [Oguzbayrakdar/Unlimited-OCR](https://huggingface.co/Oguzbayrakdar/Unlimited-OCR) | 2026-10-26 | text-recognition | candidate | — |
+| [kinyeah/BiMai-Chaoshu-OCR](https://huggingface.co/kinyeah/BiMai-Chaoshu-OCR) | 2026-10-26 | text-recognition | candidate | — |
+| [jefflaporte/chandra-ocr-2-MLX-8bit](https://huggingface.co/jefflaporte/chandra-ocr-2-MLX-8bit) | 2026-10-26 | text-recognition | candidate | — |
+| [jefflaporte/chandra-ocr-2-MLX-4bit-mixed_4_8](https://huggingface.co/jefflaporte/chandra-ocr-2-MLX-4bit-mixed_4_8) | 2026-10-26 | text-recognition | candidate | — |
+| [baidu/Unlimited-OCR-2](https://huggingface.co/baidu/Unlimited-OCR-2) | 2026-10-26 | text-recognition | candidate | — |
 | [prithivMLmods/chandra-ocr-2-NVFP4-GGUF](https://huggingface.co/prithivMLmods/chandra-ocr-2-NVFP4-GGUF) | 2026-10-25 | text-recognition | candidate | — |
 | [Nawal42/balochi-ocr-merged](https://huggingface.co/Nawal42/balochi-ocr-merged) | 2026-10-25 | text-recognition | candidate | — |
 | [MrFox131/Unlimited-OCR](https://huggingface.co/MrFox131/Unlimited-OCR) | 2026-10-25 | text-recognition | candidate | — |
@@ -15,6 +28,7 @@
 | [msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.1](https://huggingface.co/msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.1) | 2026-10-24 | text-recognition | candidate | — |
 | [cyttic/hebrew-ocr-android](https://huggingface.co/cyttic/hebrew-ocr-android) | 2026-10-24 | handwriting-recognition, text-recognition | candidate | — |
 | [CADT-IDRI/deepseek-ocr-2-khmer-lora-17k](https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-17k) | 2026-10-24 | text-recognition | candidate | — |
+| [CADT-IDRI/deepseek-ocr-2-khmer-lora-16k](https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-16k) | 2026-10-24 | text-recognition | candidate | — |
 | [AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-3B-MoE-MLX-AXQ-6bit) | 2026-10-24 | text-recognition | candidate | — |
 | [asterxlabs/asternet-vietnamese-ocr](https://huggingface.co/asterxlabs/asternet-vietnamese-ocr) | 2026-10-24 | text-recognition | candidate | — |
 | [ampixa/deva-ocr-75m-research](https://huggingface.co/ampixa/deva-ocr-75m-research) | 2026-10-24 | handwriting-recognition, text-recognition | candidate | — |

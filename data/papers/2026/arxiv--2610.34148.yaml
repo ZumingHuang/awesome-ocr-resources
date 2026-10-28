@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:2610.34148
+kind: paper
+name: 'MuSTEL: A Large-Scale Multilingual Synthetic Text-Line Image Dataset for OCR'
+released_at:
+  value: '2026-10-25'
+  precision: day
+added_at: '2026-10-27'
+last_verified_at: '2026-10-27'
+summary: Optical character recognition (OCR) systems depend strongly on the scale and diversity of their
+  training data. One approach to document OCR first analyzes the page layout and extracts text-line images,
+  which are then transcribed by a recognition model. Multilingual line-level recognition involving Persian,
+  Arabic, and English presents additional challenges because different writing directions, fonts, and
+  styles may coexist within a single line. This paper introduces MuSTEL, a large-scale synthetic multilingual
+  OCR dataset containing more than 14.5 million annotated text-line images, organized into a training
+  partition and predefined small and large test sets. Samples are generated from natural-language corpora,
+  including multilingual content already present in the source texts. The generation framework incorporates
+  capability-aware font selection, within-line font and style changes, mixed-direction text rendering,
+  highlighting, and underlining. A validated repository of 2,009 font files from 711 families supports
+  broad typographic coverage, while varied backgrounds, blur, geometric distortion, skew, stroke width,
+  and image save quality provide diverse document-like appearances. Statistical analysis characterizes
+  the dataset's language composition, transcription lengths, lexical and character-sequence diversity,
+  image dimensions, typography, and rendering conditions. MuSTEL provides a resource for training and
+  evaluating multilingual line-level OCR systems and investigating recognition robustness across languages,
+  writing directions, and visual conditions.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.34148
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.34148
+  discovered_via: arxiv
+  discovered_at: '2026-10-27'
+  source_id: '2610.34148'
+  source_metadata:
+    arxiv_id: '2610.34148'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Majid Adibian
+- Hossein Saberi
+- Hossein Zeinali
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.34148'
