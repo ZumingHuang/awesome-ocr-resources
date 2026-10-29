@@ -4,20 +4,62 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Jinstudio/Unlimited-OCR-2](https://huggingface.co/Jinstudio/Unlimited-OCR-2) | 2026-10-28 | text-recognition | candidate | — |
+| [Iceblue2026/pp-ocrv6-onnx](https://huggingface.co/Iceblue2026/pp-ocrv6-onnx) | 2026-10-28 | text-recognition | candidate | — |
+| [cstr/Unlimited-OCR-2-GGUF](https://huggingface.co/cstr/Unlimited-OCR-2-GGUF) | 2026-10-28 | text-recognition | candidate | — |
+| [cicaba/Unlimited-OCR-2-GGUF](https://huggingface.co/cicaba/Unlimited-OCR-2-GGUF) | 2026-10-28 | text-recognition | candidate | — |
+| [AutomatosX/AX-Unlimited-OCR-2-CUDA-AXQ-NVFP4-W4A16](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-2-CUDA-AXQ-NVFP4-W4A16) | 2026-10-28 | text-recognition | candidate | — |
+| [AutomatosX/AX-Unlimited-OCR-2-AXQ-MXFP8](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-2-AXQ-MXFP8) | 2026-10-28 | text-recognition | candidate | — |
+| [AutomatosX/AX-Unlimited-OCR-2-AXQ-MXFP4](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-2-AXQ-MXFP4) | 2026-10-28 | text-recognition | candidate | — |
+| [anushkrishna/falcon-ocr-models](https://huggingface.co/anushkrishna/falcon-ocr-models) | 2026-10-28 | text-recognition | candidate | — |
+| [TechnoBaptist/MiniCPM-OCR-Jev](https://huggingface.co/TechnoBaptist/MiniCPM-OCR-Jev) | 2026-10-27 | text-recognition | candidate | — |
+| [TechnoBaptist/MiniCPM-OCR-1.0](https://huggingface.co/TechnoBaptist/MiniCPM-OCR-1.0) | 2026-10-27 | formula-recognition, text-recognition | candidate | — |
 | [sekkit/Unlimited-OCR-2](https://huggingface.co/sekkit/Unlimited-OCR-2) | 2026-10-27 | text-recognition | candidate | — |
+| [prithivMLmods/MiniCPM-OCR-1.0-GGUF](https://huggingface.co/prithivMLmods/MiniCPM-OCR-1.0-GGUF) | 2026-10-27 | formula-recognition, text-recognition | candidate | — |
+| [p4ulbr4dl3y/unlimited-ocr-2-ru-gguf](https://huggingface.co/p4ulbr4dl3y/unlimited-ocr-2-ru-gguf) | 2026-10-27 | text-recognition | candidate | — |
 | [myteaalreadyexists/nom-ocr-group9](https://huggingface.co/myteaalreadyexists/nom-ocr-group9) | 2026-10-27 | text-recognition | candidate | — |
 | [mlx-community/Unlimited-OCR-2-bf16](https://huggingface.co/mlx-community/Unlimited-OCR-2-bf16) | 2026-10-27 | text-recognition | candidate | — |
 | [mlx-community/Unlimited-OCR-2-8bit](https://huggingface.co/mlx-community/Unlimited-OCR-2-8bit) | 2026-10-27 | text-recognition | candidate | — |
 | [mlx-community/Unlimited-OCR-2-6bit](https://huggingface.co/mlx-community/Unlimited-OCR-2-6bit) | 2026-10-27 | text-recognition | candidate | — |
 | [mlx-community/Unlimited-OCR-2-4bit](https://huggingface.co/mlx-community/Unlimited-OCR-2-4bit) | 2026-10-27 | text-recognition | candidate | — |
+| [manateelazycat/Unlimited-OCR-2-AIPod](https://huggingface.co/manateelazycat/Unlimited-OCR-2-AIPod) | 2026-10-27 | text-recognition | candidate | — |
 | [colaiby2/DeepSeek-OCR](https://huggingface.co/colaiby2/DeepSeek-OCR) | 2026-10-27 | text-recognition | candidate | — |
+| [openbmb/MiniCPM-OCR-Jev-GPTQ](https://huggingface.co/openbmb/MiniCPM-OCR-Jev-GPTQ) | 2026-10-26 | text-recognition | candidate | — |
+| [openbmb/MiniCPM-OCR-Jev-gguf](https://huggingface.co/openbmb/MiniCPM-OCR-Jev-gguf) | 2026-10-26 | text-recognition | candidate | — |
+| [openbmb/MiniCPM-OCR-Jev-AWQ](https://huggingface.co/openbmb/MiniCPM-OCR-Jev-AWQ) | 2026-10-26 | text-recognition | candidate | — |
+| [openbmb/MiniCPM-OCR-1.0-DSpark-gguf](https://huggingface.co/openbmb/MiniCPM-OCR-1.0-DSpark-gguf) | 2026-10-26 | text-recognition | candidate | — |
+| [openbmb/MiniCPM-OCR-1.0-DSpark](https://huggingface.co/openbmb/MiniCPM-OCR-1.0-DSpark) | 2026-10-26 | text-recognition | candidate | — |
 | [one-code/indra-ocr](https://huggingface.co/one-code/indra-ocr) | 2026-10-26 | handwriting-recognition, text-recognition | candidate | — |
 | [Oguzbayrakdar/Unlimited-OCR](https://huggingface.co/Oguzbayrakdar/Unlimited-OCR) | 2026-10-26 | text-recognition | candidate | — |
 | [kinyeah/BiMai-Chaoshu-OCR](https://huggingface.co/kinyeah/BiMai-Chaoshu-OCR) | 2026-10-26 | text-recognition | candidate | — |
 | [jefflaporte/chandra-ocr-2-MLX-8bit](https://huggingface.co/jefflaporte/chandra-ocr-2-MLX-8bit) | 2026-10-26 | text-recognition | candidate | — |
 | [jefflaporte/chandra-ocr-2-MLX-4bit-mixed_4_8](https://huggingface.co/jefflaporte/chandra-ocr-2-MLX-4bit-mixed_4_8) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-zhenwu-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-zhenwu-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-tsingmicro-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-tsingmicro-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-sunrise-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-sunrise-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-nvidia-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-nvidia-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-mthreads-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-mthreads-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-metax-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-metax-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-kunlunxin-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-kunlunxin-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-iluvatar-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-iluvatar-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-hygon-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-hygon-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-ascend-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-ascend-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-Jev-BF16-arm-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-Jev-BF16-arm-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-zhenwu-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-zhenwu-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-tsingmicro-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-tsingmicro-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-sunrise-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-sunrise-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-nvidia-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-nvidia-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-mthreads-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-mthreads-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-metax-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-metax-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-kunlunxin-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-kunlunxin-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-iluvatar-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-iluvatar-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-hygon-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-hygon-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-ascend-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-ascend-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
+| [FlagRelease/MiniCPM-OCR-1.0-BF16-arm-FlagOS](https://huggingface.co/FlagRelease/MiniCPM-OCR-1.0-BF16-arm-FlagOS) | 2026-10-26 | text-recognition | candidate | — |
 | [baidu/Unlimited-OCR-2](https://huggingface.co/baidu/Unlimited-OCR-2) | 2026-10-26 | text-recognition | candidate | — |
 | [prithivMLmods/chandra-ocr-2-NVFP4-GGUF](https://huggingface.co/prithivMLmods/chandra-ocr-2-NVFP4-GGUF) | 2026-10-25 | text-recognition | candidate | — |
+| [openbmb/MiniCPM-OCR-1.0-GPTQ](https://huggingface.co/openbmb/MiniCPM-OCR-1.0-GPTQ) | 2026-10-25 | text-recognition | candidate | — |
+| [openbmb/MiniCPM-OCR-1.0-AWQ](https://huggingface.co/openbmb/MiniCPM-OCR-1.0-AWQ) | 2026-10-25 | text-recognition | candidate | — |
 | [Nawal42/balochi-ocr-merged](https://huggingface.co/Nawal42/balochi-ocr-merged) | 2026-10-25 | text-recognition | candidate | — |
 | [MrFox131/Unlimited-OCR](https://huggingface.co/MrFox131/Unlimited-OCR) | 2026-10-25 | text-recognition | candidate | — |
 | [dicksondickson/Xiaomi-OCR-0-oQ8e-mtp-bf16-MLX](https://huggingface.co/dicksondickson/Xiaomi-OCR-0-oQ8e-mtp-bf16-MLX) | 2026-10-25 | text-recognition | candidate | — |
@@ -34,6 +76,7 @@
 | [ampixa/deva-ocr-75m-research](https://huggingface.co/ampixa/deva-ocr-75m-research) | 2026-10-24 | handwriting-recognition, text-recognition | candidate | — |
 | [AeliaTR/aelia-ocr-tur4-ckpt](https://huggingface.co/AeliaTR/aelia-ocr-tur4-ckpt) | 2026-10-24 | text-recognition | candidate | — |
 | [sametpehlivann/japanase-plate-ocr-trained-models](https://huggingface.co/sametpehlivann/japanase-plate-ocr-trained-models) | 2026-10-23 | text-recognition | candidate | — |
+| [openbmb/MiniCPM-OCR-Jev](https://huggingface.co/openbmb/MiniCPM-OCR-Jev) | 2026-10-23 | text-recognition | candidate | — |
 | [g3ida/absir-arabic-ocr-1.6B](https://huggingface.co/g3ida/absir-arabic-ocr-1.6B) | 2026-10-23 | text-recognition | candidate | — |
 | [whrrr/DeepSeek-OCR](https://huggingface.co/whrrr/DeepSeek-OCR) | 2026-10-22 | text-recognition | candidate | — |
 | [Wenvia/OCR_Model](https://huggingface.co/Wenvia/OCR_Model) | 2026-10-22 | text-recognition | candidate | — |

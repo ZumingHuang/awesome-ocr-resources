@@ -4,6 +4,41 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Shanazeer/invoices-and-receipts_ocr_v1](https://huggingface.co/datasets/Shanazeer/invoices-and-receipts_ocr_v1) | 2026-10-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Dataset Card for "invoices-and-receipts_ocr_v1"
+	
+
+More Information needed
+ |
+| [p4ulbr4dl3y/doc2seek-distill-ocr](https://huggingface.co/datasets/p4ulbr4dl3y/doc2seek-distill-ocr) | 2026-10-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Doc2Seek distill OCR: raw page reads
+	
+
+The raw output of Baidu Unlimited-OCR 2 (GGUF, Q4_K_M) over the PDFs in
+p4ulbr4dl3y/doc2seek-distill-corpus.
+Nothing here is parsed, cleaned or chunked. One JSON line is one page, exactly as the decoder
+emitted it, plus why it stopped and what it cost. Parsing, chunking and any normalization happen
+offline against the same codec the service uses, so the markup stays recoverable: re-reading a
+page must never mean a second GPU pass.… See the full description on the dataset page: https://huggingface.co/datasets/p4ulbr4dl3y/doc2seek-distill-ocr. |
+| [davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2](https://huggingface.co/datasets/davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2) | 2026-10-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Encyclopaedia Britannica, 1771 — Unlimited-OCR-2
+	
+
+OCR of the first edition of the Encyclopaedia Britannica (Edinburgh, 1768–1771; three volumes, A–B, C–L, M–Z), 2,724 page images, read by baidu/Unlimited-OCR-2 16 consecutive pages at a time. The scans are the National Library of Scotland's, via the Internet Archive item 1771EncyclopediaBritannicaNLS, mirrored in the bucket biglam/britannica.
+Because the model sees several pages per request, it keeps context across page breaks: a… See the full description on the dataset page: https://huggingface.co/datasets/davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2. |
+| [angatupyrytau/osint-ocr-inputs](https://huggingface.co/datasets/angatupyrytau/osint-ocr-inputs) | 2026-10-27 | text-recognition | candidate | — |
 | [atmike/LaTeX_OCR](https://huggingface.co/datasets/atmike/LaTeX_OCR) | 2026-10-26 | text-recognition | candidate | 1% sampled from https://huggingface.co/datasets/linxy/LaTeX_OCR
  |
 | [AtharvBhujade/OCR-Synthetic-Multilingual-v1](https://huggingface.co/datasets/AtharvBhujade/OCR-Synthetic-Multilingual-v1) | 2026-10-26 | text-detection, text-recognition | candidate | 
