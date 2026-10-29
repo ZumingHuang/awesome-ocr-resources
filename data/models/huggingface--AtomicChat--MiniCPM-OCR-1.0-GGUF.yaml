@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:AtomicChat/MiniCPM-OCR-1.0-GGUF
+kind: model
+name: AtomicChat/MiniCPM-OCR-1.0-GGUF
+released_at:
+  value: '2026-10-28'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: ''
+tasks:
+- formula-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/AtomicChat/MiniCPM-OCR-1.0-GGUF
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/AtomicChat/MiniCPM-OCR-1.0-GGUF
+  discovered_via: huggingface
+  discovered_at: '2026-10-29'
+  source_id: AtomicChat/MiniCPM-OCR-1.0-GGUF
+  source_metadata:
+    repository_id: AtomicChat/MiniCPM-OCR-1.0-GGUF
+    downloads: 0
+    likes: 8
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: AtomicChat
+repository_id: AtomicChat/MiniCPM-OCR-1.0-GGUF
+deployment: []

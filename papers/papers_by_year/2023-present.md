@@ -97,6 +97,10 @@ Zhuowen Liang, Xiaotian Lin, Yuyu Luo, Haixun Wang, Nan Tang
 Yunhao Wang, Binghong Wu, Zhenyu Huang, Jiacheng Shi, Shuo Huang, Tinghao Yu, Feng Zhang
 \[formula-recognition\]\[document-parsing\]
 
+**DocSkill: Skill-Integrated Agentic Reasoning for Multilingual Multi-Hop Document Question Answering**
+Jing Huang, Zhiya Tan, Changtao Miao, Shutao Gong, Yang Wang, Joey Tianyi Zhou, Jianshu Li, Ying Yan
+\[document-vqa\]
+
 **DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning**
 Le Xiang, Zhicheng Guan, Hong Chen, Xiaocong Lin, Zhenghua Lei, Teng Hu, Bolei He, Long Zeng
 \[document-vqa\]\[document-parsing\]
@@ -156,6 +160,10 @@ Qingtao Xia, Siyao Cheng, Jiahua Bao, Jiaxing Du, Jie Liu
 **From Pixels to Structure: Lightweight Vision-Language Models for Document OCR and Structured JSON Extraction**
 Uddipan Basu Bir, Vincent Christlein, Andreas Maier, Mathias Zinnen
 \[document-parsing\]\[handwriting-recognition\]\[text-recognition\]
+
+**Frugal Handwritten Text Recognition for Sub-Saharan Civil-Status Registers: A Smartphone-to-Records Pipeline with CPU-Only Inference**
+Ousmane Hamadou, Jean Louis Kedieng Ebongue Fendji
+\[handwriting-recognition\]\[text-recognition\]
 
 **GAIDA: Generative AI for Human-in-the-Loop Document Annotation**
 Islam Mesabah, Ali Elhosary, Priyabanta Sandulu, Darko Obradovic, Sebastian J. Vollmer
@@ -249,6 +257,10 @@ Aman Anand, Partha Pratim Roy, Shivakumara Palaiahnakote
 Haote Yang, Jiang Wu, Jingchao Wang, Xingjian Wei, Lixin Ma, Linye Li, Chen Zhu, Xiaolong Wu, Yuheng Lu, Ziran Zhu, Junyuan Gao, Lingli Ge, Yuan Xu, Huijie Ao, QianQian Wu, Dechen Lin, Huaiyu Gu, Lu Chen, Shengxin Lu, ShaSha Wang, Yuanyuan Cao, Zhejia Yu, Ruijie Zhang, Zimai Tian, Jiaxing Sun, Yinfan Wang, Jiahe Song, Chuang Wang, Yubin Wang, Rui Nie, Hao Zheng, Bowen Jiang, Hongbin Lai, Yifan He, Chengjin Liu, Tingting Zhang, Liqun Wei, Lijun Wu, Bin Wang, Yuqiang Li, Guangyu Wang, Wei Li, Bowen Zhou, Dahua Lin, Conghui He
 \[document-parsing\]
 
+**Mining the Nineteenth Century for the Thirteenth: Register-Scale Forced Alignment and HTR Bootstrapping via Legacy Regesta and Antiquarian Editions**
+Tamas Kovacs, Daniel Luger
+\[handwriting-recognition\]\[text-recognition\]
+
 **Mitigating Error Propagation in Chain-of-Thought: A Tree-of-Thought Framework for Smart Contract Repair**
 Jingping Zhu, Hongping Wang, Xiaoqi Li
 \[document-parsing\]
@@ -324,6 +336,10 @@ Mert İncidelen, Yamen Kashkash, Asya Berker, Murat Aydoğan
 **SP-DocReader: Difference-Aware Self-Play for Precise Document OCR**
 Wenjie Liao, Xiaohui Song, Liangjie Zhao, Haonan Lu
 \[document-vqa\]\[text-recognition\]
+
+**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**
+Zafer Sahinoglu, Abdulazeez Mohammed, Buse Yaren Kazangirler, Cahit Berkay Kazangirler
+\[document-vqa\]
 
 **Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**
 Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:jiabaobei/skills-constitution:skill-md
+kind: skill
+name: jiabaobei/skills-constitution / SKILL.md
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/jiabaobei/skills-constitution/blob/e825ee881611679cea93b194e38749e01e4768b4/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/jiabaobei/skills-constitution/blob/e825ee881611679cea93b194e38749e01e4768b4/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: jiabaobei/skills-constitution:SKILL.md
+  source_metadata:
+    repository: jiabaobei/skills-constitution
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: jiabaobei/skills-constitution
+manifest_path: SKILL.md
+capabilities: {}

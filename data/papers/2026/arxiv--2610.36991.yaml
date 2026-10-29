@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:2610.36991
+kind: paper
+name: 'SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented
+  Generation'
+released_at:
+  value: '2026-10-27'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: Retrieval-augmented generation (RAG) systems ground large language models (LLMs) by retrieving
+  external evidence and conditioning generation on the retrieved context. Although dense retrieval is
+  effective for local semantic matching, independently ranked retrieval can return redundant passages,
+  miss cross-chunk dependencies, and provide incomplete evidence for multi-hop reasoning. We propose SpectRAG,
+  a spectral graph-augmented retrieval framework that combines hybrid candidate seeding, weighted chunk
+  graph construction, graph-based expansion, spectral relevance propagation, and token-budgeted context
+  selection. Document chunks are represented by dense semantic embeddings and graph-spectral coordinates
+  derived from a weighted chunk graph whose edges encode semantic similarity, document adjacency, section
+  hierarchy, shared entities, citation links, and similarity between LLM-generated utility questions.
+  At query time, SpectRAG builds a high-recall seed set using exact inner-product search and hybrid relevance
+  signals, expands it over the chunk graph, re-scores candidates using graph proximity and spectral information,
+  and assembles the final context under a fixed token budget. The goal is not merely to retrieve individually
+  similar chunks, but to construct a context that is relevant, diverse, structurally connected, and sufficient
+  for grounded reasoning. Experiments on MultiHopRAG, UltraDomain, and long-document question-answering
+  settings show that SpectRAG improves broad evidence recovery and achieves competitive generation quality
+  against dense, hybrid, HyDE, LightRAG, and NaiveRAG baselines. The results further indicate that graph-spectral
+  structure is particularly useful for inference-oriented and cross-document retrieval, while highlighting
+  trade-offs in early precision, computational cost, and domain-dependent performance.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.36991
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.36991
+  discovered_via: arxiv
+  discovered_at: '2026-10-29'
+  source_id: '2610.36991'
+  source_metadata:
+    arxiv_id: '2610.36991'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Zafer Sahinoglu
+- Abdulazeez Mohammed
+- Buse Yaren Kazangirler
+- Cahit Berkay Kazangirler
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.36991'

@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:2610.36540
+kind: paper
+name: 'Frugal Handwritten Text Recognition for Sub-Saharan Civil-Status Registers: A Smartphone-to-Records
+  Pipeline with CPU-Only Inference'
+released_at:
+  value: '2026-10-27'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: Handwritten civil-status registers across Sub-Saharan Africa are being photographed, but rarely
+  transcribed, which leaves their content unsearchable. Local administrations that hold these records
+  typically lack GPUs, reliable connectivity, and the budget for external digitization services. We study
+  whether a frugal pipeline, with consumer-grade capture and CPU-only inference, can make such registers
+  machine-readable. We introduce a corpus of 1,568 smartphone images of handwritten birth, marriage, and
+  death records from a municipal registry in Chad, with line-level transcriptions for 185 records. Our
+  pipeline combines a fully classical preprocessing stage, running at about 2.6 images per second on a
+  laptop CPU, with a Kraken recognizer fine-tuned from a pretrained model in about four hours on a free-tier
+  GPU. On manually corrected line segmentation and a single-registry test set whose writers also appear
+  in training, fine-tuning reduces the character error rate from 14.53% to 0.50% and the word error rate
+  from 56.93% to 3.37%. On a six-core laptop CPU, the recognizer weighs 61 MiB, peaks below 2.6 GiB of
+  RAM, and processes an image in under 6 s on average, excluding line segmentation. Finally, a downstream
+  information-extraction task shows that residual recognition errors cost about 9 F1 points on role resolution,
+  compared with a 36.7-point gap between the fine-tuned and pretrained recognizers. These results are
+  evidence of feasibility within one registry, not of performance on unseen writers or sites; we discuss
+  these limitations in detail.
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.36540
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.36540
+  discovered_via: arxiv
+  discovered_at: '2026-10-29'
+  source_id: '2610.36540'
+  source_metadata:
+    arxiv_id: '2610.36540'
+    doi: null
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Ousmane Hamadou
+- Jean Louis Kedieng Ebongue Fendji
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.36540'

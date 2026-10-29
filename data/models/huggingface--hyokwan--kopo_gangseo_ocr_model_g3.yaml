@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:hyokwan/kopo_gangseo_ocr_model_g3
+kind: model
+name: hyokwan/kopo_gangseo_ocr_model_g3
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/hyokwan/kopo_gangseo_ocr_model_g3
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/hyokwan/kopo_gangseo_ocr_model_g3
+  discovered_via: huggingface
+  discovered_at: '2026-10-29'
+  source_id: hyokwan/kopo_gangseo_ocr_model_g3
+  source_metadata:
+    repository_id: hyokwan/kopo_gangseo_ocr_model_g3
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: hyokwan
+repository_id: hyokwan/kopo_gangseo_ocr_model_g3
+deployment: []

@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:yjid/kensaku
+kind: code
+name: yjid/kensaku
+released_at:
+  value: '2026-10-24'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: Search inside documents, code, and even screenshots - instantly and locally. A free, open-source
+  file launcher with OCR, semantic search, and MCP agent access.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/yjid/kensaku
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/yjid/kensaku
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: R_kgDOVWOakg
+  source_metadata:
+    repository: yjid/kensaku
+    stars: 98
+    language: Rust
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: yjid/kensaku
+landmark: false
+programming_languages:
+- Rust
+maintenance_status: active

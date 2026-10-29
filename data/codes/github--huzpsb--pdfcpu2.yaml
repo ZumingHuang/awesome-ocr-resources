@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:huzpsb/pdfcpu2
+kind: code
+name: huzpsb/pdfcpu2
+released_at:
+  value: '2026-10-25'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: Native Go. PDF ocr, text extraction, text replacement, rendering, solidify, obfuscate & more.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/huzpsb/pdfcpu2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/huzpsb/pdfcpu2
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: R_kgDOVWw3Lw
+  source_metadata:
+    repository: huzpsb/pdfcpu2
+    stars: 11
+    language: Go
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: huzpsb/pdfcpu2
+landmark: false
+programming_languages:
+- Go
+maintenance_status: active

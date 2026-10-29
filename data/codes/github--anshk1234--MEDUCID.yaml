@@ -1,0 +1,44 @@
+schema_version: 1
+id: code:github:anshk1234/MEDUCID
+kind: code
+name: anshk1234/MEDUCID
+released_at:
+  value: '2026-10-23'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: MEDUCID is a web application that takes medical laboratory reports , presents them in clear,
+  readable language. It displays the original document side-by-side with extracted measurements, checks
+  whether values fall within their printed reference ranges, and explains what each biomarker measures
+  in simple terms without providing medical diagnoses.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/anshk1234/MEDUCID
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/anshk1234/MEDUCID
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: R_kgDOVUkPSQ
+  source_metadata:
+    repository: anshk1234/MEDUCID
+    stars: 23
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: anshk1234/MEDUCID
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

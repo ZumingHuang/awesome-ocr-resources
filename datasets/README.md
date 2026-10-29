@@ -4,6 +4,25 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [yuanhaohan/tibetan-ocr-benchmark](https://huggingface.co/datasets/yuanhaohan/tibetan-ocr-benchmark) | 2026-10-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		BDRC Tibetan OCR Benchmark (open subset)
+	
+
+
+
+A hand-transcribed benchmark for evaluating Tibetan OCR across writing styles and
+technologies. This is an open-access set of 472 page images with ground-truth
+transcriptions and per-page metadata (script, technology, legibility).
+Companion to the model BDRC/tibetan-ocr
+and the leaderboard
+(dozens of OCR systems scored on this benchmark).
+The transcriptions were produced by Dharmaduta.
+The images were selected through detailed research… See the full description on the dataset page: https://huggingface.co/datasets/yuanhaohan/tibetan-ocr-benchmark. |
+| [TutlaytAI/Hausa_Ajami_OCR_Merged](https://huggingface.co/datasets/TutlaytAI/Hausa_Ajami_OCR_Merged) | 2026-10-28 | text-recognition | candidate | — |
 | [Shanazeer/invoices-and-receipts_ocr_v1](https://huggingface.co/datasets/Shanazeer/invoices-and-receipts_ocr_v1) | 2026-10-28 | text-recognition | candidate | 
 	
 		
@@ -28,6 +47,52 @@ Nothing here is parsed, cleaned or chunked. One JSON line is one page, exactly a
 emitted it, plus why it stopped and what it cost. Parsing, chunking and any normalization happen
 offline against the same codec the service uses, so the markup stays recoverable: re-reading a
 page must never mean a second GPU pass.… See the full description on the dataset page: https://huggingface.co/datasets/p4ulbr4dl3y/doc2seek-distill-ocr. |
+| [muhammad0-0hreden/arabic-ocr-qwen-qwen3-vl-30b-a3b-thinking](https://huggingface.co/datasets/muhammad0-0hreden/arabic-ocr-qwen-qwen3-vl-30b-a3b-thinking) | 2026-10-28 | text-recognition | candidate | — |
+| [muhammad0-0hreden/arabic-ocr-mistralai-ministral-14b-2512](https://huggingface.co/datasets/muhammad0-0hreden/arabic-ocr-mistralai-ministral-14b-2512) | 2026-10-28 | text-recognition | candidate | — |
+| [muhammad0-0hreden/arabic-ocr-google-gemma-4-31b-it-V2](https://huggingface.co/datasets/muhammad0-0hreden/arabic-ocr-google-gemma-4-31b-it-V2) | 2026-10-28 | text-recognition | candidate | — |
+| [muhammad0-0hreden/arabic-ocr-google-gemma-4-31b-it](https://huggingface.co/datasets/muhammad0-0hreden/arabic-ocr-google-gemma-4-31b-it) | 2026-10-28 | text-recognition | candidate | — |
+| [muhammad0-0hreden/arabic-ocr-google-gemini-4-argon](https://huggingface.co/datasets/muhammad0-0hreden/arabic-ocr-google-gemini-4-argon) | 2026-10-28 | text-recognition | candidate | — |
+| [AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics](https://huggingface.co/datasets/AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics) | 2026-10-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		MiniCPM-OCR 1.0 GGUF: metrics
+	
+
+Measurements behind AtomicChat/MiniCPM-OCR-1.0-GGUF, by
+AtomicChat. Model: openbmb/MiniCPM-OCR-1.0 @ 6796197b,
+llama.cpp b11953 (a7af149).
+
+	
+		
+Path
+What
+
+
+		
+ocr/score.json, ocr/score.txt
+every file read on 40 OmniDocBench pages: agreement with the BF16 original and character error against the annotation, per page
+
+
+ocr/pages.json
+the 40 pages (OmniDocBench image names, source, language; seed 0, 4 per source)
+
+
+ocr/server_check.txt
+where… See the full description on the dataset page: https://huggingface.co/datasets/AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics. |
+| [alea-institute/alea-ocr-correct](https://huggingface.co/datasets/alea-institute/alea-ocr-correct) | 2026-10-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		ALEA ocr_correct: OCR and keying error detection and correction on clean legal and government text
+	
+
+Proofreading tasks built from clean, born-digital public-record text in the KL3M data collection: the U.S. Code, the
+Code of Federal Regulations, Federal Register documents, congressional bills, federal agency web pages, and SEC 10-K MD&A
+sections and contract exhibits. Realistic OCR / keying errors are inserted synthetically; the clean source is the gold.
+About 28% of rows are… See the full description on the dataset page: https://huggingface.co/datasets/alea-institute/alea-ocr-correct. |
 | [davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2](https://huggingface.co/datasets/davanstrien/encyclopaedia-britannica-1771-unlimited-ocr2) | 2026-10-27 | text-recognition | candidate | 
 	
 		
