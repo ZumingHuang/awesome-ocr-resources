@@ -22,6 +22,186 @@ and the leaderboard
 (dozens of OCR systems scored on this benchmark).
 The transcriptions were produced by Dharmaduta.
 The images were selected through detailed research… See the full description on the dataset page: https://huggingface.co/datasets/yuanhaohan/tibetan-ocr-benchmark. |
+| [remots/digar-newspaper-ocr-test](https://huggingface.co/datasets/remots/digar-newspaper-ocr-test) | 2026-10-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		DIGAR Estonian Newspaper OCR & Archival Metadata (79,923 Issues)
+	
+
+A comprehensive corpus of historical Estonian newspapers from the National Library of Estonia (DIGAR) covering a 117-year span (1878–1995).
+Towards a complete digital archive of all historical newspapers in DIGAR.
+
+	
+		
+	
+	
+		Corpus Statistics
+	
+
+
+Total Issues: 79,923
+Total Scanned Pages: ~420,000 pages
+Total OCR Text: ~7.8 billion characters
+Average OCR Accuracy: ~79.8% (where available in Veridian XML)
+Time Span:… See the full description on the dataset page: https://huggingface.co/datasets/remots/digar-newspaper-ocr-test. |
+| [fffoivos/greek-ocr-synthetic-lines](https://huggingface.co/datasets/fffoivos/greek-ocr-synthetic-lines) | 2026-10-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		Greek OCR — synthetic lines (v0.1)
+	
+
+These are the rendered and degraded text lines that made up the synthetic half of the training mixture of fffoivos/greek-ocr, exactly as used in training. Every row records how it was generated.
+Part of the Greek OCR collection. The real lines are in fffoivos/greek-ocr-real-lines.
+
+	
+		
+Split
+Lines
+
+
+		
+train
+190,486
+
+
+	
+
+
+	
+		
+	
+	
+		Per-line generation record
+	
+
+
+	
+		
+Column
+Meaning
+
+
+		
+image
+rendered line image (PNG)
+
+
+gt_nfc / gt_nfd /… See the full description on the dataset page: https://huggingface.co/datasets/fffoivos/greek-ocr-synthetic-lines. |
+| [fffoivos/greek-ocr-real-lines](https://huggingface.co/datasets/fffoivos/greek-ocr-real-lines) | 2026-10-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		Greek OCR — real lines (v0.1)
+	
+
+These are the real printed text-line images with transcriptions, exactly as used to train and evaluate fffoivos/greek-ocr. The lines are mostly polytonic and modern Greek, with Latin, Cyrillic, mixed-script lines, numbers and page furniture.
+Part of the Greek OCR collection. The synthetic training lines are in fffoivos/greek-ocr-synthetic-lines.
+
+	
+		
+	
+	
+		Splits
+	
+
+
+	
+		
+Split
+Lines
+
+
+		
+train
+793,227
+
+
+validation
+13,088
+
+
+harvest_dev
+16,350… See the full description on the dataset page: https://huggingface.co/datasets/fffoivos/greek-ocr-real-lines. |
+| [fffoivos/greek-ocr-lines](https://huggingface.co/datasets/fffoivos/greek-ocr-lines) | 2026-10-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		Greek OCR lines (v0.5)
+	
+
+Printed text-line images with transcriptions: the exact lines used to train and evaluate the Greek OCR models (OCR v0.10, widths ×1 / ×1.5 / ×2). The lines are mostly polytonic and modern (monotonic) Greek, with Latin, Cyrillic and mixed Greek-Latin lines, numbers and page furniture.
+Part of the Greek OCR collection. Code: fffoivos/greek-ocr-toolkit.
+
+	
+		
+	
+	
+		Configs and splits
+	
+
+
+	
+		
+Config / split
+Lines
+Role
+
+
+		
+real / train
+793,227
+real half of… See the full description on the dataset page: https://huggingface.co/datasets/fffoivos/greek-ocr-lines. |
+| [Aus-23/indic-synthetic-scene-text-1000](https://huggingface.co/datasets/Aus-23/indic-synthetic-scene-text-1000) | 2026-10-29 | text-recognition | candidate | 
+	
+		
+	
+	
+		Indic Synthetic Scene Text 1000
+	
+
+This release packages 1,000 synthetic scene-text images for Marathi, Hindi,
+Gujarati, and Bengali as three image-aware Parquet splits. The images are
+procedurally drawn illustrations, not photographs or photorealistic scenes.
+
+	
+		
+	
+	
+		Dataset metadata
+	
+
+
+	
+		
+Property
+Value
+
+
+		
+Total records
+1,000
+
+
+Languages
+Marathi, Hindi, Gujarati, Bengali
+
+
+Shopfront scenes
+500
+
+
+Outdoor hoarding scenes
+500
+
+
+Difficulty profiles
+D0_clean, D2_blur… See the full description on the dataset page: https://huggingface.co/datasets/Aus-23/indic-synthetic-scene-text-1000. |
 | [TutlaytAI/Hausa_Ajami_OCR_Merged](https://huggingface.co/datasets/TutlaytAI/Hausa_Ajami_OCR_Merged) | 2026-10-28 | text-recognition | candidate | — |
 | [Shanazeer/invoices-and-receipts_ocr_v1](https://huggingface.co/datasets/Shanazeer/invoices-and-receipts_ocr_v1) | 2026-10-28 | text-recognition | candidate | 
 	

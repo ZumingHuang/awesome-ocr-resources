@@ -4,9 +4,13 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [TwilightAxerose/ApexTracker-resp](https://github.com/TwilightAxerose/ApexTracker-resp) | 2026-10-28 | text-recognition | candidate | Privacy-first, non-invasive Apex Legends match tracker using local screen capture and OCR. Community-audited for performance, privacy, and fair-play safety. |
+| [nympholridge/resp-ApexTracker](https://github.com/nympholridge/resp-ApexTracker) | 2026-10-28 | text-recognition | candidate | Privacy-first, non-invasive Apex Legends match tracker using local screen capture and OCR. Community-audited for performance, privacy, and fair-play safety. |
 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | 2026-10-27 | text-recognition | candidate | Fast, accurate OCR with correctness assessment. |
 | [Forem0/ENGRAM](https://github.com/Forem0/ENGRAM) | 2026-10-27 | other | candidate | Find what remains. A local desktop app for inspecting photos, documents, secret candidates and traces in selected files and supported backups. Tauri + React, shared Rust engine. |
 | [strugglesky/scrubshot](https://github.com/strugglesky/scrubshot) | 2026-10-26 | text-recognition | candidate | 粘贴一张截图，它找出手机号、身份证、银行卡、Token、地址，一键涂掉。 图片全程留在浏览器里——不上传、不联网、可断网使用。 |
+| [yuxingh391-hub/HoverTranslator2.0](https://github.com/yuxingh391-hub/HoverTranslator2.0) | 2026-10-25 | text-recognition | candidate | Offline Windows hover translator with OCR, dictionary lookup, and local AI translation. |
+| [Silasvanceneo/claude-ojousama](https://github.com/Silasvanceneo/claude-ojousama) | 2026-10-25 | text-recognition | candidate | 🌻 Pixel-art AI desktop companion for Windows that sees your screen, helps on her own and remembers your habits · 像素风 AI 桌面伙伴：会看屏幕、主动帮忙、记得你的习惯 · powered by DeepSeek Harness |
 | [huzpsb/pdfcpu2](https://github.com/huzpsb/pdfcpu2) | 2026-10-25 | text-recognition | candidate | Native Go. PDF ocr, text extraction, text replacement, rendering, solidify, obfuscate & more. |
 | [yjid/kensaku](https://github.com/yjid/kensaku) | 2026-10-24 | text-recognition | candidate | Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access. |
 | [Kamasoutra/encore](https://github.com/Kamasoutra/encore) | 2026-10-24 | text-recognition | candidate | A native, local-first clipboard manager for macOS. Visual history, OCR, collections, and a paste queue. MIT licensed. |

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:fffoivos/greek-ocr-lines
+kind: dataset
+name: fffoivos/greek-ocr-lines
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-30'
+last_verified_at: '2026-10-30'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGreek OCR lines (v0.5)\n\t\n\nPrinted text-line images with transcriptions:\
+  \ the exact lines used to train and evaluate the Greek OCR models (OCR v0.10, widths ×1 / ×1.5 / ×2).\
+  \ The lines are mostly polytonic and modern (monotonic) Greek, with Latin, Cyrillic and mixed Greek-Latin\
+  \ lines, numbers and page furniture.\nPart of the Greek OCR collection. Code: fffoivos/greek-ocr-toolkit.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tConfigs and splits\n\t\n\n\n\t\n\t\t\nConfig / split\nLines\nRole\n\n\n\t\t\n\
+  real / train\n793,227\nreal half of… See the full description on the dataset page: https://huggingface.co/datasets/fffoivos/greek-ocr-lines."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/fffoivos/greek-ocr-lines
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/fffoivos/greek-ocr-lines
+  discovered_via: huggingface
+  discovered_at: '2026-10-30'
+  source_id: fffoivos/greek-ocr-lines
+  source_metadata:
+    repository_id: fffoivos/greek-ocr-lines
+    downloads: 7
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: fffoivos
+repository_id: fffoivos/greek-ocr-lines
+usage: []
+annotations: []
+access: unknown

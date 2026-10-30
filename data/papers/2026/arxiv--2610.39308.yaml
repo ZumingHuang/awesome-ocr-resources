@@ -1,0 +1,65 @@
+schema_version: 1
+id: paper:arxiv:2610.39308
+kind: paper
+name: Unlimited OCR Works 2
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-30'
+last_verified_at: '2026-10-30'
+summary: Unlimited OCR ushers the era of long-horizon parsing, substantially mitigating the growth of
+  working memory as document lengthens. However, as document length scales to hundreds of pages, the visual
+  context grows substantially, sharply increasing the computational cost of each decoding step and limiting
+  the scalability of ultra-long document parsing. Inspired by human book transcription via localized focus
+  without re-scanning preceding pages, we introduce Unlimited OCR 2, a document parsing model that looks
+  only at what it transcribes. Building on Unlimited OCR, we upgrade all the decoder attention modules
+  to Sparse Reference Sliding Window Attention (SR-SWA), bounding active reference tokens to a fixed capacity
+  and thus sustaining constant computational costs across arbitrarily long documents. By combining SR-SWA
+  with Unlimited-Horizon Decoding Paradigm, Unlimited OCR 2 enables document parsing over virtually unlimited
+  lengths without prohibitive memory overhead. At the hundred-page scale, Unlimited OCR 2 achieves 7.0$\times$
+  and 5.6$\times$ per-step speedups over Full Attention and R-SWA, respectively. Furthermore, it delivers
+  state-of-the-art end-to-end performance on both MPDocBench and MarathonDocBench, our newly proposed
+  benchmark targeting hundred-page document parsing. Ultimately, the capacity for uninterrupted, one-shot
+  document parsing signifies a fundamental paradigm shift into the OCR 3.0 era.
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.39308
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.39308
+  discovered_via: arxiv
+  discovered_at: '2026-10-30'
+  source_id: '2610.39308'
+  source_metadata:
+    arxiv_id: '2610.39308'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Shu Wei
+- Jingjing Wu
+- Qunyi Xie
+- Lingshu Zhang
+- Xiangcheng Du
+- Yannian Fu
+- Mengjie Wang
+- Zuyi Wang
+- Zhichao Liu
+- Yangliu Xu
+- YY
+- Yi Yang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.39308'
