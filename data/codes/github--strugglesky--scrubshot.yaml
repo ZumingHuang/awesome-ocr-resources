@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:strugglesky/scrubshot
+kind: code
+name: strugglesky/scrubshot
+released_at:
+  value: '2026-10-26'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: 粘贴一张截图，它找出手机号、身份证、银行卡、Token、地址，一键涂掉。 图片全程留在浏览器里——不上传、不联网、可断网使用。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/strugglesky/scrubshot
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/strugglesky/scrubshot
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: R_kgDOVXZv7w
+  source_metadata:
+    repository: strugglesky/scrubshot
+    stars: 44
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: strugglesky/scrubshot
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

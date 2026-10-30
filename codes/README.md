@@ -4,6 +4,15 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | 2026-10-27 | text-recognition | candidate | Fast, accurate OCR with correctness assessment. |
+| [Forem0/ENGRAM](https://github.com/Forem0/ENGRAM) | 2026-10-27 | other | candidate | Find what remains. A local desktop app for inspecting photos, documents, secret candidates and traces in selected files and supported backups. Tauri + React, shared Rust engine. |
+| [strugglesky/scrubshot](https://github.com/strugglesky/scrubshot) | 2026-10-26 | text-recognition | candidate | 粘贴一张截图，它找出手机号、身份证、银行卡、Token、地址，一键涂掉。 图片全程留在浏览器里——不上传、不联网、可断网使用。 |
+| [huzpsb/pdfcpu2](https://github.com/huzpsb/pdfcpu2) | 2026-10-25 | text-recognition | candidate | Native Go. PDF ocr, text extraction, text replacement, rendering, solidify, obfuscate & more. |
+| [yjid/kensaku](https://github.com/yjid/kensaku) | 2026-10-24 | text-recognition | candidate | Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access. |
+| [Kamasoutra/encore](https://github.com/Kamasoutra/encore) | 2026-10-24 | text-recognition | candidate | A native, local-first clipboard manager for macOS. Visual history, OCR, collections, and a paste queue. MIT licensed. |
+| [Blueeeecho/EchoLingo](https://github.com/Blueeeecho/EchoLingo) | 2026-10-24 | text-recognition | candidate | 回声译｜轻量桌面翻译工具：选词快捷翻译、无感 OCR、中英离线翻译与自定义服务。让理解跟上思路。 |
+| [andrisgauracs/eye-photo-sorter](https://github.com/andrisgauracs/eye-photo-sorter) | 2026-10-24 | other | candidate | Drop a folder of photos; Desert Ant Labs' Eye sorts them into receipts, screenshots, documents, pets, blurry, eyes closed and duplicates, entirely in the browser (LiteRT.js, WebGPU). |
+| [anshk1234/MEDUCID](https://github.com/anshk1234/MEDUCID) | 2026-10-23 | other | candidate | MEDUCID is a web application that takes medical laboratory reports , presents them in clear, readable language. It displays the original document side-by-side with extracted measurements, checks whether values fall within their printed reference ranges, and explains what each biomarker measures in simple terms without providing medical diagnoses. |
 | [Meteorkureckon/windows-pdf-ocr-text-extractor](https://github.com/Meteorkureckon/windows-pdf-ocr-text-extractor) | 2026-10-19 | text-recognition | candidate | A Windows PDF OCR workflow for extracting readable text from scanned documents and working with searchable document content. |
 | [hasanzadee/convertino](https://github.com/hasanzadee/convertino) | 2026-10-19 | text-recognition | candidate | Drag a file, tap Shift (or Ctrl, Alt, Shift twice), pick a petal — a radial file converter & quick editor for Windows, Linux and macOS (images, PDF, Office, video, OCR, AI cut-out) |
 | [slmonker/ComfyUI-MOSS-PromptEnhancer](https://github.com/slmonker/ComfyUI-MOSS-PromptEnhancer) | 2026-10-18 | other | candidate | Local GGUF prompt generation for MOSS-Image in ComfyUI, with Caption/Layout modes and Chinese text preservation. |

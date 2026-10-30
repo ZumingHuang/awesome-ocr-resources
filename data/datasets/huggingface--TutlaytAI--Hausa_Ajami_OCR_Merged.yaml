@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:TutlaytAI/Hausa_Ajami_OCR_Merged
+kind: dataset
+name: TutlaytAI/Hausa_Ajami_OCR_Merged
+released_at:
+  value: '2026-10-28'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/TutlaytAI/Hausa_Ajami_OCR_Merged
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/TutlaytAI/Hausa_Ajami_OCR_Merged
+  discovered_via: huggingface
+  discovered_at: '2026-10-29'
+  source_id: TutlaytAI/Hausa_Ajami_OCR_Merged
+  source_metadata:
+    repository_id: TutlaytAI/Hausa_Ajami_OCR_Merged
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: TutlaytAI
+repository_id: TutlaytAI/Hausa_Ajami_OCR_Merged
+usage: []
+annotations: []
+access: unknown

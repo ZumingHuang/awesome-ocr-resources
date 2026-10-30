@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:AtomicChat/Unlimited-OCR-2-W4A16
+kind: model
+name: AtomicChat/Unlimited-OCR-2-W4A16
+released_at:
+  value: '2026-10-27'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/AtomicChat/Unlimited-OCR-2-W4A16
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/AtomicChat/Unlimited-OCR-2-W4A16
+  discovered_via: huggingface
+  discovered_at: '2026-10-29'
+  source_id: AtomicChat/Unlimited-OCR-2-W4A16
+  source_metadata:
+    repository_id: AtomicChat/Unlimited-OCR-2-W4A16
+    downloads: 27
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: AtomicChat
+repository_id: AtomicChat/Unlimited-OCR-2-W4A16
+deployment: []

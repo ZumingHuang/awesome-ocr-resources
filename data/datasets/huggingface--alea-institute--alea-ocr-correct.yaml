@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:alea-institute/alea-ocr-correct
+kind: dataset
+name: alea-institute/alea-ocr-correct
+released_at:
+  value: '2026-10-28'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tALEA ocr_correct: OCR and keying error detection and correction on clean\
+  \ legal and government text\n\t\n\nProofreading tasks built from clean, born-digital public-record text\
+  \ in the KL3M data collection: the U.S. Code, the\nCode of Federal Regulations, Federal Register documents,\
+  \ congressional bills, federal agency web pages, and SEC 10-K MD&A\nsections and contract exhibits.\
+  \ Realistic OCR / keying errors are inserted synthetically; the clean source is the gold.\nAbout 28%\
+  \ of rows are… See the full description on the dataset page: https://huggingface.co/datasets/alea-institute/alea-ocr-correct."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/alea-institute/alea-ocr-correct
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/alea-institute/alea-ocr-correct
+  discovered_via: huggingface
+  discovered_at: '2026-10-29'
+  source_id: alea-institute/alea-ocr-correct
+  source_metadata:
+    repository_id: alea-institute/alea-ocr-correct
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: alea-institute
+repository_id: alea-institute/alea-ocr-correct
+usage: []
+annotations: []
+access: unknown

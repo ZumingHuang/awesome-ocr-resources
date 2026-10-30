@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics
+kind: dataset
+name: AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics
+released_at:
+  value: '2026-10-28'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tMiniCPM-OCR 1.0 GGUF: metrics\n\t\n\nMeasurements behind AtomicChat/MiniCPM-OCR-1.0-GGUF,\
+  \ by\nAtomicChat. Model: openbmb/MiniCPM-OCR-1.0 @ 6796197b,\nllama.cpp b11953 (a7af149).\n\n\t\n\t\t\
+  \nPath\nWhat\n\n\n\t\t\nocr/score.json, ocr/score.txt\nevery file read on 40 OmniDocBench pages: agreement\
+  \ with the BF16 original and character error against the annotation, per page\n\n\nocr/pages.json\n\
+  the 40 pages (OmniDocBench image names, source, language; seed 0, 4 per source)\n\n\nocr/server_check.txt\n\
+  where… See the full description on the dataset page: https://huggingface.co/datasets/AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics
+  discovered_via: huggingface
+  discovered_at: '2026-10-29'
+  source_id: AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics
+  source_metadata:
+    repository_id: AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: AtomicChat
+repository_id: AtomicChat/MiniCPM-OCR-1.0-GGUF-metrics
+usage: []
+annotations: []
+access: unknown

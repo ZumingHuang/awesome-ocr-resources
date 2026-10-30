@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:aoyunyang/spider-king-skill:skill-md
+kind: skill
+name: aoyunyang/spider-king-skill / SKILL.md
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/aoyunyang/spider-king-skill/blob/92075d0bfb19315df0a8ee933ae9b1a746575ade/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/aoyunyang/spider-king-skill/blob/92075d0bfb19315df0a8ee933ae9b1a746575ade/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: aoyunyang/spider-king-skill:SKILL.md
+  source_metadata:
+    repository: aoyunyang/spider-king-skill
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: aoyunyang/spider-king-skill
+manifest_path: SKILL.md
+capabilities: {}

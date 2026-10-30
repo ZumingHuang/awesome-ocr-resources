@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:augustaklug/pp-ocrv6-tiny-onnx
+kind: model
+name: augustaklug/pp-ocrv6-tiny-onnx
+released_at:
+  value: '2026-10-28'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/augustaklug/pp-ocrv6-tiny-onnx
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/augustaklug/pp-ocrv6-tiny-onnx
+  discovered_via: huggingface
+  discovered_at: '2026-10-29'
+  source_id: augustaklug/pp-ocrv6-tiny-onnx
+  source_metadata:
+    repository_id: augustaklug/pp-ocrv6-tiny-onnx
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: augustaklug
+repository_id: augustaklug/pp-ocrv6-tiny-onnx
+deployment: []

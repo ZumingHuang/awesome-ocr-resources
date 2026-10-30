@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:drpwchen/lecture-to-notes:skill-md
+kind: skill
+name: drpwchen/lecture-to-notes / SKILL.md
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/drpwchen/lecture-to-notes/blob/cc06141939ce56def13a15410d8d07e861028d94/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/drpwchen/lecture-to-notes/blob/cc06141939ce56def13a15410d8d07e861028d94/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: drpwchen/lecture-to-notes:SKILL.md
+  source_metadata:
+    repository: drpwchen/lecture-to-notes
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: drpwchen/lecture-to-notes
+manifest_path: SKILL.md
+capabilities: {}

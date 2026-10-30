@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:Kamasoutra/encore
+kind: code
+name: Kamasoutra/encore
+released_at:
+  value: '2026-10-24'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: A native, local-first clipboard manager for macOS. Visual history, OCR, collections, and a paste
+  queue. MIT licensed.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Kamasoutra/encore
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Kamasoutra/encore
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: R_kgDOVWSBtw
+  source_metadata:
+    repository: Kamasoutra/encore
+    stars: 11
+    language: Swift
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Kamasoutra/encore
+landmark: false
+programming_languages:
+- Swift
+maintenance_status: active

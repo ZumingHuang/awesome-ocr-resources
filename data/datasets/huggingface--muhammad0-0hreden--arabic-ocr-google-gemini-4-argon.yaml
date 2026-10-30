@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:muhammad0-0hreden/arabic-ocr-google-gemini-4-argon
+kind: dataset
+name: muhammad0-0hreden/arabic-ocr-google-gemini-4-argon
+released_at:
+  value: '2026-10-28'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/muhammad0-0hreden/arabic-ocr-google-gemini-4-argon
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/muhammad0-0hreden/arabic-ocr-google-gemini-4-argon
+  discovered_via: huggingface
+  discovered_at: '2026-10-29'
+  source_id: muhammad0-0hreden/arabic-ocr-google-gemini-4-argon
+  source_metadata:
+    repository_id: muhammad0-0hreden/arabic-ocr-google-gemini-4-argon
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: muhammad0-0hreden
+repository_id: muhammad0-0hreden/arabic-ocr-google-gemini-4-argon
+usage: []
+annotations: []
+access: unknown

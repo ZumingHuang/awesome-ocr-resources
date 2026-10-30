@@ -4,13 +4,23 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [loom-fun/openbmb-MiniCPM-OCR-1.0-loom](https://huggingface.co/loom-fun/openbmb-MiniCPM-OCR-1.0-loom) | 2026-10-29 | text-recognition | candidate | — |
+| [hyokwan/kopo_gangseo_ocr_model_g3](https://huggingface.co/hyokwan/kopo_gangseo_ocr_model_g3) | 2026-10-29 | text-recognition | candidate | — |
+| [hyokwan/kopo_gangseo_ocr_ggufmodel_g3](https://huggingface.co/hyokwan/kopo_gangseo_ocr_ggufmodel_g3) | 2026-10-29 | text-recognition | candidate | — |
+| [axteam/GLM-OCR-GGUF](https://huggingface.co/axteam/GLM-OCR-GGUF) | 2026-10-29 | text-recognition | candidate | — |
+| [axteam/GLM-OCR-FP8-dynamic](https://huggingface.co/axteam/GLM-OCR-FP8-dynamic) | 2026-10-29 | text-recognition | candidate | — |
+| [yash17366392/vakyantar-vision-ocr](https://huggingface.co/yash17366392/vakyantar-vision-ocr) | 2026-10-28 | text-recognition | candidate | — |
+| [mengheang/khmer-handwritten-ocr](https://huggingface.co/mengheang/khmer-handwritten-ocr) | 2026-10-28 | handwriting-recognition, text-recognition | candidate | — |
 | [Jinstudio/Unlimited-OCR-2](https://huggingface.co/Jinstudio/Unlimited-OCR-2) | 2026-10-28 | text-recognition | candidate | — |
 | [Iceblue2026/pp-ocrv6-onnx](https://huggingface.co/Iceblue2026/pp-ocrv6-onnx) | 2026-10-28 | text-recognition | candidate | — |
 | [cstr/Unlimited-OCR-2-GGUF](https://huggingface.co/cstr/Unlimited-OCR-2-GGUF) | 2026-10-28 | text-recognition | candidate | — |
+| [cstr/MiniCPM-OCR-1.0-GGUF](https://huggingface.co/cstr/MiniCPM-OCR-1.0-GGUF) | 2026-10-28 | text-recognition | candidate | — |
 | [cicaba/Unlimited-OCR-2-GGUF](https://huggingface.co/cicaba/Unlimited-OCR-2-GGUF) | 2026-10-28 | text-recognition | candidate | — |
 | [AutomatosX/AX-Unlimited-OCR-2-CUDA-AXQ-NVFP4-W4A16](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-2-CUDA-AXQ-NVFP4-W4A16) | 2026-10-28 | text-recognition | candidate | — |
 | [AutomatosX/AX-Unlimited-OCR-2-AXQ-MXFP8](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-2-AXQ-MXFP8) | 2026-10-28 | text-recognition | candidate | — |
 | [AutomatosX/AX-Unlimited-OCR-2-AXQ-MXFP4](https://huggingface.co/AutomatosX/AX-Unlimited-OCR-2-AXQ-MXFP4) | 2026-10-28 | text-recognition | candidate | — |
+| [augustaklug/pp-ocrv6-tiny-onnx](https://huggingface.co/augustaklug/pp-ocrv6-tiny-onnx) | 2026-10-28 | text-recognition | candidate | — |
+| [AtomicChat/MiniCPM-OCR-1.0-GGUF](https://huggingface.co/AtomicChat/MiniCPM-OCR-1.0-GGUF) | 2026-10-28 | formula-recognition, text-recognition | candidate | — |
 | [anushkrishna/falcon-ocr-models](https://huggingface.co/anushkrishna/falcon-ocr-models) | 2026-10-28 | text-recognition | candidate | — |
 | [TechnoBaptist/MiniCPM-OCR-Jev](https://huggingface.co/TechnoBaptist/MiniCPM-OCR-Jev) | 2026-10-27 | text-recognition | candidate | — |
 | [TechnoBaptist/MiniCPM-OCR-1.0](https://huggingface.co/TechnoBaptist/MiniCPM-OCR-1.0) | 2026-10-27 | formula-recognition, text-recognition | candidate | — |
@@ -24,6 +34,8 @@
 | [mlx-community/Unlimited-OCR-2-4bit](https://huggingface.co/mlx-community/Unlimited-OCR-2-4bit) | 2026-10-27 | text-recognition | candidate | — |
 | [manateelazycat/Unlimited-OCR-2-AIPod](https://huggingface.co/manateelazycat/Unlimited-OCR-2-AIPod) | 2026-10-27 | text-recognition | candidate | — |
 | [colaiby2/DeepSeek-OCR](https://huggingface.co/colaiby2/DeepSeek-OCR) | 2026-10-27 | text-recognition | candidate | — |
+| [AtomicChat/Unlimited-OCR-2-W4A16](https://huggingface.co/AtomicChat/Unlimited-OCR-2-W4A16) | 2026-10-27 | text-recognition | candidate | — |
+| [AtomicChat/Unlimited-OCR-2-GGUF](https://huggingface.co/AtomicChat/Unlimited-OCR-2-GGUF) | 2026-10-27 | text-recognition | candidate | — |
 | [openbmb/MiniCPM-OCR-Jev-GPTQ](https://huggingface.co/openbmb/MiniCPM-OCR-Jev-GPTQ) | 2026-10-26 | text-recognition | candidate | — |
 | [openbmb/MiniCPM-OCR-Jev-gguf](https://huggingface.co/openbmb/MiniCPM-OCR-Jev-gguf) | 2026-10-26 | text-recognition | candidate | — |
 | [openbmb/MiniCPM-OCR-Jev-AWQ](https://huggingface.co/openbmb/MiniCPM-OCR-Jev-AWQ) | 2026-10-26 | text-recognition | candidate | — |

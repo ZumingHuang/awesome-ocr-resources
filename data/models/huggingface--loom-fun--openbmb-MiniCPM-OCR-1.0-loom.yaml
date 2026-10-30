@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:loom-fun/openbmb-MiniCPM-OCR-1.0-loom
+kind: model
+name: loom-fun/openbmb-MiniCPM-OCR-1.0-loom
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/loom-fun/openbmb-MiniCPM-OCR-1.0-loom
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/loom-fun/openbmb-MiniCPM-OCR-1.0-loom
+  discovered_via: huggingface
+  discovered_at: '2026-10-29'
+  source_id: loom-fun/openbmb-MiniCPM-OCR-1.0-loom
+  source_metadata:
+    repository_id: loom-fun/openbmb-MiniCPM-OCR-1.0-loom
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: loom-fun
+repository_id: loom-fun/openbmb-MiniCPM-OCR-1.0-loom
+deployment: []

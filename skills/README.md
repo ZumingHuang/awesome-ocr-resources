@@ -4,6 +4,16 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [thetahealth/mirobody / skills/standardize-health-data/SKILL.md](https://github.com/thetahealth/mirobody/blob/2b2831dddf348e0bf210cf1131715ce5d6f19679/skills/standardize-health-data/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [shengjidaguai-china/goutoujunshi-jev-chat / SKILL.md](https://github.com/shengjidaguai-china/goutoujunshi-jev-chat/blob/12ee1d6582a9270bd44b71a519d21f387542e8e0/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [marouane53/GeoINT / SKILL.md](https://github.com/marouane53/GeoINT/blob/4459180331a047e0b811ff5f6ffacc4345256f5f/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [MareArts/MareArts-ANPR / SKILL.md](https://github.com/MareArts/MareArts-ANPR/blob/cdef7696a003efcb0adcd210a23434129c95f9df/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [JourniOne-ai/JourniOne-Planning-Skills / SKILL.md](https://github.com/JourniOne-ai/JourniOne-Planning-Skills/blob/e36821c14e80a3bb5a047fe9eb21d6e212f699d2/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [jiabaobei/skills-constitution / SKILL.md](https://github.com/jiabaobei/skills-constitution/blob/e825ee881611679cea93b194e38749e01e4768b4/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [drpwchen/lecture-to-notes / SKILL.md](https://github.com/drpwchen/lecture-to-notes/blob/cc06141939ce56def13a15410d8d07e861028d94/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [avansaber/erpclaw / SKILL.md](https://github.com/avansaber/erpclaw/blob/aea97950a7d78615fc06d1d129c17c7775b38581/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [aoyunyang/spider-king-skill / SKILL.md](https://github.com/aoyunyang/spider-king-skill/blob/92075d0bfb19315df0a8ee933ae9b1a746575ade/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [7onez/cti-expert / SKILL.md](https://github.com/7onez/cti-expert/blob/309fba9661c55fb84b30c9533aa1e6aa4927a389/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [xberg-io/html-to-markdown / plugin/.pi/skills/html-to-markdown/SKILL.md](https://github.com/xberg-io/html-to-markdown/blob/bb4140d68a9c82273fcd43e8f8b376590012aa9c/plugin/.pi/skills/html-to-markdown/SKILL.md) | 2026-10-21 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [Zyrexnn/Cybermes / skills/upload-insecure-files/SKILL.md](https://github.com/Zyrexnn/Cybermes/blob/961a0dd3d2d2f66a07a416ade3b1d4473b64802e/skills/upload-insecure-files/SKILL.md) | 2026-10-20 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [zhimaAi/BookToSkill / SKILL.md](https://github.com/zhimaAi/BookToSkill/blob/b8499c103588e303eaa23c238fbe13ae632c1ff4/SKILL.md) | 2026-10-20 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

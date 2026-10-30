@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:2610.36759
+kind: paper
+name: 'DocSkill: Skill-Integrated Agentic Reasoning for Multilingual Multi-Hop Document Question Answering'
+released_at:
+  value: '2026-10-27'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: Multilingual multi-hop document question answering (MMHop-DocQA) requires locating and integrating
+  evidence across complex layouts, document pages, and diverse languages. Existing approaches include
+  single-pass processing and adaptive tool use, but learning to coordinate evidence acquisition, cross-page
+  integration, and answer verification remains challenging. To address this challenge, we present DocSkill,
+  an agentic framework with a learned skill-orchestration policy for adaptive evidence acquisition and
+  reasoning. The policy selects, revisits, or skips skills according to the evolving evidence state. To
+  construct supervision for skill orchestration, bounded Monte Carlo Tree Search (MCTS) explores alternative
+  skill trajectories offline. These trajectories provide demonstrations for supervised fine-tuning (SFT)
+  and preference pairs for Direct Preference Optimization (DPO). We further introduce MMHop-DocBench,
+  a multilingual multi-hop document QA dataset with training and test splits, containing 60K QA pairs
+  across 10 languages and eight document domains. Its HopGen pipeline builds hierarchical page-element
+  graphs to derive traceable cross-page evidence paths and generate grounded QA pairs with page- and element-level
+  evidence annotations. Experiments show that DocSkill with Qwen3-VL-8B achieves 41.0 accuracy and 49.2
+  F1 on MMHop-DocBench, exceeding the strongest evaluated baseline by 5.5 and 6.3 points, respectively,
+  and achieving competitive performance on MMLongBench-Doc and DocBench.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.36759
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.36759
+  discovered_via: arxiv
+  discovered_at: '2026-10-29'
+  source_id: '2610.36759'
+  source_metadata:
+    arxiv_id: '2610.36759'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Jing Huang
+- Zhiya Tan
+- Changtao Miao
+- Shutao Gong
+- Yang Wang
+- Joey Tianyi Zhou
+- Jianshu Li
+- Ying Yan
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.36759'

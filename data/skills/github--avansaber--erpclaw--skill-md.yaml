@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:avansaber/erpclaw:skill-md
+kind: skill
+name: avansaber/erpclaw / SKILL.md
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/avansaber/erpclaw/blob/aea97950a7d78615fc06d1d129c17c7775b38581/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/avansaber/erpclaw/blob/aea97950a7d78615fc06d1d129c17c7775b38581/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: avansaber/erpclaw:SKILL.md
+  source_metadata:
+    repository: avansaber/erpclaw
+    manifest_path: SKILL.md
+    ecosystem: agent-skills
+    query: OCR filename:SKILL.md
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: avansaber/erpclaw
+manifest_path: SKILL.md
+capabilities: {}

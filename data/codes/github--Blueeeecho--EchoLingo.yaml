@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Blueeeecho/EchoLingo
+kind: code
+name: Blueeeecho/EchoLingo
+released_at:
+  value: '2026-10-24'
+  precision: day
+added_at: '2026-10-29'
+last_verified_at: '2026-10-29'
+summary: 回声译｜轻量桌面翻译工具：选词快捷翻译、无感 OCR、中英离线翻译与自定义服务。让理解跟上思路。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Blueeeecho/EchoLingo
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Blueeeecho/EchoLingo
+  discovered_via: github
+  discovered_at: '2026-10-29'
+  source_id: R_kgDOVVy3iQ
+  source_metadata:
+    repository: Blueeeecho/EchoLingo
+    stars: 10
+    language: Rust
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Blueeeecho/EchoLingo
+landmark: false
+programming_languages:
+- Rust
+maintenance_status: active
