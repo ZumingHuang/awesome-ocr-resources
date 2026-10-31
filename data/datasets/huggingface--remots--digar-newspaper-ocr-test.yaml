@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:remots/digar-newspaper-ocr-test
+kind: dataset
+name: remots/digar-newspaper-ocr-test
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-30'
+last_verified_at: '2026-10-30'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDIGAR Estonian Newspaper OCR & Archival Metadata (79,923 Issues)\n\t\
+  \n\nA comprehensive corpus of historical Estonian newspapers from the National Library of Estonia (DIGAR)\
+  \ covering a 117-year span (1878–1995).\nTowards a complete digital archive of all historical newspapers\
+  \ in DIGAR.\n\n\t\n\t\t\n\t\n\t\n\t\tCorpus Statistics\n\t\n\n\nTotal Issues: 79,923\nTotal Scanned\
+  \ Pages: ~420,000 pages\nTotal OCR Text: ~7.8 billion characters\nAverage OCR Accuracy: ~79.8% (where\
+  \ available in Veridian XML)\nTime Span:… See the full description on the dataset page: https://huggingface.co/datasets/remots/digar-newspaper-ocr-test."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/remots/digar-newspaper-ocr-test
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/remots/digar-newspaper-ocr-test
+  discovered_via: huggingface
+  discovered_at: '2026-10-30'
+  source_id: remots/digar-newspaper-ocr-test
+  source_metadata:
+    repository_id: remots/digar-newspaper-ocr-test
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: remots
+repository_id: remots/digar-newspaper-ocr-test
+usage: []
+annotations: []
+access: unknown

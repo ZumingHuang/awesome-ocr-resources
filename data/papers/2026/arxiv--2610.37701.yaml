@@ -1,0 +1,55 @@
+schema_version: 1
+id: paper:arxiv:2610.37701
+kind: paper
+name: 'DuQUAD: A Dual-View Framework with Quality-Aware Evidence Pruning for Multi-Document Question Answering'
+released_at:
+  value: '2026-10-25'
+  precision: day
+added_at: '2026-10-30'
+last_verified_at: '2026-10-30'
+summary: Large language models with retrieval-augmented generation systematically underutilize evidence
+  in the middle of multi-document contexts, a phenomenon known as Lost in the Middle. Existing mitigation
+  strategies, such as document reordering and attention steering, can reduce boundary bias but remain
+  brittle in noisy settings, where inaccurate relevance estimation and spurious documents still obscure
+  useful evidence in central positions. We propose DuQUAD, a multi-document QA framework that mitigates
+  positional bias through dual-view reasoning and quality-aware evidence pruning. DuQUAD combines a Local
+  Agent guided by a Structural Fusion Score with a Global Agent that reasons over the full document set,
+  providing both targeted evidence recovery and broad contextual understanding. The framework further
+  filters candidate evidence using explicit quality scoring and refines it at the sentence level to reduce
+  noise. DuQUAD consistently outperforms strong Lost-in-the-Middle mitigation baselines, including hybrid
+  retrieval and reranking, multi-agent reasoning, and context optimization methods, improving accuracy
+  by 3.0% on average over the strongest competing baseline and gold evidence recall by 9.4%, while substantially
+  reducing computational cost compared to existing multi-agent frameworks.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.37701
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.37701
+  discovered_via: arxiv
+  discovered_at: '2026-10-30'
+  source_id: '2610.37701'
+  source_metadata:
+    arxiv_id: '2610.37701'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Yeonjun Choi
+- Seyeon Jeong
+- Jong Wook Kim
+- Beakcheol Jang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.37701'

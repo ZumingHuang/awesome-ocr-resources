@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:weareapexcreators/MiniCPM-OCR-1.0-LocalAI
+kind: model
+name: weareapexcreators/MiniCPM-OCR-1.0-LocalAI
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-10-30'
+last_verified_at: '2026-10-30'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/weareapexcreators/MiniCPM-OCR-1.0-LocalAI
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/weareapexcreators/MiniCPM-OCR-1.0-LocalAI
+  discovered_via: huggingface
+  discovered_at: '2026-10-30'
+  source_id: weareapexcreators/MiniCPM-OCR-1.0-LocalAI
+  source_metadata:
+    repository_id: weareapexcreators/MiniCPM-OCR-1.0-LocalAI
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: weareapexcreators
+repository_id: weareapexcreators/MiniCPM-OCR-1.0-LocalAI
+deployment: []

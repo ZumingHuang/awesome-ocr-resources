@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:fffoivos/greek-ocr-synthetic-lines
+kind: dataset
+name: fffoivos/greek-ocr-synthetic-lines
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-30'
+last_verified_at: '2026-10-30'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGreek OCR — synthetic lines (v0.1)\n\t\n\nThese are the rendered and\
+  \ degraded text lines that made up the synthetic half of the training mixture of fffoivos/greek-ocr,\
+  \ exactly as used in training. Every row records how it was generated.\nPart of the Greek OCR collection.\
+  \ The real lines are in fffoivos/greek-ocr-real-lines.\n\n\t\n\t\t\nSplit\nLines\n\n\n\t\t\ntrain\n\
+  190,486\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tPer-line generation record\n\t\n\n\n\t\n\t\t\nColumn\nMeaning\n\
+  \n\n\t\t\nimage\nrendered line image (PNG)\n\n\ngt_nfc / gt_nfd /… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/fffoivos/greek-ocr-synthetic-lines."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/fffoivos/greek-ocr-synthetic-lines
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/fffoivos/greek-ocr-synthetic-lines
+  discovered_via: huggingface
+  discovered_at: '2026-10-30'
+  source_id: fffoivos/greek-ocr-synthetic-lines
+  source_metadata:
+    repository_id: fffoivos/greek-ocr-synthetic-lines
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: fffoivos
+repository_id: fffoivos/greek-ocr-synthetic-lines
+usage: []
+annotations: []
+access: unknown

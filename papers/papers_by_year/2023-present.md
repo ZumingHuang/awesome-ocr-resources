@@ -105,9 +105,17 @@ Jing Huang, Zhiya Tan, Changtao Miao, Shutao Gong, Yang Wang, Joey Tianyi Zhou, 
 Le Xiang, Zhicheng Guan, Hong Chen, Xiaocong Lin, Zhenghua Lei, Teng Hu, Bolei He, Long Zeng
 \[document-vqa\]\[document-parsing\]
 
+**DuQUAD: A Dual-View Framework with Quality-Aware Evidence Pruning for Multi-Document Question Answering**
+Yeonjun Choi, Seyeon Jeong, Jong Wook Kim, Beakcheol Jang
+\[document-vqa\]
+
 **Embedding Rotation Invariance for Provable Multi-Oriented Scene Text Recognition**
 Zhibin Ma, Pengwen Dai, Yi Liu, Xugong Qin, Chenyun Yu, Xiaochun Cao
 \[formula-recognition\]\[text-recognition\]
+
+**Encode Once, Answer Many: Internalizing Context via Parametric Flow**
+Xinhao Zhong, Mengxuan Wu, Chonghua Liao, Linxi Xie, Ruicheng Feng, Yanpei Guo, Hao Tan, Jiaxin Hong, Jason Li, Panpan Zhang, Ziheng Qin, Qinglin Lu, Yuzhang Shang, Tongliang Liu, Damian Borth, Haggai Maron, Yongxiang Hua, Zhixiang Wei, Jian Hu, Yunfei Wu, Xing Sun, Xin Li, Haoyu Cao, Zhangyang Wang, Kai Wang
+\[document-vqa\]
 
 **EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering**
 Xuanyu Meng, Jiashuo Sun, Jash Rajesh Parekh, Jiawei Han
@@ -265,6 +273,10 @@ Tamas Kovacs, Daniel Luger
 Jingping Zhu, Hongping Wang, Xiaoqi Li
 \[document-parsing\]
 
+**Mobilizing the Archive: Bitext Extraction at Scale from Archival Documents for Extremely Low-resource Languages**
+Chutong Meng, Alec J. Bateman, Antonios Anastasopoulos
+\[text-recognition\]
+
 **MUDDLE: Measuring Understanding of Documents under Distractor and Length Effects**
 Jason Luo, Saibilila Abudukelimu, Judy Song, Andrew Feng, Shivank Garg, Vasu Sharma, Kevin Zhu
 \[document-vqa\]
@@ -372,6 +384,10 @@ Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi 
 **UniLipi: A Unified Multi-Script OCR for Historical Indic Manuscripts**
 Tathagata Ghosh, Sai Madhusudan Gunda, Simran Singh Sandral, Ravi Kiran Sarvadevabhatla
 \[handwriting-recognition\]\[text-recognition\]
+
+**Unlimited OCR Works 2**
+Shu Wei, Jingjing Wu, Qunyi Xie, Lingshu Zhang, Xiangcheng Du, Yannian Fu, Mengjie Wang, Zuyi Wang, Zhichao Liu, Yangliu Xu, YY, Yi Yang
+\[document-parsing\]\[text-recognition\]
 
 **Using OCR Heads to Verbalize Image Semantics**
 Sheridan Feucht, Benno Krojer, Sarah Wang, Henry Abrahamsen, Byron C. Wallace, David Bau

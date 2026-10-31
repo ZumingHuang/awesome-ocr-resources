@@ -1,0 +1,78 @@
+schema_version: 1
+id: paper:arxiv:2610.38356
+kind: paper
+name: 'Encode Once, Answer Many: Internalizing Context via Parametric Flow'
+released_at:
+  value: '2026-10-28'
+  precision: day
+added_at: '2026-10-30'
+last_verified_at: '2026-10-30'
+summary: Large language models are typically adapted to a task either by placing knowledge in the input
+  context, which keeps it external and re-encodes it on every call, or by fine-tuning, which internalizes
+  it but demands a costly round of optimization per task. We aim to internalize the knowledge carried
+  by a context directly into model parameters, without per-task optimization and without keeping the context
+  in the input at inference time. To this end, we propose CLIK, a context-conditioned parameter generator
+  that maps a given context to LoRA parameters for internalizing knowledge in a single forward pass through
+  a Transformer encoder with cross-attention, requiring no test-time gradient updates. Once the generated
+  LoRA is inserted into a frozen base model, the model answers downstream queries from the query alone,
+  having internalized the context into its weights rather than re-reading it. Because the adapter depends
+  only on the context, it is generated once and reused for every query on the same document, so the cost
+  of reading that document is amortized across queries. On document question answering, CLIK substantially
+  improves over the no-context base model and outperforms existing hypernetwork-based generators, while
+  remaining behind a base model that reads the context directly, and it carries over to multi-turn dialogue
+  without any multi-turn-specific training. Analysis further shows that the context-dependent part of
+  the generated adapter concentrates in a compact and specific substructure.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.38356
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.38356
+  discovered_via: arxiv
+  discovered_at: '2026-10-30'
+  source_id: '2610.38356'
+  source_metadata:
+    arxiv_id: '2610.38356'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Xinhao Zhong
+- Mengxuan Wu
+- Chonghua Liao
+- Linxi Xie
+- Ruicheng Feng
+- Yanpei Guo
+- Hao Tan
+- Jiaxin Hong
+- Jason Li
+- Panpan Zhang
+- Ziheng Qin
+- Qinglin Lu
+- Yuzhang Shang
+- Tongliang Liu
+- Damian Borth
+- Haggai Maron
+- Yongxiang Hua
+- Zhixiang Wei
+- Jian Hu
+- Yunfei Wu
+- Xing Sun
+- Xin Li
+- Haoyu Cao
+- Zhangyang Wang
+- Kai Wang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.38356'

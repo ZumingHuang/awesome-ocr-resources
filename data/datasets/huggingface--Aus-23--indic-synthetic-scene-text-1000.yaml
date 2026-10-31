@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Aus-23/indic-synthetic-scene-text-1000
+kind: dataset
+name: Aus-23/indic-synthetic-scene-text-1000
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-30'
+last_verified_at: '2026-10-30'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tIndic Synthetic Scene Text 1000\n\t\n\nThis release packages 1,000 synthetic\
+  \ scene-text images for Marathi, Hindi,\nGujarati, and Bengali as three image-aware Parquet splits.\
+  \ The images are\nprocedurally drawn illustrations, not photographs or photorealistic scenes.\n\n\t\n\
+  \t\t\n\t\n\t\n\t\tDataset metadata\n\t\n\n\n\t\n\t\t\nProperty\nValue\n\n\n\t\t\nTotal records\n1,000\n\
+  \n\nLanguages\nMarathi, Hindi, Gujarati, Bengali\n\n\nShopfront scenes\n500\n\n\nOutdoor hoarding scenes\n\
+  500\n\n\nDifficulty profiles\nD0_clean, D2_blur… See the full description on the dataset page: https://huggingface.co/datasets/Aus-23/indic-synthetic-scene-text-1000."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Aus-23/indic-synthetic-scene-text-1000
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Aus-23/indic-synthetic-scene-text-1000
+  discovered_via: huggingface
+  discovered_at: '2026-10-30'
+  source_id: Aus-23/indic-synthetic-scene-text-1000
+  source_metadata:
+    repository_id: Aus-23/indic-synthetic-scene-text-1000
+    downloads: 0
+    likes: 0
+    query: scene text
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Aus-23
+repository_id: Aus-23/indic-synthetic-scene-text-1000
+usage: []
+annotations: []
+access: unknown

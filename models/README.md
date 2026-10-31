@@ -4,9 +4,17 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [weareapexcreators/MiniCPM-OCR-1.0-LocalAI](https://huggingface.co/weareapexcreators/MiniCPM-OCR-1.0-LocalAI) | 2026-10-30 | text-recognition | candidate | — |
+| [Dhanabh/Unlimited-OCR](https://huggingface.co/Dhanabh/Unlimited-OCR) | 2026-10-30 | text-recognition | candidate | — |
 | [loom-fun/openbmb-MiniCPM-OCR-1.0-loom](https://huggingface.co/loom-fun/openbmb-MiniCPM-OCR-1.0-loom) | 2026-10-29 | text-recognition | candidate | — |
+| [litert-community/MiniCPM-OCR-1.0](https://huggingface.co/litert-community/MiniCPM-OCR-1.0) | 2026-10-29 | formula-recognition, text-recognition | candidate | — |
 | [hyokwan/kopo_gangseo_ocr_model_g3](https://huggingface.co/hyokwan/kopo_gangseo_ocr_model_g3) | 2026-10-29 | text-recognition | candidate | — |
 | [hyokwan/kopo_gangseo_ocr_ggufmodel_g3](https://huggingface.co/hyokwan/kopo_gangseo_ocr_ggufmodel_g3) | 2026-10-29 | text-recognition | candidate | — |
+| [huggingface-mic/Unlimited-OCR-mic](https://huggingface.co/huggingface-mic/Unlimited-OCR-mic) | 2026-10-29 | text-recognition | candidate | — |
+| [huggingface-mic/GLM-OCR-mic](https://huggingface.co/huggingface-mic/GLM-OCR-mic) | 2026-10-29 | text-recognition | candidate | — |
+| [fffoivos/greek-ocr](https://huggingface.co/fffoivos/greek-ocr) | 2026-10-29 | text-recognition | candidate | — |
+| [ethanwongca/distill-ocr-correct-qwen3.0](https://huggingface.co/ethanwongca/distill-ocr-correct-qwen3.0) | 2026-10-29 | text-recognition | candidate | — |
+| [diablomike20/Unlimited-OCR-2](https://huggingface.co/diablomike20/Unlimited-OCR-2) | 2026-10-29 | text-recognition | candidate | — |
 | [axteam/GLM-OCR-GGUF](https://huggingface.co/axteam/GLM-OCR-GGUF) | 2026-10-29 | text-recognition | candidate | — |
 | [axteam/GLM-OCR-FP8-dynamic](https://huggingface.co/axteam/GLM-OCR-FP8-dynamic) | 2026-10-29 | text-recognition | candidate | — |
 | [yash17366392/vakyantar-vision-ocr](https://huggingface.co/yash17366392/vakyantar-vision-ocr) | 2026-10-28 | text-recognition | candidate | — |
@@ -22,6 +30,7 @@
 | [augustaklug/pp-ocrv6-tiny-onnx](https://huggingface.co/augustaklug/pp-ocrv6-tiny-onnx) | 2026-10-28 | text-recognition | candidate | — |
 | [AtomicChat/MiniCPM-OCR-1.0-GGUF](https://huggingface.co/AtomicChat/MiniCPM-OCR-1.0-GGUF) | 2026-10-28 | formula-recognition, text-recognition | candidate | — |
 | [anushkrishna/falcon-ocr-models](https://huggingface.co/anushkrishna/falcon-ocr-models) | 2026-10-28 | text-recognition | candidate | — |
+| [amrosama/egyptian-id-ocr](https://huggingface.co/amrosama/egyptian-id-ocr) | 2026-10-28 | text-recognition | candidate | — |
 | [TechnoBaptist/MiniCPM-OCR-Jev](https://huggingface.co/TechnoBaptist/MiniCPM-OCR-Jev) | 2026-10-27 | text-recognition | candidate | — |
 | [TechnoBaptist/MiniCPM-OCR-1.0](https://huggingface.co/TechnoBaptist/MiniCPM-OCR-1.0) | 2026-10-27 | formula-recognition, text-recognition | candidate | — |
 | [sekkit/Unlimited-OCR-2](https://huggingface.co/sekkit/Unlimited-OCR-2) | 2026-10-27 | text-recognition | candidate | — |
@@ -75,6 +84,8 @@
 | [Nawal42/balochi-ocr-merged](https://huggingface.co/Nawal42/balochi-ocr-merged) | 2026-10-25 | text-recognition | candidate | — |
 | [MrFox131/Unlimited-OCR](https://huggingface.co/MrFox131/Unlimited-OCR) | 2026-10-25 | text-recognition | candidate | — |
 | [dicksondickson/Xiaomi-OCR-0-oQ8e-mtp-bf16-MLX](https://huggingface.co/dicksondickson/Xiaomi-OCR-0-oQ8e-mtp-bf16-MLX) | 2026-10-25 | text-recognition | candidate | — |
+| [datalab-to/surya-ocr-2.5-gguf](https://huggingface.co/datalab-to/surya-ocr-2.5-gguf) | 2026-10-25 | text-recognition | candidate | — |
+| [datalab-to/surya-ocr-2.5](https://huggingface.co/datalab-to/surya-ocr-2.5) | 2026-10-25 | text-recognition | candidate | — |
 | [CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc](https://huggingface.co/CADT-IDRI/deepseek-ocr-2-khmer-lora-KhmerEduDoc) | 2026-10-25 | text-recognition | candidate | — |
 | [arankays/pp-ocrv6-small-onnx](https://huggingface.co/arankays/pp-ocrv6-small-onnx) | 2026-10-25 | text-recognition | candidate | — |
 | [xiaozhangxiao/pp-ocrv6-medium-coreml](https://huggingface.co/xiaozhangxiao/pp-ocrv6-medium-coreml) | 2026-10-24 | text-recognition | candidate | — |

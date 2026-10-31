@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:arxiv:2610.40233
+kind: paper
+name: 'Mobilizing the Archive: Bitext Extraction at Scale from Archival Documents for Extremely Low-resource
+  Languages'
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-30'
+last_verified_at: '2026-10-30'
+summary: While mining parallel sentences from web pages has proven effective for low-resource machine
+  translation, the majority of the world's languages have little to no web presence. What they do have,
+  though, are resources that are the result of centuries of efforts by linguists, such as grammars, dictionaries,
+  and other documentation materials. We propose extracting translation examples from such linguistic resources,
+  which offer parallel data for languages under-represented online and could potentially scale to thousands
+  more languages. We develop a pipeline to achieve this, leveraging an Optical Character Recognition (OCR)
+  model as well as a vision language model (VLM), to ensure identified content to be aligned with visual
+  layout information. We demonstrate the utility of the extracted bitexts for bootstrapping translation
+  systems across 20 languages, both by training machine translation models and by applying in-context
+  learning for large language models. For in-context learning, we observe improvements of +15.78 and +6.94
+  chrF2++ over zero-shot translation for into low- and high-resource languages, respectively.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.40233
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.40233
+  discovered_via: arxiv
+  discovered_at: '2026-10-30'
+  source_id: '2610.40233'
+  source_metadata:
+    arxiv_id: '2610.40233'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Chutong Meng
+- Alec J. Bateman
+- Antonios Anastasopoulos
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.40233'
