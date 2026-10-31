@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:fishy-max/screen-snip-ocr
+kind: code
+name: fishy-max/screen-snip-ocr
+released_at:
+  value: '2026-10-29'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: Screen capture utility with OCR text extraction from selected areas
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/fishy-max/screen-snip-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/fishy-max/screen-snip-ocr
+  discovered_via: github
+  discovered_at: '2026-10-31'
+  source_id: R_kgDOVcBqhQ
+  source_metadata:
+    repository: fishy-max/screen-snip-ocr
+    stars: 82
+    language: Java
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: fishy-max/screen-snip-ocr
+landmark: false
+programming_languages:
+- Java
+maintenance_status: active

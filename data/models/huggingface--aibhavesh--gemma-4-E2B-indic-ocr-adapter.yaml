@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:aibhavesh/gemma-4-E2B-indic-ocr-adapter
+kind: model
+name: aibhavesh/gemma-4-E2B-indic-ocr-adapter
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/aibhavesh/gemma-4-E2B-indic-ocr-adapter
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/aibhavesh/gemma-4-E2B-indic-ocr-adapter
+  discovered_via: huggingface
+  discovered_at: '2026-10-31'
+  source_id: aibhavesh/gemma-4-E2B-indic-ocr-adapter
+  source_metadata:
+    repository_id: aibhavesh/gemma-4-E2B-indic-ocr-adapter
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: aibhavesh
+repository_id: aibhavesh/gemma-4-E2B-indic-ocr-adapter
+deployment: []

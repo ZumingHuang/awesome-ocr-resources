@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:kelvindaniyar/iphone-link
+kind: code
+name: kelvindaniyar/iphone-link
+released_at:
+  value: '2026-10-25'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: 📱🔗 Native 60fps iPhone Mirroring, Touch Control, Stealth Dim Mode, Landscape Gaming & Smart Bidirectional
+  OCR Copy-Paste for Windows 11. Created by Kelvin Daniyar.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/kelvindaniyar/iphone-link
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/kelvindaniyar/iphone-link
+  discovered_via: github
+  discovered_at: '2026-10-31'
+  source_id: R_kgDOVWU33w
+  source_metadata:
+    repository: kelvindaniyar/iphone-link
+    stars: 25
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: kelvindaniyar/iphone-link
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active
