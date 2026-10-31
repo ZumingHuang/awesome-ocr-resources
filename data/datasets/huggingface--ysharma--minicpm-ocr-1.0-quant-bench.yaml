@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:ysharma/minicpm-ocr-1.0-quant-bench
+kind: dataset
+name: ysharma/minicpm-ocr-1.0-quant-bench
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: "\n\n\t\n\t\t\n\t\n\t\n\t\tMiniCPM-OCR-1.0 quantization: which version on which hardware\n\t\n\
+  \nOne-table guide from an measured benchmark of every official quantization of\nopenbmb/MiniCPM-OCR-1.0\n\
+  (BF16, GGUF Q4_K_M,\nAWQ 4-bit,\nGPTQ 4-bit)\non an NVIDIA T4 and on 8 vCPU, over 20 OCR images with\
+  \ ground truth.\n\n\t\n\t\t\n\t\n\t\n\t\tThe table\n\t\n\n\n\t\n\t\t\nHardware\nUse this\nWhy\nAvoid\n\
+  Numbers (s/image · CER)\n\n\n\t\t\nT4 / any pre-Ampere GPU (SM 7.5)\nGGUF Q4_K_M via llama.cpp\nFastest\
+  \ end-to-end, 2× smaller than the next option… See the full description on the dataset page: https://huggingface.co/datasets/ysharma/minicpm-ocr-1.0-quant-bench."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/ysharma/minicpm-ocr-1.0-quant-bench
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/ysharma/minicpm-ocr-1.0-quant-bench
+  discovered_via: huggingface
+  discovered_at: '2026-10-31'
+  source_id: ysharma/minicpm-ocr-1.0-quant-bench
+  source_metadata:
+    repository_id: ysharma/minicpm-ocr-1.0-quant-bench
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: ysharma
+repository_id: ysharma/minicpm-ocr-1.0-quant-bench
+usage: []
+annotations: []
+access: unknown

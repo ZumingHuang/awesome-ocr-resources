@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [xiaomi-research/Xiaomi-OCR-0 / SKILL.md](https://github.com/xiaomi-research/Xiaomi-OCR-0/blob/b1a9bb4c07060c453785e9151715ccda6b96f0b1/SKILL.md) | 2026-10-31 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [alchaincyf/huashu-mac-use / SKILL.md](https://github.com/alchaincyf/huashu-mac-use/blob/95892a0d5df7547ccc6b53a6074287a49acfcfb6/SKILL.md) | 2026-10-30 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [thetahealth/mirobody / skills/standardize-health-data/SKILL.md](https://github.com/thetahealth/mirobody/blob/2b2831dddf348e0bf210cf1131715ce5d6f19679/skills/standardize-health-data/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [shengjidaguai-china/goutoujunshi-jev-chat / SKILL.md](https://github.com/shengjidaguai-china/goutoujunshi-jev-chat/blob/12ee1d6582a9270bd44b71a519d21f387542e8e0/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:auftragstaktik-ou/geyi-academic-pdf-layout-ocr
+kind: model
+name: auftragstaktik-ou/geyi-academic-pdf-layout-ocr
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/auftragstaktik-ou/geyi-academic-pdf-layout-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/auftragstaktik-ou/geyi-academic-pdf-layout-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-10-31'
+  source_id: auftragstaktik-ou/geyi-academic-pdf-layout-ocr
+  source_metadata:
+    repository_id: auftragstaktik-ou/geyi-academic-pdf-layout-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: auftragstaktik-ou
+repository_id: auftragstaktik-ou/geyi-academic-pdf-layout-ocr
+deployment: []
