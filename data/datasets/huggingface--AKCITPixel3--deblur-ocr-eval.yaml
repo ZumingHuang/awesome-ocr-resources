@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:AKCITPixel3/deblur-ocr-eval
+kind: dataset
+name: AKCITPixel3/deblur-ocr-eval
+released_at:
+  value: '2026-10-31'
+  precision: day
+added_at: '2026-11-01'
+last_verified_at: '2026-11-01'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tdeblur-ocr-eval\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tFontes\n\t\n\nTextZoom\
+  \ — 10.193 linhas.\nWang, W.; Xie, E.; Liu, X.; Wang, W.; Liang, D.; Shen, C.; Bai, X.\nScene Text Image\
+  \ Super-Resolution in the Wild. ECCV 2020.\narXiv:2005.03341 ·\ngithub.com/WenjiaWang0312/TextZoom (404)\n\
+  Derivado do RealSR (Cai et al., ICCV 2019) e do SR-RAW (Zhang et al., CVPR 2019).\nHradiš et al. — 94\
+  \ linhas.\nHradiš, M.; Kotera, J.; Zemčík, P.; Šroubek, F.\nConvolutional Neural Networks for Direct\
+  \ Text Deblurring. BMVC 2015.\nDOI… See the full description on the dataset page: https://huggingface.co/datasets/AKCITPixel3/deblur-ocr-eval."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/AKCITPixel3/deblur-ocr-eval
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/AKCITPixel3/deblur-ocr-eval
+  discovered_via: huggingface
+  discovered_at: '2026-11-01'
+  source_id: AKCITPixel3/deblur-ocr-eval
+  source_metadata:
+    repository_id: AKCITPixel3/deblur-ocr-eval
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: AKCITPixel3
+repository_id: AKCITPixel3/deblur-ocr-eval
+usage: []
+annotations: []
+access: unknown

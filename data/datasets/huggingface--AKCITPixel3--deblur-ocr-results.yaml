@@ -1,0 +1,44 @@
+schema_version: 1
+id: dataset:huggingface:AKCITPixel3/deblur-ocr-results
+kind: dataset
+name: AKCITPixel3/deblur-ocr-results
+released_at:
+  value: '2026-10-31'
+  precision: day
+added_at: '2026-11-01'
+last_verified_at: '2026-11-01'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tdeblur-ocr-results\n\t\n\nSaída do DeblurNet sobre AKCITPixel3/deblur-ocr-eval.\n\
+  \n\t\n\t\t\nColuna\nConteúdo\n\n\n\t\t\nimagem_focada_original\nreferência nítida que veio do benchmark\n\
+  \n\nimagem_desfocada\nentrada degradada\n\n\nimagem_focada_deblur\nreconstrução do DeblurNet\n\n\n\t\
+  \n\nAs três passam pelo mesmo resize, então ficam alinhadas pixel a pixel.\nGerado por inference/deblur_ocr.py\
+  \ do vision-pipeline.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/AKCITPixel3/deblur-ocr-results
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/AKCITPixel3/deblur-ocr-results
+  discovered_via: huggingface
+  discovered_at: '2026-11-01'
+  source_id: AKCITPixel3/deblur-ocr-results
+  source_metadata:
+    repository_id: AKCITPixel3/deblur-ocr-results
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: AKCITPixel3
+repository_id: AKCITPixel3/deblur-ocr-results
+usage: []
+annotations: []
+access: unknown

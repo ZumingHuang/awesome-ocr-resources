@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:yujiepan/unlimited-ocr-2-tiny-random
+kind: model
+name: yujiepan/unlimited-ocr-2-tiny-random
+released_at:
+  value: '2026-10-31'
+  precision: day
+added_at: '2026-11-01'
+last_verified_at: '2026-11-01'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/yujiepan/unlimited-ocr-2-tiny-random
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/yujiepan/unlimited-ocr-2-tiny-random
+  discovered_via: huggingface
+  discovered_at: '2026-11-01'
+  source_id: yujiepan/unlimited-ocr-2-tiny-random
+  source_metadata:
+    repository_id: yujiepan/unlimited-ocr-2-tiny-random
+    downloads: 16
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: yujiepan
+repository_id: yujiepan/unlimited-ocr-2-tiny-random
+deployment: []
