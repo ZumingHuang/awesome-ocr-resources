@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:nora-dixon81/Acrobat-Pro-Master-PDF-2026
+kind: code
+name: nora-dixon81/Acrobat-Pro-Master-PDF-2026
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: Adobe Acrobat Pro 2026 full PDF editor for Windows. Edit text and images, convert files, powerful
+  OCR, create forms, protect documents and add electronic signatures with professional tools.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/nora-dixon81/Acrobat-Pro-Master-PDF-2026
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/nora-dixon81/Acrobat-Pro-Master-PDF-2026
+  discovered_via: github
+  discovered_at: '2026-10-31'
+  source_id: R_kgDOVdChDw
+  source_metadata:
+    repository: nora-dixon81/Acrobat-Pro-Master-PDF-2026
+    stars: 51
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: nora-dixon81/Acrobat-Pro-Master-PDF-2026
+landmark: false
+programming_languages: []
+maintenance_status: active

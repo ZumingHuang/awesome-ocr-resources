@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:huggingface-mic/tibetan-ocr-mic
+kind: model
+name: huggingface-mic/tibetan-ocr-mic
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/huggingface-mic/tibetan-ocr-mic
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/huggingface-mic/tibetan-ocr-mic
+  discovered_via: huggingface
+  discovered_at: '2026-10-31'
+  source_id: huggingface-mic/tibetan-ocr-mic
+  source_metadata:
+    repository_id: huggingface-mic/tibetan-ocr-mic
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: huggingface-mic
+repository_id: huggingface-mic/tibetan-ocr-mic
+deployment: []

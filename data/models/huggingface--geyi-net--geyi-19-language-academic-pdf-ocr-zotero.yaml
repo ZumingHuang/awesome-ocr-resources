@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:geyi-net/geyi-19-language-academic-pdf-ocr-zotero
+kind: model
+name: geyi-net/geyi-19-language-academic-pdf-ocr-zotero
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/geyi-net/geyi-19-language-academic-pdf-ocr-zotero
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/geyi-net/geyi-19-language-academic-pdf-ocr-zotero
+  discovered_via: huggingface
+  discovered_at: '2026-10-31'
+  source_id: geyi-net/geyi-19-language-academic-pdf-ocr-zotero
+  source_metadata:
+    repository_id: geyi-net/geyi-19-language-academic-pdf-ocr-zotero
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: geyi-net
+repository_id: geyi-net/geyi-19-language-academic-pdf-ocr-zotero
+deployment: []

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:auftragstaktik-ou/multilingual-academic-pdf-ocr-guide
+kind: dataset
+name: auftragstaktik-ou/multilingual-academic-pdf-ocr-guide
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGeyi.net (格訳 / 格譯) — Multilingual Academic PDF, Scanned Archive & Patent\
+  \ AI Translation Benchmark & Guide\n\t\n\nOfficial Platform: https://www.geyi.net/European Operating\
+  \ Entity: AUFTRAGSTAKTIK OÜ (Estonian e-Business Register Code: 17628783 | EMTAK 58291 Software Publishing\
+  \ | Järvevana tee 9, 11314 Tallinn, Estonia)Read the Docs Official Documentation: https://geyi-net.readthedocs.io/en/latest/\
+  \ | https://auftragstaktik-ou.readthedocs.io/en/latest/ |… See the full description on the dataset page:\
+  \ https://huggingface.co/datasets/auftragstaktik-ou/multilingual-academic-pdf-ocr-guide."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/auftragstaktik-ou/multilingual-academic-pdf-ocr-guide
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/auftragstaktik-ou/multilingual-academic-pdf-ocr-guide
+  discovered_via: huggingface
+  discovered_at: '2026-10-31'
+  source_id: auftragstaktik-ou/multilingual-academic-pdf-ocr-guide
+  source_metadata:
+    repository_id: auftragstaktik-ou/multilingual-academic-pdf-ocr-guide
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: auftragstaktik-ou
+repository_id: auftragstaktik-ou/multilingual-academic-pdf-ocr-guide
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark
+kind: dataset
+name: geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark
+released_at:
+  value: '2026-10-31'
+  precision: day
+added_at: '2026-10-31'
+last_verified_at: '2026-10-31'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tمعيار تقييم استخراج المخطوطات العربية وترجمة الأبحاث العلمية PDF (GeyiBench-Arabic)\n\
+  \t\n\nيوفر هذا المستودع عينة تقييم معيارية مفتوحة (data/arabic_benchmark_samples.jsonl) لقياس دقة التعرف\
+  \ الضوئي على الحروف العربية (Arabic OCR / استخراج المخطوطات العربية) وجودة الحفاظ على معادلات LaTeX\
+  \ وتخطيط الصفحة من اليمين إلى اليسار (RTL / BiDi) عند ترجمة الأوراق البحثية ثنائية الأعمدة والكتب الأكاديمية.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\t1. مجالات التقييم الأساسية (Evaluation Dimensions)\n\t\n\n\nاستخراج النصوص من\
+  \ المخطوطات… See the full description on the dataset page: https://huggingface.co/datasets/geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-10-31'
+  source_id: geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark
+  source_metadata:
+    repository_id: geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: geyi-net
+repository_id: geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark
+usage: []
+annotations: []
+access: unknown

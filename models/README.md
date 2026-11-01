@@ -4,8 +4,23 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Metausermac13/nemotron-ocr-v2](https://huggingface.co/Metausermac13/nemotron-ocr-v2) | 2026-10-31 | document-layout-analysis, text-recognition | candidate | — |
 | [weareapexcreators/MiniCPM-OCR-1.0-LocalAI](https://huggingface.co/weareapexcreators/MiniCPM-OCR-1.0-LocalAI) | 2026-10-30 | text-recognition | candidate | — |
+| [SandLogicTechnologies/MiniCPM-OCR-Jev-GGUF](https://huggingface.co/SandLogicTechnologies/MiniCPM-OCR-Jev-GGUF) | 2026-10-30 | text-recognition | candidate | — |
+| [muscgab/manga-ocr-ar-experimental](https://huggingface.co/muscgab/manga-ocr-ar-experimental) | 2026-10-30 | text-recognition | candidate | — |
+| [inviolus/erdem-ocr-tr-tinyml](https://huggingface.co/inviolus/erdem-ocr-tr-tinyml) | 2026-10-30 | text-recognition | candidate | — |
+| [huggingface-mic/tibetan-ocr-mic](https://huggingface.co/huggingface-mic/tibetan-ocr-mic) | 2026-10-30 | text-recognition | candidate | — |
+| [holooo/Xiaomi-OCR-0-Q2_K-GGUF](https://huggingface.co/holooo/Xiaomi-OCR-0-Q2_K-GGUF) | 2026-10-30 | text-recognition | candidate | — |
+| [geyi-net/kuzushiji-classical-archive-ocr](https://huggingface.co/geyi-net/kuzushiji-classical-archive-ocr) | 2026-10-30 | text-recognition | candidate | — |
+| [geyi-net/geyi-19-language-academic-pdf-ocr-zotero](https://huggingface.co/geyi-net/geyi-19-language-academic-pdf-ocr-zotero) | 2026-10-30 | text-recognition | candidate | — |
+| [FastFlowLM/MiniCPM-OCR-1.0-NPU2](https://huggingface.co/FastFlowLM/MiniCPM-OCR-1.0-NPU2) | 2026-10-30 | formula-recognition, text-recognition | candidate | — |
 | [Dhanabh/Unlimited-OCR](https://huggingface.co/Dhanabh/Unlimited-OCR) | 2026-10-30 | text-recognition | candidate | — |
+| [axana-labs/GLM-OCR-GGUF](https://huggingface.co/axana-labs/GLM-OCR-GGUF) | 2026-10-30 | text-recognition | candidate | — |
+| [axana-labs/dots.ocr-GGUF](https://huggingface.co/axana-labs/dots.ocr-GGUF) | 2026-10-30 | text-recognition | candidate | — |
+| [auftragstaktik-ou/kuzushiji-sanskrit-latin-classical-ocr-translator](https://huggingface.co/auftragstaktik-ou/kuzushiji-sanskrit-latin-classical-ocr-translator) | 2026-10-30 | text-recognition | candidate | — |
+| [auftragstaktik-ou/geyi-academic-pdf-layout-ocr](https://huggingface.co/auftragstaktik-ou/geyi-academic-pdf-layout-ocr) | 2026-10-30 | text-recognition | candidate | — |
+| [aibhavesh/gemma-4-E2B-indic-ocr-adapter](https://huggingface.co/aibhavesh/gemma-4-E2B-indic-ocr-adapter) | 2026-10-30 | text-recognition | candidate | — |
+| [AIArchiveInfo/MiniCPM-OCR-1.0-DSpark](https://huggingface.co/AIArchiveInfo/MiniCPM-OCR-1.0-DSpark) | 2026-10-30 | text-recognition | candidate | — |
 | [loom-fun/openbmb-MiniCPM-OCR-1.0-loom](https://huggingface.co/loom-fun/openbmb-MiniCPM-OCR-1.0-loom) | 2026-10-29 | text-recognition | candidate | — |
 | [litert-community/MiniCPM-OCR-1.0](https://huggingface.co/litert-community/MiniCPM-OCR-1.0) | 2026-10-29 | formula-recognition, text-recognition | candidate | — |
 | [hyokwan/kopo_gangseo_ocr_model_g3](https://huggingface.co/hyokwan/kopo_gangseo_ocr_model_g3) | 2026-10-29 | text-recognition | candidate | — |

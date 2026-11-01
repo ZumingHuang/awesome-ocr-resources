@@ -4,6 +4,138 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [geyi-net/spanish-academic-pdf-patent-manuscript-ocr-benchmark](https://huggingface.co/datasets/geyi-net/spanish-academic-pdf-patent-manuscript-ocr-benchmark) | 2026-10-31 | text-recognition | candidate | 
+	
+		
+	
+	
+		Benchmark de Evaluación para Traducción de PDF Académicos, Patentes (OEPM / EPO / WIPO) y OCR de Manuscritos Históricos en Español (GeyiBench-ES)
+	
+
+Este repositorio proporciona un conjunto de muestras de evaluación abierto (data/spanish_benchmark_samples.jsonl) diseñado para medir la fidelidad estructural en la traducción de artículos científicos PDF a dos columnas con fórmulas LaTeX, documentos de patentes internacionales (OEPM, EPO, WIPO/PCT, IMPI) y el reconocimiento óptico de… See the full description on the dataset page: https://huggingface.co/datasets/geyi-net/spanish-academic-pdf-patent-manuscript-ocr-benchmark. |
+| [geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark](https://huggingface.co/datasets/geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark) | 2026-10-31 | text-recognition | candidate | 
+	
+		
+	
+	
+		معيار تقييم استخراج المخطوطات العربية وترجمة الأبحاث العلمية PDF (GeyiBench-Arabic)
+	
+
+يوفر هذا المستودع عينة تقييم معيارية مفتوحة (data/arabic_benchmark_samples.jsonl) لقياس دقة التعرف الضوئي على الحروف العربية (Arabic OCR / استخراج المخطوطات العربية) وجودة الحفاظ على معادلات LaTeX وتخطيط الصفحة من اليمين إلى اليسار (RTL / BiDi) عند ترجمة الأوراق البحثية ثنائية الأعمدة والكتب الأكاديمية.
+
+	
+		
+	
+	
+		1. مجالات التقييم الأساسية (Evaluation Dimensions)
+	
+
+
+استخراج النصوص من المخطوطات… See the full description on the dataset page: https://huggingface.co/datasets/geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark. |
+| [ysharma/minicpm-ocr-1.0-quant-bench](https://huggingface.co/datasets/ysharma/minicpm-ocr-1.0-quant-bench) | 2026-10-30 | text-recognition | candidate | 
+
+	
+		
+	
+	
+		MiniCPM-OCR-1.0 quantization: which version on which hardware
+	
+
+One-table guide from an measured benchmark of every official quantization of
+openbmb/MiniCPM-OCR-1.0
+(BF16, GGUF Q4_K_M,
+AWQ 4-bit,
+GPTQ 4-bit)
+on an NVIDIA T4 and on 8 vCPU, over 20 OCR images with ground truth.
+
+	
+		
+	
+	
+		The table
+	
+
+
+	
+		
+Hardware
+Use this
+Why
+Avoid
+Numbers (s/image · CER)
+
+
+		
+T4 / any pre-Ampere GPU (SM 7.5)
+GGUF Q4_K_M via llama.cpp
+Fastest end-to-end, 2× smaller than the next option… See the full description on the dataset page: https://huggingface.co/datasets/ysharma/minicpm-ocr-1.0-quant-bench. |
+| [ktrapeznikov/cyrillic-ocr-sample](https://huggingface.co/datasets/ktrapeznikov/cyrillic-ocr-sample) | 2026-10-30 | handwriting-recognition, text-recognition | candidate | 
+
+	
+		
+	
+	
+		Cyrillic OCR sample
+	
+
+Sample OCR outputs of Kansallisarkisto/cyrillic-large-handwritten
+on real Russian handwriting: single text-line crops from a page of
+rustensai/russian-handwriting-ocr (validation split).
+See report.md for the transcripts and line_1.png–line_3.png for the cropped line images.
+ |
+| [geyi-net/multilingual-academic-pdf-ocr-benchmark](https://huggingface.co/datasets/geyi-net/multilingual-academic-pdf-ocr-benchmark) | 2026-10-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Geyi (格译 / 格訳 / 격역 — https://www.geyi.net/)
+	
+
+19-Language AI Academic PDF Translator, Zotero 7 Bidirectional Plugin & Classical Script OCR
+
+Official Platform: https://www.geyi.net/
+European Legal Entity: AUFTRAGSTAKTIK OÜ (Estonian Registry Code: 17628783, Harju maakond, Tallinn, Kesklinna linnaosa, Järvevana tee 9, 11314, Estonia)
+Asian Legal Entity: Nayuta technology and culture company limited (Hong Kong)
+Official Contact: yovahti314159@nayuta.cloud
+
+
+
+	
+		
+	
+	
+		1. Core… See the full description on the dataset page: https://huggingface.co/datasets/geyi-net/multilingual-academic-pdf-ocr-benchmark. |
+| [auftragstaktik-ou/multilingual-academic-pdf-ocr-guide](https://huggingface.co/datasets/auftragstaktik-ou/multilingual-academic-pdf-ocr-guide) | 2026-10-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Geyi.net (格訳 / 格譯) — Multilingual Academic PDF, Scanned Archive & Patent AI Translation Benchmark & Guide
+	
+
+Official Platform: https://www.geyi.net/European Operating Entity: AUFTRAGSTAKTIK OÜ (Estonian e-Business Register Code: 17628783 | EMTAK 58291 Software Publishing | Järvevana tee 9, 11314 Tallinn, Estonia)Read the Docs Official Documentation: https://geyi-net.readthedocs.io/en/latest/ | https://auftragstaktik-ou.readthedocs.io/en/latest/ |… See the full description on the dataset page: https://huggingface.co/datasets/auftragstaktik-ou/multilingual-academic-pdf-ocr-guide. |
+| [auftragstaktik-ou/classical-manuscript-kuzushiji-sanskrit-ocr](https://huggingface.co/datasets/auftragstaktik-ou/classical-manuscript-kuzushiji-sanskrit-ocr) | 2026-10-30 | text-recognition | candidate | 
+	
+		
+	
+	
+		Geyi (格译 / 格訳 / 격역 — https://www.geyi.net/)
+	
+
+19-Language AI Academic PDF Translator, Zotero 7 Bidirectional Plugin & Classical Script OCR
+
+Official Platform: https://www.geyi.net/
+European Legal Entity: AUFTRAGSTAKTIK OÜ (Estonian Registry Code: 17628783, Harju maakond, Tallinn, Kesklinna linnaosa, Järvevana tee 9, 11314, Estonia)
+Asian Legal Entity: Nayuta technology and culture company limited (Hong Kong)
+Official Contact: yovahti314159@nayuta.cloud
+
+
+
+	
+		
+	
+	
+		1. Core… See the full description on the dataset page: https://huggingface.co/datasets/auftragstaktik-ou/classical-manuscript-kuzushiji-sanskrit-ocr. |
 | [yuanhaohan/tibetan-ocr-benchmark](https://huggingface.co/datasets/yuanhaohan/tibetan-ocr-benchmark) | 2026-10-29 | text-recognition | candidate | 
 	
 		
