@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:masterofaudio2077/egyptian-ministry-books-ocr-pages
+kind: dataset
+name: masterofaudio2077/egyptian-ministry-books-ocr-pages
+released_at:
+  value: '2026-11-02'
+  precision: day
+added_at: '2026-11-02'
+last_verified_at: '2026-11-02'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tEgyptian Ministry of Education books: OCR pages\n\t\n\n4634 pages sampled\
+  \ evenly (up to 40 per book) from 117 Arabic-medium student books of the 2026-27 first term, KG to 3rd\
+  \ secondary, one split per grade.\nEach row links to the real page: pdf_url (ministry PDF) and page_url\
+  \ (same PDF opened at that page).\n\ntext: EasyOCR (ar) output, lines ordered top-to-bottom and right-to-left.\
+  \ It is raw OCR: expect word-level errors and stray diacritics on vowelled text; picture pages are short\
+  \ or… See the full description on the dataset page: https://huggingface.co/datasets/masterofaudio2077/egyptian-ministry-books-ocr-pages."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/masterofaudio2077/egyptian-ministry-books-ocr-pages
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/masterofaudio2077/egyptian-ministry-books-ocr-pages
+  discovered_via: huggingface
+  discovered_at: '2026-11-02'
+  source_id: masterofaudio2077/egyptian-ministry-books-ocr-pages
+  source_metadata:
+    repository_id: masterofaudio2077/egyptian-ministry-books-ocr-pages
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: masterofaudio2077
+repository_id: masterofaudio2077/egyptian-ministry-books-ocr-pages
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,50 @@
+schema_version: 1
+id: paper:arxiv:2610.41254
+kind: paper
+name: 'Hawkeye: Reading Illegible Text with Vision Language Models'
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-11-02'
+last_verified_at: '2026-11-02'
+summary: While modern Vision-Language Models (VLMs) have been remarkably successful in general scene text
+  recognition, they consistently struggle with the long-tail distribution of text that is degraded by
+  motion blur or low resolution. These limitations are particularly apparent in egocentric applications
+  like smart glasses, where text is often captured in noisy environments. In this paper, we introduce
+  the \textbf{BSTRB} (Blurry Scene Text Recognition Benchmark), a novel benchmark of 8,398 noisy image
+  samples with high-fidelity annotations derived from 1,699 real-world video sequences. To support this,
+  we present \textbf{Hawkeye}, a VLM fine-tuned on BSTRB to read and reason about illegible text by leveraging
+  contextual priors and pixel-level alignment. Our results show that \name matches much larger VLMs on
+  BSTRB overall and exceeds them on text at or below 20 pixels, in a single pass suited to real-time deployment.
+  We characterize the resolution at which current VLMs begin to fail.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.41254
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.41254
+  discovered_via: arxiv
+  discovered_at: '2026-11-02'
+  source_id: '2610.41254'
+  source_metadata:
+    arxiv_id: '2610.41254'
+    doi: null
+    query: all:"scene text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Brian Tang
+- Kang G. Shin
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.41254'

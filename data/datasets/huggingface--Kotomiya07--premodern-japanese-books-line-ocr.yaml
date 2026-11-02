@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Kotomiya07/premodern-japanese-books-line-ocr
+kind: dataset
+name: Kotomiya07/premodern-japanese-books-line-ocr
+released_at:
+  value: '2026-10-31'
+  precision: day
+added_at: '2026-11-02'
+last_verified_at: '2026-11-02'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tpremodern-japanese-books-line-ocr\n\t\n\nEnglish below\nKotomiya07/premodern-japanese-books-line-ocr\
+  \ は、古典籍を中心とした日本語資料の、行画像と行の翻刻テキストを組にしたデータセットです。1 行はページ画像の中の縦書きの 1 列と、その翻刻です。行の出典は honkoku-lines だけです。\n\
+  関連するデータセットが 2 つあります。\n\n\t\n\t\t\nリポジトリ\n内容\n\n\n\t\t\nKotomiya07/premodern-japanese-books-page-ocr\n\
+  ページ画像と全文\n\n\nKotomiya07/premodern-japanese-books-lm-corpus\nテキストのみ\n\n\n\t\n\n本カードで v1 と書く場合は、本カードが説明する初版の公開物を指します。v1\
+  \ の取得対象とは初版のために取得を試みるページ(8,293 ページ、133,856 行)を指します。v1 の取得対象 8,293 ページのうち、行画像を切り出したページは 4,070… See the\
+  \ full description on the dataset page: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-line-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-line-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-line-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-02'
+  source_id: Kotomiya07/premodern-japanese-books-line-ocr
+  source_metadata:
+    repository_id: Kotomiya07/premodern-japanese-books-line-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Kotomiya07
+repository_id: Kotomiya07/premodern-japanese-books-line-ocr
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Kotomiya07/premodern-japanese-books-page-ocr
+kind: dataset
+name: Kotomiya07/premodern-japanese-books-page-ocr
+released_at:
+  value: '2026-11-01'
+  precision: day
+added_at: '2026-11-02'
+last_verified_at: '2026-11-02'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tpremodern-japanese-books-page-ocr\n\t\n\nEnglish below\nKotomiya07/premodern-japanese-books-page-ocr\
+  \ は、古典籍と近代の日本語資料のページ画像と、そのページの全文を収める予定のデータセットです。1 行は 1 ページです。ページ画像は Hugging Face の Image 列に埋め込みます。行の位置と文字の位置は、出典にあるものを付けます。\n\
+  別に 2 つのデータセットがあります。\n\n\t\n\t\t\nリポジトリ\n内容\n\n\n\t\t\nKotomiya07/premodern-japanese-books-line-ocr\n\
+  行画像と行テキスト\n\n\nKotomiya07/premodern-japanese-books-lm-corpus\n言語モデル用のテキスト(画像なし)\n\n\n\t\n\n本カードで v1\
+  \ と書く場合は、本カードが説明する初版の公開物を指します。\nデータセット全体に共通するライセンスはありません。条件は 1 行ごとに license 列に入る予定です。利用の前に、使う行の… See\
+  \ the full description on the dataset page: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-page-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-page-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-page-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-02'
+  source_id: Kotomiya07/premodern-japanese-books-page-ocr
+  source_metadata:
+    repository_id: Kotomiya07/premodern-japanese-books-page-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Kotomiya07
+repository_id: Kotomiya07/premodern-japanese-books-page-ocr
+usage: []
+annotations: []
+access: unknown
