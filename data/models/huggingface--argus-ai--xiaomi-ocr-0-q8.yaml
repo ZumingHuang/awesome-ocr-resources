@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:argus-ai/xiaomi-ocr-0-q8
+kind: model
+name: argus-ai/xiaomi-ocr-0-q8
+released_at:
+  value: '2026-10-31'
+  precision: day
+added_at: '2026-11-01'
+last_verified_at: '2026-11-01'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/argus-ai/xiaomi-ocr-0-q8
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/argus-ai/xiaomi-ocr-0-q8
+  discovered_via: huggingface
+  discovered_at: '2026-11-01'
+  source_id: argus-ai/xiaomi-ocr-0-q8
+  source_metadata:
+    repository_id: argus-ai/xiaomi-ocr-0-q8
+    downloads: 54
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: argus-ai
+repository_id: argus-ai/xiaomi-ocr-0-q8
+deployment: []

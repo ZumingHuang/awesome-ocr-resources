@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:krotreaksmey/khmer-textline-ocr
+kind: dataset
+name: krotreaksmey/khmer-textline-ocr
+released_at:
+  value: '2026-11-01'
+  precision: day
+added_at: '2026-11-01'
+last_verified_at: '2026-11-01'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKhmer Math OCR Verified Dataset\n\t\n\nទិន្នន័យអក្សរខ្មែរ និងរូបមន្តគណិតវិទ្យា\
+  \ (ថ្នាក់ទី ១២) សម្រាប់ការ Train OCR Model (បានផ្ទៀងផ្ទាត់រួចរាល់ 100% រហូតដល់ Batch 12)។\n\n\t\n\t\t\
+  \n\t\n\t\n\t\tDataset Splits\n\t\n\n\nTrain: 1011 គំរូ\nValidation: 56 គំរូ\nTest: 57 គំរូ\nTotal: 1124\
+  \ គំរូ\n\n\n\t\n\t\t\n\t\n\t\n\t\tColumns\n\t\n\n\n\t\n\t\t\ncolumn\ntype\nពណ៌នា\n\n\n\t\t\nimage\n\
+  Image\nរូបភាពបន្ទាត់អត្ថបទ (RGB)\n\n\ntext\nstring\nអត្ថបទអក្សរខ្មែរ + រូបមន្ត LaTeX ($...$)\n\n\nimage_id\n\
+  string\nឈ្មោះឯកសាររូបភាព\n\n\nconfidence\nfloat32\nកម្រិតជំនឿនៃ OCR (1.0… See the full description on\
+  \ the dataset page: https://huggingface.co/datasets/krotreaksmey/khmer-textline-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/krotreaksmey/khmer-textline-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/krotreaksmey/khmer-textline-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-01'
+  source_id: krotreaksmey/khmer-textline-ocr
+  source_metadata:
+    repository_id: krotreaksmey/khmer-textline-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: krotreaksmey
+repository_id: krotreaksmey/khmer-textline-ocr
+usage: []
+annotations: []
+access: unknown

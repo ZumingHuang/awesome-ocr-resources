@@ -4,6 +4,64 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [krotreaksmey/khmer-textline-ocr](https://huggingface.co/datasets/krotreaksmey/khmer-textline-ocr) | 2026-11-01 | text-recognition | candidate | 
+	
+		
+	
+	
+		Khmer Math OCR Verified Dataset
+	
+
+ទិន្នន័យអក្សរខ្មែរ និងរូបមន្តគណិតវិទ្យា (ថ្នាក់ទី ១២) សម្រាប់ការ Train OCR Model (បានផ្ទៀងផ្ទាត់រួចរាល់ 100% រហូតដល់ Batch 12)។
+
+	
+		
+	
+	
+		Dataset Splits
+	
+
+
+Train: 1011 គំរូ
+Validation: 56 គំរូ
+Test: 57 គំរូ
+Total: 1124 គំរូ
+
+
+	
+		
+	
+	
+		Columns
+	
+
+
+	
+		
+column
+type
+ពណ៌នា
+
+
+		
+image
+Image
+រូបភាពបន្ទាត់អត្ថបទ (RGB)
+
+
+text
+string
+អត្ថបទអក្សរខ្មែរ + រូបមន្ត LaTeX ($...$)
+
+
+image_id
+string
+ឈ្មោះឯកសាររូបភាព
+
+
+confidence
+float32
+កម្រិតជំនឿនៃ OCR (1.0… See the full description on the dataset page: https://huggingface.co/datasets/krotreaksmey/khmer-textline-ocr. |
 | [geyi-net/spanish-academic-pdf-patent-manuscript-ocr-benchmark](https://huggingface.co/datasets/geyi-net/spanish-academic-pdf-patent-manuscript-ocr-benchmark) | 2026-10-31 | text-recognition | candidate | 
 	
 		
@@ -32,6 +90,67 @@ Este repositorio proporciona un conjunto de muestras de evaluación abierto (dat
 
 
 استخراج النصوص من المخطوطات… See the full description on the dataset page: https://huggingface.co/datasets/geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark. |
+| [EkaMind/Nepali-OCR](https://huggingface.co/datasets/EkaMind/Nepali-OCR) | 2026-10-31 | text-recognition | candidate | — |
+| [AKCITPixel3/deblur-ocr-results](https://huggingface.co/datasets/AKCITPixel3/deblur-ocr-results) | 2026-10-31 | text-recognition | candidate | 
+	
+		
+	
+	
+		deblur-ocr-results
+	
+
+Saída do DeblurNet sobre AKCITPixel3/deblur-ocr-eval.
+
+	
+		
+Coluna
+Conteúdo
+
+
+		
+imagem_focada_original
+referência nítida que veio do benchmark
+
+
+imagem_desfocada
+entrada degradada
+
+
+imagem_focada_deblur
+reconstrução do DeblurNet
+
+
+	
+
+As três passam pelo mesmo resize, então ficam alinhadas pixel a pixel.
+Gerado por inference/deblur_ocr.py do vision-pipeline.
+ |
+| [AKCITPixel3/deblur-ocr-eval](https://huggingface.co/datasets/AKCITPixel3/deblur-ocr-eval) | 2026-10-31 | text-recognition | candidate | 
+	
+		
+	
+	
+		deblur-ocr-eval
+	
+
+
+	
+		
+	
+	
+		Fontes
+	
+
+TextZoom — 10.193 linhas.
+Wang, W.; Xie, E.; Liu, X.; Wang, W.; Liang, D.; Shen, C.; Bai, X.
+Scene Text Image Super-Resolution in the Wild. ECCV 2020.
+arXiv:2005.03341 ·
+github.com/WenjiaWang0312/TextZoom (404)
+Derivado do RealSR (Cai et al., ICCV 2019) e do SR-RAW (Zhang et al., CVPR 2019).
+Hradiš et al. — 94 linhas.
+Hradiš, M.; Kotera, J.; Zemčík, P.; Šroubek, F.
+Convolutional Neural Networks for Direct Text Deblurring. BMVC 2015.
+DOI… See the full description on the dataset page: https://huggingface.co/datasets/AKCITPixel3/deblur-ocr-eval. |
 | [ysharma/minicpm-ocr-1.0-quant-bench](https://huggingface.co/datasets/ysharma/minicpm-ocr-1.0-quant-bench) | 2026-10-30 | text-recognition | candidate | 
 
 	

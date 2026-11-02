@@ -4,9 +4,18 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Silas-Verner/Xiaomi-OCR](https://huggingface.co/Silas-Verner/Xiaomi-OCR) | 2026-11-01 | text-recognition | candidate | — |
+| [yujiepan/unlimited-ocr-2-tiny-random](https://huggingface.co/yujiepan/unlimited-ocr-2-tiny-random) | 2026-10-31 | text-recognition | candidate | — |
+| [tiny-random/unlimited-ocr-2](https://huggingface.co/tiny-random/unlimited-ocr-2) | 2026-10-31 | text-recognition | candidate | — |
+| [sailu4/moroccan-darija-ocr](https://huggingface.co/sailu4/moroccan-darija-ocr) | 2026-10-31 | text-recognition | candidate | — |
+| [Nikhilesh2026/SIH_OCR_MODEL](https://huggingface.co/Nikhilesh2026/SIH_OCR_MODEL) | 2026-10-31 | text-recognition | candidate | — |
+| [Netra-Lab/Netra-OCR](https://huggingface.co/Netra-Lab/Netra-OCR) | 2026-10-31 | text-recognition | candidate | — |
 | [Metausermac13/nemotron-ocr-v2](https://huggingface.co/Metausermac13/nemotron-ocr-v2) | 2026-10-31 | document-layout-analysis, text-recognition | candidate | — |
+| [azammd88807/Xiaomi-OCR-0](https://huggingface.co/azammd88807/Xiaomi-OCR-0) | 2026-10-31 | text-recognition | candidate | — |
+| [argus-ai/xiaomi-ocr-0-q8](https://huggingface.co/argus-ai/xiaomi-ocr-0-q8) | 2026-10-31 | text-recognition | candidate | — |
 | [weareapexcreators/MiniCPM-OCR-1.0-LocalAI](https://huggingface.co/weareapexcreators/MiniCPM-OCR-1.0-LocalAI) | 2026-10-30 | text-recognition | candidate | — |
 | [SandLogicTechnologies/MiniCPM-OCR-Jev-GGUF](https://huggingface.co/SandLogicTechnologies/MiniCPM-OCR-Jev-GGUF) | 2026-10-30 | text-recognition | candidate | — |
+| [NostraEmpire/mirror-minicpm-ocr-1.0](https://huggingface.co/NostraEmpire/mirror-minicpm-ocr-1.0) | 2026-10-30 | formula-recognition, text-recognition | candidate | — |
 | [muscgab/manga-ocr-ar-experimental](https://huggingface.co/muscgab/manga-ocr-ar-experimental) | 2026-10-30 | text-recognition | candidate | — |
 | [inviolus/erdem-ocr-tr-tinyml](https://huggingface.co/inviolus/erdem-ocr-tr-tinyml) | 2026-10-30 | text-recognition | candidate | — |
 | [huggingface-mic/tibetan-ocr-mic](https://huggingface.co/huggingface-mic/tibetan-ocr-mic) | 2026-10-30 | text-recognition | candidate | — |
@@ -49,6 +58,7 @@
 | [TechnoBaptist/MiniCPM-OCR-Jev](https://huggingface.co/TechnoBaptist/MiniCPM-OCR-Jev) | 2026-10-27 | text-recognition | candidate | — |
 | [TechnoBaptist/MiniCPM-OCR-1.0](https://huggingface.co/TechnoBaptist/MiniCPM-OCR-1.0) | 2026-10-27 | formula-recognition, text-recognition | candidate | — |
 | [sekkit/Unlimited-OCR-2](https://huggingface.co/sekkit/Unlimited-OCR-2) | 2026-10-27 | text-recognition | candidate | — |
+| [RX5950XT/Unlimited-OCR-2-GGUF](https://huggingface.co/RX5950XT/Unlimited-OCR-2-GGUF) | 2026-10-27 | text-recognition | candidate | — |
 | [prithivMLmods/MiniCPM-OCR-1.0-GGUF](https://huggingface.co/prithivMLmods/MiniCPM-OCR-1.0-GGUF) | 2026-10-27 | formula-recognition, text-recognition | candidate | — |
 | [p4ulbr4dl3y/unlimited-ocr-2-ru-gguf](https://huggingface.co/p4ulbr4dl3y/unlimited-ocr-2-ru-gguf) | 2026-10-27 | text-recognition | candidate | — |
 | [myteaalreadyexists/nom-ocr-group9](https://huggingface.co/myteaalreadyexists/nom-ocr-group9) | 2026-10-27 | text-recognition | candidate | — |
