@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:ZZZHHHHW/glyphvo-ocr-language-packs
+kind: model
+name: ZZZHHHHW/glyphvo-ocr-language-packs
+released_at:
+  value: '2026-11-02'
+  precision: day
+added_at: '2026-11-02'
+last_verified_at: '2026-11-02'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/ZZZHHHHW/glyphvo-ocr-language-packs
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/ZZZHHHHW/glyphvo-ocr-language-packs
+  discovered_via: huggingface
+  discovered_at: '2026-11-02'
+  source_id: ZZZHHHHW/glyphvo-ocr-language-packs
+  source_metadata:
+    repository_id: ZZZHHHHW/glyphvo-ocr-language-packs
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: ZZZHHHHW
+repository_id: ZZZHHHHW/glyphvo-ocr-language-packs
+deployment: []

@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:2610.41426
+kind: paper
+name: 'FlexReader: Towards Adaptive Decoding Paths for Efficient Arbitrary-Length Scene Text Recognition'
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-11-02'
+last_verified_at: '2026-11-02'
+summary: Existing Scene Text Recognition (STR) models are inherently coupled with a specific decoding
+  strategy by their training paradigms, limiting their flexibility in deployment across diverse recognition
+  scenarios. In this paper, we propose FlexReader, an STR model that supports multiple decoding strides,
+  enabling a single model to achieve an optimal accuracy-efficiency trade-off across different datasets.
+  Specifically, we first introduce a Sub-string Perception module to perceive the target sub-string from
+  visual features, followed by multiple parallel decoding blocks that independently decode each character
+  in the sub-string. During inference, FlexReader supports decoding with arbitrary strides within the
+  perceived sub-string range. Furthermore, we propose Adaptive Prefix Decoding, which adaptively selects
+  the decoding stride at each step based on the model's confidence in the decoded characters, thereby
+  identifying the optimal decoding path for each input. Experimental results demonstrate that FlexReader
+  exhibits robust recognition capability across a diverse range of benchmarks, including those featuring
+  long text, curved text, and occlusions. It consistently outperforms existing decoding strategies in
+  recognition accuracy while achieving up to 6-flod decoding speedup over autoregressive decoding.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2610.41426
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2610.41426
+  discovered_via: arxiv
+  discovered_at: '2026-11-02'
+  source_id: '2610.41426'
+  source_metadata:
+    arxiv_id: '2610.41426'
+    doi: null
+    query: all:"scene text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Zhibin Ma
+- Pengwen Dai
+- Zhigang Yao
+- Xugong Qin
+- Wenqi Ren
+- Xiaochun Cao
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2610.41426'

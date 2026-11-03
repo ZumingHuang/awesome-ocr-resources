@@ -4,6 +4,44 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [masterofaudio2077/egyptian-ministry-books-ocr-pages](https://huggingface.co/datasets/masterofaudio2077/egyptian-ministry-books-ocr-pages) | 2026-11-02 | text-recognition | candidate | 
+	
+		
+	
+	
+		Egyptian Ministry of Education books: OCR pages
+	
+
+4634 pages sampled evenly (up to 40 per book) from 117 Arabic-medium student books of the 2026-27 first term, KG to 3rd secondary, one split per grade.
+Each row links to the real page: pdf_url (ministry PDF) and page_url (same PDF opened at that page).
+
+text: EasyOCR (ar) output, lines ordered top-to-bottom and right-to-left. It is raw OCR: expect word-level errors and stray diacritics on vowelled text; picture pages are short or… See the full description on the dataset page: https://huggingface.co/datasets/masterofaudio2077/egyptian-ministry-books-ocr-pages. |
+| [nikigood/pl-government-docs-mix-ocr-dataset](https://huggingface.co/datasets/nikigood/pl-government-docs-mix-ocr-dataset) | 2026-11-01 | text-recognition | candidate | 
+	
+		
+	
+	
+		Polish municipal administrative documents OCR dataset
+	
+
+An OCR-oriented image dataset built from publicly available Polish municipal administrative documents.
+The dataset contains pages collected from materials such as:
+
+resolutions (uchwały)
+ordinances / regulations
+annexes
+official notices
+tabular administrative pages
+stamped and signed office documents
+other municipal administrative materials
+
+All files in this repository are provided as images only.
+
+	
+		
+	
+	
+		What is inside… See the full description on the dataset page: https://huggingface.co/datasets/nikigood/pl-government-docs-mix-ocr-dataset. |
 | [krotreaksmey/khmer-textline-ocr](https://huggingface.co/datasets/krotreaksmey/khmer-textline-ocr) | 2026-11-01 | text-recognition | candidate | 
 	
 		
@@ -62,6 +100,67 @@ string
 confidence
 float32
 កម្រិតជំនឿនៃ OCR (1.0… See the full description on the dataset page: https://huggingface.co/datasets/krotreaksmey/khmer-textline-ocr. |
+| [Kotomiya07/premodern-japanese-books-page-ocr](https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-page-ocr) | 2026-11-01 | text-recognition | candidate | 
+	
+		
+	
+	
+		premodern-japanese-books-page-ocr
+	
+
+English below
+Kotomiya07/premodern-japanese-books-page-ocr は、古典籍と近代の日本語資料のページ画像と、そのページの全文を収める予定のデータセットです。1 行は 1 ページです。ページ画像は Hugging Face の Image 列に埋め込みます。行の位置と文字の位置は、出典にあるものを付けます。
+別に 2 つのデータセットがあります。
+
+	
+		
+リポジトリ
+内容
+
+
+		
+Kotomiya07/premodern-japanese-books-line-ocr
+行画像と行テキスト
+
+
+Kotomiya07/premodern-japanese-books-lm-corpus
+言語モデル用のテキスト(画像なし)
+
+
+	
+
+本カードで v1 と書く場合は、本カードが説明する初版の公開物を指します。
+データセット全体に共通するライセンスはありません。条件は 1 行ごとに license 列に入る予定です。利用の前に、使う行の… See the full description on the dataset page: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-page-ocr. |
+| [Kotomiya07/premodern-japanese-books-line-ocr](https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-line-ocr) | 2026-10-31 | text-recognition | candidate | 
+	
+		
+	
+	
+		premodern-japanese-books-line-ocr
+	
+
+English below
+Kotomiya07/premodern-japanese-books-line-ocr は、古典籍を中心とした日本語資料の、行画像と行の翻刻テキストを組にしたデータセットです。1 行はページ画像の中の縦書きの 1 列と、その翻刻です。行の出典は honkoku-lines だけです。
+関連するデータセットが 2 つあります。
+
+	
+		
+リポジトリ
+内容
+
+
+		
+Kotomiya07/premodern-japanese-books-page-ocr
+ページ画像と全文
+
+
+Kotomiya07/premodern-japanese-books-lm-corpus
+テキストのみ
+
+
+	
+
+本カードで v1 と書く場合は、本カードが説明する初版の公開物を指します。v1 の取得対象とは初版のために取得を試みるページ(8,293 ページ、133,856 行)を指します。v1 の取得対象 8,293 ページのうち、行画像を切り出したページは 4,070… See the full description on the dataset page: https://huggingface.co/datasets/Kotomiya07/premodern-japanese-books-line-ocr. |
 | [geyi-net/spanish-academic-pdf-patent-manuscript-ocr-benchmark](https://huggingface.co/datasets/geyi-net/spanish-academic-pdf-patent-manuscript-ocr-benchmark) | 2026-10-31 | text-recognition | candidate | 
 	
 		

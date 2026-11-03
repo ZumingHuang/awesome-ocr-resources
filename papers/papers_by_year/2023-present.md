@@ -69,6 +69,10 @@ Paulo Grane Gabriel Silva, Lorenz Bernard Marqueses, Joel Ilao
 Téa Wright, Laura X. Ma, Claudia Iron Hawk, Hannah J. Haynie, Alexis Palmer, Alane Suhr, Abteen Ebrahimi, Katharina von der Wense
 \[text-recognition\]
 
+**Digital sovereignty in professional translation workflows: a case study of migrating from Windows to Linux**
+Michael Farrell
+\[text-recognition\]
+
 **DocClaw: A Unified Agentic System for Intelligent Document Processing**
 Siqi Xiang, Zhipeng Xu, Yufei Liu, Junhao Ji, Qing Liu, Zulong Chen, Zhibo Yang, Chunyan Miao, Shijian Lu
 \[document-vqa\]\[formula-recognition\]\[text-recognition\]
@@ -157,6 +161,10 @@ Eric Ayllon, Abel Gandia, Jorge Calvo-Zaragoza
 Hang Wang, Jin Zhang, Guoliang Xu, Pengyue Lu, Yao Li, Zijiao Zhang, Tianyu Huang, Weiqi Xiong, Yulong Wang, Chuqiao Lu, Wenkang Huang, Kai Yang, Yadong Li, Hui Li, Xingzhong Xu, Xiao Xu
 \[document-parsing\]
 
+**FlexReader: Towards Adaptive Decoding Paths for Efficient Arbitrary-Length Scene Text Recognition**
+Zhibin Ma, Pengwen Dai, Zhigang Yao, Xugong Qin, Wenqi Ren, Xiaochun Cao
+\[text-recognition\]
+
 **Forensic Text Recovery from Document Thumbnails Using Text-Aware U-Net**
 Mohit Ajaykumar Dhabuwala, Weifeng Xu
 \[text-recognition\]
@@ -188,6 +196,10 @@ Carlos Garrido-Munoz, Jorge Calvo-Zaragoza
 **HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing**
 Xiazhen Wu, Wansong Qin, Yangbin Zheng, Liangda Fang, Zhan Li, Xiujie Huang, Liushen Zhou, Quanlong Guan
 \[formula-recognition\]\[document-parsing\]\[handwriting-recognition\]
+
+**Hawkeye: Reading Illegible Text with Vision Language Models**
+Brian Tang, Kang G. Shin
+\[text-recognition\]
 
 **Heading Hierarchy Reconstruction for Complex and Long Documents with Level-Wise Multimodal Memory**
 Qian Chen, Xianyin Zhang, Lifan Guo, Chi Zhang

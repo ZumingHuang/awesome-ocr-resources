@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:masterofaudio2077/arabic-nougat-base-books-ocr
+kind: model
+name: masterofaudio2077/arabic-nougat-base-books-ocr
+released_at:
+  value: '2026-11-01'
+  precision: day
+added_at: '2026-11-02'
+last_verified_at: '2026-11-02'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/masterofaudio2077/arabic-nougat-base-books-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/masterofaudio2077/arabic-nougat-base-books-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-02'
+  source_id: masterofaudio2077/arabic-nougat-base-books-ocr
+  source_metadata:
+    repository_id: masterofaudio2077/arabic-nougat-base-books-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: masterofaudio2077
+repository_id: masterofaudio2077/arabic-nougat-base-books-ocr
+deployment: []

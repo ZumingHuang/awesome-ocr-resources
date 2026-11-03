@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:nikigood/pl-government-docs-mix-ocr-dataset
+kind: dataset
+name: nikigood/pl-government-docs-mix-ocr-dataset
+released_at:
+  value: '2026-11-01'
+  precision: day
+added_at: '2026-11-02'
+last_verified_at: '2026-11-02'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tPolish municipal administrative documents OCR dataset\n\t\n\nAn OCR-oriented\
+  \ image dataset built from publicly available Polish municipal administrative documents.\nThe dataset\
+  \ contains pages collected from materials such as:\n\nresolutions (uchwały)\nordinances / regulations\n\
+  annexes\nofficial notices\ntabular administrative pages\nstamped and signed office documents\nother\
+  \ municipal administrative materials\n\nAll files in this repository are provided as images only.\n\n\
+  \t\n\t\t\n\t\n\t\n\t\tWhat is inside… See the full description on the dataset page: https://huggingface.co/datasets/nikigood/pl-government-docs-mix-ocr-dataset."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/nikigood/pl-government-docs-mix-ocr-dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/nikigood/pl-government-docs-mix-ocr-dataset
+  discovered_via: huggingface
+  discovered_at: '2026-11-02'
+  source_id: nikigood/pl-government-docs-mix-ocr-dataset
+  source_metadata:
+    repository_id: nikigood/pl-government-docs-mix-ocr-dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: nikigood
+repository_id: nikigood/pl-government-docs-mix-ocr-dataset
+usage: []
+annotations: []
+access: unknown
