@@ -1,0 +1,43 @@
+schema_version: 1
+id: dataset:huggingface:sunbv56/vi-OCR_VQA-desc
+kind: dataset
+name: sunbv56/vi-OCR_VQA-desc
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-03'
+last_verified_at: '2026-11-03'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tvi-OCR_VQA + description\n\t\n\nDựa trên LR-AI-Labs/vi-OCR_VQA, thêm\
+  \ 2 cột lấy từ trang sản phẩm Fahasa (product_url):\n\ndescription: mô tả đầy đủ trong mục \"Mô tả sản\
+  \ phẩm\" (#desc_content), dạng text thuần.\nog_description: thẻ og:description (Fahasa tự cắt ngắn,\
+  \ kết thúc bằng ...).\n\nnull khi trang không còn hoặc không có mô tả. 32967/33531 dòng có description.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/sunbv56/vi-OCR_VQA-desc
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/sunbv56/vi-OCR_VQA-desc
+  discovered_via: huggingface
+  discovered_at: '2026-11-03'
+  source_id: sunbv56/vi-OCR_VQA-desc
+  source_metadata:
+    repository_id: sunbv56/vi-OCR_VQA-desc
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: sunbv56
+repository_id: sunbv56/vi-OCR_VQA-desc
+usage: []
+annotations: []
+access: unknown

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:nietbaeviysa/karakalpak-ocr-quality-stats
+kind: dataset
+name: nietbaeviysa/karakalpak-ocr-quality-stats
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-03'
+last_verified_at: '2026-11-03'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tKarakalpak OCR quality statistics\n\t\n\nStatistics about digitizing\
+  \ printed Karakalpak books (an explanatory dictionary and a\nfolklore collection) with a page-by-page\
+  \ LLM OCR pipeline.\nThis dataset contains no book text. It has only numbers: per-volume statistics,\
+  \ accuracy\nfrom random manual samples, and letter-level counts of automatic corrections. The books\n\
+  are modern copyrighted editions and are not published.\n\n\t\n\t\t\n\t\n\t\n\t\tFiles\n\t\n\n\nvolume_stats.csv:\
+  \ pages, headword entries, rows… See the full description on the dataset page: https://huggingface.co/datasets/nietbaeviysa/karakalpak-ocr-quality-stats."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/nietbaeviysa/karakalpak-ocr-quality-stats
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/nietbaeviysa/karakalpak-ocr-quality-stats
+  discovered_via: huggingface
+  discovered_at: '2026-11-03'
+  source_id: nietbaeviysa/karakalpak-ocr-quality-stats
+  source_metadata:
+    repository_id: nietbaeviysa/karakalpak-ocr-quality-stats
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: nietbaeviysa
+repository_id: nietbaeviysa/karakalpak-ocr-quality-stats
+usage: []
+annotations: []
+access: unknown

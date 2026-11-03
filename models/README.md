@@ -4,10 +4,31 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [playstonex/indra-ocr-mlx](https://huggingface.co/playstonex/indra-ocr-mlx) | 2026-11-03 | text-recognition | candidate | — |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-gguf](https://huggingface.co/p4ulbr4dl3y/ocrrag-lfm3-plain-gguf) | 2026-11-03 | text-recognition | candidate | — |
+| [ntdat8324/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-separate-p35-twc-lex-q0-r2ofix](https://huggingface.co/ntdat8324/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-separate-p35-twc-lex-q0-r2ofix) | 2026-11-03 | document-vqa, text-recognition | candidate | — |
+| [kltng/surya-ocr-2.5-mlx-8bit](https://huggingface.co/kltng/surya-ocr-2.5-mlx-8bit) | 2026-11-03 | text-recognition | candidate | — |
+| [groxaxo/Unlimited-OCR-2-MLX8-Selective](https://huggingface.co/groxaxo/Unlimited-OCR-2-MLX8-Selective) | 2026-11-03 | text-recognition | candidate | — |
+| [fwgpiyawudk/surya-ocr-2.5-mlx-8bit](https://huggingface.co/fwgpiyawudk/surya-ocr-2.5-mlx-8bit) | 2026-11-03 | text-recognition | candidate | — |
+| [fwgpiyawudk/surya-ocr-2.5-mlx-4bit](https://huggingface.co/fwgpiyawudk/surya-ocr-2.5-mlx-4bit) | 2026-11-03 | text-recognition | candidate | — |
+| [ananddey/akhorika-ocr-v1](https://huggingface.co/ananddey/akhorika-ocr-v1) | 2026-11-03 | text-recognition | candidate | — |
 | [ZZZHHHHW/glyphvo-ocr-language-packs](https://huggingface.co/ZZZHHHHW/glyphvo-ocr-language-packs) | 2026-11-02 | text-recognition | candidate | — |
 | [zheungyikgain/nanowaka.fin.ocr](https://huggingface.co/zheungyikgain/nanowaka.fin.ocr) | 2026-11-02 | text-recognition | candidate | — |
+| [webmp3/Sakura-Xiaomi-OCR-0-GGUF](https://huggingface.co/webmp3/Sakura-Xiaomi-OCR-0-GGUF) | 2026-11-02 | text-recognition | candidate | — |
+| [prithivMLmods/chandra-ocr-2-MTP-Repacked](https://huggingface.co/prithivMLmods/chandra-ocr-2-MTP-Repacked) | 2026-11-02 | text-recognition | candidate | — |
+| [playstonex/Xiaomi-OCR-0-4bit-mlx](https://huggingface.co/playstonex/Xiaomi-OCR-0-4bit-mlx) | 2026-11-02 | text-recognition | candidate | — |
+| [playstonex/Unlimited-OCR-2-4bit-mlx](https://huggingface.co/playstonex/Unlimited-OCR-2-4bit-mlx) | 2026-11-02 | text-recognition | candidate | — |
 | [ntdat8324/ViSceT5-tmp2-vitextvqa-scespavis-ocraug-separate-p35-twc-lex-q0-groupfix-paperbce-tau0p07-fixed](https://huggingface.co/ntdat8324/ViSceT5-tmp2-vitextvqa-scespavis-ocraug-separate-p35-twc-lex-q0-groupfix-paperbce-tau0p07-fixed) | 2026-11-02 | document-vqa, text-recognition | candidate | — |
+| [nile-academy/pp-ocrv6-tiny-onnx](https://huggingface.co/nile-academy/pp-ocrv6-tiny-onnx) | 2026-11-02 | text-recognition | candidate | — |
+| [nile-academy/pp-ocrv6-small-onnx](https://huggingface.co/nile-academy/pp-ocrv6-small-onnx) | 2026-11-02 | text-recognition | candidate | — |
+| [nile-academy/pp-ocrv6-medium-onnx](https://huggingface.co/nile-academy/pp-ocrv6-medium-onnx) | 2026-11-02 | text-recognition | candidate | — |
+| [nile-academy/glm-ocr](https://huggingface.co/nile-academy/glm-ocr) | 2026-11-02 | text-recognition | candidate | — |
+| [litert-community/Xiaomi-OCR-0](https://huggingface.co/litert-community/Xiaomi-OCR-0) | 2026-11-02 | formula-recognition, text-recognition | candidate | — |
 | [KobayashiShiroe/OCR-pipeline-historical-data](https://huggingface.co/KobayashiShiroe/OCR-pipeline-historical-data) | 2026-11-02 | handwriting-recognition, text-recognition | candidate | — |
+| [infosave/Unlimited-OCR-2-cmf](https://huggingface.co/infosave/Unlimited-OCR-2-cmf) | 2026-11-02 | text-recognition | candidate | — |
+| [infosave/MiniCPM-OCR-1.0-cmf](https://huggingface.co/infosave/MiniCPM-OCR-1.0-cmf) | 2026-11-02 | text-recognition | candidate | — |
+| [DevQuasar/baidu.Unlimited-OCR-2-GGUF](https://huggingface.co/DevQuasar/baidu.Unlimited-OCR-2-GGUF) | 2026-11-02 | text-recognition | candidate | — |
+| [Bin-Amer/hieroglyph-ocr-models](https://huggingface.co/Bin-Amer/hieroglyph-ocr-models) | 2026-11-02 | text-recognition | candidate | — |
 | [bigbigbei/Xiaomi-OCR-0-4bit-mlx](https://huggingface.co/bigbigbei/Xiaomi-OCR-0-4bit-mlx) | 2026-11-02 | text-recognition | candidate | — |
 | [bigbigbei/Unlimited-OCR-2-4bit-mlx](https://huggingface.co/bigbigbei/Unlimited-OCR-2-4bit-mlx) | 2026-11-02 | text-recognition | candidate | — |
 | [yujiepan/minicpm-ocr-jev-tiny-random](https://huggingface.co/yujiepan/minicpm-ocr-jev-tiny-random) | 2026-11-01 | text-recognition | candidate | — |

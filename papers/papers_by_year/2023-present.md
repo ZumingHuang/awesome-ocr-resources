@@ -29,6 +29,10 @@ Mason Smetana, Trevor Neece, Lev Khazanovich
 Jerry Wang, Haibo Jin, Xiaopeng Yuan, Peng Kuang, Haohan Wang
 \[document-vqa\]
 
+**ArabGeoText: Tool-Augmented Vision-Language Models for Arabic Geospatial Text Spotting**
+Yakoub Bazi, Sarah Alsaleh, Mohamad M. Al Rahhal, Mohamed A. Mekhtiche, Mansour Zuair
+\[text-spotting\]\[text-recognition\]
+
 **AraMS-28k: The Largest Publicly Released Line-Level Dataset of Historical Arabic Manuscripts with Margin and Insertion-Anchor Annotations**
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[document-layout-analysis\]\[text-recognition\]
@@ -40,6 +44,10 @@ Duc-Tri Tran, Phi Le Nguyen, Minh Hoai
 **BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models**
 Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
 \[handwriting-recognition\]\[text-recognition\]
+
+**Better Answers, Weaker Evidence Control: Evidence Bypass in On-Policy Distillation**
+Ruoran Xu, Yilun Zhao, Ziyu Chen, Xiaoqiang kang, Arman Cohan
+\[document-vqa\]
 
 **CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction**
 Menghao Li, Linjie Mu, Yin Wang, Haotian Hu, Yannian Gu, Lujiayi Xue, Fanyi Wang
@@ -112,6 +120,10 @@ Le Xiang, Zhicheng Guan, Hong Chen, Xiaocong Lin, Zhenghua Lei, Teng Hu, Bolei H
 **DuQUAD: A Dual-View Framework with Quality-Aware Evidence Pruning for Multi-Document Question Answering**
 Yeonjun Choi, Seyeon Jeong, Jong Wook Kim, Beakcheol Jang
 \[document-vqa\]
+
+**ElectroChemLLM: A Multimodal LLM Pipeline for High-Fidelity Electrochemical Informatics**
+Dikshya Mohanty, Manoj Praveen Nandigama, Kuldeepsinh Raj, Sourav Kanti Maiti, Jiannan Yang, Ruiqi Luo, Srinivasa Phani Madhav Marupudi, Mounika Geriki, Prayag Raghunandan, Puneet Lingutla, Tengfei Ma, Niranjan Balasubramanian, Nav Nidhi Rajput
+\[document-parsing\]
 
 **Embedding Rotation Invariance for Provable Multi-Oriented Scene Text Recognition**
 Zhibin Ma, Pengwen Dai, Yi Liu, Xugong Qin, Chenyun Yu, Xiaochun Cao

@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset
+kind: dataset
+name: Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset
+released_at:
+  value: '2026-11-02'
+  precision: day
+added_at: '2026-11-03'
+last_verified_at: '2026-11-03'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tMultilingual OCR Annotation Dataset\n\t\n\nPublisher: DataCluster Labs\n\
+  \n\t\n\t\t\n\t\n\t\n\t\t1. Overview\n\t\n\nThe Multilingual OCR Annotation Dataset is a collection of\
+  \ annotated text data designed to support research and development in Optical Character Recognition\
+  \ (OCR), multilingual text recognition, and document intelligence.\nThe dataset covers multiple languages\
+  \ and writing systems, including Hebrew, Thai, Japanese, and Arabic, providing diverse linguistic representations\
+  \ for exploring OCR… See the full description on the dataset page: https://huggingface.co/datasets/Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset
+  discovered_via: huggingface
+  discovered_at: '2026-11-03'
+  source_id: Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset
+  source_metadata:
+    repository_id: Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Dataclusterlabspvtltd
+repository_id: Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset
+usage: []
+annotations: []
+access: unknown
