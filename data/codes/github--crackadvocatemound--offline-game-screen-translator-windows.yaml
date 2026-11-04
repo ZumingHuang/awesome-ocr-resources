@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:crackadvocatemound/offline-game-screen-translator-windows
+kind: code
+name: crackadvocatemound/offline-game-screen-translator-windows
+released_at:
+  value: '2026-11-01'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: Offline Game Screen Translator for Windows. Read on-screen dialogue without losing the scene.
+  Desktop UI reference, sample workflows, and external download-page guidance.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/crackadvocatemound/offline-game-screen-translator-windows
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/crackadvocatemound/offline-game-screen-translator-windows
+  discovered_via: github
+  discovered_at: '2026-11-04'
+  source_id: R_kgDOVfM06A
+  source_metadata:
+    repository: crackadvocatemound/offline-game-screen-translator-windows
+    stars: 13
+    language: Rust
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: crackadvocatemound/offline-game-screen-translator-windows
+landmark: false
+programming_languages:
+- Rust
+maintenance_status: active

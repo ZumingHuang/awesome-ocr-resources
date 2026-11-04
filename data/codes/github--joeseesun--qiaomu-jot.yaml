@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:joeseesun/qiaomu-jot
+kind: code
+name: joeseesun/qiaomu-jot
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: 按一下快捷键，把想法、选中内容、截图和文件收进 Obsidian 或任意 Markdown 文件夹 | Capture thoughts, selections, screenshots
+  and files into Obsidian or any Markdown folder with one shortcut (macOS).
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/joeseesun/qiaomu-jot
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/joeseesun/qiaomu-jot
+  discovered_via: github
+  discovered_at: '2026-11-04'
+  source_id: R_kgDOVhv3dA
+  source_metadata:
+    repository: joeseesun/qiaomu-jot
+    stars: 25
+    language: Swift
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: joeseesun/qiaomu-jot
+landmark: false
+programming_languages:
+- Swift
+maintenance_status: active

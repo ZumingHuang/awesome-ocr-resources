@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5
+kind: dataset
+name: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5
+released_at:
+  value: '2026-11-04'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tplain-v2 (window 12k), targets as the served verdict\n\t\n\nSame prompts\
+  \ and same split as ocrrag-lfm3-plain-data-v4, byte for byte, downloaded and compared\nrow by row. The\
+  \ only difference is the completion: {\"answer\": \"...\", \"refusal\": <bool>} instead of\nbare prose.\n\
+  v4 trained on the prose version and answered in prose - 0/109 structured verdicts on the test split,\n\
+  even though the prompt asked for the object every time. The prompt and the target disagreed; the\nmodel\
+  \ believed the… See the full description on the dataset page: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5
+  discovered_via: huggingface
+  discovered_at: '2026-11-04'
+  source_id: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5
+  source_metadata:
+    repository_id: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: p4ulbr4dl3y
+repository_id: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5
+usage: []
+annotations: []
+access: unknown

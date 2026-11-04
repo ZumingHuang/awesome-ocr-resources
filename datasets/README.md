@@ -4,6 +4,93 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Snehach03/assistive-ocr-data-acquisition](https://huggingface.co/datasets/Snehach03/assistive-ocr-data-acquisition) | 2026-11-04 | text-recognition | candidate | 
+	
+		
+	
+	
+		Assistive OCR Benchmark Data
+	
+
+Multilingual OCR benchmark for visually impaired assistance — Indian medicine labels, packaged goods, and signage in Bengali, Hindi, and English.
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+
+	
+		
+Property
+Value
+
+
+		
+Total images
+7,004 rows in manifest
+
+
+Image sources
+images/hf_medicines/, images/openfoodfacts/, images/synthetic/
+
+
+Domains
+medicine_packaging (6,588), packaged_goods (386), signage (30)
+
+
+Languages
+bn+en (5,337), hi+en (868), en (799)
+
+
+Splits
+dev… See the full description on the dataset page: https://huggingface.co/datasets/Snehach03/assistive-ocr-data-acquisition. |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5](https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5) | 2026-11-04 | text-recognition | candidate | 
+	
+		
+	
+	
+		plain-v2 (window 12k), targets as the served verdict
+	
+
+Same prompts and same split as ocrrag-lfm3-plain-data-v4, byte for byte, downloaded and compared
+row by row. The only difference is the completion: {"answer": "...", "refusal": <bool>} instead of
+bare prose.
+v4 trained on the prose version and answered in prose - 0/109 structured verdicts on the test split,
+even though the prompt asked for the object every time. The prompt and the target disagreed; the
+model believed the… See the full description on the dataset page: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5. |
+| [Jaclarke0626/document-ocr-corpus](https://huggingface.co/datasets/Jaclarke0626/document-ocr-corpus) | 2026-11-04 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+Preparation notes and schema examples for Document OCR tasks using Audio Video data. Full source material is intentionally not bundled, so provenance and licensing remain explicit.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+load_data.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/Jaclarke0626/document-ocr-corpus. |
 | [sunbv56/vi-OCR_VQA-desc](https://huggingface.co/datasets/sunbv56/vi-OCR_VQA-desc) | 2026-11-03 | text-recognition | candidate | 
 	
 		
@@ -18,6 +105,46 @@ description: mô tả đầy đủ trong mục "Mô tả sản phẩm" (#desc_co
 og_description: thẻ og:description (Fahasa tự cắt ngắn, kết thúc bằng ...).
 
 null khi trang không còn hoặc không có mô tả. 32967/33531 dòng có description.
+ |
+| [sashashghome/ocr-layout-results](https://huggingface.co/datasets/sashashghome/ocr-layout-results) | 2026-11-03 | text-recognition | candidate | — |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-data-v4](https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v4) | 2026-11-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocrrag plain-v2 (LFM3-1.7B SFT)
+	
+
+Built from plain-v2.jsonl (1756 rows) by labs/lfm3_export.py, shuffled with seed 42.
+
+	
+		
+split
+rows
+max tokens (LFM3 tokenizer)
+
+
+		
+train
+1523
+6977
+
+
+val
+124
+6352
+
+
+test
+109
+6788
+
+
+	
+
+Answers: Gemini 3.8 Flash (effort medium) through the agy shim. Questions and the
+negatives' judge: deepseek-v4.1-flash. Window: 12000 chars, max_hits 8, max_hit_chars 3200.
+The test split is the one v3 was measured on, so v3 and v4 are comparable row for row.
  |
 | [nietbaeviysa/karakalpak-ocr-quality-stats](https://huggingface.co/datasets/nietbaeviysa/karakalpak-ocr-quality-stats) | 2026-11-03 | text-recognition | candidate | 
 	
@@ -42,6 +169,215 @@ are modern copyrighted editions and are not published.
 
 
 volume_stats.csv: pages, headword entries, rows… See the full description on the dataset page: https://huggingface.co/datasets/nietbaeviysa/karakalpak-ocr-quality-stats. |
+| [lukasArana/ocr_bench](https://huggingface.co/datasets/lukasArana/ocr_bench) | 2026-11-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		Historical Basque newspapers OCR
+	
+
+Manually corrected transcriptions of historical Basque-language newspaper pages
+(Escualdun Gazeta, Eskual-Herria, Euzkadi, Argia; 1885-1923).
+
+full_page: one sample per page — the full page scan and its full transcription
+(sections separated by a blank line).
+crops: one sample per page region — the cropped image and the transcription of that region.
+
+Line breaks follow the original print (hyphenated words are not joined).
+from datasets import… See the full description on the dataset page: https://huggingface.co/datasets/lukasArana/ocr_bench. |
+| [Grundik/abkhaz-mkhedruli-ocr-dataset](https://huggingface.co/datasets/Grundik/abkhaz-mkhedruli-ocr-dataset) | 2026-11-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		Abkhaz Mkhedruli OCR Dataset (Tesseract Format)
+	
+
+A specialized ground-truth dataset for Optical Character Recognition (OCR) of the Abkhaz language (ISO 639-1: ab) written in the historical Mkhedruli script (Georgian-based alphabet).
+This dataset is a core component of the digital infrastructure project for the Abkhaz language, developed by Marat Ionov in collaboration with the Bagrat Shinkuba Fund (Фонд Баграта Шинкуба).
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+
+Total pairs: 4,221 (Image +… See the full description on the dataset page: https://huggingface.co/datasets/Grundik/abkhaz-mkhedruli-ocr-dataset. |
+| [Grundik/abkhaz-cyrillic-ocr-dataset](https://huggingface.co/datasets/Grundik/abkhaz-cyrillic-ocr-dataset) | 2026-11-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		Abkhaz Cyrillic OCR Dataset (Tesseract Format)
+	
+
+A comprehensive ground-truth dataset for Optical Character Recognition (OCR) of the Abkhaz language (ISO 639-1: ab) in Cyrillic script.
+This dataset is a core component of the digital infrastructure project for the Abkhaz language, developed by Marat Ionov in collaboration with the Bagrat Shinkuba Fund (Фонд Баграта Шинкуба).
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+
+Total pairs: 9,497 (Image + Ground Truth)
+Archive size: ~1.1 GB (compressed)… See the full description on the dataset page: https://huggingface.co/datasets/Grundik/abkhaz-cyrillic-ocr-dataset. |
+| [davanstrien/ocr-bench-britannica-results-qwen38](https://huggingface.co/datasets/davanstrien/ocr-bench-britannica-results-qwen38) | 2026-11-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR Bench Results: ocr-bench-britannica
+	
+
+VLM-as-judge pairwise evaluation of OCR models. Rankings depend on document type — there is no single best OCR model.
+
+	
+		
+	
+	
+		Leaderboard
+	
+
+
+	
+		
+Rank
+Model
+Params
+ELO
+95% CI
+Wins
+Losses
+Ties
+Win%
+
+
+		
+1
+numind/NuExtract3
+4B
+1734
+1669–1820
+199
+43
+8
+80%
+
+
+2
+zai-org/GLM-OCR
+0.9B
+1588
+1523–1655
+153
+91
+3
+62%
+
+
+3
+lightonai/LightOnOCR-2-1B
+1B
+1588
+1552–1623
+148
+89
+5
+61%
+
+
+4
+FireRedTeam/FireRed-OCR
+2.1B
+1426
+1358–1489
+96
+149
+2
+39%
+
+
+5… See the full description on the dataset page: https://huggingface.co/datasets/davanstrien/ocr-bench-britannica-results-qwen38. |
+| [davanstrien/bpl-ocr-bench-results-qwen38](https://huggingface.co/datasets/davanstrien/bpl-ocr-bench-results-qwen38) | 2026-11-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR Bench Results: bpl-ocr-bench
+	
+
+VLM-as-judge pairwise evaluation of OCR models. Rankings depend on document type — there is no single best OCR model.
+
+	
+		
+	
+	
+		Leaderboard
+	
+
+
+	
+		
+Rank
+Model
+Params
+ELO
+95% CI
+Wins
+Losses
+Ties
+Win%
+
+
+		
+1
+rednote-hilab/dots.ocr
+1.7B
+1632
+1571–1702
+59
+20
+4
+71%
+
+
+2
+lightonai/LightOnOCR-2-1B
+1B
+1526
+1449–1611
+44
+34
+5
+53%
+
+
+3
+zai-org/GLM-OCR
+0.9B
+1434
+1361–1509
+30
+47
+6
+36%
+
+
+4
+deepseek-ai/DeepSeek-OCR
+4B
+1408
+1336–1474
+30
+62
+7
+30%… See the full description on the dataset page: https://huggingface.co/datasets/davanstrien/bpl-ocr-bench-results-qwen38. |
 | [masterofaudio2077/egyptian-ministry-books-ocr-pages](https://huggingface.co/datasets/masterofaudio2077/egyptian-ministry-books-ocr-pages) | 2026-11-02 | text-recognition | candidate | 
 	
 		

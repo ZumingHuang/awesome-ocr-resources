@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Sky-Kim/com.sky.sentis.plate-ocr-kr
+kind: model
+name: Sky-Kim/com.sky.sentis.plate-ocr-kr
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Sky-Kim/com.sky.sentis.plate-ocr-kr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Sky-Kim/com.sky.sentis.plate-ocr-kr
+  discovered_via: huggingface
+  discovered_at: '2026-11-04'
+  source_id: Sky-Kim/com.sky.sentis.plate-ocr-kr
+  source_metadata:
+    repository_id: Sky-Kim/com.sky.sentis.plate-ocr-kr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Sky-Kim
+repository_id: Sky-Kim/com.sky.sentis.plate-ocr-kr
+deployment: []

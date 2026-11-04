@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:p4ulbr4dl3y/ocrrag-lfm3-plain-data-v4
+kind: dataset
+name: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v4
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tocrrag plain-v2 (LFM3-1.7B SFT)\n\t\n\nBuilt from plain-v2.jsonl (1756\
+  \ rows) by labs/lfm3_export.py, shuffled with seed 42.\n\n\t\n\t\t\nsplit\nrows\nmax tokens (LFM3 tokenizer)\n\
+  \n\n\t\t\ntrain\n1523\n6977\n\n\nval\n124\n6352\n\n\ntest\n109\n6788\n\n\n\t\n\nAnswers: Gemini 3.8\
+  \ Flash (effort medium) through the agy shim. Questions and the\nnegatives' judge: deepseek-v4.1-flash.\
+  \ Window: 12000 chars, max_hits 8, max_hit_chars 3200.\nThe test split is the one v3 was measured on,\
+  \ so v3 and v4 are comparable row for row.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v4
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v4
+  discovered_via: huggingface
+  discovered_at: '2026-11-04'
+  source_id: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v4
+  source_metadata:
+    repository_id: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v4
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: p4ulbr4dl3y
+repository_id: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v4
+usage: []
+annotations: []
+access: unknown

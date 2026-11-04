@@ -4,10 +4,31 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [litert-community/Unlimited-OCR-2](https://huggingface.co/litert-community/Unlimited-OCR-2) | 2026-11-04 | formula-recognition, text-recognition | candidate | — |
+| [Grundik/abkhaz-mkhedruli-ocr-tesseract](https://huggingface.co/Grundik/abkhaz-mkhedruli-ocr-tesseract) | 2026-11-04 | text-recognition | candidate | — |
+| [Grundik/abkhaz-cyrillic-ocr-tesseract](https://huggingface.co/Grundik/abkhaz-cyrillic-ocr-tesseract) | 2026-11-04 | text-recognition | candidate | — |
+| [dolphinnlp/qwen3.5-ocr-ft](https://huggingface.co/dolphinnlp/qwen3.5-ocr-ft) | 2026-11-04 | text-recognition | candidate | — |
+| [Aiidkx/Unlimited-OCR-2](https://huggingface.co/Aiidkx/Unlimited-OCR-2) | 2026-11-04 | text-recognition | candidate | — |
+| [yale-cultural-heritage/chandra-ocr-2-cultural-heritage-eng](https://huggingface.co/yale-cultural-heritage/chandra-ocr-2-cultural-heritage-eng) | 2026-11-03 | handwriting-recognition, text-recognition | candidate | — |
+| [Sokheng/anaksor-ocr](https://huggingface.co/Sokheng/anaksor-ocr) | 2026-11-03 | text-recognition | candidate | — |
+| [Sky-Kim/com.sky.sentis.plate-ocr-kr](https://huggingface.co/Sky-Kim/com.sky.sentis.plate-ocr-kr) | 2026-11-03 | text-recognition | candidate | — |
+| [SJF7/ocr-edit-gate-qwen3.8-27b-lora](https://huggingface.co/SJF7/ocr-edit-gate-qwen3.8-27b-lora) | 2026-11-03 | text-recognition | candidate | — |
+| [SJF7/ocr-edit-gate-qwen3-32b-lora](https://huggingface.co/SJF7/ocr-edit-gate-qwen3-32b-lora) | 2026-11-03 | text-recognition | candidate | — |
+| [SJF7/ocr-edit-gate-qwen3-0.6b-gate-textonly](https://huggingface.co/SJF7/ocr-edit-gate-qwen3-0.6b-gate-textonly) | 2026-11-03 | text-recognition | candidate | — |
+| [SJF7/ocr-edit-gate-qwen3-0.6b-gate](https://huggingface.co/SJF7/ocr-edit-gate-qwen3-0.6b-gate) | 2026-11-03 | text-recognition | candidate | — |
+| [SJF7/ocr-edit-gate-qwen2.5-72b-lora](https://huggingface.co/SJF7/ocr-edit-gate-qwen2.5-72b-lora) | 2026-11-03 | text-recognition | candidate | — |
+| [SJF7/ocr-edit-gate-p1-qwen3-8b-lora](https://huggingface.co/SJF7/ocr-edit-gate-p1-qwen3-8b-lora) | 2026-11-03 | text-recognition | candidate | — |
+| [SJF7/ocr-edit-gate-p1-qwen3-0.6b-gate-textonly](https://huggingface.co/SJF7/ocr-edit-gate-p1-qwen3-0.6b-gate-textonly) | 2026-11-03 | text-recognition | candidate | — |
+| [SJF7/ocr-edit-gate-p1-qwen3-0.6b-gate](https://huggingface.co/SJF7/ocr-edit-gate-p1-qwen3-0.6b-gate) | 2026-11-03 | text-recognition | candidate | — |
+| [SJF7/ocr-edit-gate-mistral-small-24b-lora](https://huggingface.co/SJF7/ocr-edit-gate-mistral-small-24b-lora) | 2026-11-03 | text-recognition | candidate | — |
+| [Q-P1NG/pp-ocrv6-onnx](https://huggingface.co/Q-P1NG/pp-ocrv6-onnx) | 2026-11-03 | text-recognition | candidate | — |
 | [playstonex/indra-ocr-mlx](https://huggingface.co/playstonex/indra-ocr-mlx) | 2026-11-03 | text-recognition | candidate | — |
 | [p4ulbr4dl3y/ocrrag-lfm3-plain-gguf](https://huggingface.co/p4ulbr4dl3y/ocrrag-lfm3-plain-gguf) | 2026-11-03 | text-recognition | candidate | — |
 | [ntdat8324/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-separate-p35-twc-lex-q0-r2ofix](https://huggingface.co/ntdat8324/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-separate-p35-twc-lex-q0-r2ofix) | 2026-11-03 | document-vqa, text-recognition | candidate | — |
+| [ntdat8324/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-separate-p35-twc-lex-q0-noconsformer-r2ofix](https://huggingface.co/ntdat8324/ViSceT5-twcbr-vitextvqa-scespavis-ocraug-separate-p35-twc-lex-q0-noconsformer-r2ofix) | 2026-11-03 | document-vqa, text-recognition | candidate | — |
+| [mradermacher/chandra-ocr-2-MTP-Repacked-GGUF](https://huggingface.co/mradermacher/chandra-ocr-2-MTP-Repacked-GGUF) | 2026-11-03 | text-recognition | candidate | — |
 | [kltng/surya-ocr-2.5-mlx-8bit](https://huggingface.co/kltng/surya-ocr-2.5-mlx-8bit) | 2026-11-03 | text-recognition | candidate | — |
+| [huggingface-mic/MiniCPM-OCR-1.0-mic](https://huggingface.co/huggingface-mic/MiniCPM-OCR-1.0-mic) | 2026-11-03 | text-recognition | candidate | — |
 | [groxaxo/Unlimited-OCR-2-MLX8-Selective](https://huggingface.co/groxaxo/Unlimited-OCR-2-MLX8-Selective) | 2026-11-03 | text-recognition | candidate | — |
 | [fwgpiyawudk/surya-ocr-2.5-mlx-8bit](https://huggingface.co/fwgpiyawudk/surya-ocr-2.5-mlx-8bit) | 2026-11-03 | text-recognition | candidate | — |
 | [fwgpiyawudk/surya-ocr-2.5-mlx-4bit](https://huggingface.co/fwgpiyawudk/surya-ocr-2.5-mlx-4bit) | 2026-11-03 | text-recognition | candidate | — |

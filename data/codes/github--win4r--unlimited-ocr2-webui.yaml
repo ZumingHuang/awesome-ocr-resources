@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:win4r/unlimited-ocr2-webui
+kind: code
+name: win4r/unlimited-ocr2-webui
+released_at:
+  value: '2026-10-30'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: 'Browser workbench for Baidu Unlimited OCR 2: PDF/image OCR, GPU/RAM monitoring, recording mode,
+  Base/Gundam comparison and CER checks.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/win4r/unlimited-ocr2-webui
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/win4r/unlimited-ocr2-webui
+  discovered_via: github
+  discovered_at: '2026-11-04'
+  source_id: R_kgDOVcorIg
+  source_metadata:
+    repository: win4r/unlimited-ocr2-webui
+    stars: 13
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: win4r/unlimited-ocr2-webui
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

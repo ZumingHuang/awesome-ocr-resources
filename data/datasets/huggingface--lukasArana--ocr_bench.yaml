@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:lukasArana/ocr_bench
+kind: dataset
+name: lukasArana/ocr_bench
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tHistorical Basque newspapers OCR\n\t\n\nManually corrected transcriptions\
+  \ of historical Basque-language newspaper pages\n(Escualdun Gazeta, Eskual-Herria, Euzkadi, Argia; 1885-1923).\n\
+  \nfull_page: one sample per page — the full page scan and its full transcription\n(sections separated\
+  \ by a blank line).\ncrops: one sample per page region — the cropped image and the transcription of\
+  \ that region.\n\nLine breaks follow the original print (hyphenated words are not joined).\nfrom datasets\
+  \ import… See the full description on the dataset page: https://huggingface.co/datasets/lukasArana/ocr_bench."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/lukasArana/ocr_bench
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/lukasArana/ocr_bench
+  discovered_via: huggingface
+  discovered_at: '2026-11-04'
+  source_id: lukasArana/ocr_bench
+  source_metadata:
+    repository_id: lukasArana/ocr_bench
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: lukasArana
+repository_id: lukasArana/ocr_bench
+usage: []
+annotations: []
+access: unknown
