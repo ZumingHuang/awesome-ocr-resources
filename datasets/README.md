@@ -4,6 +4,44 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [sunbv56/vi-OCR_VQA-desc](https://huggingface.co/datasets/sunbv56/vi-OCR_VQA-desc) | 2026-11-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		vi-OCR_VQA + description
+	
+
+Dựa trên LR-AI-Labs/vi-OCR_VQA, thêm 2 cột lấy từ trang sản phẩm Fahasa (product_url):
+
+description: mô tả đầy đủ trong mục "Mô tả sản phẩm" (#desc_content), dạng text thuần.
+og_description: thẻ og:description (Fahasa tự cắt ngắn, kết thúc bằng ...).
+
+null khi trang không còn hoặc không có mô tả. 32967/33531 dòng có description.
+ |
+| [nietbaeviysa/karakalpak-ocr-quality-stats](https://huggingface.co/datasets/nietbaeviysa/karakalpak-ocr-quality-stats) | 2026-11-03 | text-recognition | candidate | 
+	
+		
+	
+	
+		Karakalpak OCR quality statistics
+	
+
+Statistics about digitizing printed Karakalpak books (an explanatory dictionary and a
+folklore collection) with a page-by-page LLM OCR pipeline.
+This dataset contains no book text. It has only numbers: per-volume statistics, accuracy
+from random manual samples, and letter-level counts of automatic corrections. The books
+are modern copyrighted editions and are not published.
+
+	
+		
+	
+	
+		Files
+	
+
+
+volume_stats.csv: pages, headword entries, rows… See the full description on the dataset page: https://huggingface.co/datasets/nietbaeviysa/karakalpak-ocr-quality-stats. |
 | [masterofaudio2077/egyptian-ministry-books-ocr-pages](https://huggingface.co/datasets/masterofaudio2077/egyptian-ministry-books-ocr-pages) | 2026-11-02 | text-recognition | candidate | 
 	
 		
@@ -16,6 +54,25 @@
 Each row links to the real page: pdf_url (ministry PDF) and page_url (same PDF opened at that page).
 
 text: EasyOCR (ar) output, lines ordered top-to-bottom and right-to-left. It is raw OCR: expect word-level errors and stray diacritics on vowelled text; picture pages are short or… See the full description on the dataset page: https://huggingface.co/datasets/masterofaudio2077/egyptian-ministry-books-ocr-pages. |
+| [Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset](https://huggingface.co/datasets/Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset) | 2026-11-02 | text-recognition | candidate | 
+	
+		
+	
+	
+		Multilingual OCR Annotation Dataset
+	
+
+Publisher: DataCluster Labs
+
+	
+		
+	
+	
+		1. Overview
+	
+
+The Multilingual OCR Annotation Dataset is a collection of annotated text data designed to support research and development in Optical Character Recognition (OCR), multilingual text recognition, and document intelligence.
+The dataset covers multiple languages and writing systems, including Hebrew, Thai, Japanese, and Arabic, providing diverse linguistic representations for exploring OCR… See the full description on the dataset page: https://huggingface.co/datasets/Dataclusterlabspvtltd/Multilingual_OCR_Annotation_Dataset. |
 | [nikigood/pl-government-docs-mix-ocr-dataset](https://huggingface.co/datasets/nikigood/pl-government-docs-mix-ocr-dataset) | 2026-11-01 | text-recognition | candidate | 
 	
 		

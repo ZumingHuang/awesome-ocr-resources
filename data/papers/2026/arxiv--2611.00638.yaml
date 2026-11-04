@@ -1,0 +1,64 @@
+schema_version: 1
+id: paper:arxiv:2611.00638
+kind: paper
+name: 'ElectroChemLLM: A Multimodal LLM Pipeline for High-Fidelity Electrochemical Informatics'
+released_at:
+  value: '2026-10-31'
+  precision: day
+added_at: '2026-11-03'
+last_verified_at: '2026-11-03'
+summary: Electrochemistry is central to solving many modern-day challenges, including energy storage systems
+  for a sustainable future, and its advancement relies heavily on the data from past findings. Existing
+  automated pipelines are limited by text-only architectures, context fragmentation, and numerical hallucinations
+  - collectively preventing accurate, large-scale curation of property databases. We introduce ElectrochemLLM,
+  a multimodal information extraction pipeline that jointly identifies structured electrochemical records
+  encompassing electrolyte compositions, electrode materials, cell configurations, and their measured
+  physicochemical properties from unstructured scientific PDFs at scale. By combining hybrid document
+  parsing with vision-capable LLM orchestration, the pipeline extracts verifiable, structured data across
+  text, tables, and figures. Evaluated on the battery-electrolyte subset of our manually annotated benchmark
+  of 232 papers, ElectrochemLLM achieves an F-1 score of 0.97, and has been applied to curate ElectroChemDB,
+  a structured database spanning 15,000 electrochemical research articles. We demonstrate the utility
+  of this resource by training machine learning models for electrolyte property prediction, illustrating
+  a complete pathway from unstructured literature to predictive materials discovery.
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.00638
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.00638
+  discovered_via: arxiv
+  discovered_at: '2026-11-03'
+  source_id: '2611.00638'
+  source_metadata:
+    arxiv_id: '2611.00638'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Dikshya Mohanty
+- Manoj Praveen Nandigama
+- Kuldeepsinh Raj
+- Sourav Kanti Maiti
+- Jiannan Yang
+- Ruiqi Luo
+- Srinivasa Phani Madhav Marupudi
+- Mounika Geriki
+- Prayag Raghunandan
+- Puneet Lingutla
+- Tengfei Ma
+- Niranjan Balasubramanian
+- Nav Nidhi Rajput
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.00638'
