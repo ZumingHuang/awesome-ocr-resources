@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:davanstrien/ocr-bench-britannica-results-qwen38
+kind: dataset
+name: davanstrien/ocr-bench-britannica-results-qwen38
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR Bench Results: ocr-bench-britannica\n\t\n\nVLM-as-judge pairwise\
+  \ evaluation of OCR models. Rankings depend on document type — there is no single best OCR model.\n\n\
+  \t\n\t\t\n\t\n\t\n\t\tLeaderboard\n\t\n\n\n\t\n\t\t\nRank\nModel\nParams\nELO\n95% CI\nWins\nLosses\n\
+  Ties\nWin%\n\n\n\t\t\n1\nnumind/NuExtract3\n4B\n1734\n1669–1820\n199\n43\n8\n80%\n\n\n2\nzai-org/GLM-OCR\n\
+  0.9B\n1588\n1523–1655\n153\n91\n3\n62%\n\n\n3\nlightonai/LightOnOCR-2-1B\n1B\n1588\n1552–1623\n148\n\
+  89\n5\n61%\n\n\n4\nFireRedTeam/FireRed-OCR\n2.1B\n1426\n1358–1489\n96\n149\n2\n39%\n\n\n5… See the full\
+  \ description on the dataset page: https://huggingface.co/datasets/davanstrien/ocr-bench-britannica-results-qwen38."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/davanstrien/ocr-bench-britannica-results-qwen38
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/davanstrien/ocr-bench-britannica-results-qwen38
+  discovered_via: huggingface
+  discovered_at: '2026-11-04'
+  source_id: davanstrien/ocr-bench-britannica-results-qwen38
+  source_metadata:
+    repository_id: davanstrien/ocr-bench-britannica-results-qwen38
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: davanstrien
+repository_id: davanstrien/ocr-bench-britannica-results-qwen38
+usage: []
+annotations: []
+access: unknown

@@ -4,6 +4,10 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [xiaomi-research/Xiaomi-OCR-0 / skills/xiaomi-ocr/SKILL.md](https://github.com/xiaomi-research/Xiaomi-OCR-0/blob/b1a9bb4c07060c453785e9151715ccda6b96f0b1/skills/xiaomi-ocr/SKILL.md) | 2026-11-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [LeoYeAI/agent-master-skills / skills/token-optimizer-qsmtco/SKILL.md](https://github.com/LeoYeAI/agent-master-skills/blob/aa96a06b8685e8d15fc97763701493c211f49d46/skills/token-optimizer-qsmtco/SKILL.md) | 2026-11-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [LeoYeAI/agent-master-skills / skills/opencr-skill/SKILL.md](https://github.com/LeoYeAI/agent-master-skills/blob/aa96a06b8685e8d15fc97763701493c211f49d46/skills/opencr-skill/SKILL.md) | 2026-11-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [LeoYeAI/agent-master-skills / skills/mineru-ai/SKILL.md](https://github.com/LeoYeAI/agent-master-skills/blob/aa96a06b8685e8d15fc97763701493c211f49d46/skills/mineru-ai/SKILL.md) | 2026-11-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [xiaomi-research/Xiaomi-OCR-0 / SKILL.md](https://github.com/xiaomi-research/Xiaomi-OCR-0/blob/b1a9bb4c07060c453785e9151715ccda6b96f0b1/SKILL.md) | 2026-10-31 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [alchaincyf/huashu-mac-use / SKILL.md](https://github.com/alchaincyf/huashu-mac-use/blob/95892a0d5df7547ccc6b53a6074287a49acfcfb6/SKILL.md) | 2026-10-30 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [thetahealth/mirobody / skills/standardize-health-data/SKILL.md](https://github.com/thetahealth/mirobody/blob/2b2831dddf348e0bf210cf1131715ce5d6f19679/skills/standardize-health-data/SKILL.md) | 2026-10-29 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

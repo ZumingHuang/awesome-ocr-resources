@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Q-P1NG/pp-ocrv6-onnx
+kind: model
+name: Q-P1NG/pp-ocrv6-onnx
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Q-P1NG/pp-ocrv6-onnx
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Q-P1NG/pp-ocrv6-onnx
+  discovered_via: huggingface
+  discovered_at: '2026-11-04'
+  source_id: Q-P1NG/pp-ocrv6-onnx
+  source_metadata:
+    repository_id: Q-P1NG/pp-ocrv6-onnx
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Q-P1NG
+repository_id: Q-P1NG/pp-ocrv6-onnx
+deployment: []

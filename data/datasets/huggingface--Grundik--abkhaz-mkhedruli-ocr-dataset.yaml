@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Grundik/abkhaz-mkhedruli-ocr-dataset
+kind: dataset
+name: Grundik/abkhaz-mkhedruli-ocr-dataset
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tAbkhaz Mkhedruli OCR Dataset (Tesseract Format)\n\t\n\nA specialized\
+  \ ground-truth dataset for Optical Character Recognition (OCR) of the Abkhaz language (ISO 639-1: ab)\
+  \ written in the historical Mkhedruli script (Georgian-based alphabet).\nThis dataset is a core component\
+  \ of the digital infrastructure project for the Abkhaz language, developed by Marat Ionov in collaboration\
+  \ with the Bagrat Shinkuba Fund (Фонд Баграта Шинкуба).\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\
+  \n\n\nTotal pairs: 4,221 (Image +… See the full description on the dataset page: https://huggingface.co/datasets/Grundik/abkhaz-mkhedruli-ocr-dataset."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Grundik/abkhaz-mkhedruli-ocr-dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Grundik/abkhaz-mkhedruli-ocr-dataset
+  discovered_via: huggingface
+  discovered_at: '2026-11-04'
+  source_id: Grundik/abkhaz-mkhedruli-ocr-dataset
+  source_metadata:
+    repository_id: Grundik/abkhaz-mkhedruli-ocr-dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Grundik
+repository_id: Grundik/abkhaz-mkhedruli-ocr-dataset
+usage: []
+annotations: []
+access: unknown

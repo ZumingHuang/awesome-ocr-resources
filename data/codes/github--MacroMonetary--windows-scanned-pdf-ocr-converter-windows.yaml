@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:MacroMonetary/windows-scanned-pdf-ocr-converter-windows
+kind: code
+name: MacroMonetary/windows-scanned-pdf-ocr-converter-windows
+released_at:
+  value: '2026-11-01'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: Scanned PDF OCR Converter for Windows. Turn page images into searchable documents. Desktop UI
+  reference, sample workflows, and external download-page guidance.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/MacroMonetary/windows-scanned-pdf-ocr-converter-windows
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/MacroMonetary/windows-scanned-pdf-ocr-converter-windows
+  discovered_via: github
+  discovered_at: '2026-11-04'
+  source_id: R_kgDOVfMmiw
+  source_metadata:
+    repository: MacroMonetary/windows-scanned-pdf-ocr-converter-windows
+    stars: 13
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: MacroMonetary/windows-scanned-pdf-ocr-converter-windows
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

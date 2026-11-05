@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:davanstrien/bpl-ocr-bench-results-qwen38
+kind: dataset
+name: davanstrien/bpl-ocr-bench-results-qwen38
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR Bench Results: bpl-ocr-bench\n\t\n\nVLM-as-judge pairwise evaluation\
+  \ of OCR models. Rankings depend on document type — there is no single best OCR model.\n\n\t\n\t\t\n\
+  \t\n\t\n\t\tLeaderboard\n\t\n\n\n\t\n\t\t\nRank\nModel\nParams\nELO\n95% CI\nWins\nLosses\nTies\nWin%\n\
+  \n\n\t\t\n1\nrednote-hilab/dots.ocr\n1.7B\n1632\n1571–1702\n59\n20\n4\n71%\n\n\n2\nlightonai/LightOnOCR-2-1B\n\
+  1B\n1526\n1449–1611\n44\n34\n5\n53%\n\n\n3\nzai-org/GLM-OCR\n0.9B\n1434\n1361–1509\n30\n47\n6\n36%\n\
+  \n\n4\ndeepseek-ai/DeepSeek-OCR\n4B\n1408\n1336–1474\n30\n62\n7\n30%… See the full description on the\
+  \ dataset page: https://huggingface.co/datasets/davanstrien/bpl-ocr-bench-results-qwen38."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/davanstrien/bpl-ocr-bench-results-qwen38
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/davanstrien/bpl-ocr-bench-results-qwen38
+  discovered_via: huggingface
+  discovered_at: '2026-11-04'
+  source_id: davanstrien/bpl-ocr-bench-results-qwen38
+  source_metadata:
+    repository_id: davanstrien/bpl-ocr-bench-results-qwen38
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: davanstrien
+repository_id: davanstrien/bpl-ocr-bench-results-qwen38
+usage: []
+annotations: []
+access: unknown

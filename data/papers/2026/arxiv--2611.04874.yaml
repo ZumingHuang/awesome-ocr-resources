@@ -1,0 +1,64 @@
+schema_version: 1
+id: paper:arxiv:2611.04874
+kind: paper
+name: 'OCR in the Foundation Model Era: From Specialist Models to Unified Models'
+released_at:
+  value: '2026-11-03'
+  precision: day
+added_at: '2026-11-04'
+last_verified_at: '2026-11-04'
+summary: 'Optical Character Recognition (OCR) is among the oldest and most widely deployed applications
+  of artificial intelligence. This survey reviews its development, focusing on the Foundation Model Era.
+  We define OCR through faithful transcription: within a specified visual scope, OCR should completely
+  reconstruct the text, notation, and document structure observable in the source image, and every textual,
+  notational, or structural element in the output must be verifiable from visual evidence in that image.
+  We trace the development from specialist OCR models toward unified models, examining joint text detection
+  and recognition, structured sequence generation, and the use of pretrained vision-language models (VLMs).
+  We organize contemporary OCR systems into five coexisting families: modular toolkits and task-specific
+  models, specialized document VLMs, hybrid workflows, general-purpose VLMs, and commercial products and
+  managed services. We compare their architectures, data, and training, examining hallucination and omission,
+  insufficient spatial grounding, and inference cost in generative OCR. We review evaluation from character
+  and scene text recognition to parsing individual structural elements and full-page transcription, highlighting
+  gaps in consistent output definitions, attribution of performance to individual components, and coverage
+  of real capture conditions and visible content and structure. Finally, we summarize the challenges facing
+  OCR and discuss directions for future research. We continuously track related work at https://github.com/zhihengli-casia/Awesome-OCR-in-the-Foundation-Model-Era.'
+tasks:
+- text-detection
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.04874
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.04874
+  discovered_via: arxiv
+  discovered_at: '2026-11-04'
+  source_id: '2611.04874'
+  source_metadata:
+    arxiv_id: '2611.04874'
+    doi: null
+    query: all:"scene text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Zhiheng Li
+- Zongyang Ma
+- Jiaxian Chen
+- Cheng Cui
+- Yi Liu
+- Ziqi Zhang
+- Chunfeng Yuan
+- Bing Li
+- Xiang Bai
+- Weiming Hu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.04874'

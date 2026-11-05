@@ -317,6 +317,10 @@ Majid Adibian, Hossein Saberi, Hossein Zeinali
 Peng Cai, Zhaofan Zou, Shifa Liu, Yikun Wang, Jiawei Tang, Kaicheng Yang, Meng Tong, Zhongjiang He, Hao Sun
 \[table-recognition\]\[formula-recognition\]\[document-layout-analysis\]\[document-parsing\]\[text-recognition\]
 
+**OCR in the Foundation Model Era: From Specialist Models to Unified Models**
+Zhiheng Li, Zongyang Ma, Jiaxian Chen, Cheng Cui, Yi Liu, Ziqi Zhang, Chunfeng Yuan, Bing Li, Xiang Bai, Weiming Hu
+\[text-detection\]\[text-recognition\]
+
 **OCR-MetaReasoning Benchmark: Evaluating the Meta-Reasoning Ability of MLLMs in Text-Rich Image Understanding**
 Gengxu Li, Yuan Wu, Yi Chang
 \[text-recognition\]
