@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6
+kind: dataset
+name: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6
+released_at:
+  value: '2026-11-04'
+  precision: day
+added_at: '2026-11-05'
+last_verified_at: '2026-11-05'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tocrrag LFM3 plain SFT — data v6\n\t\n\nThe only difference from v5 is\
+  \ the system prompt of the training rows.\nv5 shipped 1756 rows from two generations of the builder:\
+  \ 1086 of them carried a 258-character\nsystem message that was only the trailing JSON block (\"по правилам\
+  \ выше\" pointing at rules that were\nnot there) and no meta.system_prompt_sha at all. v6 rewrites every\
+  \ row's system message to the one\nthe answerer serves (served_system_prompt(PlainSettings(json_verdict=True)),\
+  \ 2530… See the full description on the dataset page: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6
+  discovered_via: huggingface
+  discovered_at: '2026-11-05'
+  source_id: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6
+  source_metadata:
+    repository_id: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: p4ulbr4dl3y
+repository_id: p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6
+usage: []
+annotations: []
+access: unknown

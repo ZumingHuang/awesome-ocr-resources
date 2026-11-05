@@ -12,15 +12,16 @@ A structured and human-curated collection of OCR and Document AI resources. Auto
 
 | Category | Count | Description |
 | --- | ---: | --- |
-| [Papers](papers/README.md) | 349 | Research on OCR, document parsing, layout analysis, and document understanding |
-| [Models](models/README.md) | 1044 | Public model cards, weights, APIs, and official model releases |
-| [Datasets](datasets/README.md) | 501 | Training datasets and evaluation benchmarks |
+| [Papers](papers/README.md) | 350 | Research on OCR, document parsing, layout analysis, and document understanding |
+| [Models](models/README.md) | 1062 | Public model cards, weights, APIs, and official model releases |
+| [Datasets](datasets/README.md) | 507 | Training datasets and evaluation benchmarks |
 | [Codes](codes/README.md) | 182 | Notable OCR and Document AI codebases |
 | [Skills](skills/README.md) | 301 | Installable agent skills for OCR and document workflows |
 | [Platforms](platforms/README.md) | 1 | Domestic and international OCR platforms and services |
 
 ## Latest Updates
 
+- [2026-11-05](updates/2026/2026-11-05.md)
 - [2026-11-04](updates/2026/2026-11-04.md)
 - [2026-11-03](updates/2026/2026-11-03.md)
 - [2026-11-02](updates/2026/2026-11-02.md)
@@ -30,7 +31,6 @@ A structured and human-curated collection of OCR and Document AI resources. Auto
 - [2026-10-29](updates/2026/2026-10-29.md)
 - [2026-10-28](updates/2026/2026-10-28.md)
 - [2026-10-27](updates/2026/2026-10-27.md)
-- [2026-10-26](updates/2026/2026-10-26.md)
 
 ## Maintenance
 

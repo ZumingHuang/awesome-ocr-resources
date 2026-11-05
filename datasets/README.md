@@ -4,6 +4,37 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [sashashghome/vllm-ocr-results](https://huggingface.co/datasets/sashashghome/vllm-ocr-results) | 2026-11-05 | text-recognition | candidate | — |
+| [TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2](https://huggingface.co/datasets/TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2) | 2026-11-04 | text-recognition | candidate | 
+	
+		
+	
+	
+		Ledger OCR Benchmark
+	
+
+Scanned financial documents with bounding-box annotations for internal OCR evaluation.
+
+	
+		
+	
+	
+		Files
+	
+
+
+data/sample.csv holds a small preview of the collection.
+
+
+	
+		
+	
+	
+		Ownership
+	
+
+Cinderpeak Research dataset program, 2026-Q4 release wave.
+ |
 | [Snehach03/assistive-ocr-data-acquisition](https://huggingface.co/datasets/Snehach03/assistive-ocr-data-acquisition) | 2026-11-04 | text-recognition | candidate | 
 	
 		
@@ -47,6 +78,34 @@ bn+en (5,337), hi+en (868), en (799)
 
 Splits
 dev… See the full description on the dataset page: https://huggingface.co/datasets/Snehach03/assistive-ocr-data-acquisition. |
+| [p4ulbr4dl3y/ocrrag-sufficiency-data-v1](https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-sufficiency-data-v1) | 2026-11-04 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocrrag sufficiency judge data
+	
+
+Rows: Вопрос: ... + the eight fragments the retriever served, heads truncated to 700 chars,
+label 1 = the fragments do not answer (the served answer must be a refusal).
+Labels are meta.variant from the SFT dataset, so no teacher call was spent: positive means
+the teacher answered from exactly these fragments, refusal means they held nothing.
+Built by labs/sufficiency_data.py; trained by sufficiency_sft.py (bar: AUC >= 0.85 on the
+109 test rows… See the full description on the dataset page: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-sufficiency-data-v1. |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-data-v7](https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v7) | 2026-11-04 | text-recognition | candidate | — |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6](https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6) | 2026-11-04 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocrrag LFM3 plain SFT — data v6
+	
+
+The only difference from v5 is the system prompt of the training rows.
+v5 shipped 1756 rows from two generations of the builder: 1086 of them carried a 258-character
+system message that was only the trailing JSON block ("по правилам выше" pointing at rules that were
+not there) and no meta.system_prompt_sha at all. v6 rewrites every row's system message to the one
+the answerer serves (served_system_prompt(PlainSettings(json_verdict=True)), 2530… See the full description on the dataset page: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v6. |
 | [p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5](https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-lfm3-plain-data-v5) | 2026-11-04 | text-recognition | candidate | 
 	
 		
@@ -91,6 +150,7 @@ load_data.py — loading, cleaning, and split preparation code.
 dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.
 README.md —… See the full description on the dataset page: https://huggingface.co/datasets/Jaclarke0626/document-ocr-corpus. |
+| [Feroz-Infobay/final_ocr_images](https://huggingface.co/datasets/Feroz-Infobay/final_ocr_images) | 2026-11-04 | text-recognition | candidate | — |
 | [sunbv56/vi-OCR_VQA-desc](https://huggingface.co/datasets/sunbv56/vi-OCR_VQA-desc) | 2026-11-03 | text-recognition | candidate | 
 	
 		

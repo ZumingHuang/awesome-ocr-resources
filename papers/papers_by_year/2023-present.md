@@ -25,6 +25,10 @@ Yufei Tong, Guanjie Cheng, Tianle Wu, Leilei Zhang, Hang Zheng, Peihan Wu, Jianw
 Mason Smetana, Trevor Neece, Lev Khazanovich
 \[document-vqa\]
 
+**AmbiHTMLBench: A Benchmark for HTML-based Visually Rich Document parsing**
+Boyu Niu, Yingjie Xiong, Shurui Li, Linhan Pang, Yuntong Zhang, Han Wang, Hao Wu, Kai Zuo, Xu Tang, Xuanhe Zhou, Fan Wu
+\[document-parsing\]
+
 **ANTMAN: Adaptive Need Tracking for Multi-Agent Navigation in Large Information Spaces**
 Jerry Wang, Haibo Jin, Xiaopeng Yuan, Peng Kuang, Haohan Wang
 \[document-vqa\]

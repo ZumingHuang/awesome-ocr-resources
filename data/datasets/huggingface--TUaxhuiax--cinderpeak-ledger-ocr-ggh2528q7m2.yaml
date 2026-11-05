@@ -1,0 +1,43 @@
+schema_version: 1
+id: dataset:huggingface:TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2
+kind: dataset
+name: TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2
+released_at:
+  value: '2026-11-04'
+  precision: day
+added_at: '2026-11-05'
+last_verified_at: '2026-11-05'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tLedger OCR Benchmark\n\t\n\nScanned financial documents with bounding-box\
+  \ annotations for internal OCR evaluation.\n\n\t\n\t\t\n\t\n\t\n\t\tFiles\n\t\n\n\ndata/sample.csv holds\
+  \ a small preview of the collection.\n\n\n\t\n\t\t\n\t\n\t\n\t\tOwnership\n\t\n\nCinderpeak Research\
+  \ dataset program, 2026-Q4 release wave.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2
+  discovered_via: huggingface
+  discovered_at: '2026-11-05'
+  source_id: TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2
+  source_metadata:
+    repository_id: TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: TUaxhuiax
+repository_id: TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2
+usage: []
+annotations: []
+access: unknown
