@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:Youssefx64/Raqim_OCR_Arabic
+kind: model
+name: Youssefx64/Raqim_OCR_Arabic
+released_at:
+  value: '2026-11-04'
+  precision: day
+added_at: '2026-11-05'
+last_verified_at: '2026-11-05'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Youssefx64/Raqim_OCR_Arabic
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Youssefx64/Raqim_OCR_Arabic
+  discovered_via: huggingface
+  discovered_at: '2026-11-05'
+  source_id: Youssefx64/Raqim_OCR_Arabic
+  source_metadata:
+    repository_id: Youssefx64/Raqim_OCR_Arabic
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Youssefx64
+repository_id: Youssefx64/Raqim_OCR_Arabic
+deployment: []

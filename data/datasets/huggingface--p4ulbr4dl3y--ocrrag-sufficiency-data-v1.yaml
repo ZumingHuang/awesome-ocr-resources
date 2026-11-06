@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:p4ulbr4dl3y/ocrrag-sufficiency-data-v1
+kind: dataset
+name: p4ulbr4dl3y/ocrrag-sufficiency-data-v1
+released_at:
+  value: '2026-11-04'
+  precision: day
+added_at: '2026-11-05'
+last_verified_at: '2026-11-05'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tocrrag sufficiency judge data\n\t\n\nRows: Вопрос: ... + the eight fragments\
+  \ the retriever served, heads truncated to 700 chars,\nlabel 1 = the fragments do not answer (the served\
+  \ answer must be a refusal).\nLabels are meta.variant from the SFT dataset, so no teacher call was spent:\
+  \ positive means\nthe teacher answered from exactly these fragments, refusal means they held nothing.\n\
+  Built by labs/sufficiency_data.py; trained by sufficiency_sft.py (bar: AUC >= 0.85 on the\n109 test\
+  \ rows… See the full description on the dataset page: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-sufficiency-data-v1."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-sufficiency-data-v1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/p4ulbr4dl3y/ocrrag-sufficiency-data-v1
+  discovered_via: huggingface
+  discovered_at: '2026-11-05'
+  source_id: p4ulbr4dl3y/ocrrag-sufficiency-data-v1
+  source_metadata:
+    repository_id: p4ulbr4dl3y/ocrrag-sufficiency-data-v1
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: p4ulbr4dl3y
+repository_id: p4ulbr4dl3y/ocrrag-sufficiency-data-v1
+usage: []
+annotations: []
+access: unknown

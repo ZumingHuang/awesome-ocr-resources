@@ -4,10 +4,28 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [typhoon-ai/typhoon-ocr2-2b](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b) | 2026-11-05 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-0.8b](https://huggingface.co/typhoon-ai/typhoon-ocr2-0.8b) | 2026-11-05 | text-recognition | candidate | — |
+| [mradermacher/chandra-ocr-2-cultural-heritage-eng-GGUF](https://huggingface.co/mradermacher/chandra-ocr-2-cultural-heritage-eng-GGUF) | 2026-11-05 | handwriting-recognition, text-recognition | candidate | — |
+| [joshuaogunleye/undergrad-ocr-freeform](https://huggingface.co/joshuaogunleye/undergrad-ocr-freeform) | 2026-11-05 | text-recognition | candidate | — |
+| [ywivanov36/review-ocr-freeform](https://huggingface.co/ywivanov36/review-ocr-freeform) | 2026-11-04 | text-recognition | candidate | — |
+| [Youssefx64/Raqim_OCR_Arabic](https://huggingface.co/Youssefx64/Raqim_OCR_Arabic) | 2026-11-04 | handwriting-recognition, text-recognition | candidate | — |
+| [wkhaifor/seal-ocr-ppocrv5](https://huggingface.co/wkhaifor/seal-ocr-ppocrv5) | 2026-11-04 | text-recognition | candidate | — |
+| [RushabhShah122000/qwen3.5-0.8b-ocr-merged-16bit](https://huggingface.co/RushabhShah122000/qwen3.5-0.8b-ocr-merged-16bit) | 2026-11-04 | text-recognition | candidate | — |
+| [RushabhShah122000/qwen3.5-0.8b-ocr-lora](https://huggingface.co/RushabhShah122000/qwen3.5-0.8b-ocr-lora) | 2026-11-04 | text-recognition | candidate | — |
+| [RushabhShah122000/qwen3.5-0.8b-ocr-gguf](https://huggingface.co/RushabhShah122000/qwen3.5-0.8b-ocr-gguf) | 2026-11-04 | text-recognition | candidate | — |
+| [RushabhShah122000/qwen3-vl-4b-ocr-merged-16bit](https://huggingface.co/RushabhShah122000/qwen3-vl-4b-ocr-merged-16bit) | 2026-11-04 | text-recognition | candidate | — |
+| [RushabhShah122000/qwen3-vl-4b-ocr-lora](https://huggingface.co/RushabhShah122000/qwen3-vl-4b-ocr-lora) | 2026-11-04 | text-recognition | candidate | — |
+| [RushabhShah122000/qwen3-vl-4b-ocr-gguf](https://huggingface.co/RushabhShah122000/qwen3-vl-4b-ocr-gguf) | 2026-11-04 | text-recognition | candidate | — |
 | [litert-community/Unlimited-OCR-2](https://huggingface.co/litert-community/Unlimited-OCR-2) | 2026-11-04 | formula-recognition, text-recognition | candidate | — |
+| [ilhamanggraini/notes-ocr-freeform-2024](https://huggingface.co/ilhamanggraini/notes-ocr-freeform-2024) | 2026-11-04 | text-recognition | candidate | — |
 | [Grundik/abkhaz-mkhedruli-ocr-tesseract](https://huggingface.co/Grundik/abkhaz-mkhedruli-ocr-tesseract) | 2026-11-04 | text-recognition | candidate | — |
+| [Grundik/abkhaz-mkhedruli-ocr-paddle](https://huggingface.co/Grundik/abkhaz-mkhedruli-ocr-paddle) | 2026-11-04 | text-recognition | candidate | — |
 | [Grundik/abkhaz-cyrillic-ocr-tesseract](https://huggingface.co/Grundik/abkhaz-cyrillic-ocr-tesseract) | 2026-11-04 | text-recognition | candidate | — |
+| [Grundik/abkhaz-cyrillic-ocr-paddle](https://huggingface.co/Grundik/abkhaz-cyrillic-ocr-paddle) | 2026-11-04 | text-recognition | candidate | — |
+| [Grundik/abkhaz-cyrillic-ocr-florence2](https://huggingface.co/Grundik/abkhaz-cyrillic-ocr-florence2) | 2026-11-04 | text-recognition | candidate | — |
 | [dolphinnlp/qwen3.5-ocr-ft](https://huggingface.co/dolphinnlp/qwen3.5-ocr-ft) | 2026-11-04 | text-recognition | candidate | — |
+| [aungthuhein-dev/Unlimited-OCR-2-bnb-nf4](https://huggingface.co/aungthuhein-dev/Unlimited-OCR-2-bnb-nf4) | 2026-11-04 | text-recognition | candidate | — |
 | [Aiidkx/Unlimited-OCR-2](https://huggingface.co/Aiidkx/Unlimited-OCR-2) | 2026-11-04 | text-recognition | candidate | — |
 | [yale-cultural-heritage/chandra-ocr-2-cultural-heritage-eng](https://huggingface.co/yale-cultural-heritage/chandra-ocr-2-cultural-heritage-eng) | 2026-11-03 | handwriting-recognition, text-recognition | candidate | — |
 | [Sokheng/anaksor-ocr](https://huggingface.co/Sokheng/anaksor-ocr) | 2026-11-03 | text-recognition | candidate | — |

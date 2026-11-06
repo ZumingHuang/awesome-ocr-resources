@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:sashashghome/vllm-ocr-results
+kind: dataset
+name: sashashghome/vllm-ocr-results
+released_at:
+  value: '2026-11-05'
+  precision: day
+added_at: '2026-11-05'
+last_verified_at: '2026-11-05'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/sashashghome/vllm-ocr-results
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/sashashghome/vllm-ocr-results
+  discovered_via: huggingface
+  discovered_at: '2026-11-05'
+  source_id: sashashghome/vllm-ocr-results
+  source_metadata:
+    repository_id: sashashghome/vllm-ocr-results
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: sashashghome
+repository_id: sashashghome/vllm-ocr-results
+usage: []
+annotations: []
+access: unknown
