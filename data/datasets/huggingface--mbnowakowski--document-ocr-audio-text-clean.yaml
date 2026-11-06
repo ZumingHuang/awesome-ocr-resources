@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:mbnowakowski/document-ocr-audio-text-clean
+kind: dataset
+name: mbnowakowski/document-ocr-audio-text-clean
+released_at:
+  value: '2026-11-05'
+  precision: day
+added_at: '2026-11-06'
+last_verified_at: '2026-11-06'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDocument OCR Audio Text Data Notes\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset\
+  \ summary\n\t\n\nThis data card accompanies a lightweight Document OCR loader for Audio Text metadata.\
+  \ It is meant for pipeline inspection, source adaptation, and reproducible split preparation.\n\n\t\n\
+  \t\t\n\t\n\t\n\t\tIncluded material\n\t\n\n\nbuild_dataset.py — loading, cleaning, and split preparation\
+  \ code.\ndataset_infos.json — schema and split metadata.\nmetadata_sample.jsonl — small, human-readable\
+  \ records for checking the schema.\nREADME.md —… See the full description on the dataset page: https://huggingface.co/datasets/mbnowakowski/document-ocr-audio-text-clean."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/mbnowakowski/document-ocr-audio-text-clean
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/mbnowakowski/document-ocr-audio-text-clean
+  discovered_via: huggingface
+  discovered_at: '2026-11-06'
+  source_id: mbnowakowski/document-ocr-audio-text-clean
+  source_metadata:
+    repository_id: mbnowakowski/document-ocr-audio-text-clean
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: mbnowakowski
+repository_id: mbnowakowski/document-ocr-audio-text-clean
+usage: []
+annotations: []
+access: unknown

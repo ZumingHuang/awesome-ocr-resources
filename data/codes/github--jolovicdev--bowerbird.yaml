@@ -1,0 +1,44 @@
+schema_version: 1
+id: code:github:jolovicdev/bowerbird
+kind: code
+name: jolovicdev/bowerbird
+released_at:
+  value: '2026-10-31'
+  precision: day
+added_at: '2026-11-06'
+last_verified_at: '2026-11-06'
+summary: 'Open-source NotebookLM alternative. Local-first research notebook: ask questions about your
+  PDFs, books, web pages, YouTube videos and recordings, and get answers with every quote checked against
+  its source. Any model, plain-file notebooks, local OCR, search and speech. Linux, Windows, Android,
+  web.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/jolovicdev/bowerbird
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/jolovicdev/bowerbird
+  discovered_via: github
+  discovered_at: '2026-11-06'
+  source_id: R_kgDOVejAqA
+  source_metadata:
+    repository: jolovicdev/bowerbird
+    stars: 10
+    language: Rust
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: jolovicdev/bowerbird
+landmark: false
+programming_languages:
+- Rust
+maintenance_status: active

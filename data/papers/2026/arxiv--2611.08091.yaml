@@ -1,0 +1,54 @@
+schema_version: 1
+id: paper:arxiv:2611.08091
+kind: paper
+name: 'ATHAAR: A Medieval Scientific Arabic Manuscript Dataset for Handwritten Text Recognition'
+released_at:
+  value: '2026-11-05'
+  precision: day
+added_at: '2026-11-06'
+last_verified_at: '2026-11-06'
+summary: Despite recent progress in handwritten text recognition, medieval Arabic scientific manuscripts
+  remain an open challenge for current vision-language models (VLMs) due to cursive ligatures, variable
+  diacritization, and more importantly the lack of training data. This paper aims to address this gap,
+  by proposing the first annotation guidelines dedicated to the transcription of scientific Arabic manuscripts
+  inspired by textual criticism, a well-established approach to historical text editing. We then propose,
+  ATHAAR, a new dataset manually annotated following this guideline. Unlike previous resources in the
+  field, ATHAAR varies both witnesses of the same text, calligraphic styles, and content to deal with
+  texts but also numerals. Relying on state-of-the-art VLMs, we finally design a set of experiments to
+  study models transfer across scripts, chapters, and treatises. Our findings highlight the limitations
+  of current systems when faced with the specificities of ancient scientific texts.
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.08091
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.08091
+  discovered_via: arxiv
+  discovered_at: '2026-11-06'
+  source_id: '2611.08091'
+  source_metadata:
+    arxiv_id: '2611.08091'
+    doi: null
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Ismail El Jamiy
+- Khadija Msalek
+- Guillaume Loizelet
+- Farah Benamara
+- Nabil Hathout
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.08091'

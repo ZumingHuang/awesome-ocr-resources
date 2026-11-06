@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:mradermacher/Raqim_OCR_Arabic-GGUF
+kind: model
+name: mradermacher/Raqim_OCR_Arabic-GGUF
+released_at:
+  value: '2026-11-05'
+  precision: day
+added_at: '2026-11-06'
+last_verified_at: '2026-11-06'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/mradermacher/Raqim_OCR_Arabic-GGUF
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/mradermacher/Raqim_OCR_Arabic-GGUF
+  discovered_via: huggingface
+  discovered_at: '2026-11-06'
+  source_id: mradermacher/Raqim_OCR_Arabic-GGUF
+  source_metadata:
+    repository_id: mradermacher/Raqim_OCR_Arabic-GGUF
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: mradermacher
+repository_id: mradermacher/Raqim_OCR_Arabic-GGUF
+deployment: []

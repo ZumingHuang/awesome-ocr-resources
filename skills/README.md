@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [langbot-app/LangBot / skills/skills/langbot-plugin-dev/SKILL.md](https://github.com/langbot-app/LangBot/blob/f66adde797f5a473c513dca365a429807f78c0df/skills/skills/langbot-plugin-dev/SKILL.md) | 2026-11-06 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [xiaomi-research/Xiaomi-OCR-0 / skills/xiaomi-ocr/SKILL.md](https://github.com/xiaomi-research/Xiaomi-OCR-0/blob/b1a9bb4c07060c453785e9151715ccda6b96f0b1/skills/xiaomi-ocr/SKILL.md) | 2026-11-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [LeoYeAI/agent-master-skills / skills/token-optimizer-qsmtco/SKILL.md](https://github.com/LeoYeAI/agent-master-skills/blob/aa96a06b8685e8d15fc97763701493c211f49d46/skills/token-optimizer-qsmtco/SKILL.md) | 2026-11-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [LeoYeAI/agent-master-skills / skills/opencr-skill/SKILL.md](https://github.com/LeoYeAI/agent-master-skills/blob/aa96a06b8685e8d15fc97763701493c211f49d46/skills/opencr-skill/SKILL.md) | 2026-11-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

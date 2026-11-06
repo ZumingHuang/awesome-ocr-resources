@@ -41,6 +41,10 @@ Yakoub Bazi, Sarah Alsaleh, Mohamad M. Al Rahhal, Mohamed A. Mekhtiche, Mansour 
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[document-layout-analysis\]\[text-recognition\]
 
+**ATHAAR: A Medieval Scientific Arabic Manuscript Dataset for Handwritten Text Recognition**
+Ismail El Jamiy, Khadija Msalek, Guillaume Loizelet, Farah Benamara, Nabil Hathout
+\[handwriting-recognition\]\[text-recognition\]
+
 **Back-Tracking from Clarity: Self-Learning to See Text from Afar**
 Duc-Tri Tran, Phi Le Nguyen, Minh Hoai
 \[text-spotting\]\[text-detection\]
