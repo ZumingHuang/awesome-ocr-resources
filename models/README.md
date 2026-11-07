@@ -4,10 +4,28 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [PacifistH/OCR](https://huggingface.co/PacifistH/OCR) | 2026-11-06 | text-recognition | candidate | — |
+| [litert-community/MiniCPM-OCR-Decision-2B-LiteRT](https://huggingface.co/litert-community/MiniCPM-OCR-Decision-2B-LiteRT) | 2026-11-06 | text-recognition | candidate | — |
+| [Hoffmann0412/tmp-ocr-freeform](https://huggingface.co/Hoffmann0412/tmp-ocr-freeform) | 2026-11-06 | text-recognition | candidate | — |
 | [typhoon-ai/typhoon-ocr2-2b](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b) | 2026-11-05 | text-recognition | candidate | — |
 | [typhoon-ai/typhoon-ocr2-0.8b](https://huggingface.co/typhoon-ai/typhoon-ocr2-0.8b) | 2026-11-05 | text-recognition | candidate | — |
+| [Suraponn/typhoon-ocr2-2b](https://huggingface.co/Suraponn/typhoon-ocr2-2b) | 2026-11-05 | text-recognition | candidate | — |
+| [Suraponn/typhoon-ocr2-0.8b](https://huggingface.co/Suraponn/typhoon-ocr2-0.8b) | 2026-11-05 | text-recognition | candidate | — |
+| [Remidesbois/indra-ocr-poneglyph-bubble](https://huggingface.co/Remidesbois/indra-ocr-poneglyph-bubble) | 2026-11-05 | text-recognition | candidate | — |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-v7](https://huggingface.co/p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-v7) | 2026-11-05 | text-recognition | candidate | — |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-v6](https://huggingface.co/p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-v6) | 2026-11-05 | text-recognition | candidate | — |
+| [nhtera/Xiaomi-OCR-0-vi](https://huggingface.co/nhtera/Xiaomi-OCR-0-vi) | 2026-11-05 | text-recognition | candidate | — |
+| [NeuroBit/damba-ocr-pp-ocrv5-latin](https://huggingface.co/NeuroBit/damba-ocr-pp-ocrv5-latin) | 2026-11-05 | text-recognition | candidate | — |
+| [mradermacher/typhoon-ocr2-2b-GGUF](https://huggingface.co/mradermacher/typhoon-ocr2-2b-GGUF) | 2026-11-05 | text-recognition | candidate | — |
+| [mradermacher/typhoon-ocr2-0.8b-GGUF](https://huggingface.co/mradermacher/typhoon-ocr2-0.8b-GGUF) | 2026-11-05 | text-recognition | candidate | — |
+| [mradermacher/Raqim_OCR_Arabic-GGUF](https://huggingface.co/mradermacher/Raqim_OCR_Arabic-GGUF) | 2026-11-05 | handwriting-recognition, text-recognition | candidate | — |
+| [mradermacher/chandra-ocr-2-MTP-Repacked-i1-GGUF](https://huggingface.co/mradermacher/chandra-ocr-2-MTP-Repacked-i1-GGUF) | 2026-11-05 | text-recognition | candidate | — |
 | [mradermacher/chandra-ocr-2-cultural-heritage-eng-GGUF](https://huggingface.co/mradermacher/chandra-ocr-2-cultural-heritage-eng-GGUF) | 2026-11-05 | handwriting-recognition, text-recognition | candidate | — |
+| [michelraphael/ocr-freeform-study](https://huggingface.co/michelraphael/ocr-freeform-study) | 2026-11-05 | text-recognition | candidate | — |
 | [joshuaogunleye/undergrad-ocr-freeform](https://huggingface.co/joshuaogunleye/undergrad-ocr-freeform) | 2026-11-05 | text-recognition | candidate | — |
+| [huggingface-mic/manga-ocr-base-mic](https://huggingface.co/huggingface-mic/manga-ocr-base-mic) | 2026-11-05 | text-recognition | candidate | — |
+| [hok01467/ml-ocr-freeform](https://huggingface.co/hok01467/ml-ocr-freeform) | 2026-11-05 | text-recognition | candidate | — |
+| [ARJUNYADAVra/ocr-freeform](https://huggingface.co/ARJUNYADAVra/ocr-freeform) | 2026-11-05 | text-recognition | candidate | — |
 | [ywivanov36/review-ocr-freeform](https://huggingface.co/ywivanov36/review-ocr-freeform) | 2026-11-04 | text-recognition | candidate | — |
 | [Youssefx64/Raqim_OCR_Arabic](https://huggingface.co/Youssefx64/Raqim_OCR_Arabic) | 2026-11-04 | handwriting-recognition, text-recognition | candidate | — |
 | [wkhaifor/seal-ocr-ppocrv5](https://huggingface.co/wkhaifor/seal-ocr-ppocrv5) | 2026-11-04 | text-recognition | candidate | — |

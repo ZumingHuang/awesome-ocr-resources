@@ -4,7 +4,108 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [doyunjang/document-ocr-corpus](https://huggingface.co/datasets/doyunjang/document-ocr-corpus) | 2026-11-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Depth Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Image Depth records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+clean.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/doyunjang/document-ocr-corpus. |
 | [sashashghome/vllm-ocr-results](https://huggingface.co/datasets/sashashghome/vllm-ocr-results) | 2026-11-05 | text-recognition | candidate | — |
+| [mbnowakowski/document-ocr-audio-text-clean](https://huggingface.co/datasets/mbnowakowski/document-ocr-audio-text-clean) | 2026-11-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Audio Text metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/mbnowakowski/document-ocr-audio-text-clean. |
+| [clouda-ocr/clouda-ocr-real-arabic-printed-pages](https://huggingface.co/datasets/clouda-ocr/clouda-ocr-real-arabic-printed-pages) | 2026-11-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		Clouda OCR — Real Arabic Printed Book Pages (qualified subset)
+	
+
+This dataset contains only real scanned pages of Arabic printed books with
+their paired ground-truth text, published continuously in batches. Every
+published batch passed the acceptance pipeline described below. Pages that did
+not (yet) qualify are not included here; a separate permanent exclusion
+registry (EXCLUSION_REGISTRY.jsonl, aggregated stats only) records each
+excluded/deferred page with its precise reason.… See the full description on the dataset page: https://huggingface.co/datasets/clouda-ocr/clouda-ocr-real-arabic-printed-pages. |
+| [BangorAI/llyfrau-llgc-ocr-1](https://huggingface.co/datasets/BangorAI/llyfrau-llgc-ocr-1) | 2026-11-05 | text-recognition | candidate | 
+	
+		
+	
+	
+		Llyfrau LlGC OCR 1: Drych y Prif Oesoedd (1716) and Enwogion Cymreig (1907)
+	
+
+A new transcription of the two printed Welsh books in
+openai/welsh-texts, the page images released by the
+National Library of Wales and the Welsh Government:
+
+	
+		
+book
+pages
+words
+notes
+
+
+		
+Theophilus Evans, Drych y Prif Oesoedd (1716)
+326
+~87,900
+early-modern print. text keeps the long s (ſ, 4,507 of them) as printed; text_normalised_s replaces it with an ordinary s
+
+
+Thomas Morgan, Enwogion Cymreig… See the full description on the dataset page: https://huggingface.co/datasets/BangorAI/llyfrau-llgc-ocr-1. |
 | [TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2](https://huggingface.co/datasets/TUaxhuiax/cinderpeak-ledger-ocr-ggh2528q7m2) | 2026-11-04 | text-recognition | candidate | 
 	
 		

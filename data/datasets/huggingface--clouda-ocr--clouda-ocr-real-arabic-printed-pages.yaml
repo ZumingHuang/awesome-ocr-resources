@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:clouda-ocr/clouda-ocr-real-arabic-printed-pages
+kind: dataset
+name: clouda-ocr/clouda-ocr-real-arabic-printed-pages
+released_at:
+  value: '2026-11-05'
+  precision: day
+added_at: '2026-11-06'
+last_verified_at: '2026-11-06'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tClouda OCR — Real Arabic Printed Book Pages (qualified subset)\n\t\n\
+  \nThis dataset contains only real scanned pages of Arabic printed books with\ntheir paired ground-truth\
+  \ text, published continuously in batches. Every\npublished batch passed the acceptance pipeline described\
+  \ below. Pages that did\nnot (yet) qualify are not included here; a separate permanent exclusion\nregistry\
+  \ (EXCLUSION_REGISTRY.jsonl, aggregated stats only) records each\nexcluded/deferred page with its precise\
+  \ reason.… See the full description on the dataset page: https://huggingface.co/datasets/clouda-ocr/clouda-ocr-real-arabic-printed-pages."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/clouda-ocr/clouda-ocr-real-arabic-printed-pages
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/clouda-ocr/clouda-ocr-real-arabic-printed-pages
+  discovered_via: huggingface
+  discovered_at: '2026-11-06'
+  source_id: clouda-ocr/clouda-ocr-real-arabic-printed-pages
+  source_metadata:
+    repository_id: clouda-ocr/clouda-ocr-real-arabic-printed-pages
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: clouda-ocr
+repository_id: clouda-ocr/clouda-ocr-real-arabic-printed-pages
+usage: []
+annotations: []
+access: unknown

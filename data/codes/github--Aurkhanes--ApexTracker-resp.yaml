@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:Aurkhanes/ApexTracker-resp
+kind: code
+name: Aurkhanes/ApexTracker-resp
+released_at:
+  value: '2026-11-05'
+  precision: day
+added_at: '2026-11-06'
+last_verified_at: '2026-11-06'
+summary: Privacy-first, non-invasive Apex Legends match tracker using local screen capture and OCR. Community-audited
+  for performance, privacy, and fair-play safety.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Aurkhanes/ApexTracker-resp
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Aurkhanes/ApexTracker-resp
+  discovered_via: github
+  discovered_at: '2026-11-06'
+  source_id: R_kgDOVj6Cfw
+  source_metadata:
+    repository: Aurkhanes/ApexTracker-resp
+    stars: 40
+    language: HTML
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Aurkhanes/ApexTracker-resp
+landmark: false
+programming_languages:
+- HTML
+maintenance_status: active

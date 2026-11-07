@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:langbot-app/LangBot:skills-skills-langbot-plugin-dev-skill-md
+kind: skill
+name: langbot-app/LangBot / skills/skills/langbot-plugin-dev/SKILL.md
+released_at:
+  value: '2026-11-06'
+  precision: day
+added_at: '2026-11-06'
+last_verified_at: '2026-11-06'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/langbot-app/LangBot/blob/f66adde797f5a473c513dca365a429807f78c0df/skills/skills/langbot-plugin-dev/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/langbot-app/LangBot/blob/f66adde797f5a473c513dca365a429807f78c0df/skills/skills/langbot-plugin-dev/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-11-06'
+  source_id: langbot-app/LangBot:skills/skills/langbot-plugin-dev/SKILL.md
+  source_metadata:
+    repository: langbot-app/LangBot
+    manifest_path: skills/skills/langbot-plugin-dev/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: langbot-app/LangBot
+manifest_path: skills/skills/langbot-plugin-dev/SKILL.md
+capabilities: {}

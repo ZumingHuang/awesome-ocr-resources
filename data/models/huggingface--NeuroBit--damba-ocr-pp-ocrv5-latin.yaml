@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:NeuroBit/damba-ocr-pp-ocrv5-latin
+kind: model
+name: NeuroBit/damba-ocr-pp-ocrv5-latin
+released_at:
+  value: '2026-11-05'
+  precision: day
+added_at: '2026-11-06'
+last_verified_at: '2026-11-06'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/NeuroBit/damba-ocr-pp-ocrv5-latin
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/NeuroBit/damba-ocr-pp-ocrv5-latin
+  discovered_via: huggingface
+  discovered_at: '2026-11-06'
+  source_id: NeuroBit/damba-ocr-pp-ocrv5-latin
+  source_metadata:
+    repository_id: NeuroBit/damba-ocr-pp-ocrv5-latin
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: NeuroBit
+repository_id: NeuroBit/damba-ocr-pp-ocrv5-latin
+deployment: []
