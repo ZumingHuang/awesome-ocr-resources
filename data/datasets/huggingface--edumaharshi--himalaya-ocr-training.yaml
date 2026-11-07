@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:edumaharshi/himalaya-ocr-training
+kind: dataset
+name: edumaharshi/himalaya-ocr-training
+released_at:
+  value: '2026-11-06'
+  precision: day
+added_at: '2026-11-07'
+last_verified_at: '2026-11-07'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tHimalaya OCR Training (himalaya-ocr-training)\n\t\n\nPage-level OCR\
+  \ training pairs for Nepali document OCR: every PDF page of\n1,000 books from the OLE Nepal E-Pustakalaya\
+  \ repository\n(pustakalaya.org), rendered to an JPEG image and\npaired with the OCR text produced by\
+  \ Surya v0.17.1 (multilingual\nauto-detect).\n\n\t\n\t\t\nField\nValue\n\n\n\t\t\nBooks / pages\n1,000\
+  \ books, 110,796 paired pages\n\n\nImage format\nJPEG q85, rendered at 150 DPI (same render path the\
+  \ OCR run used: PyMuPDF, LANCZOS, ≤2400 px… See the full description on the dataset page: https://huggingface.co/datasets/edumaharshi/himalaya-ocr-training."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/edumaharshi/himalaya-ocr-training
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/edumaharshi/himalaya-ocr-training
+  discovered_via: huggingface
+  discovered_at: '2026-11-07'
+  source_id: edumaharshi/himalaya-ocr-training
+  source_metadata:
+    repository_id: edumaharshi/himalaya-ocr-training
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: edumaharshi
+repository_id: edumaharshi/himalaya-ocr-training
+usage: []
+annotations: []
+access: unknown

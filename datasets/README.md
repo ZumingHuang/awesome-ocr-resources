@@ -4,6 +4,87 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [masterofaudio2077/egyptian-receipts-ocr](https://huggingface.co/datasets/masterofaudio2077/egyptian-receipts-ocr) | 2026-11-07 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Egyptian synthetic receipts (OCR with boxes)
+	
+
+About 50,000 synthetic Egyptian receipt images with exact text, line boxes, word boxes and key fields. Receipts, bills, tickets, bank slips and handwritten invoices for things people buy or pay for in Egypt (supermarkets, pharmacies, restaurants, fuel, electricity and water bills, Fawry-style payments, taxis and metro, clinics, schools, handwritten rent and repair invoices, and more).
+Read this first: the data is synthetic. The shops… See the full description on the dataset page: https://huggingface.co/datasets/masterofaudio2077/egyptian-receipts-ocr. |
+| [ramenishaan/document-ocr-dataset](https://huggingface.co/datasets/ramenishaan/document-ocr-dataset) | 2026-11-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Video Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Video Text metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+preprocess.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/ramenishaan/document-ocr-dataset. |
+| [edumaharshi/himalaya-ocr-training](https://huggingface.co/datasets/edumaharshi/himalaya-ocr-training) | 2026-11-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Himalaya OCR Training (himalaya-ocr-training)
+	
+
+Page-level OCR training pairs for Nepali document OCR: every PDF page of
+1,000 books from the OLE Nepal E-Pustakalaya repository
+(pustakalaya.org), rendered to an JPEG image and
+paired with the OCR text produced by Surya v0.17.1 (multilingual
+auto-detect).
+
+	
+		
+Field
+Value
+
+
+		
+Books / pages
+1,000 books, 110,796 paired pages
+
+
+Image format
+JPEG q85, rendered at 150 DPI (same render path the OCR run used: PyMuPDF, LANCZOS, ≤2400 px… See the full description on the dataset page: https://huggingface.co/datasets/edumaharshi/himalaya-ocr-training. |
+| [edumaharshi/himalaya-devanagari-ocr](https://huggingface.co/datasets/edumaharshi/himalaya-devanagari-ocr) | 2026-11-06 | text-recognition | candidate | 
+	
+		
+	
+	
+		Himalaya Devanagari OCR (himalaya-devanagari-ocr)
+	
+
+A corpus of OCR-derived full text of ~1,000 Nepali-language books and documents
+in Devanagari script, totaling ~110,800 text pages. The collection includes
+school textbooks and teacher guides, curriculum and examination materials, literary
+works, essays and periodicals, dictionaries/glossaries, and government planning
+documents — largely in Nepali, with smaller amounts of English, Sanskrit, and other
+languages of Nepal.… See the full description on the dataset page: https://huggingface.co/datasets/edumaharshi/himalaya-devanagari-ocr. |
 | [doyunjang/document-ocr-corpus](https://huggingface.co/datasets/doyunjang/document-ocr-corpus) | 2026-11-06 | text-recognition | candidate | 
 	
 		
@@ -252,6 +333,7 @@ dataset_infos.json — schema and split metadata.
 metadata_sample.jsonl — small, human-readable records for checking the schema.
 README.md —… See the full description on the dataset page: https://huggingface.co/datasets/Jaclarke0626/document-ocr-corpus. |
 | [Feroz-Infobay/final_ocr_images](https://huggingface.co/datasets/Feroz-Infobay/final_ocr_images) | 2026-11-04 | text-recognition | candidate | — |
+| [baotnd/meddies-ocr-synth-test](https://huggingface.co/datasets/baotnd/meddies-ocr-synth-test) | 2026-11-04 | text-recognition | candidate | — |
 | [sunbv56/vi-OCR_VQA-desc](https://huggingface.co/datasets/sunbv56/vi-OCR_VQA-desc) | 2026-11-03 | text-recognition | candidate | 
 	
 		
