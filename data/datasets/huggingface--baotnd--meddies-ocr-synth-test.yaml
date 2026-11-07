@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:baotnd/meddies-ocr-synth-test
+kind: dataset
+name: baotnd/meddies-ocr-synth-test
+released_at:
+  value: '2026-11-04'
+  precision: day
+added_at: '2026-11-07'
+last_verified_at: '2026-11-07'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/baotnd/meddies-ocr-synth-test
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/baotnd/meddies-ocr-synth-test
+  discovered_via: huggingface
+  discovered_at: '2026-11-07'
+  source_id: baotnd/meddies-ocr-synth-test
+  source_metadata:
+    repository_id: baotnd/meddies-ocr-synth-test
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: baotnd
+repository_id: baotnd/meddies-ocr-synth-test
+usage: []
+annotations: []
+access: unknown

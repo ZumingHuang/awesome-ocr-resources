@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:androidli/Xiaomi-OCR-0-onnx-int4
+kind: model
+name: androidli/Xiaomi-OCR-0-onnx-int4
+released_at:
+  value: '2026-11-07'
+  precision: day
+added_at: '2026-11-07'
+last_verified_at: '2026-11-07'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/androidli/Xiaomi-OCR-0-onnx-int4
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/androidli/Xiaomi-OCR-0-onnx-int4
+  discovered_via: huggingface
+  discovered_at: '2026-11-07'
+  source_id: androidli/Xiaomi-OCR-0-onnx-int4
+  source_metadata:
+    repository_id: androidli/Xiaomi-OCR-0-onnx-int4
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: androidli
+repository_id: androidli/Xiaomi-OCR-0-onnx-int4
+deployment: []

@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:masterofaudio2077/egyptian-receipts-ocr
+kind: dataset
+name: masterofaudio2077/egyptian-receipts-ocr
+released_at:
+  value: '2026-11-07'
+  precision: day
+added_at: '2026-11-07'
+last_verified_at: '2026-11-07'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tEgyptian synthetic receipts (OCR with boxes)\n\t\n\nAbout 50,000 synthetic\
+  \ Egyptian receipt images with exact text, line boxes, word boxes and key fields. Receipts, bills, tickets,\
+  \ bank slips and handwritten invoices for things people buy or pay for in Egypt (supermarkets, pharmacies,\
+  \ restaurants, fuel, electricity and water bills, Fawry-style payments, taxis and metro, clinics, schools,\
+  \ handwritten rent and repair invoices, and more).\nRead this first: the data is synthetic. The shops…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/masterofaudio2077/egyptian-receipts-ocr."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/masterofaudio2077/egyptian-receipts-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/masterofaudio2077/egyptian-receipts-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-07'
+  source_id: masterofaudio2077/egyptian-receipts-ocr
+  source_metadata:
+    repository_id: masterofaudio2077/egyptian-receipts-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: masterofaudio2077
+repository_id: masterofaudio2077/egyptian-receipts-ocr
+usage: []
+annotations: []
+access: unknown

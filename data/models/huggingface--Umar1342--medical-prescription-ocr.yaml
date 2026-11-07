@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:Umar1342/medical-prescription-ocr
+kind: model
+name: Umar1342/medical-prescription-ocr
+released_at:
+  value: '2026-11-06'
+  precision: day
+added_at: '2026-11-07'
+last_verified_at: '2026-11-07'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Umar1342/medical-prescription-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Umar1342/medical-prescription-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-07'
+  source_id: Umar1342/medical-prescription-ocr
+  source_metadata:
+    repository_id: Umar1342/medical-prescription-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Umar1342
+repository_id: Umar1342/medical-prescription-ocr
+deployment: []
