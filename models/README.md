@@ -4,6 +4,12 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [extraplus/indra-ocr](https://huggingface.co/extraplus/indra-ocr) | 2026-11-08 | handwriting-recognition, text-recognition | candidate | — |
+| [42ailab/GLM-OCR-GGUF](https://huggingface.co/42ailab/GLM-OCR-GGUF) | 2026-11-08 | text-recognition | candidate | — |
+| [Pjiwm/PP-OCRv5-mobile-det](https://huggingface.co/Pjiwm/PP-OCRv5-mobile-det) | 2026-11-07 | text-recognition | candidate | — |
+| [Pjiwm/manga-ocr-base-gguf](https://huggingface.co/Pjiwm/manga-ocr-base-gguf) | 2026-11-07 | text-recognition | candidate | — |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-v9](https://huggingface.co/p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-v9) | 2026-11-07 | text-recognition | candidate | — |
+| [Nicolassuez/ocrs-models](https://huggingface.co/Nicolassuez/ocrs-models) | 2026-11-07 | text-recognition | candidate | — |
 | [mlboydaisuke/PP-OCRv5-OpenVINO](https://huggingface.co/mlboydaisuke/PP-OCRv5-OpenVINO) | 2026-11-07 | text-recognition | candidate | — |
 | [Lucasgitguy-co/Xiaomi-OCR-0-CORD-MLX-LoRA](https://huggingface.co/Lucasgitguy-co/Xiaomi-OCR-0-CORD-MLX-LoRA) | 2026-11-07 | text-recognition | candidate | — |
 | [androidli/Xiaomi-OCR-0-onnx-int4](https://huggingface.co/androidli/Xiaomi-OCR-0-onnx-int4) | 2026-11-07 | text-recognition | candidate | — |
