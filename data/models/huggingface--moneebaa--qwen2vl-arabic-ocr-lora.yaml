@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:moneebaa/qwen2vl-arabic-ocr-lora
+kind: model
+name: moneebaa/qwen2vl-arabic-ocr-lora
+released_at:
+  value: '2026-11-06'
+  precision: day
+added_at: '2026-11-07'
+last_verified_at: '2026-11-07'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/moneebaa/qwen2vl-arabic-ocr-lora
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/moneebaa/qwen2vl-arabic-ocr-lora
+  discovered_via: huggingface
+  discovered_at: '2026-11-07'
+  source_id: moneebaa/qwen2vl-arabic-ocr-lora
+  source_metadata:
+    repository_id: moneebaa/qwen2vl-arabic-ocr-lora
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: moneebaa
+repository_id: moneebaa/qwen2vl-arabic-ocr-lora
+deployment: []
