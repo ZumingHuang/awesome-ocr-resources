@@ -4,7 +4,29 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Suraponn/typhoon-ocr2-2b-MLX-bf16](https://huggingface.co/Suraponn/typhoon-ocr2-2b-MLX-bf16) | 2026-11-09 | text-recognition | candidate | — |
+| [Suraponn/typhoon-ocr2-2b-MLX-8bit](https://huggingface.co/Suraponn/typhoon-ocr2-2b-MLX-8bit) | 2026-11-09 | text-recognition | candidate | — |
+| [Suraponn/typhoon-ocr2-2b-MLX-4bit](https://huggingface.co/Suraponn/typhoon-ocr2-2b-MLX-4bit) | 2026-11-09 | text-recognition | candidate | — |
+| [Suraponn/typhoon-ocr2-2b-GGUF](https://huggingface.co/Suraponn/typhoon-ocr2-2b-GGUF) | 2026-11-09 | text-recognition | candidate | — |
+| [Suraponn/typhoon-ocr2-0.8b-MLX-bf16](https://huggingface.co/Suraponn/typhoon-ocr2-0.8b-MLX-bf16) | 2026-11-09 | text-recognition | candidate | — |
+| [Suraponn/typhoon-ocr2-0.8b-MLX-8bit](https://huggingface.co/Suraponn/typhoon-ocr2-0.8b-MLX-8bit) | 2026-11-09 | text-recognition | candidate | — |
+| [Suraponn/typhoon-ocr2-0.8b-MLX-4bit](https://huggingface.co/Suraponn/typhoon-ocr2-0.8b-MLX-4bit) | 2026-11-09 | text-recognition | candidate | — |
+| [Suraponn/typhoon-ocr2-0.8b-GGUF](https://huggingface.co/Suraponn/typhoon-ocr2-0.8b-GGUF) | 2026-11-09 | text-recognition | candidate | — |
+| [ragarwal/chandra-ocr-2-nvfp4-mtp](https://huggingface.co/ragarwal/chandra-ocr-2-nvfp4-mtp) | 2026-11-09 | text-recognition | candidate | — |
+| [paulaan86/qwen38-27b-ocr-finance-next-r1](https://huggingface.co/paulaan86/qwen38-27b-ocr-finance-next-r1) | 2026-11-08 | document-vqa, text-recognition | candidate | — |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-search](https://huggingface.co/p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-search) | 2026-11-08 | text-recognition | candidate | — |
+| [mradermacher/MiniCPM-OCR-1.0-GGUF](https://huggingface.co/mradermacher/MiniCPM-OCR-1.0-GGUF) | 2026-11-08 | formula-recognition, text-recognition | candidate | — |
+| [mradermacher/akhorika-ocr-v1-GGUF](https://huggingface.co/mradermacher/akhorika-ocr-v1-GGUF) | 2026-11-08 | text-recognition | candidate | — |
+| [metrika-labs/PP-OCRv6_tiny_rec_cyrillic_safetensors](https://huggingface.co/metrika-labs/PP-OCRv6_tiny_rec_cyrillic_safetensors) | 2026-11-08 | text-recognition | candidate | — |
+| [metrika-labs/PP-OCRv6_medium_rec_cyrillic_safetensors](https://huggingface.co/metrika-labs/PP-OCRv6_medium_rec_cyrillic_safetensors) | 2026-11-08 | text-recognition | candidate | — |
+| [Machang-Doniel/bengali-pp-ocrv6-nid](https://huggingface.co/Machang-Doniel/bengali-pp-ocrv6-nid) | 2026-11-08 | text-recognition | candidate | — |
+| [jitvimol/typhoon-ocr2-2b-mlx-bf16](https://huggingface.co/jitvimol/typhoon-ocr2-2b-mlx-bf16) | 2026-11-08 | text-recognition | candidate | — |
+| [jitvimol/typhoon-ocr2-2b-mlx-8bit](https://huggingface.co/jitvimol/typhoon-ocr2-2b-mlx-8bit) | 2026-11-08 | text-recognition | candidate | — |
+| [jitvimol/typhoon-ocr2-0.8b-mlx-bf16](https://huggingface.co/jitvimol/typhoon-ocr2-0.8b-mlx-bf16) | 2026-11-08 | text-recognition | candidate | — |
+| [jitvimol/typhoon-ocr2-0.8b-mlx-8bit](https://huggingface.co/jitvimol/typhoon-ocr2-0.8b-mlx-8bit) | 2026-11-08 | text-recognition | candidate | — |
+| [HaithemH/ocr-jobs](https://huggingface.co/HaithemH/ocr-jobs) | 2026-11-08 | text-recognition | candidate | — |
 | [extraplus/indra-ocr](https://huggingface.co/extraplus/indra-ocr) | 2026-11-08 | handwriting-recognition, text-recognition | candidate | — |
+| [boatchrnthn/typhoon-ocr2-2b-mlx-4Bit](https://huggingface.co/boatchrnthn/typhoon-ocr2-2b-mlx-4Bit) | 2026-11-08 | text-recognition | candidate | — |
 | [42ailab/GLM-OCR-GGUF](https://huggingface.co/42ailab/GLM-OCR-GGUF) | 2026-11-08 | text-recognition | candidate | — |
 | [Pjiwm/PP-OCRv5-mobile-det](https://huggingface.co/Pjiwm/PP-OCRv5-mobile-det) | 2026-11-07 | text-recognition | candidate | — |
 | [Pjiwm/manga-ocr-base-gguf](https://huggingface.co/Pjiwm/manga-ocr-base-gguf) | 2026-11-07 | text-recognition | candidate | — |
@@ -12,6 +34,7 @@
 | [Nicolassuez/ocrs-models](https://huggingface.co/Nicolassuez/ocrs-models) | 2026-11-07 | text-recognition | candidate | — |
 | [mlboydaisuke/PP-OCRv5-OpenVINO](https://huggingface.co/mlboydaisuke/PP-OCRv5-OpenVINO) | 2026-11-07 | text-recognition | candidate | — |
 | [Lucasgitguy-co/Xiaomi-OCR-0-CORD-MLX-LoRA](https://huggingface.co/Lucasgitguy-co/Xiaomi-OCR-0-CORD-MLX-LoRA) | 2026-11-07 | text-recognition | candidate | — |
+| [goku80903/hieroglyph-ocr-qwen3.5-9b-lora](https://huggingface.co/goku80903/hieroglyph-ocr-qwen3.5-9b-lora) | 2026-11-07 | text-recognition | candidate | — |
 | [androidli/Xiaomi-OCR-0-onnx-int4](https://huggingface.co/androidli/Xiaomi-OCR-0-onnx-int4) | 2026-11-07 | text-recognition | candidate | — |
 | [androidli/Xiaomi-OCR-0-ane](https://huggingface.co/androidli/Xiaomi-OCR-0-ane) | 2026-11-07 | text-recognition | candidate | — |
 | [Wenvia/Hyderabad_OCR](https://huggingface.co/Wenvia/Hyderabad_OCR) | 2026-11-06 | text-recognition | candidate | — |

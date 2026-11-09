@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:pathnirvana/sinhala-pali-ocr
+kind: dataset
+name: pathnirvana/sinhala-pali-ocr
+released_at:
+  value: '2026-11-08'
+  precision: day
+added_at: '2026-11-09'
+last_verified_at: '2026-11-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSinhala and Pali OCR: old prints\n\t\n\nThese are scanned pages of Sinhala\
+  \ and Pali books, mostly Buddhist texts printed between the 1870s and 2000s, each paired with a corrected\
+  \ transcription. They were collected to fine-tune a page-level OCR model (e.g. LightOnOCR-2) for old\
+  \ Sinhala-script print, made by Path Nirvana.\n\n\t\n\t\t\n\t\n\t\n\t\tTarget format\n\t\n\nEach target\
+  \ is the page text as UTF-8 Unicode Sinhala (NFC):\n\nLines: one printed line becomes one line of text.\
+  \ A word split by the printer… See the full description on the dataset page: https://huggingface.co/datasets/pathnirvana/sinhala-pali-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/pathnirvana/sinhala-pali-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/pathnirvana/sinhala-pali-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-09'
+  source_id: pathnirvana/sinhala-pali-ocr
+  source_metadata:
+    repository_id: pathnirvana/sinhala-pali-ocr
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: pathnirvana
+repository_id: pathnirvana/sinhala-pali-ocr
+usage: []
+annotations: []
+access: unknown
