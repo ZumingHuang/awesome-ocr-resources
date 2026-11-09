@@ -4,6 +4,24 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Nart/abkhaz-ocr-line-reader](https://huggingface.co/datasets/Nart/abkhaz-ocr-line-reader) | 2026-11-07 | text-recognition | candidate | 
+	
+		
+	
+	
+		Abkhaz OCR — the four-alphabet line reader
+	
+
+From the Bagrat Shinkuba Foundation. One line reader (CRNN + CTC) for all the alphabets Abkhaz
+has been printed in:
+
+modern Abkhaz Cyrillic;
+the Georgian-based alphabet of 1938–54;
+the Latin alphabet of 1928–38, and Marr's analytic alphabet of 1926–28;
+pre-1926 Abkhaz Cyrillic.
+
+This repository holds the trained reader (model/), the code that runs it (code/), and
+the exact training set it was trained on with the weights it started from… See the full description on the dataset page: https://huggingface.co/datasets/Nart/abkhaz-ocr-line-reader. |
 | [masterofaudio2077/egyptian-receipts-ocr](https://huggingface.co/datasets/masterofaudio2077/egyptian-receipts-ocr) | 2026-11-07 | handwriting-recognition, text-recognition | candidate | 
 	
 		
