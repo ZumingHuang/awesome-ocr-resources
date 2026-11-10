@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:keyvan-ai/OCR-Injection-DE
+kind: dataset
+name: keyvan-ai/OCR-Injection-DE
+released_at:
+  value: '2026-11-09'
+  precision: day
+added_at: '2026-11-09'
+last_verified_at: '2026-11-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR-Injection-DE\n\t\n\nA synthetic German document corpus to measure\
+  \ image prompt injection against document vision-language models: does a model\ntranscribe and extract\
+  \ what is on the page, or does it follow (or copy) instructions and fake data hidden in the document,\
+  \ or\nreplace document content with a prior planted in the system prompt? The corpus comes with ground\
+  \ truth, a rule-based scorer\n(no LLM judge) and the raw answers of all measured models.\nAll documents,\
+  \ names, companies… See the full description on the dataset page: https://huggingface.co/datasets/keyvan-ai/OCR-Injection-DE."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/keyvan-ai/OCR-Injection-DE
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/keyvan-ai/OCR-Injection-DE
+  discovered_via: huggingface
+  discovered_at: '2026-11-09'
+  source_id: keyvan-ai/OCR-Injection-DE
+  source_metadata:
+    repository_id: keyvan-ai/OCR-Injection-DE
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: keyvan-ai
+repository_id: keyvan-ai/OCR-Injection-DE
+usage: []
+annotations: []
+access: unknown

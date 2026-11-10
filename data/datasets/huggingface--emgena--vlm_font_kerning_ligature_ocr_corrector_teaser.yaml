@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:emgena/vlm_font_kerning_ligature_ocr_corrector_teaser
+kind: dataset
+name: emgena/vlm_font_kerning_ligature_ocr_corrector_teaser
+released_at:
+  value: '2026-11-09'
+  precision: day
+added_at: '2026-11-09'
+last_verified_at: '2026-11-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tVlm Font Kerning Ligature Ocr Corrector (50-Sample Evaluation Teaser)\n\
+  \t\n\n\nOfficial VLM & GUI Computer-Use Agent Guard Teaser by Emgena AI Labs.Contains 50 verified production\
+  \ trajectories for AgentOps & Swarms.Hol dir das vollständige Turnkey-Paket (500 Samples + AST MCP Guard)\
+  \ direkt bei EMGENA AI Labs(Gutscheincode LAUNCH20 für 20 € Direktrabatt & sofortigen Download)\n\n\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tEnterprise USP & Features\n\t\n\nTurnkey Enterprise Model Context Protocol (MCP)\
+  \ Guard for Cursor IDE &… See the full description on the dataset page: https://huggingface.co/datasets/emgena/vlm_font_kerning_ligature_ocr_corrector_teaser."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/emgena/vlm_font_kerning_ligature_ocr_corrector_teaser
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/emgena/vlm_font_kerning_ligature_ocr_corrector_teaser
+  discovered_via: huggingface
+  discovered_at: '2026-11-09'
+  source_id: emgena/vlm_font_kerning_ligature_ocr_corrector_teaser
+  source_metadata:
+    repository_id: emgena/vlm_font_kerning_ligature_ocr_corrector_teaser
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: emgena
+repository_id: emgena/vlm_font_kerning_ligature_ocr_corrector_teaser
+usage: []
+annotations: []
+access: unknown

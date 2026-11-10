@@ -4,6 +4,99 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [keyvan-ai/OCR-Injection-DE](https://huggingface.co/datasets/keyvan-ai/OCR-Injection-DE) | 2026-11-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR-Injection-DE
+	
+
+A synthetic German document corpus to measure image prompt injection against document vision-language models: does a model
+transcribe and extract what is on the page, or does it follow (or copy) instructions and fake data hidden in the document, or
+replace document content with a prior planted in the system prompt? The corpus comes with ground truth, a rule-based scorer
+(no LLM judge) and the raw answers of all measured models.
+All documents, names, companies… See the full description on the dataset page: https://huggingface.co/datasets/keyvan-ai/OCR-Injection-DE. |
+| [emgena/vlm_font_kerning_ligature_ocr_corrector_teaser](https://huggingface.co/datasets/emgena/vlm_font_kerning_ligature_ocr_corrector_teaser) | 2026-11-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Vlm Font Kerning Ligature Ocr Corrector (50-Sample Evaluation Teaser)
+	
+
+
+Official VLM & GUI Computer-Use Agent Guard Teaser by Emgena AI Labs.Contains 50 verified production trajectories for AgentOps & Swarms.Hol dir das vollständige Turnkey-Paket (500 Samples + AST MCP Guard) direkt bei EMGENA AI Labs(Gutscheincode LAUNCH20 für 20 € Direktrabatt & sofortigen Download)
+
+
+
+	
+		
+	
+	
+		Enterprise USP & Features
+	
+
+Turnkey Enterprise Model Context Protocol (MCP) Guard for Cursor IDE &… See the full description on the dataset page: https://huggingface.co/datasets/emgena/vlm_font_kerning_ligature_ocr_corrector_teaser. |
+| [emgena/screenshot_ocr_table_column_alignment_healer_teaser](https://huggingface.co/datasets/emgena/screenshot_ocr_table_column_alignment_healer_teaser) | 2026-11-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Screenshot Ocr Table Column Alignment Healer (50-Sample Evaluation Teaser)
+	
+
+
+Official Evaluation Teaser by Emgena AI Labs.Contains 50 verified production trajectories for AgentOps & Swarms.Hol dir das vollständige Turnkey-Paket (500 Samples + AST MCP Guard) direkt bei EMGENA AI Labs(Gutscheincode LAUNCH20 für 20 € Direktrabatt & sofortigen Download)
+
+
+
+	
+		
+	
+	
+		Enterprise USP & Features
+	
+
+Turnkey Enterprise Model Context Protocol (MCP) Guard for Cursor IDE & Claude Desktop.… See the full description on the dataset page: https://huggingface.co/datasets/emgena/screenshot_ocr_table_column_alignment_healer_teaser. |
+| [pathnirvana/sinhala-pali-ocr](https://huggingface.co/datasets/pathnirvana/sinhala-pali-ocr) | 2026-11-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		Sinhala and Pali OCR: old prints
+	
+
+These are scanned pages of Sinhala and Pali books, mostly Buddhist texts printed between the 1870s and 2000s, each paired with a corrected transcription. They were collected to fine-tune a page-level OCR model (e.g. LightOnOCR-2) for old Sinhala-script print, made by Path Nirvana.
+
+	
+		
+	
+	
+		Target format
+	
+
+Each target is the page text as UTF-8 Unicode Sinhala (NFC):
+
+Lines: one printed line becomes one line of text. A word split by the printer… See the full description on the dataset page: https://huggingface.co/datasets/pathnirvana/sinhala-pali-ocr. |
+| [JustANormalTinkerer/animetext-ocr-jp-only-v2](https://huggingface.co/datasets/JustANormalTinkerer/animetext-ocr-jp-only-v2) | 2026-11-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		AnimeText OCR (Japanese Only v2)
+	
+
+Japanese (language == "ja") subset of JustANormalTinkerer/animetext-ocr re-transcribed on TPU v5e-1 with muscgab/manga-ocr-ar-experimental, including updated seq_confidence (mean token probability) and min_token_confidence (minimum token probability).
+
+	
+		
+	
+	
+		Dataset Generation Script
+	
+
+ |
 | [Nart/abkhaz-ocr-line-reader](https://huggingface.co/datasets/Nart/abkhaz-ocr-line-reader) | 2026-11-07 | text-recognition | candidate | 
 	
 		

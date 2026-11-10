@@ -1,0 +1,43 @@
+schema_version: 1
+id: dataset:huggingface:JustANormalTinkerer/animetext-ocr-jp-only-v2
+kind: dataset
+name: JustANormalTinkerer/animetext-ocr-jp-only-v2
+released_at:
+  value: '2026-11-08'
+  precision: day
+added_at: '2026-11-09'
+last_verified_at: '2026-11-09'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tAnimeText OCR (Japanese Only v2)\n\t\n\nJapanese (language == \"ja\"\
+  ) subset of JustANormalTinkerer/animetext-ocr re-transcribed on TPU v5e-1 with muscgab/manga-ocr-ar-experimental,\
+  \ including updated seq_confidence (mean token probability) and min_token_confidence (minimum token\
+  \ probability).\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Generation Script\n\t\n\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/JustANormalTinkerer/animetext-ocr-jp-only-v2
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/JustANormalTinkerer/animetext-ocr-jp-only-v2
+  discovered_via: huggingface
+  discovered_at: '2026-11-09'
+  source_id: JustANormalTinkerer/animetext-ocr-jp-only-v2
+  source_metadata:
+    repository_id: JustANormalTinkerer/animetext-ocr-jp-only-v2
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: JustANormalTinkerer
+repository_id: JustANormalTinkerer/animetext-ocr-jp-only-v2
+usage: []
+annotations: []
+access: unknown

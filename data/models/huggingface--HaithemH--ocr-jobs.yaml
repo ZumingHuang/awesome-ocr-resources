@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:HaithemH/ocr-jobs
+kind: model
+name: HaithemH/ocr-jobs
+released_at:
+  value: '2026-11-08'
+  precision: day
+added_at: '2026-11-09'
+last_verified_at: '2026-11-09'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/HaithemH/ocr-jobs
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/HaithemH/ocr-jobs
+  discovered_via: huggingface
+  discovered_at: '2026-11-09'
+  source_id: HaithemH/ocr-jobs
+  source_metadata:
+    repository_id: HaithemH/ocr-jobs
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: HaithemH
+repository_id: HaithemH/ocr-jobs
+deployment: []

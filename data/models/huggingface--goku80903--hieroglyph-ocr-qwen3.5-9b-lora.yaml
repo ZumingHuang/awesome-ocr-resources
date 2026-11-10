@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:goku80903/hieroglyph-ocr-qwen3.5-9b-lora
+kind: model
+name: goku80903/hieroglyph-ocr-qwen3.5-9b-lora
+released_at:
+  value: '2026-11-07'
+  precision: day
+added_at: '2026-11-09'
+last_verified_at: '2026-11-09'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/goku80903/hieroglyph-ocr-qwen3.5-9b-lora
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/goku80903/hieroglyph-ocr-qwen3.5-9b-lora
+  discovered_via: huggingface
+  discovered_at: '2026-11-09'
+  source_id: goku80903/hieroglyph-ocr-qwen3.5-9b-lora
+  source_metadata:
+    repository_id: goku80903/hieroglyph-ocr-qwen3.5-9b-lora
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: goku80903
+repository_id: goku80903/hieroglyph-ocr-qwen3.5-9b-lora
+deployment: []
