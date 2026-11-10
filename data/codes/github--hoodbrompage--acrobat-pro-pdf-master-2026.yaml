@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:hoodbrompage/acrobat-pro-pdf-master-2026
+kind: code
+name: hoodbrompage/acrobat-pro-pdf-master-2026
+released_at:
+  value: '2026-11-06'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: 'Acrobat-Pro-Master-PDF-2026: Professional PDF Editing, OCR, Forms, and E-Signatures for Windows'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/hoodbrompage/acrobat-pro-pdf-master-2026
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/hoodbrompage/acrobat-pro-pdf-master-2026
+  discovered_via: github
+  discovered_at: '2026-11-10'
+  source_id: R_kgDOVlm0Dw
+  source_metadata:
+    repository: hoodbrompage/acrobat-pro-pdf-master-2026
+    stars: 479
+    language: HTML
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: hoodbrompage/acrobat-pro-pdf-master-2026
+landmark: false
+programming_languages:
+- HTML
+maintenance_status: active

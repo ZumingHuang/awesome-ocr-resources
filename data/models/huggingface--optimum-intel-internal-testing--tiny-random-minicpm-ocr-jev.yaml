@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:optimum-intel-internal-testing/tiny-random-minicpm-ocr-jev
+kind: model
+name: optimum-intel-internal-testing/tiny-random-minicpm-ocr-jev
+released_at:
+  value: '2026-11-09'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/optimum-intel-internal-testing/tiny-random-minicpm-ocr-jev
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/optimum-intel-internal-testing/tiny-random-minicpm-ocr-jev
+  discovered_via: huggingface
+  discovered_at: '2026-11-10'
+  source_id: optimum-intel-internal-testing/tiny-random-minicpm-ocr-jev
+  source_metadata:
+    repository_id: optimum-intel-internal-testing/tiny-random-minicpm-ocr-jev
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: optimum-intel-internal-testing
+repository_id: optimum-intel-internal-testing/tiny-random-minicpm-ocr-jev
+deployment: []

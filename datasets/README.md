@@ -4,6 +4,35 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [trestlelabs/odia-ocr-vlm-benchmark](https://huggingface.co/datasets/trestlelabs/odia-ocr-vlm-benchmark) | 2026-11-10 | text-recognition | candidate | — |
+| [superalen/LaTeX_OCR](https://huggingface.co/datasets/superalen/LaTeX_OCR) | 2026-11-10 | text-recognition | candidate | 
+	
+		
+	
+	
+		LaTeX OCR 的数据仓库
+	
+
+本数据仓库是专为 LaTeX_OCR 及 LaTeX_OCR_PRO 制作的数据，来源于 https://zenodo.org/record/56198#.V2p0KTXT6eA 以及 https://www.isical.ac.in/~crohme/ 以及我们自己构建。
+如果这个数据仓库有帮助到你的话，请点亮 ❤️like ++
+后续追加新的数据也会放在这个仓库 ~~
+
+原始数据仓库在github LinXueyuanStdio/Data-for-LaTeX_OCR.
+
+
+	
+		
+	
+	
+		数据集
+	
+
+本仓库有 5 个数据集
+
+small 是小数据集，样本数 110 条，用于测试
+full 是印刷体约 100k 的完整数据集。实际上样本数略小于 100k，因为用 LaTeX 的抽象语法树剔除了很多不能渲染的 LaTeX。
+synthetic_handwrite 是手写体 100k 的完整数据集，基于 full 的公式，使用手写字体合成而来，可以视为人类在纸上的手写体。样本数实际上略小于 100k，理由同上。… See the full description on the dataset page: https://huggingface.co/datasets/superalen/LaTeX_OCR. |
+| [sorika-labs/ocr-data](https://huggingface.co/datasets/sorika-labs/ocr-data) | 2026-11-09 | text-recognition | candidate | — |
 | [keyvan-ai/OCR-Injection-DE](https://huggingface.co/datasets/keyvan-ai/OCR-Injection-DE) | 2026-11-09 | text-recognition | candidate | 
 	
 		
@@ -59,6 +88,55 @@ Official Evaluation Teaser by Emgena AI Labs.Contains 50 verified production tra
 	
 
 Turnkey Enterprise Model Context Protocol (MCP) Guard for Cursor IDE & Claude Desktop.… See the full description on the dataset page: https://huggingface.co/datasets/emgena/screenshot_ocr_table_column_alignment_healer_teaser. |
+| [davanstrien/ocr-board-historical-v0](https://huggingface.co/datasets/davanstrien/ocr-board-historical-v0) | 2026-11-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR leaderboard: 20th-century government documents (v0)
+	
+
+9 OCR models ranked on 338 pages. For each page, a vision-language model compared two transcriptions at a time and picked the more faithful one, or called a tie. ocr-bench ran the comparisons and fitted the ratings. The pages, the transcriptions and the judge's reasons stay private: this repo holds scores only.
+How to read it. A higher rating is better; 1500 is the average rating on each board. The 95% interval is where the… See the full description on the dataset page: https://huggingface.co/datasets/davanstrien/ocr-board-historical-v0. |
+| [akhilbattula/gemma4-31b-odia-ocr-bench-results](https://huggingface.co/datasets/akhilbattula/gemma4-31b-odia-ocr-bench-results) | 2026-11-09 | text-recognition | candidate | 
+	
+		
+	
+	
+		Gemma 4 31B zero-shot on the Odia OCR Benchmark
+	
+
+Zero-shot OCR evaluation of google/gemma-4-31B-it (bf16, vLLM 0.33.0, A100-80GB) on Iftesha/odia-ocr-benchmark — 223 Odia (Oriya) samples across 6 categories. This is, to our knowledge, the first published Odia-specific score for any Gemma 4 model.
+Benchmark another modelFine-tune to improve these scores
+
+
+	
+		
+	
+	
+		Results (CER / WER, lower is better)
+	
+
+
+	
+		
+Category
+n
+CER
+WER
+
+
+		
+Book
+36
+0.249
+0.435
+
+
+Digital
+103
+0.623
+0.660… See the full description on the dataset page: https://huggingface.co/datasets/akhilbattula/gemma4-31b-odia-ocr-bench-results. |
 | [pathnirvana/sinhala-pali-ocr](https://huggingface.co/datasets/pathnirvana/sinhala-pali-ocr) | 2026-11-08 | text-recognition | candidate | 
 	
 		

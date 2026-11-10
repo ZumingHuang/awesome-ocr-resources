@@ -4,6 +4,19 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [pathnirvana/sinhala-pali-ocr-lightonocr-1b](https://huggingface.co/pathnirvana/sinhala-pali-ocr-lightonocr-1b) | 2026-11-10 | text-recognition | candidate | — |
+| [malwaretracer/Unlimited-OCR-GGUF](https://huggingface.co/malwaretracer/Unlimited-OCR-GGUF) | 2026-11-10 | text-recognition | candidate | — |
+| [Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1](https://huggingface.co/Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1) | 2026-11-10 | document-vqa, text-recognition | candidate | — |
+| [Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrboth0.05-ramp-bs16x1](https://huggingface.co/Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrboth0.05-ramp-bs16x1) | 2026-11-10 | document-vqa, text-recognition | candidate | — |
+| [INGMUYLEANG/chakkhu-ocr](https://huggingface.co/INGMUYLEANG/chakkhu-ocr) | 2026-11-10 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-2b-MLX-bf16](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-MLX-bf16) | 2026-11-09 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-2b-MLX-8bit](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-MLX-8bit) | 2026-11-09 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-2b-MLX-4bit](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-MLX-4bit) | 2026-11-09 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-2b-GGUF](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-GGUF) | 2026-11-09 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-0.8b-MLX-bf16](https://huggingface.co/typhoon-ai/typhoon-ocr2-0.8b-MLX-bf16) | 2026-11-09 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-0.8b-MLX-8bit](https://huggingface.co/typhoon-ai/typhoon-ocr2-0.8b-MLX-8bit) | 2026-11-09 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-0.8b-MLX-4bit](https://huggingface.co/typhoon-ai/typhoon-ocr2-0.8b-MLX-4bit) | 2026-11-09 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-0.8b-GGUF](https://huggingface.co/typhoon-ai/typhoon-ocr2-0.8b-GGUF) | 2026-11-09 | text-recognition | candidate | — |
 | [Suraponn/typhoon-ocr2-2b-MLX-bf16](https://huggingface.co/Suraponn/typhoon-ocr2-2b-MLX-bf16) | 2026-11-09 | text-recognition | candidate | — |
 | [Suraponn/typhoon-ocr2-2b-MLX-8bit](https://huggingface.co/Suraponn/typhoon-ocr2-2b-MLX-8bit) | 2026-11-09 | text-recognition | candidate | — |
 | [Suraponn/typhoon-ocr2-2b-MLX-4bit](https://huggingface.co/Suraponn/typhoon-ocr2-2b-MLX-4bit) | 2026-11-09 | text-recognition | candidate | — |
@@ -13,6 +26,15 @@
 | [Suraponn/typhoon-ocr2-0.8b-MLX-4bit](https://huggingface.co/Suraponn/typhoon-ocr2-0.8b-MLX-4bit) | 2026-11-09 | text-recognition | candidate | — |
 | [Suraponn/typhoon-ocr2-0.8b-GGUF](https://huggingface.co/Suraponn/typhoon-ocr2-0.8b-GGUF) | 2026-11-09 | text-recognition | candidate | — |
 | [ragarwal/chandra-ocr-2-nvfp4-mtp](https://huggingface.co/ragarwal/chandra-ocr-2-nvfp4-mtp) | 2026-11-09 | text-recognition | candidate | — |
+| [Quien1/manga-ocr-base-CPT-v2-ONNX](https://huggingface.co/Quien1/manga-ocr-base-CPT-v2-ONNX) | 2026-11-09 | text-recognition | candidate | — |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-v10-clean-sft](https://huggingface.co/p4ulbr4dl3y/ocrrag-lfm3-plain-v10-clean-sft) | 2026-11-09 | text-recognition | candidate | — |
+| [p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-v10](https://huggingface.co/p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-v10) | 2026-11-09 | text-recognition | candidate | — |
+| [optimum-intel-internal-testing/tiny-random-minicpm-ocr-jev](https://huggingface.co/optimum-intel-internal-testing/tiny-random-minicpm-ocr-jev) | 2026-11-09 | text-recognition | candidate | — |
+| [neavo/PP-OCRv6-ONNX](https://huggingface.co/neavo/PP-OCRv6-ONNX) | 2026-11-09 | text-recognition | candidate | — |
+| [mahmoudMagdy1255/ocr-models-gemma-3-4b-it](https://huggingface.co/mahmoudMagdy1255/ocr-models-gemma-3-4b-it) | 2026-11-09 | text-recognition | candidate | — |
+| [mahmoudMagdy1255/egy-legal-doc-ocr](https://huggingface.co/mahmoudMagdy1255/egy-legal-doc-ocr) | 2026-11-09 | text-recognition | candidate | — |
+| [Gabriel/diffu-minicpm-ocr-htr-dspark](https://huggingface.co/Gabriel/diffu-minicpm-ocr-htr-dspark) | 2026-11-09 | handwriting-recognition, text-recognition | candidate | — |
+| [APLUX-Agora/PP-OCRv6-Small](https://huggingface.co/APLUX-Agora/PP-OCRv6-Small) | 2026-11-09 | text-recognition | candidate | — |
 | [paulaan86/qwen38-27b-ocr-finance-next-r1](https://huggingface.co/paulaan86/qwen38-27b-ocr-finance-next-r1) | 2026-11-08 | document-vqa, text-recognition | candidate | — |
 | [p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-search](https://huggingface.co/p4ulbr4dl3y/ocrrag-lfm3-plain-gguf-search) | 2026-11-08 | text-recognition | candidate | — |
 | [mradermacher/MiniCPM-OCR-1.0-GGUF](https://huggingface.co/mradermacher/MiniCPM-OCR-1.0-GGUF) | 2026-11-08 | formula-recognition, text-recognition | candidate | — |
@@ -25,6 +47,7 @@
 | [jitvimol/typhoon-ocr2-0.8b-mlx-bf16](https://huggingface.co/jitvimol/typhoon-ocr2-0.8b-mlx-bf16) | 2026-11-08 | text-recognition | candidate | — |
 | [jitvimol/typhoon-ocr2-0.8b-mlx-8bit](https://huggingface.co/jitvimol/typhoon-ocr2-0.8b-mlx-8bit) | 2026-11-08 | text-recognition | candidate | — |
 | [HaithemH/ocr-jobs](https://huggingface.co/HaithemH/ocr-jobs) | 2026-11-08 | text-recognition | candidate | — |
+| [Gabriel/diffu-minicpm-ocr-htr](https://huggingface.co/Gabriel/diffu-minicpm-ocr-htr) | 2026-11-08 | handwriting-recognition, text-recognition | candidate | — |
 | [extraplus/indra-ocr](https://huggingface.co/extraplus/indra-ocr) | 2026-11-08 | handwriting-recognition, text-recognition | candidate | — |
 | [boatchrnthn/typhoon-ocr2-2b-mlx-4Bit](https://huggingface.co/boatchrnthn/typhoon-ocr2-2b-mlx-4Bit) | 2026-11-08 | text-recognition | candidate | — |
 | [42ailab/GLM-OCR-GGUF](https://huggingface.co/42ailab/GLM-OCR-GGUF) | 2026-11-08 | text-recognition | candidate | — |

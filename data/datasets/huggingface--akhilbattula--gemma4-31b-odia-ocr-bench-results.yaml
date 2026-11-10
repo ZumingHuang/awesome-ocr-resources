@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:akhilbattula/gemma4-31b-odia-ocr-bench-results
+kind: dataset
+name: akhilbattula/gemma4-31b-odia-ocr-bench-results
+released_at:
+  value: '2026-11-09'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGemma 4 31B zero-shot on the Odia OCR Benchmark\n\t\n\nZero-shot OCR\
+  \ evaluation of google/gemma-4-31B-it (bf16, vLLM 0.33.0, A100-80GB) on Iftesha/odia-ocr-benchmark —\
+  \ 223 Odia (Oriya) samples across 6 categories. This is, to our knowledge, the first published Odia-specific\
+  \ score for any Gemma 4 model.\nBenchmark another modelFine-tune to improve these scores\n\n\n\t\n\t\
+  \t\n\t\n\t\n\t\tResults (CER / WER, lower is better)\n\t\n\n\n\t\n\t\t\nCategory\nn\nCER\nWER\n\n\n\t\
+  \t\nBook\n36\n0.249\n0.435\n\n\nDigital\n103\n0.623\n0.660… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/akhilbattula/gemma4-31b-odia-ocr-bench-results."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/akhilbattula/gemma4-31b-odia-ocr-bench-results
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/akhilbattula/gemma4-31b-odia-ocr-bench-results
+  discovered_via: huggingface
+  discovered_at: '2026-11-10'
+  source_id: akhilbattula/gemma4-31b-odia-ocr-bench-results
+  source_metadata:
+    repository_id: akhilbattula/gemma4-31b-odia-ocr-bench-results
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: akhilbattula
+repository_id: akhilbattula/gemma4-31b-odia-ocr-bench-results
+usage: []
+annotations: []
+access: unknown
