@@ -1,0 +1,61 @@
+schema_version: 1
+id: paper:arxiv:2611.12957
+kind: paper
+name: 'DocFS: File Systems as Agentic Reasoning Environments for Complex Multimodal Document Question
+  Answering'
+released_at:
+  value: '2026-11-07'
+  precision: day
+added_at: '2026-11-11'
+last_verified_at: '2026-11-11'
+summary: 'VLM-based agents solve complex tasks by iteratively interacting with environments, and their
+  effectiveness depends heavily on how the environment exposes information and provides tools for acting
+  on it. However, constructing an effective environment for complex multimodal document question answering
+  remains challenging: documents usually span many pages, with multimodal contents distributed across
+  hierarchical sections and linked by cross-modal associations, while existing methods organize documents
+  into structured representations that address only the information side of the environment and lack tools
+  aligned with the structure, limiting agents'' ability to fully exploit it. We observe that file systems
+  naturally combine structure organization with aligned tools: directories and files encode document structure,
+  while file operations provide rich tools to access file contents. Building on this insight, we propose
+  DocFS, a file-system-based agentic framework that reorganizes raw documents as file systems, where directories
+  mirror the section hierarchy and explicit links connect text with figures, tables, and equations. Based
+  on well-established file system tools such as navigation, search, and reading, agents can iteratively
+  explore the document structure, locate relevant evidence, and understand fine-grained local information.
+  Paired with Qwen3.5-Plus, DocFS achieves state-of-the-art performance on MMLongBench-Doc and FinRAGBench-V,
+  outperforming the strongest baselines by 2.9 and 4.3 percentage points, respectively, and is up to 10.3x
+  faster with up to 10.1x fewer tokens than the strongest baseline during reasoning.'
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.12957
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.12957
+  discovered_via: arxiv
+  discovered_at: '2026-11-11'
+  source_id: '2611.12957'
+  source_metadata:
+    arxiv_id: '2611.12957'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Bingdian Zhang
+- Zixuan Li
+- Long Bai
+- Xiaolong Jin
+- Jiafeng Guo
+- Xueqi Cheng
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.12957'

@@ -97,6 +97,10 @@ Michael Farrell
 Siqi Xiang, Zhipeng Xu, Yufei Liu, Junhao Ji, Qing Liu, Zulong Chen, Zhibo Yang, Chunyan Miao, Shijian Lu
 \[document-vqa\]\[formula-recognition\]\[text-recognition\]
 
+**DocFS: File Systems as Agentic Reasoning Environments for Complex Multimodal Document Question Answering**
+Bingdian Zhang, Zixuan Li, Long Bai, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng
+\[document-vqa\]
+
 **DocHop: Benchmarking Out-of-domain Multi-hop Reasoning in Information-Dense Documents**
 Zhuoran Yu, Le Thien Phuc Nguyen, Jaden Park, Xinyi Gu, Zexue He, Soochahn Lee, Rogerio Feris, Yong Jae Lee
 \[document-vqa\]
