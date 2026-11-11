@@ -1,0 +1,63 @@
+schema_version: 1
+id: paper:arxiv:2611.11030
+kind: paper
+name: 'Building and Auditing Chemical Datasets with LLMs: A General LLM-as-a-Judge Framework Applied to
+  Homogeneous Catalytic PET Depolymerisation'
+released_at:
+  value: '2026-11-08'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: Large language models can rapidly extract structured multivariate experimental data from the
+  chemistry literature, yet verifying thousands of generated records without ground truth remains difficult.
+  We present a general, citation-grounded extraction and verification methodology centered on an independent
+  "LLM-as-a-judge", applied to the literature on homogeneous catalytic poly(ethylene terephthalate) (PET)
+  depolymerisation. In this pipeline, an extractor LLM generates schema-enforced records from research
+  papers with citations to document chunks tagged with universally unique identifiers (UUIDs); an independent
+  LLM judge then reads the full paper alongside each record, flags unsupported fields, and proposes cited
+  corrections. Prompt ablations show that requiring chunk-level citations not only provides provenance
+  down to specific paragraphs and tables but also improves extraction accuracy. Before deploying the judge
+  at scale, we benchmarked it against manual evaluation on extractions from a hand-curated reference set
+  of 295 ionic-liquid-catalysed PET glycolysis experiments. The judge agreed with human evaluation on
+  85.7% of reviewed records and was significantly more effective than a heuristic string-matching baseline
+  at catching errors across related experiments. Deployed across 3,942 extracted records from 561 papers,
+  the framework accepted 67.5% of them as written. Its proposed corrections concentrated on quantitative
+  fields, where the extractor often conflated related experiments. We release the extracted dataset with
+  the complete LLM judge audit logs, as well as the Chemistry Data Extractor Toolkit, an open-source application
+  implementing this end-to-end pipeline in a code-free, browser-based environment for document parsing,
+  customizable schema and prompt design, model-agnostic extraction and auditing, interactive provenance-highlighted
+  review, and reproducible dataset bundling.
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.11030
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.11030
+  discovered_via: arxiv
+  discovered_at: '2026-11-10'
+  source_id: '2611.11030'
+  source_metadata:
+    arxiv_id: '2611.11030'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Muhammad bin Javaid
+- Karim K. Ben Hicham
+- Enkhnyam Battulga
+- Alexander Mitsos
+- Martin Grohe
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.11030'

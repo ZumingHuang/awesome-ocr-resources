@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Hubkrereanimate/Secure-PDF-Workstation
+kind: code
+name: Hubkrereanimate/Secure-PDF-Workstation
+released_at:
+  value: '2026-11-06'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: 'Secure PDF Workstation 2026: Standalone desktop package for document editing, conversion, OCR
+  recognition and protected file workflows on Windows x64.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Hubkrereanimate/Secure-PDF-Workstation
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Hubkrereanimate/Secure-PDF-Workstation
+  discovered_via: github
+  discovered_at: '2026-11-10'
+  source_id: R_kgDOVlhmjw
+  source_metadata:
+    repository: Hubkrereanimate/Secure-PDF-Workstation
+    stars: 74
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Hubkrereanimate/Secure-PDF-Workstation
+landmark: false
+programming_languages: []
+maintenance_status: active

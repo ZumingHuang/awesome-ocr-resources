@@ -57,6 +57,10 @@ Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam, Eshat Tanzeem
 Ruoran Xu, Yilun Zhao, Ziyu Chen, Xiaoqiang kang, Arman Cohan
 \[document-vqa\]
 
+**Building and Auditing Chemical Datasets with LLMs: A General LLM-as-a-Judge Framework Applied to Homogeneous Catalytic PET Depolymerisation**
+Muhammad bin Javaid, Karim K. Ben Hicham, Enkhnyam Battulga, Alexander Mitsos, Martin Grohe
+\[document-parsing\]
+
 **CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction**
 Menghao Li, Linjie Mu, Yin Wang, Haotian Hu, Yannian Gu, Lujiayi Xue, Fanyi Wang
 \[text-recognition\]
@@ -361,6 +365,10 @@ Isam Abdullah Balghari, Muhammad Sabieh Anwar
 GuangJian Team, Kaili Huang, Yongshuo Zhang, Bingtao Fu, Changjiang Jiang, Chenfan Qu, Chenfeng Zhang, Fangming Cui, Gaoyang Zhang, Jiangwei Xie, Jianshu Li, Jing Huang, Jingwen Bai, Mingqi Fang, Tao Fang, Weihong Zhang, Wenbo Du, Xiongfei Bai, Xuekang Zhu, Yinan Xia, Zhenming Wang, Jian Liu, Jingjing Liu, Xiang Qi, Weiqiang Wang
 \[text-recognition\]
 
+**RankShift: Evaluating Ranking Instability Across Benchmark Dimensions in Document Parsing**
+Halimat Afolabi, Daeyoung Lee
+\[document-parsing\]\[text-recognition\]
+
 **Read, Parse, Describe: Unified Document Parsing with Visual Element Description Generation**
 Yuheng Chen, Yufan Chen, Zhuojun Cai, Ruiping Liu, Junwei Zheng, Jiale Wei, Di Wen, Weijia Fan, Kunyu Peng, Jiaming Zhang, Rainer Stiefelhagen
 \[document-layout-analysis\]\[document-parsing\]\[text-recognition\]
@@ -432,6 +440,10 @@ Sheridan Feucht, Benno Krojer, Sarah Wang, Henry Abrahamsen, Byron C. Wallace, D
 **ViSAR: Training-Free Adaptive-$k$ Retrieval for Visual Document Question Answering**
 Adrien Mialland, Marc Plantevit, Julien Gallois, Céline Robardet
 \[document-vqa\]\[document-parsing\]
+
+**VisProve: Learning Typed Visual Provenance for Scientific Document Question Answering**
+Jingxuan Wei, Zhengyang Wang, Zheng Guo, Xiaoming Wu, Fuqiang Wang, Xin Wang, Bihui Yu, Yining Wang, Junnan Zhu
+\[document-vqa\]
 
 **VPEvolve: A Self-Evolving Virtual Process Engineer for Computational Lithography**
 Tianyi Li, Wenxuan Dong, Donger Luo, Nan Wang, Yanpeng Chen, Jiaqi Liu, Xinyun Zhang, Hao Geng

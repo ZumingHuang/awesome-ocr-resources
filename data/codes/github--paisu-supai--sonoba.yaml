@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:paisu-supai/sonoba
+kind: code
+name: paisu-supai/sonoba
+released_at:
+  value: '2026-11-07'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: 画面の文字をその場で訳文に置き換える Windows 11 用の常駐アプリ。OCR も翻訳も PC の中で動きます（PP-OCRv6、PLaMo 3 Translate）。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/paisu-supai/sonoba
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/paisu-supai/sonoba
+  discovered_via: github
+  discovered_at: '2026-11-10'
+  source_id: R_kgDOVmBp6g
+  source_metadata:
+    repository: paisu-supai/sonoba
+    stars: 75
+    language: Rust
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: paisu-supai/sonoba
+landmark: false
+programming_languages:
+- Rust
+maintenance_status: active

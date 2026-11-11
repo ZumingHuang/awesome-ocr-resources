@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1
+kind: model
+name: Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1
+released_at:
+  value: '2026-11-10'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: ''
+tasks:
+- document-vqa
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1
+  discovered_via: huggingface
+  discovered_at: '2026-11-10'
+  source_id: Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1
+  source_metadata:
+    repository_id: Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Kus669
+repository_id: Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1
+deployment: []

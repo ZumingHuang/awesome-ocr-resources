@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2611.10642
+kind: paper
+name: 'VisProve: Learning Typed Visual Provenance for Scientific Document Question Answering'
+released_at:
+  value: '2026-11-07'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: Visual citations show where an answer is supported, but not how the cited content contributes
+  to it. In scientific document question answering, a model may read a value directly, compress several
+  observations, or combine evidence to infer a conclusion. We study typed visual provenance, where a system
+  generates an answer together with source regions and explicit support relations. We introduce ReViE,
+  a dataset of 3,941 questions over complete scientific documents, with page, section, and region annotations
+  labeled as Quotation, Compression, or Inference. We further propose VisProve, which augments joint answer
+  and provenance generation with differentiable Spatial Evidence Reading and Evidence-Answer Relation
+  Feedback. VisProve conditions next-token prediction on localized visual evidence and its estimated support
+  relation through a gated norm-bounded residual. On the document-disjoint ReViE test set, VisProve improves
+  Typed-F1 from 3.52 to 5.48 and Section-F1 from 45.99 to 53.24 over joint supervised fine-tuning with
+  the same backbone, while Page-F1 changes only marginally. These results suggest that coupling visual
+  grounding with support relation modeling mainly improves fine-grained provenance, while the low absolute
+  Typed-F1 reveals a substantial gap between answer generation and precise visual evidence attribution.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.10642
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.10642
+  discovered_via: arxiv
+  discovered_at: '2026-11-10'
+  source_id: '2611.10642'
+  source_metadata:
+    arxiv_id: '2611.10642'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Jingxuan Wei
+- Zhengyang Wang
+- Zheng Guo
+- Xiaoming Wu
+- Fuqiang Wang
+- Xin Wang
+- Bihui Yu
+- Yining Wang
+- Junnan Zhu
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.10642'

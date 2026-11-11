@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:cavaldos/Lumio
+kind: code
+name: cavaldos/Lumio
+released_at:
+  value: '2026-11-06'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: Lumio is an open-source, cross-platform launcher designed to help you find, launch, and control
+  everything faster. A lightweight alternative to Spotlight and Raycast.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/cavaldos/Lumio
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/cavaldos/Lumio
+  discovered_via: github
+  discovered_at: '2026-11-10'
+  source_id: R_kgDOVkqyug
+  source_metadata:
+    repository: cavaldos/Lumio
+    stars: 11
+    language: Rust
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: cavaldos/Lumio
+landmark: false
+programming_languages:
+- Rust
+maintenance_status: active

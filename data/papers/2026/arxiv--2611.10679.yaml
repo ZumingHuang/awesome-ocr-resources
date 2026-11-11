@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:2611.10679
+kind: paper
+name: 'RankShift: Evaluating Ranking Instability Across Benchmark Dimensions in Document Parsing'
+released_at:
+  value: '2026-11-07'
+  precision: day
+added_at: '2026-11-10'
+last_verified_at: '2026-11-10'
+summary: 'Document parsing benchmarks are often treated as stable measures of model quality, yet rankings
+  may depend substantially on benchmark design choices. In this work, we present RankShift, a systematic
+  study comparing OCR and vision-language models (VLMs) under controlled variation in dataset composition,
+  matching strategy, and scoring methodology. Using OmniDocBench as a case study, we evaluate the ranking
+  stability of 16 models across 3 dataset configurations, 6 matching strategies, and 3 scoring metrics.
+  We quantify rank stability using pairwise rank correlation, top-k churn, and pairwise reversal rate.
+  Our results show that the interaction between matching strategy and ground truth format is a substantial
+  but understudied driver of instability: scoring against OmniDocBench''s JSON annotations versus its
+  Markdown rendering yields a mean Kendall''s tau of approximately 0.33 under region-level matching strategies,
+  with individual pairs as low as tau = 0.23, compared with tau = 0.77 when each page is scored as a single
+  concatenated string. Dataset composition produces comparable instability across page-type strata (mean
+  tau = 0.48) and layout-type strata (mean tau = 0.49), while the cross-dataset shift from OmniDocBench
+  to Real5''s Scanning reconstruction of the same pages is more stable (tau = 0.80). Metric choice is
+  the most stable dimension, with mean tau of approximately 0.78 across NED, BLEU, and METEOR. These findings
+  indicate that leaderboard position is not solely a property of model capability, motivating leaderboards
+  that report not only headline scores but also the robustness of rankings across reasonable design choices.'
+tasks:
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.10679
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.10679
+  discovered_via: arxiv
+  discovered_at: '2026-11-10'
+  source_id: '2611.10679'
+  source_metadata:
+    arxiv_id: '2611.10679'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Halimat Afolabi
+- Daeyoung Lee
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.10679'
