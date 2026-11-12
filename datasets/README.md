@@ -4,6 +4,27 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [nishhuuxxxxxxxxxxxxxxx/AIDA_ocr_training_data](https://huggingface.co/datasets/nishhuuxxxxxxxxxxxxxxx/AIDA_ocr_training_data) | 2026-11-11 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		OCR training data from AIDA-project
+	
+
+
+
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+The zip file contains textlines and their annotations from AIDA-project. There are ~ 166k textlines that are mainly in Finnish language, but contain a little Swedish and 
+English and little French and German textlines. The textlines contains typewritten and also handwritten lines. Roughly 24 % of the annotated lines are handwritten and the rest are 
+typewritten. The dataset also contains 120 000 synthetic… See the full description on the dataset page: https://huggingface.co/datasets/nishhuuxxxxxxxxxxxxxxx/AIDA_ocr_training_data. |
 | [trestlelabs/odia-ocr-vlm-benchmark](https://huggingface.co/datasets/trestlelabs/odia-ocr-vlm-benchmark) | 2026-11-10 | text-recognition | candidate | — |
 | [superalen/LaTeX_OCR](https://huggingface.co/datasets/superalen/LaTeX_OCR) | 2026-11-10 | text-recognition | candidate | 
 	
@@ -157,6 +178,38 @@ These are scanned pages of Sinhala and Pali books, mostly Buddhist texts printed
 Each target is the page text as UTF-8 Unicode Sinhala (NFC):
 
 Lines: one printed line becomes one line of text. A word split by the printer… See the full description on the dataset page: https://huggingface.co/datasets/pathnirvana/sinhala-pali-ocr. |
+| [khh0106/small-eval-OCRBench](https://huggingface.co/datasets/khh0106/small-eval-OCRBench) | 2026-11-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		small-eval-OCRBench
+	
+
+200 records in default / test.
+Source: echo840/OCRBench
+at revision 92a54bd1384387c178d5a07140a2d85e0a3d12e1; source split contains 1000 records.
+The Parquet file embeds the original image bytes. Native fields, native IDs,
+answer order, choices and conversations are preserved. Additional fields:
+sample_id, source_index, source_revision, images, image_sha256, num_images.
+See manifest.json for source positions, selection order, feature schema,
+record/image… See the full description on the dataset page: https://huggingface.co/datasets/khh0106/small-eval-OCRBench. |
+| [khh0106/eval-OCRBench](https://huggingface.co/datasets/khh0106/eval-OCRBench) | 2026-11-08 | text-recognition | candidate | 
+	
+		
+	
+	
+		eval-OCRBench
+	
+
+1000 records in default / test.
+Source: echo840/OCRBench
+at revision 92a54bd1384387c178d5a07140a2d85e0a3d12e1; source split contains 1000 records.
+The Parquet file embeds the original image bytes. Native fields, native IDs,
+answer order, choices and conversations are preserved. Additional fields:
+sample_id, source_index, source_revision, images, image_sha256, num_images.
+See manifest.json for source positions, selection order, feature schema,
+record/image hashes… See the full description on the dataset page: https://huggingface.co/datasets/khh0106/eval-OCRBench. |
 | [JustANormalTinkerer/animetext-ocr-jp-only-v2](https://huggingface.co/datasets/JustANormalTinkerer/animetext-ocr-jp-only-v2) | 2026-11-08 | text-recognition | candidate | 
 	
 		

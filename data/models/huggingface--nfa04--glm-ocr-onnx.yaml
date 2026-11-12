@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:nfa04/glm-ocr-onnx
+kind: model
+name: nfa04/glm-ocr-onnx
+released_at:
+  value: '2026-11-10'
+  precision: day
+added_at: '2026-11-11'
+last_verified_at: '2026-11-11'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/nfa04/glm-ocr-onnx
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/nfa04/glm-ocr-onnx
+  discovered_via: huggingface
+  discovered_at: '2026-11-11'
+  source_id: nfa04/glm-ocr-onnx
+  source_metadata:
+    repository_id: nfa04/glm-ocr-onnx
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: nfa04
+repository_id: nfa04/glm-ocr-onnx
+deployment: []

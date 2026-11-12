@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:meomeo163/PP-OCRv5-vi-latin-rec-v4
+kind: model
+name: meomeo163/PP-OCRv5-vi-latin-rec-v4
+released_at:
+  value: '2026-11-11'
+  precision: day
+added_at: '2026-11-11'
+last_verified_at: '2026-11-11'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/meomeo163/PP-OCRv5-vi-latin-rec-v4
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/meomeo163/PP-OCRv5-vi-latin-rec-v4
+  discovered_via: huggingface
+  discovered_at: '2026-11-11'
+  source_id: meomeo163/PP-OCRv5-vi-latin-rec-v4
+  source_metadata:
+    repository_id: meomeo163/PP-OCRv5-vi-latin-rec-v4
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: meomeo163
+repository_id: meomeo163/PP-OCRv5-vi-latin-rec-v4
+deployment: []

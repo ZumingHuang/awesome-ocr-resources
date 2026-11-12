@@ -4,11 +4,23 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [randomguyforrealszzzzzzzz/GLM-OCR](https://huggingface.co/randomguyforrealszzzzzzzz/GLM-OCR) | 2026-11-11 | text-recognition | candidate | — |
+| [muyleanging/Chakkhu-OCR-Khmer-ONNX](https://huggingface.co/muyleanging/Chakkhu-OCR-Khmer-ONNX) | 2026-11-11 | text-recognition | candidate | — |
+| [meomeo163/PP-OCRv5-vi-latin-rec-v4](https://huggingface.co/meomeo163/PP-OCRv5-vi-latin-rec-v4) | 2026-11-11 | text-recognition | candidate | — |
+| [Jamesl0l/Xiaomi-OCR-0](https://huggingface.co/Jamesl0l/Xiaomi-OCR-0) | 2026-11-11 | text-recognition | candidate | — |
+| [yunyu1258/minicpm-ocr-1.0-ax650](https://huggingface.co/yunyu1258/minicpm-ocr-1.0-ax650) | 2026-11-10 | text-recognition | candidate | — |
 | [pathnirvana/sinhala-pali-ocr-lightonocr-1b](https://huggingface.co/pathnirvana/sinhala-pali-ocr-lightonocr-1b) | 2026-11-10 | text-recognition | candidate | — |
+| [nfa04/glm-ocr-onnx](https://huggingface.co/nfa04/glm-ocr-onnx) | 2026-11-10 | handwriting-recognition, text-recognition | candidate | — |
+| [muyleanging/Chakkhu-OCR-Khmer](https://huggingface.co/muyleanging/Chakkhu-OCR-Khmer) | 2026-11-10 | text-recognition | candidate | — |
+| [masterofaudio2077/arabic-nougat-base-books-ocr-onnx-int8](https://huggingface.co/masterofaudio2077/arabic-nougat-base-books-ocr-onnx-int8) | 2026-11-10 | text-recognition | candidate | — |
 | [malwaretracer/Unlimited-OCR-GGUF](https://huggingface.co/malwaretracer/Unlimited-OCR-GGUF) | 2026-11-10 | text-recognition | candidate | — |
+| [lucasafoliveira/Xiaomi-OCR-0-mlx-fp16](https://huggingface.co/lucasafoliveira/Xiaomi-OCR-0-mlx-fp16) | 2026-11-10 | text-recognition | candidate | — |
+| [lucasafoliveira/Xiaomi-OCR-0-mlx-4Bit](https://huggingface.co/lucasafoliveira/Xiaomi-OCR-0-mlx-4Bit) | 2026-11-10 | text-recognition | candidate | — |
+| [lenhanm1/enterprise-printed-ocr-vietocr-tesseract](https://huggingface.co/lenhanm1/enterprise-printed-ocr-vietocr-tesseract) | 2026-11-10 | text-recognition | candidate | — |
 | [Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1](https://huggingface.co/Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrcross0.05-ramp-bs16x1) | 2026-11-10 | document-vqa, text-recognition | candidate | — |
 | [Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrboth0.05-ramp-bs16x1](https://huggingface.co/Kus669/ViSceT5-8e1f61b-vitextvqa-qv-cf-dove-ocrboth0.05-ramp-bs16x1) | 2026-11-10 | document-vqa, text-recognition | candidate | — |
 | [INGMUYLEANG/chakkhu-ocr](https://huggingface.co/INGMUYLEANG/chakkhu-ocr) | 2026-11-10 | text-recognition | candidate | — |
+| [gagni/ocrs-models](https://huggingface.co/gagni/ocrs-models) | 2026-11-10 | text-recognition | candidate | — |
 | [typhoon-ai/typhoon-ocr2-2b-MLX-bf16](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-MLX-bf16) | 2026-11-09 | text-recognition | candidate | — |
 | [typhoon-ai/typhoon-ocr2-2b-MLX-8bit](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-MLX-8bit) | 2026-11-09 | text-recognition | candidate | — |
 | [typhoon-ai/typhoon-ocr2-2b-MLX-4bit](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-MLX-4bit) | 2026-11-09 | text-recognition | candidate | — |
@@ -33,6 +45,7 @@
 | [neavo/PP-OCRv6-ONNX](https://huggingface.co/neavo/PP-OCRv6-ONNX) | 2026-11-09 | text-recognition | candidate | — |
 | [mahmoudMagdy1255/ocr-models-gemma-3-4b-it](https://huggingface.co/mahmoudMagdy1255/ocr-models-gemma-3-4b-it) | 2026-11-09 | text-recognition | candidate | — |
 | [mahmoudMagdy1255/egy-legal-doc-ocr](https://huggingface.co/mahmoudMagdy1255/egy-legal-doc-ocr) | 2026-11-09 | text-recognition | candidate | — |
+| [iapp/OpenThai2.0-OCR-Markdown](https://huggingface.co/iapp/OpenThai2.0-OCR-Markdown) | 2026-11-09 | text-recognition | candidate | — |
 | [Gabriel/diffu-minicpm-ocr-htr-dspark](https://huggingface.co/Gabriel/diffu-minicpm-ocr-htr-dspark) | 2026-11-09 | handwriting-recognition, text-recognition | candidate | — |
 | [APLUX-Agora/PP-OCRv6-Small](https://huggingface.co/APLUX-Agora/PP-OCRv6-Small) | 2026-11-09 | text-recognition | candidate | — |
 | [paulaan86/qwen38-27b-ocr-finance-next-r1](https://huggingface.co/paulaan86/qwen38-27b-ocr-finance-next-r1) | 2026-11-08 | document-vqa, text-recognition | candidate | — |
