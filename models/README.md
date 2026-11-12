@@ -4,10 +4,17 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Kus669/ViSceT5-5ebe84f-openvivqa-qavit-gj-gr-cf-twoviews-p35-ocrboth0.05-ramp-bs16x1](https://huggingface.co/Kus669/ViSceT5-5ebe84f-openvivqa-qavit-gj-gr-cf-twoviews-p35-ocrboth0.05-ramp-bs16x1) | 2026-11-12 | text-recognition | candidate | — |
+| [Wenvia/Arjuna_OCR_Telangana_V2](https://huggingface.co/Wenvia/Arjuna_OCR_Telangana_V2) | 2026-11-11 | text-recognition | candidate | — |
+| [Soulfate24/Unlimited-OCR-2-Paretrix-GGUF](https://huggingface.co/Soulfate24/Unlimited-OCR-2-Paretrix-GGUF) | 2026-11-11 | text-recognition | candidate | — |
+| [Soulfate24/MiniCPM-OCR-1.0-DSpark-Paretrix-GGUF](https://huggingface.co/Soulfate24/MiniCPM-OCR-1.0-DSpark-Paretrix-GGUF) | 2026-11-11 | formula-recognition, text-recognition | candidate | — |
 | [randomguyforrealszzzzzzzz/GLM-OCR](https://huggingface.co/randomguyforrealszzzzzzzz/GLM-OCR) | 2026-11-11 | text-recognition | candidate | — |
+| [optimum-intel-internal-testing/tiny-random-minicpm-ocr-dspark](https://huggingface.co/optimum-intel-internal-testing/tiny-random-minicpm-ocr-dspark) | 2026-11-11 | text-recognition | candidate | — |
 | [muyleanging/Chakkhu-OCR-Khmer-ONNX](https://huggingface.co/muyleanging/Chakkhu-OCR-Khmer-ONNX) | 2026-11-11 | text-recognition | candidate | — |
 | [meomeo163/PP-OCRv5-vi-latin-rec-v4](https://huggingface.co/meomeo163/PP-OCRv5-vi-latin-rec-v4) | 2026-11-11 | text-recognition | candidate | — |
 | [Jamesl0l/Xiaomi-OCR-0](https://huggingface.co/Jamesl0l/Xiaomi-OCR-0) | 2026-11-11 | text-recognition | candidate | — |
+| [Gabriel/diffu-minicpm-ocr-htr-jev](https://huggingface.co/Gabriel/diffu-minicpm-ocr-htr-jev) | 2026-11-11 | handwriting-recognition, text-recognition | candidate | — |
+| [AdammKhan1/urdu-ocr-good-model](https://huggingface.co/AdammKhan1/urdu-ocr-good-model) | 2026-11-11 | text-recognition | candidate | — |
 | [yunyu1258/minicpm-ocr-1.0-ax650](https://huggingface.co/yunyu1258/minicpm-ocr-1.0-ax650) | 2026-11-10 | text-recognition | candidate | — |
 | [pathnirvana/sinhala-pali-ocr-lightonocr-1b](https://huggingface.co/pathnirvana/sinhala-pali-ocr-lightonocr-1b) | 2026-11-10 | text-recognition | candidate | — |
 | [nfa04/glm-ocr-onnx](https://huggingface.co/nfa04/glm-ocr-onnx) | 2026-11-10 | handwriting-recognition, text-recognition | candidate | — |

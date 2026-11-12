@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:ieasybooks-org/quran-detect-ocr
+kind: dataset
+name: ieasybooks-org/quran-detect-ocr
+released_at:
+  value: '2026-11-12'
+  precision: day
+added_at: '2026-11-12'
+last_verified_at: '2026-11-12'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tQuran Quotations in OCR Book Pages\n\t\n\n500 scanned pages of Arabic\
+  \ books with their OCR text and labelled Quran quotations: a test set for finding quotations in noisy\
+  \ text and restoring them to the exact canonical wording. It is the OCR benchmark of quran-detect. There\
+  \ is only a test split.\nfrom datasets import load_dataset\n\npages = load_dataset(\"ieasybooks-org/quran-detect-ocr\"\
+  , split=\"test\")\npage = pages[0]\npage[\"image\"]          # the scanned page\npage[\"ocr_text\"]\
+  \       # its OCR… See the full description on the dataset page: https://huggingface.co/datasets/ieasybooks-org/quran-detect-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/ieasybooks-org/quran-detect-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/ieasybooks-org/quran-detect-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-12'
+  source_id: ieasybooks-org/quran-detect-ocr
+  source_metadata:
+    repository_id: ieasybooks-org/quran-detect-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: ieasybooks-org
+repository_id: ieasybooks-org/quran-detect-ocr
+usage: []
+annotations: []
+access: unknown

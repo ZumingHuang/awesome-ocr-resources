@@ -4,6 +4,58 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [ieasybooks-org/quran-detect-ocr](https://huggingface.co/datasets/ieasybooks-org/quran-detect-ocr) | 2026-11-12 | text-recognition | candidate | 
+	
+		
+	
+	
+		Quran Quotations in OCR Book Pages
+	
+
+500 scanned pages of Arabic books with their OCR text and labelled Quran quotations: a test set for finding quotations in noisy text and restoring them to the exact canonical wording. It is the OCR benchmark of quran-detect. There is only a test split.
+from datasets import load_dataset
+
+pages = load_dataset("ieasybooks-org/quran-detect-ocr", split="test")
+page = pages[0]
+page["image"]          # the scanned page
+page["ocr_text"]       # its OCR… See the full description on the dataset page: https://huggingface.co/datasets/ieasybooks-org/quran-detect-ocr. |
+| [yzk/veda-ocr](https://huggingface.co/datasets/yzk/veda-ocr) | 2026-11-11 | text-recognition | candidate | 
+	
+		
+	
+	
+		Veda OCR Dataset
+	
+
+Line images from printed editions of Vedic Saṃhitās, paired with transcriptions
+(ISO 15919, NFC). One config per text. There is no fixed train/test split, so
+choose your own; splitting by page avoids leakage between neighbouring lines.
+
+	
+		
+Config
+Text
+Printed edition
+Rows
+
+
+		
+ms
+Maitrāyaṇī Saṃhitā
+von Schroeder, 1881–1886, vols. 1–4
+11,720
+
+
+ks
+Kāṭhaka Saṃhitā
+von Schroeder, 1900–1910, vols. 1–3
+11,531
+
+
+ts
+Taittirīya Saṃhitā
+Weber, 1871–1872, vols. 1–2
+14… See the full description on the dataset page: https://huggingface.co/datasets/yzk/veda-ocr. |
 | [nishhuuxxxxxxxxxxxxxxx/AIDA_ocr_training_data](https://huggingface.co/datasets/nishhuuxxxxxxxxxxxxxxx/AIDA_ocr_training_data) | 2026-11-11 | handwriting-recognition, text-recognition | candidate | 
 	
 		

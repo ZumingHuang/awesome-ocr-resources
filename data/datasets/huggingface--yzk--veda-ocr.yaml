@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:yzk/veda-ocr
+kind: dataset
+name: yzk/veda-ocr
+released_at:
+  value: '2026-11-11'
+  precision: day
+added_at: '2026-11-12'
+last_verified_at: '2026-11-12'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tVeda OCR Dataset\n\t\n\nLine images from printed editions of Vedic Saṃhitās,\
+  \ paired with transcriptions\n(ISO 15919, NFC). One config per text. There is no fixed train/test split,\
+  \ so\nchoose your own; splitting by page avoids leakage between neighbouring lines.\n\n\t\n\t\t\nConfig\n\
+  Text\nPrinted edition\nRows\n\n\n\t\t\nms\nMaitrāyaṇī Saṃhitā\nvon Schroeder, 1881–1886, vols. 1–4\n\
+  11,720\n\n\nks\nKāṭhaka Saṃhitā\nvon Schroeder, 1900–1910, vols. 1–3\n11,531\n\n\nts\nTaittirīya Saṃhitā\n\
+  Weber, 1871–1872, vols. 1–2\n14… See the full description on the dataset page: https://huggingface.co/datasets/yzk/veda-ocr."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/yzk/veda-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/yzk/veda-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-12'
+  source_id: yzk/veda-ocr
+  source_metadata:
+    repository_id: yzk/veda-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: yzk
+repository_id: yzk/veda-ocr
+usage: []
+annotations: []
+access: unknown
