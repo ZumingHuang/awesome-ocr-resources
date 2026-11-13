@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:Terminal-3/private-doc-scanner
+kind: code
+name: Terminal-3/private-doc-scanner
+released_at:
+  value: '2026-11-10'
+  precision: day
+added_at: '2026-11-13'
+last_verified_at: '2026-11-13'
+summary: 'Open-source private document scanner for AI: reads documents on your device and seals private
+  data to your own Terminal 3 (https://terminal3.io/products/agent-developer-kit) vault'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Terminal-3/private-doc-scanner
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Terminal-3/private-doc-scanner
+  discovered_via: github
+  discovered_at: '2026-11-13'
+  source_id: R_kgDOVo1tkw
+  source_metadata:
+    repository: Terminal-3/private-doc-scanner
+    stars: 13
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Terminal-3/private-doc-scanner
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

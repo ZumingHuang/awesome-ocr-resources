@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:tw4/lumela
+kind: code
+name: tw4/lumela
+released_at:
+  value: '2026-11-10'
+  precision: day
+added_at: '2026-11-13'
+last_verified_at: '2026-11-13'
+summary: 'CleanShot-style screenshots for Windows, macOS and Linux. Free and open source: capture, beautify,
+  annotate, copy text (on-device OCR), and emails, card numbers, IPs and API keys are blurred for you.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/tw4/lumela
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/tw4/lumela
+  discovered_via: github
+  discovered_at: '2026-11-13'
+  source_id: R_kgDOVpWtMA
+  source_metadata:
+    repository: tw4/lumela
+    stars: 24
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: tw4/lumela
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

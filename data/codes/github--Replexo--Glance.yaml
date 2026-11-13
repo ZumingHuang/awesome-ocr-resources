@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:Replexo/Glance
+kind: code
+name: Replexo/Glance
+released_at:
+  value: '2026-11-08'
+  precision: day
+added_at: '2026-11-13'
+last_verified_at: '2026-11-13'
+summary: Fast image viewer and photo editor for Linux. Mark up, annotate, crop, adjust colours and copy
+  text from images (OCR). GTK 4 and libadwaita, fork of GNOME Loupe.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Replexo/Glance
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Replexo/Glance
+  discovered_via: github
+  discovered_at: '2026-11-13'
+  source_id: R_kgDOVnU9Iw
+  source_metadata:
+    repository: Replexo/Glance
+    stars: 22
+    language: Rust
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Replexo/Glance
+landmark: false
+programming_languages:
+- Rust
+maintenance_status: active

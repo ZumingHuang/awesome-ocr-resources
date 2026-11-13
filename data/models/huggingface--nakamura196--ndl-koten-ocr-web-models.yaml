@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:nakamura196/ndl-koten-ocr-web-models
+kind: model
+name: nakamura196/ndl-koten-ocr-web-models
+released_at:
+  value: '2026-11-12'
+  precision: day
+added_at: '2026-11-13'
+last_verified_at: '2026-11-13'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/nakamura196/ndl-koten-ocr-web-models
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/nakamura196/ndl-koten-ocr-web-models
+  discovered_via: huggingface
+  discovered_at: '2026-11-13'
+  source_id: nakamura196/ndl-koten-ocr-web-models
+  source_metadata:
+    repository_id: nakamura196/ndl-koten-ocr-web-models
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: nakamura196
+repository_id: nakamura196/ndl-koten-ocr-web-models
+deployment: []

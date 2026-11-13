@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [TUaxhuiax/tmp-ocr-0d0590a1](https://huggingface.co/datasets/TUaxhuiax/tmp-ocr-0d0590a1) | 2026-11-13 | text-recognition | candidate | — |
 | [ieasybooks-org/quran-detect-ocr](https://huggingface.co/datasets/ieasybooks-org/quran-detect-ocr) | 2026-11-12 | text-recognition | candidate | 
 	
 		
