@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:AdammKhan1/urdu-ocr-good-model
+kind: model
+name: AdammKhan1/urdu-ocr-good-model
+released_at:
+  value: '2026-11-11'
+  precision: day
+added_at: '2026-11-12'
+last_verified_at: '2026-11-12'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/AdammKhan1/urdu-ocr-good-model
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/AdammKhan1/urdu-ocr-good-model
+  discovered_via: huggingface
+  discovered_at: '2026-11-12'
+  source_id: AdammKhan1/urdu-ocr-good-model
+  source_metadata:
+    repository_id: AdammKhan1/urdu-ocr-good-model
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: AdammKhan1
+repository_id: AdammKhan1/urdu-ocr-good-model
+deployment: []
