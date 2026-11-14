@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Gritworks/synthetic-invoice-po-ocr-sample
+kind: dataset
+name: Gritworks/synthetic-invoice-po-ocr-sample
+released_at:
+  value: '2026-11-14'
+  precision: day
+added_at: '2026-11-14'
+last_verified_at: '2026-11-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGritWorks OCR & Extraction: synthetic document sample\n\t\n\nA free\
+  \ preview of the OCR & Extraction sample pack from GritWorks: a connected purchase-order-to-statement\
+  \ workflow from one fictional trading relationship: purchase order, goods and services invoices, credit\
+  \ memo and account statement, with line items, totals, credits and reference fields.\nEach document\
+  \ comes as a clean PDF and a degraded capture (for example blur, photocopy, coffee stain, skew, crop\
+  \ or low light), with… See the full description on the dataset page: https://huggingface.co/datasets/Gritworks/synthetic-invoice-po-ocr-sample."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Gritworks/synthetic-invoice-po-ocr-sample
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Gritworks/synthetic-invoice-po-ocr-sample
+  discovered_via: huggingface
+  discovered_at: '2026-11-14'
+  source_id: Gritworks/synthetic-invoice-po-ocr-sample
+  source_metadata:
+    repository_id: Gritworks/synthetic-invoice-po-ocr-sample
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Gritworks
+repository_id: Gritworks/synthetic-invoice-po-ocr-sample
+usage: []
+annotations: []
+access: unknown
