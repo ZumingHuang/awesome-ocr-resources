@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [omagents/omagents / skills/markitdown-converter/SKILL.md](https://github.com/omagents/omagents/blob/766431cf35dfdd23491852bf01953a9d62c2145e/skills/markitdown-converter/SKILL.md) | 2026-11-13 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [JuneYaooo/teacher-to-skills / SKILL.md](https://github.com/JuneYaooo/teacher-to-skills/blob/0ca966c83044d36eee1103861b7e7e64dd5787bf/SKILL.md) | 2026-11-10 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [langbot-app/LangBot / skills/skills/langbot-plugin-dev/SKILL.md](https://github.com/langbot-app/LangBot/blob/f66adde797f5a473c513dca365a429807f78c0df/skills/skills/langbot-plugin-dev/SKILL.md) | 2026-11-06 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [xiaomi-research/Xiaomi-OCR-0 / skills/xiaomi-ocr/SKILL.md](https://github.com/xiaomi-research/Xiaomi-OCR-0/blob/b1a9bb4c07060c453785e9151715ccda6b96f0b1/skills/xiaomi-ocr/SKILL.md) | 2026-11-04 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

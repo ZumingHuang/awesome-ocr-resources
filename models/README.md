@@ -4,7 +4,18 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [typhoon-ai/typhoon-ocr2-2b-eagle3](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-eagle3) | 2026-11-13 | text-recognition | candidate | — |
+| [CharlZKP/OpenThai2.0-OCR-Markdown-ONNX](https://huggingface.co/CharlZKP/OpenThai2.0-OCR-Markdown-ONNX) | 2026-11-13 | text-recognition | candidate | — |
+| [alexmultiagent/yila-ocr](https://huggingface.co/alexmultiagent/yila-ocr) | 2026-11-13 | text-recognition | candidate | — |
+| [OtoroSI/MiniCPM-OCR-1.0-PL-otoro-si-Q8_0](https://huggingface.co/OtoroSI/MiniCPM-OCR-1.0-PL-otoro-si-Q8_0) | 2026-11-12 | text-recognition | candidate | — |
+| [nakamura196/ndl-koten-ocr-web-models](https://huggingface.co/nakamura196/ndl-koten-ocr-web-models) | 2026-11-12 | text-recognition | candidate | — |
+| [masterofaudio2077/indra-ocr-egyptian-receipts-v3](https://huggingface.co/masterofaudio2077/indra-ocr-egyptian-receipts-v3) | 2026-11-12 | text-recognition | candidate | — |
 | [Kus669/ViSceT5-5ebe84f-openvivqa-qavit-gj-gr-cf-twoviews-p35-ocrboth0.05-ramp-bs16x1](https://huggingface.co/Kus669/ViSceT5-5ebe84f-openvivqa-qavit-gj-gr-cf-twoviews-p35-ocrboth0.05-ramp-bs16x1) | 2026-11-12 | text-recognition | candidate | — |
+| [g3ida/absir-arabic-ocr-mini](https://huggingface.co/g3ida/absir-arabic-ocr-mini) | 2026-11-12 | text-recognition | candidate | — |
+| [fwgpiyawudk/OpenThai2.0-OCR-Markdown-MLX-bf16](https://huggingface.co/fwgpiyawudk/OpenThai2.0-OCR-Markdown-MLX-bf16) | 2026-11-12 | text-recognition | candidate | — |
+| [fwgpiyawudk/OpenThai2.0-OCR-Markdown-MLX-8bit](https://huggingface.co/fwgpiyawudk/OpenThai2.0-OCR-Markdown-MLX-8bit) | 2026-11-12 | text-recognition | candidate | — |
+| [ArmanNr/OpenThai2.0-OCR-Markdown](https://huggingface.co/ArmanNr/OpenThai2.0-OCR-Markdown) | 2026-11-12 | text-recognition | candidate | — |
+| [ahkterhusin/rohingya-ocr](https://huggingface.co/ahkterhusin/rohingya-ocr) | 2026-11-12 | text-recognition | candidate | — |
 | [Wenvia/Arjuna_OCR_Telangana_V2](https://huggingface.co/Wenvia/Arjuna_OCR_Telangana_V2) | 2026-11-11 | text-recognition | candidate | — |
 | [Soulfate24/Unlimited-OCR-2-Paretrix-GGUF](https://huggingface.co/Soulfate24/Unlimited-OCR-2-Paretrix-GGUF) | 2026-11-11 | text-recognition | candidate | — |
 | [Soulfate24/MiniCPM-OCR-1.0-DSpark-Paretrix-GGUF](https://huggingface.co/Soulfate24/MiniCPM-OCR-1.0-DSpark-Paretrix-GGUF) | 2026-11-11 | formula-recognition, text-recognition | candidate | — |

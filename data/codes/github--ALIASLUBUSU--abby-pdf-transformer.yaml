@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:ALIASLUBUSU/abby-pdf-transformer
+kind: code
+name: ALIASLUBUSU/abby-pdf-transformer
+released_at:
+  value: '2026-11-10'
+  precision: day
+added_at: '2026-11-13'
+last_verified_at: '2026-11-13'
+summary: 'ABBYY PDF Transformer for Windows: Create, Edit, Convert and OCR PDFs'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/ALIASLUBUSU/abby-pdf-transformer
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/ALIASLUBUSU/abby-pdf-transformer
+  discovered_via: github
+  discovered_at: '2026-11-13'
+  source_id: R_kgDOVpxaSQ
+  source_metadata:
+    repository: ALIASLUBUSU/abby-pdf-transformer
+    stars: 102
+    language: HTML
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: ALIASLUBUSU/abby-pdf-transformer
+landmark: false
+programming_languages:
+- HTML
+maintenance_status: active
