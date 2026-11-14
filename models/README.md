@@ -4,9 +4,19 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [OpenGlyph/OpenGlyph-OCR-0](https://huggingface.co/OpenGlyph/OpenGlyph-OCR-0) | 2026-11-14 | text-recognition | candidate | — |
+| [biantsh/mesa-ocr](https://huggingface.co/biantsh/mesa-ocr) | 2026-11-14 | text-recognition | candidate | — |
+| [AmberHeart/Uni-MOPD-Teacher-OCR-Bank2](https://huggingface.co/AmberHeart/Uni-MOPD-Teacher-OCR-Bank2) | 2026-11-14 | text-recognition | candidate | — |
 | [typhoon-ai/typhoon-ocr2-2b-eagle3](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-eagle3) | 2026-11-13 | text-recognition | candidate | — |
+| [typhoon-ai/typhoon-ocr2-0.8b-eagle3](https://huggingface.co/typhoon-ai/typhoon-ocr2-0.8b-eagle3) | 2026-11-13 | text-recognition | candidate | — |
+| [saksornr/typhoon-ocr2-0.8b-webgpu-q4](https://huggingface.co/saksornr/typhoon-ocr2-0.8b-webgpu-q4) | 2026-11-13 | text-recognition | candidate | — |
+| [ryanevans88/reading-ocr-freeform](https://huggingface.co/ryanevans88/reading-ocr-freeform) | 2026-11-13 | text-recognition | candidate | — |
+| [rhlima82/ocr-freeform](https://huggingface.co/rhlima82/ocr-freeform) | 2026-11-13 | text-recognition | candidate | — |
+| [JustANormalTinkerer/hayai-ocr-v2.7-supernova](https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2.7-supernova) | 2026-11-13 | text-recognition | candidate | — |
 | [CharlZKP/OpenThai2.0-OCR-Markdown-ONNX](https://huggingface.co/CharlZKP/OpenThai2.0-OCR-Markdown-ONNX) | 2026-11-13 | text-recognition | candidate | — |
+| [AmberHeart/Uni-MOPD-Teacher-OCR](https://huggingface.co/AmberHeart/Uni-MOPD-Teacher-OCR) | 2026-11-13 | text-recognition | candidate | — |
 | [alexmultiagent/yila-ocr](https://huggingface.co/alexmultiagent/yila-ocr) | 2026-11-13 | text-recognition | candidate | — |
+| [Philiaxis/Himel-OCR-v2](https://huggingface.co/Philiaxis/Himel-OCR-v2) | 2026-11-12 | formula-recognition, handwriting-recognition, text-recognition | candidate | — |
 | [OtoroSI/MiniCPM-OCR-1.0-PL-otoro-si-Q8_0](https://huggingface.co/OtoroSI/MiniCPM-OCR-1.0-PL-otoro-si-Q8_0) | 2026-11-12 | text-recognition | candidate | — |
 | [nakamura196/ndl-koten-ocr-web-models](https://huggingface.co/nakamura196/ndl-koten-ocr-web-models) | 2026-11-12 | text-recognition | candidate | — |
 | [masterofaudio2077/indra-ocr-egyptian-receipts-v3](https://huggingface.co/masterofaudio2077/indra-ocr-egyptian-receipts-v3) | 2026-11-12 | text-recognition | candidate | — |

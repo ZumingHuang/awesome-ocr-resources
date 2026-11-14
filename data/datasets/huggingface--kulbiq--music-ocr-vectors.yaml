@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:kulbiq/music-ocr-vectors
+kind: dataset
+name: kulbiq/music-ocr-vectors
+released_at:
+  value: '2026-11-13'
+  precision: day
+added_at: '2026-11-14'
+last_verified_at: '2026-11-14'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t\U0001F3B5 Music-OCR-Vectors\n\t\n\nA comprehensive dataset of hand-drawn\
+  \ music scores paired with their digital vector and text representations.\n\n\t\n\t\t\n\t\n\t\n\t\t\U0001F4D6\
+  \ About the Dataset\n\t\n\nMusic-OCR-Vectors is a freely available, open-source dataset designed for\
+  \ Optical Music Recognition (OMR), machine learning, and computer vision research. It provides a bridge\
+  \ between handwritten musical notation and machine-readable formats. \nFor every hand-drawn music sheet\
+  \ in the dataset, the following… See the full description on the dataset page: https://huggingface.co/datasets/kulbiq/music-ocr-vectors."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/kulbiq/music-ocr-vectors
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/kulbiq/music-ocr-vectors
+  discovered_via: huggingface
+  discovered_at: '2026-11-14'
+  source_id: kulbiq/music-ocr-vectors
+  source_metadata:
+    repository_id: kulbiq/music-ocr-vectors
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: kulbiq
+repository_id: kulbiq/music-ocr-vectors
+usage: []
+annotations: []
+access: unknown
