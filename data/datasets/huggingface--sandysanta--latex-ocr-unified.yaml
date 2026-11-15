@@ -1,0 +1,47 @@
+schema_version: 1
+id: dataset:huggingface:sandysanta/latex-ocr-unified
+kind: dataset
+name: sandysanta/latex-ocr-unified
+released_at:
+  value: '2026-11-15'
+  precision: day
+added_at: '2026-11-15'
+last_verified_at: '2026-11-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tLaTeX-OCR Unified\n\t\n\nA cleaned, deduplicated and test-decontaminated\
+  \ compilation of public image-to-LaTeX datasets, with one label convention and per-row provenance. About\
+  \ 1.66M formula images in total.\nThis is a compilation, not new source data. The images and labels\
+  \ belong to their original sources and are redistributed under those sources' terms (see Sources and\
+  \ licenses). What this repo adds is the curation: normalization, deduplication, decontamination and\
+  \ provenance columns.… See the full description on the dataset page: https://huggingface.co/datasets/sandysanta/latex-ocr-unified."
+tasks:
+- formula-recognition
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/sandysanta/latex-ocr-unified
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/sandysanta/latex-ocr-unified
+  discovered_via: huggingface
+  discovered_at: '2026-11-15'
+  source_id: sandysanta/latex-ocr-unified
+  source_metadata:
+    repository_id: sandysanta/latex-ocr-unified
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: sandysanta
+repository_id: sandysanta/latex-ocr-unified
+usage: []
+annotations: []
+access: unknown

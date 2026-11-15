@@ -4,6 +4,41 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [sandysanta/latex-ocr-unified](https://huggingface.co/datasets/sandysanta/latex-ocr-unified) | 2026-11-15 | formula-recognition, handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		LaTeX-OCR Unified
+	
+
+A cleaned, deduplicated and test-decontaminated compilation of public image-to-LaTeX datasets, with one label convention and per-row provenance. About 1.66M formula images in total.
+This is a compilation, not new source data. The images and labels belong to their original sources and are redistributed under those sources' terms (see Sources and licenses). What this repo adds is the curation: normalization, deduplication, decontamination and provenance columns.… See the full description on the dataset page: https://huggingface.co/datasets/sandysanta/latex-ocr-unified. |
+| [Jainilp01/gradelab-handwritten-ocr](https://huggingface.co/datasets/Jainilp01/gradelab-handwritten-ocr) | 2026-11-14 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		GradeLab Handwritten OCR —
+	
+
+Handwritten exam answer-sheet pages with verbatim machine-OCR transcriptions and
+preserved spatial annotations (answer regions, figures, cancellations), exported
+from GradeLab production data (anonymized institutional exam program).
+
+PILOT SMOKE TEST — 1,026 pages. The full export (~321k pages) will replace
+this at the repository root.
+
+
+	
+		
+	
+	
+		Page-level design
+	
+
+Each sample is one full-page image + one complete page-level OCR
+transcription… See the full description on the dataset page: https://huggingface.co/datasets/Jainilp01/gradelab-handwritten-ocr. |
 | [Gritworks/synthetic-w2-form-ocr-sample](https://huggingface.co/datasets/Gritworks/synthetic-w2-form-ocr-sample) | 2026-11-14 | document-parsing, text-recognition | candidate | 
 	
 		
