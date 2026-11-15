@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:biantsh/mesa-ocr
+kind: model
+name: biantsh/mesa-ocr
+released_at:
+  value: '2026-11-14'
+  precision: day
+added_at: '2026-11-14'
+last_verified_at: '2026-11-14'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/biantsh/mesa-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/biantsh/mesa-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-14'
+  source_id: biantsh/mesa-ocr
+  source_metadata:
+    repository_id: biantsh/mesa-ocr
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: biantsh
+repository_id: biantsh/mesa-ocr
+deployment: []

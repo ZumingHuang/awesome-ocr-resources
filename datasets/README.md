@@ -4,7 +4,76 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Gritworks/synthetic-w2-form-ocr-sample](https://huggingface.co/datasets/Gritworks/synthetic-w2-form-ocr-sample) | 2026-11-14 | document-parsing, text-recognition | candidate | 
+	
+		
+	
+	
+		GritWorks W-2 Form (Banking & Lending): synthetic document sample
+	
+
+A free preview of the W-2 Form (Banking & Lending) sample pack from GritWorks: a fictional IRS Form W-2 from a borrower's income file, as used in loan and mortgage underwriting.
+Each document comes as a clean PDF and a degraded capture (for example blur, photocopy, coffee stain, skew, crop or low light), with expected field values (JSON) and field bounding boxes. Use it to check how OCR, document parsers and… See the full description on the dataset page: https://huggingface.co/datasets/Gritworks/synthetic-w2-form-ocr-sample. |
+| [Gritworks/synthetic-lab-report-ocr-sample](https://huggingface.co/datasets/Gritworks/synthetic-lab-report-ocr-sample) | 2026-11-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		GritWorks Diagnostics Lab Documents: synthetic document sample
+	
+
+A free preview of the Diagnostics Lab Documents sample pack from GritWorks: a fictional diagnostics case from patient registration and lab requisition through physician authorization, specimen query and final lab report.
+Each document comes as a clean PDF and a degraded capture (for example blur, photocopy, coffee stain, skew, crop or low light), with expected field values (JSON) and field bounding boxes. Use it to… See the full description on the dataset page: https://huggingface.co/datasets/Gritworks/synthetic-lab-report-ocr-sample. |
+| [Gritworks/synthetic-invoice-po-ocr-sample](https://huggingface.co/datasets/Gritworks/synthetic-invoice-po-ocr-sample) | 2026-11-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		GritWorks OCR & Extraction: synthetic document sample
+	
+
+A free preview of the OCR & Extraction sample pack from GritWorks: a connected purchase-order-to-statement workflow from one fictional trading relationship: purchase order, goods and services invoices, credit memo and account statement, with line items, totals, credits and reference fields.
+Each document comes as a clean PDF and a degraded capture (for example blur, photocopy, coffee stain, skew, crop or low light), with… See the full description on the dataset page: https://huggingface.co/datasets/Gritworks/synthetic-invoice-po-ocr-sample. |
+| [Gritworks/synthetic-health-insurance-claims-ocr-sample](https://huggingface.co/datasets/Gritworks/synthetic-health-insurance-claims-ocr-sample) | 2026-11-14 | text-recognition | candidate | 
+	
+		
+	
+	
+		GritWorks Health Insurance Claims: synthetic document sample
+	
+
+A free preview of the Health Insurance Claims sample pack from GritWorks: a fictional health-insurance case from claim and charges through benefits and patient balance: CMS-1500 claim, itemized invoice, explanation of benefits, patient statement and premium statement.
+Each document comes as a clean PDF and a degraded capture (for example blur, photocopy, coffee stain, skew, crop or low light), with expected field… See the full description on the dataset page: https://huggingface.co/datasets/Gritworks/synthetic-health-insurance-claims-ocr-sample. |
+| [Gritworks/synthetic-bengali-hindi-forms-ocr-sample](https://huggingface.co/datasets/Gritworks/synthetic-bengali-hindi-forms-ocr-sample) | 2026-11-14 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		GritWorks Indian Language Forms (Bengali, Hindi): synthetic document sample
+	
+
+A free preview of the Indian Language Forms (Bengali, Hindi) sample pack from GritWorks: fictional Bengali and Hindi savings forms with printed fields and handwriting, each paired with a degraded capture.
+Each document comes as a clean PDF and a degraded capture (for example blur, photocopy, coffee stain, skew, crop or low light), with expected field values (JSON) and field bounding boxes. Use it to… See the full description on the dataset page: https://huggingface.co/datasets/Gritworks/synthetic-bengali-hindi-forms-ocr-sample. |
 | [TUaxhuiax/tmp-ocr-0d0590a1](https://huggingface.co/datasets/TUaxhuiax/tmp-ocr-0d0590a1) | 2026-11-13 | text-recognition | candidate | — |
+| [kulbiq/music-ocr-vectors](https://huggingface.co/datasets/kulbiq/music-ocr-vectors) | 2026-11-13 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		🎵 Music-OCR-Vectors
+	
+
+A comprehensive dataset of hand-drawn music scores paired with their digital vector and text representations.
+
+	
+		
+	
+	
+		📖 About the Dataset
+	
+
+Music-OCR-Vectors is a freely available, open-source dataset designed for Optical Music Recognition (OMR), machine learning, and computer vision research. It provides a bridge between handwritten musical notation and machine-readable formats. 
+For every hand-drawn music sheet in the dataset, the following… See the full description on the dataset page: https://huggingface.co/datasets/kulbiq/music-ocr-vectors. |
 | [ieasybooks-org/quran-detect-ocr](https://huggingface.co/datasets/ieasybooks-org/quran-detect-ocr) | 2026-11-12 | text-recognition | candidate | 
 	
 		

@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:OpenGlyph/OpenGlyph-OCR-0
+kind: model
+name: OpenGlyph/OpenGlyph-OCR-0
+released_at:
+  value: '2026-11-14'
+  precision: day
+added_at: '2026-11-14'
+last_verified_at: '2026-11-14'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/OpenGlyph/OpenGlyph-OCR-0
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/OpenGlyph/OpenGlyph-OCR-0
+  discovered_via: huggingface
+  discovered_at: '2026-11-14'
+  source_id: OpenGlyph/OpenGlyph-OCR-0
+  source_metadata:
+    repository_id: OpenGlyph/OpenGlyph-OCR-0
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: OpenGlyph
+repository_id: OpenGlyph/OpenGlyph-OCR-0
+deployment: []
