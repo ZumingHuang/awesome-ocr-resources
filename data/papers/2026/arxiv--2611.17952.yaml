@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:2611.17952
+kind: paper
+name: Domain Adaptation Based Pipeline for Character Classification and Handwritten Text Recognition
+released_at:
+  value: '2026-11-13'
+  precision: day
+added_at: '2026-11-16'
+last_verified_at: '2026-11-16'
+summary: Character classification and handwritten text recognition, particularly in specialized tasks,
+  often suffer from limited labeled data, while a large amount of unlabeled data remains unused. To address
+  this challenge, we propose a novel unsupervised domain adaptation-based pipeline to reduce the distribution
+  gap between source and target domains. Our pipeline follows three main steps. In the first step, we
+  pretrained an expert model on source data, to learn a strong general representation. In the second step,
+  we perform unsupervised domain adaptation to leverage unlabeled target data, adapting the model to the
+  specific characteristics of the target domain. In the third step, we trained the expert model on source
+  data in the target style. By aligning the feature distributions between the source and target, our method
+  enables the model to generalize effectively across diverse datasets. The unsupervised training increases
+  the computation time only during training not in inference. We evaluate the pipeline on both character-level
+  and historical handwritten line recognition tasks, demonstrating its flexibility. We establish a new
+  state-of-the-art on the Safran-MNIST-DLS dataset defined in Track 2 of the DAGECC competition with 76.17%
+  Macro F1-score and achieve competitive results on each of the specific datasets of READ 2018 without
+  using the labels of the target data. Code is available at https://github.com/simon-corbi/DRANet-for-classification-and-htr
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.17952
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.17952
+  discovered_via: arxiv
+  discovered_at: '2026-11-16'
+  source_id: '2611.17952'
+  source_metadata:
+    arxiv_id: '2611.17952'
+    doi: 10.1007/s10032-026-00575-9
+    query: all:"handwritten text recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Florent Imbert
+- Simon Corbillé
+- Hui Han
+- Elisa H. Barney Smith
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.17952'
+doi: 10.1007/s10032-026-00575-9

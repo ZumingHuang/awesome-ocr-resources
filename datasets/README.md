@@ -4,6 +4,20 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [BH-Language-AI/bs-vision-ocr-heldout-v01](https://huggingface.co/datasets/BH-Language-AI/bs-vision-ocr-heldout-v01) | 2026-11-16 | text-recognition | candidate | 
+	
+		
+	
+	
+		bs-vision-ocr-heldout-v01 — STATUS: PLACEHOLDER, NEMA PODATAKA
+	
+
+Bosanski vision held-out eval set (dokumenti, računi, tabele, chartovi, rukopis sa čćdžšđ). NIKAD u train.
+
+Verzija: v01 (frozen split kad se napuni; do tada prazan placeholder)
+Format (plan): image-text-to-text chat JSONL — messages[{role, content:[{type:image},{type:text}]}] + images
+Proxy eval do tada: google/xm3600 (hr), postocr-sr (latinica), tehnika na PubLayNet/PlotQA
+Baze za trening: SmolVLM2-500M / 2.2B… See the full description on the dataset page: https://huggingface.co/datasets/BH-Language-AI/bs-vision-ocr-heldout-v01. |
 | [sandysanta/latex-ocr-unified](https://huggingface.co/datasets/sandysanta/latex-ocr-unified) | 2026-11-15 | formula-recognition, handwriting-recognition, text-recognition | candidate | 
 	
 		
@@ -14,6 +28,31 @@
 
 A cleaned, deduplicated and test-decontaminated compilation of public image-to-LaTeX datasets, with one label convention and per-row provenance. About 1.66M formula images in total.
 This is a compilation, not new source data. The images and labels belong to their original sources and are redistributed under those sources' terms (see Sources and licenses). What this repo adds is the curation: normalization, deduplication, decontamination and provenance columns.… See the full description on the dataset page: https://huggingface.co/datasets/sandysanta/latex-ocr-unified. |
+| [muyleanging/Chakkhu-OCR-Khmer-Data](https://huggingface.co/datasets/muyleanging/Chakkhu-OCR-Khmer-Data) | 2026-11-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Chakkhu-OCR-Khmer-Data ចក្ខុ
+	
+
+The training data of Chakkhu-OCR-Khmer, a small
+Khmer + English text-line OCR model (18.6M parameters, 4.28% CER on the KHOB benchmark). Made by Ing Muyleang.
+This dataset has everything that is ours:
+
+303,000 drawn text lines, with labels, for training (lines/). They are drawn in 10 picture styles, including
+the new sign style for shop and street signs.
+The text they were drawn from (text/): 380k Khmer sentences, 213k Khmer Wikipedia sentences… See the full description on the dataset page: https://huggingface.co/datasets/muyleanging/Chakkhu-OCR-Khmer-Data. |
+| [fffoivos/greek-ocr-eleni-lines](https://huggingface.co/datasets/fffoivos/greek-ocr-eleni-lines) | 2026-11-15 | text-recognition | candidate | 
+	
+		
+	
+	
+		Greek parliamentary line images — work in progress
+	
+
+Line images cut from public scans of the Εφημερίς των Συζητήσεων της Βουλής, 1862–1967, paired with the text of Eleni v1.1. This is a partial build in progress. More verified shards will be added; it is not a completed or fully hand-checked release. The source date range does not imply that every year or sitting is present.
+Eleni v1.1: Paris Aslanidis / EKKE, DOI 10.57967/hf/11475, CC BY 4.0. Scans: Library of the Hellenic… See the full description on the dataset page: https://huggingface.co/datasets/fffoivos/greek-ocr-eleni-lines. |
 | [Jainilp01/gradelab-handwritten-ocr](https://huggingface.co/datasets/Jainilp01/gradelab-handwritten-ocr) | 2026-11-14 | handwriting-recognition, text-recognition | candidate | 
 	
 		

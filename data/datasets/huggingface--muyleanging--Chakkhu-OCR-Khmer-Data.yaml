@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:muyleanging/Chakkhu-OCR-Khmer-Data
+kind: dataset
+name: muyleanging/Chakkhu-OCR-Khmer-Data
+released_at:
+  value: '2026-11-15'
+  precision: day
+added_at: '2026-11-16'
+last_verified_at: '2026-11-16'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tChakkhu-OCR-Khmer-Data ចក្ខុ\n\t\n\nThe training data of Chakkhu-OCR-Khmer,\
+  \ a small\nKhmer + English text-line OCR model (18.6M parameters, 4.28% CER on the KHOB benchmark).\
+  \ Made by Ing Muyleang.\nThis dataset has everything that is ours:\n\n303,000 drawn text lines, with\
+  \ labels, for training (lines/). They are drawn in 10 picture styles, including\nthe new sign style\
+  \ for shop and street signs.\nThe text they were drawn from (text/): 380k Khmer sentences, 213k Khmer\
+  \ Wikipedia sentences… See the full description on the dataset page: https://huggingface.co/datasets/muyleanging/Chakkhu-OCR-Khmer-Data."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/muyleanging/Chakkhu-OCR-Khmer-Data
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/muyleanging/Chakkhu-OCR-Khmer-Data
+  discovered_via: huggingface
+  discovered_at: '2026-11-16'
+  source_id: muyleanging/Chakkhu-OCR-Khmer-Data
+  source_metadata:
+    repository_id: muyleanging/Chakkhu-OCR-Khmer-Data
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: muyleanging
+repository_id: muyleanging/Chakkhu-OCR-Khmer-Data
+usage: []
+annotations: []
+access: unknown
