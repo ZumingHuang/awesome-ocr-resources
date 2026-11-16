@@ -4,8 +4,18 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [mahmoudMagdy1255/ocr-models-gemma-3-4b-it-v2](https://huggingface.co/mahmoudMagdy1255/ocr-models-gemma-3-4b-it-v2) | 2026-11-15 | text-recognition | candidate | — |
+| [litert-community/Unlimited-OCR](https://huggingface.co/litert-community/Unlimited-OCR) | 2026-11-15 | formula-recognition, text-recognition | candidate | — |
+| [kaitemoreau/GLM-OCR](https://huggingface.co/kaitemoreau/GLM-OCR) | 2026-11-15 | text-recognition | candidate | — |
+| [hamtaai/ocr-v2](https://huggingface.co/hamtaai/ocr-v2) | 2026-11-15 | text-recognition | candidate | — |
+| [goodmai/GLM-OCR-8bit](https://huggingface.co/goodmai/GLM-OCR-8bit) | 2026-11-15 | text-recognition | candidate | — |
+| [goodmai/DeepSeek-OCR-8bit](https://huggingface.co/goodmai/DeepSeek-OCR-8bit) | 2026-11-15 | text-recognition | candidate | — |
+| [goodmai/DeepSeek-OCR-2-8bit](https://huggingface.co/goodmai/DeepSeek-OCR-2-8bit) | 2026-11-15 | text-recognition | candidate | — |
+| [thekraftors/kraftors_ocr](https://huggingface.co/thekraftors/kraftors_ocr) | 2026-11-14 | formula-recognition, text-recognition | candidate | — |
 | [OpenGlyph/OpenGlyph-OCR-0](https://huggingface.co/OpenGlyph/OpenGlyph-OCR-0) | 2026-11-14 | text-recognition | candidate | — |
+| [btbtyler09/shrew-ocr-preview-FP8](https://huggingface.co/btbtyler09/shrew-ocr-preview-FP8) | 2026-11-14 | text-recognition | candidate | — |
 | [biantsh/mesa-ocr](https://huggingface.co/biantsh/mesa-ocr) | 2026-11-14 | text-recognition | candidate | — |
+| [AXERA-TECH/MiniCPM-OCR-1.0-AX8860-llama.cpp](https://huggingface.co/AXERA-TECH/MiniCPM-OCR-1.0-AX8860-llama.cpp) | 2026-11-14 | text-recognition | candidate | — |
 | [AmberHeart/Uni-MOPD-Teacher-OCR-Bank2](https://huggingface.co/AmberHeart/Uni-MOPD-Teacher-OCR-Bank2) | 2026-11-14 | text-recognition | candidate | — |
 | [typhoon-ai/typhoon-ocr2-2b-eagle3](https://huggingface.co/typhoon-ai/typhoon-ocr2-2b-eagle3) | 2026-11-13 | text-recognition | candidate | — |
 | [typhoon-ai/typhoon-ocr2-0.8b-eagle3](https://huggingface.co/typhoon-ai/typhoon-ocr2-0.8b-eagle3) | 2026-11-13 | text-recognition | candidate | — |

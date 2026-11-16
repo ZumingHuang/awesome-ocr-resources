@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:Jainilp01/gradelab-handwritten-ocr
+kind: dataset
+name: Jainilp01/gradelab-handwritten-ocr
+released_at:
+  value: '2026-11-14'
+  precision: day
+added_at: '2026-11-15'
+last_verified_at: '2026-11-15'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGradeLab Handwritten OCR —\n\t\n\nHandwritten exam answer-sheet pages\
+  \ with verbatim machine-OCR transcriptions and\npreserved spatial annotations (answer regions, figures,\
+  \ cancellations), exported\nfrom GradeLab production data (anonymized institutional exam program).\n\
+  \nPILOT SMOKE TEST — 1,026 pages. The full export (~321k pages) will replace\nthis at the repository\
+  \ root.\n\n\n\t\n\t\t\n\t\n\t\n\t\tPage-level design\n\t\n\nEach sample is one full-page image + one\
+  \ complete page-level OCR\ntranscription… See the full description on the dataset page: https://huggingface.co/datasets/Jainilp01/gradelab-handwritten-ocr."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Jainilp01/gradelab-handwritten-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Jainilp01/gradelab-handwritten-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-15'
+  source_id: Jainilp01/gradelab-handwritten-ocr
+  source_metadata:
+    repository_id: Jainilp01/gradelab-handwritten-ocr
+    downloads: 0
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Jainilp01
+repository_id: Jainilp01/gradelab-handwritten-ocr
+usage: []
+annotations: []
+access: unknown
