@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:joeseesun/qiaomu-deepseek-api
+kind: code
+name: joeseesun/qiaomu-deepseek-api
+released_at:
+  value: '2026-11-14'
+  precision: day
+added_at: '2026-11-17'
+last_verified_at: '2026-11-17'
+summary: 用一个 Agent Skill 调用 DeepSeek 官方 API：搜索、读文档、OCR、转写、配音和 Flash 问答。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/joeseesun/qiaomu-deepseek-api
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/joeseesun/qiaomu-deepseek-api
+  discovered_via: github
+  discovered_at: '2026-11-17'
+  source_id: R_kgDOVtw--w
+  source_metadata:
+    repository: joeseesun/qiaomu-deepseek-api
+    stars: 24
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: joeseesun/qiaomu-deepseek-api
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

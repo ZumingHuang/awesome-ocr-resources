@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:NPCmillionaire/unredact.tools
+kind: code
+name: NPCmillionaire/unredact.tools
+released_at:
+  value: '2026-11-12'
+  precision: day
+added_at: '2026-11-17'
+last_verified_at: '2026-11-17'
+summary: See what your files leak (GPS, serials, authors, failed redactions, deleted text, watermarks),
+  then scrub them.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/NPCmillionaire/unredact.tools
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/NPCmillionaire/unredact.tools
+  discovered_via: github
+  discovered_at: '2026-11-17'
+  source_id: R_kgDOVsTEOg
+  source_metadata:
+    repository: NPCmillionaire/unredact.tools
+    stars: 37
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: NPCmillionaire/unredact.tools
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

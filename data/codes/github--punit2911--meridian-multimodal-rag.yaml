@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:punit2911/meridian-multimodal-rag
+kind: code
+name: punit2911/meridian-multimodal-rag
+released_at:
+  value: '2026-11-16'
+  precision: day
+added_at: '2026-11-17'
+last_verified_at: '2026-11-17'
+summary: Evidence-grounded multimodal RAG for industrial maintenance documentation, with hybrid retrieval,
+  citations, conflict resolution, claim verification and abstention. Includes an optional tool-using LLM
+  agent and deterministic offline mode.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/punit2911/meridian-multimodal-rag
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/punit2911/meridian-multimodal-rag
+  discovered_via: github
+  discovered_at: '2026-11-17'
+  source_id: R_kgDOVwVplA
+  source_metadata:
+    repository: punit2911/meridian-multimodal-rag
+    stars: 39
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: punit2911/meridian-multimodal-rag
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

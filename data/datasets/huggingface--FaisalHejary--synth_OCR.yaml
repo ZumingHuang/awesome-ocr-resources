@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:FaisalHejary/synth_OCR
+kind: dataset
+name: FaisalHejary/synth_OCR
+released_at:
+  value: '2026-11-16'
+  precision: day
+added_at: '2026-11-17'
+last_verified_at: '2026-11-17'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSynthetic OCR pages\n\t\n\n32,000 synthetic document pages in Arabic,\
+  \ English and Chinese, rendered from generated\nHTML in Chromium, with exact word, line, paragraph and\
+  \ element boxes.\nEach row has two columns:\n\nimage: the page image (PNG).\njson: the page's annotation\
+  \ as a JSON string: page_information (format, template,\nsize, DPI, seed, photo or scan effects), word_bboxes,\
+  \ line_bboxes, para_bboxes,\nelement_bboxes and relation_graph.\n\nLoad one subset, or all:\nimport\
+  \ json\nfrom datasets… See the full description on the dataset page: https://huggingface.co/datasets/FaisalHejary/synth_OCR."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/FaisalHejary/synth_OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/FaisalHejary/synth_OCR
+  discovered_via: huggingface
+  discovered_at: '2026-11-17'
+  source_id: FaisalHejary/synth_OCR
+  source_metadata:
+    repository_id: FaisalHejary/synth_OCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: FaisalHejary
+repository_id: FaisalHejary/synth_OCR
+usage: []
+annotations: []
+access: unknown

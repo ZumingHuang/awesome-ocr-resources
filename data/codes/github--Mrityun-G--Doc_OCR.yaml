@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Mrityun-G/Doc_OCR
+kind: code
+name: Mrityun-G/Doc_OCR
+released_at:
+  value: '2026-11-12'
+  precision: day
+added_at: '2026-11-17'
+last_verified_at: '2026-11-17'
+summary: Autofill your data
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Mrityun-G/Doc_OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Mrityun-G/Doc_OCR
+  discovered_via: github
+  discovered_at: '2026-11-17'
+  source_id: R_kgDOVrlAtw
+  source_metadata:
+    repository: Mrityun-G/Doc_OCR
+    stars: 12
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Mrityun-G/Doc_OCR
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

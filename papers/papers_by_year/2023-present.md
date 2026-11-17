@@ -85,6 +85,10 @@ Mustafa Sertaç Türkel, Fatma Nur Korkmaz, Ahmet Tuğrul Bayrak
 Paulo Grane Gabriel Silva, Lorenz Bernard Marqueses, Joel Ilao
 \[formula-recognition\]\[handwriting-recognition\]
 
+**Dataset Distillation for Handwritten Text Recognition: An Empirical Study**
+Félix Fuentes-Hurtado, Aric Ayllón, Juan C. Alfaro
+\[handwriting-recognition\]\[text-recognition\]
+
 **Design Considerations in Low-Resource Archival OCR: A Case Study in Lakota**
 Téa Wright, Laura X. Ma, Claudia Iron Hawk, Hannah J. Haynie, Alexis Palmer, Alane Suhr, Abteen Ebrahimi, Katharina von der Wense
 \[text-recognition\]
@@ -428,6 +432,10 @@ Mingxu Chai, Chenyu Liu, Ziyu Shen, Jiazheng Zhang, Kaidi Zhang, Ruoyu Chen, Jun
 **SupGRPO: Enhancing GRPO with Matching-based Online SFT for Text Spotting**
 Xudong Xie, Yuzhe Li, Jing Shi, Zhifei Zhang, Curtis Wigington, Zhaowen Wang
 \[text-spotting\]\[text-recognition\]
+
+**Syllable- and Word-Level Evaluation of Tibetan OCR**
+Jacob Moore, Paula Lauren
+\[handwriting-recognition\]\[text-recognition\]
 
 **Systematic Literature Review of Machine Learning Models and Applications for Text Recognition**
 Nuzhat Khan, Ab Al-Hadi Ab Rahman, Shahriyar Masud Rizvi, Ibrahim Yousef Alshareef, Muhammad Nadzir Marsono, Muhammad Paend Bakht, Mohd Shahrizal Rusli, Shahidatul Sadiah
