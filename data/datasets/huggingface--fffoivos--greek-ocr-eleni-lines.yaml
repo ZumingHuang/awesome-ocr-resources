@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:fffoivos/greek-ocr-eleni-lines
+kind: dataset
+name: fffoivos/greek-ocr-eleni-lines
+released_at:
+  value: '2026-11-15'
+  precision: day
+added_at: '2026-11-16'
+last_verified_at: '2026-11-16'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGreek parliamentary line images — work in progress\n\t\n\nLine images\
+  \ cut from public scans of the Εφημερίς των Συζητήσεων της Βουλής, 1862–1967, paired with the text of\
+  \ Eleni v1.1. This is a partial build in progress. More verified shards will be added; it is not a completed\
+  \ or fully hand-checked release. The source date range does not imply that every year or sitting is\
+  \ present.\nEleni v1.1: Paris Aslanidis / EKKE, DOI 10.57967/hf/11475, CC BY 4.0. Scans: Library of\
+  \ the Hellenic… See the full description on the dataset page: https://huggingface.co/datasets/fffoivos/greek-ocr-eleni-lines."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/fffoivos/greek-ocr-eleni-lines
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/fffoivos/greek-ocr-eleni-lines
+  discovered_via: huggingface
+  discovered_at: '2026-11-16'
+  source_id: fffoivos/greek-ocr-eleni-lines
+  source_metadata:
+    repository_id: fffoivos/greek-ocr-eleni-lines
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: fffoivos
+repository_id: fffoivos/greek-ocr-eleni-lines
+usage: []
+annotations: []
+access: unknown

@@ -133,6 +133,18 @@ Jing Huang, Zhiya Tan, Changtao Miao, Shutao Gong, Yang Wang, Joey Tianyi Zhou, 
 Le Xiang, Zhicheng Guan, Hong Chen, Xiaocong Lin, Zhenghua Lei, Teng Hu, Bolei He, Long Zeng
 \[document-vqa\]\[document-parsing\]
 
+**Domain Adaptation Based Pipeline for Character Classification and Handwritten Text Recognition**
+Florent Imbert, Simon Corbillé, Hui Han, Elisa H. Barney Smith
+\[handwriting-recognition\]\[text-recognition\]
+
+**DoubleTake: Focused Verification of Visual Evidence for Long-Document Understanding**
+Kejun Xue, Ang Li, Jinghua Tang, Xincheng Wang, Yongbin Gao, Yanghua Xiao, Zhijun Fang
+\[document-vqa\]\[formula-recognition\]\[document-parsing\]
+
+**DRA-HTR: Disentangling Representation and Adaptation for Handwritten Text Recognition**
+Gayan H. Pathirage, Florent Imbert, Denis Coquenet, Elisa H. Barney Smith
+\[handwriting-recognition\]\[text-recognition\]
+
 **DuQUAD: A Dual-View Framework with Quality-Aware Evidence Pruning for Multi-Document Question Answering**
 Yeonjun Choi, Seyeon Jeong, Jong Wook Kim, Beakcheol Jang
 \[document-vqa\]
@@ -360,6 +372,10 @@ Yong Zu, Ninghua Yang, Zezhong Tan, Xinhong Ma, Ziqiang Dong, Yang Yang
 **PaDoc: Layout-Grounded Parallel Decoding for Document Parsing**
 Hao Yu, Jiabo Zhan, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
 \[formula-recognition\]\[document-parsing\]
+
+**ParseBench-2: Severity-Aware Evaluation of Document Parsing**
+Pierre-Loïc Doulcet, Boyang Zhang, Sebastián G. Acosta, Sacha Bron, Daniel B. Ospina, Antonio Jimeno Yepes, Nutchapol Dendumrongsup, Simon Suo
+\[document-parsing\]
 
 **PhysTrackX: Open-Source Software for Kinematics Tracking for the Physics Laboratory**
 Isam Abdullah Balghari, Muhammad Sabieh Anwar

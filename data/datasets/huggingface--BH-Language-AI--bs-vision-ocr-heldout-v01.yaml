@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:BH-Language-AI/bs-vision-ocr-heldout-v01
+kind: dataset
+name: BH-Language-AI/bs-vision-ocr-heldout-v01
+released_at:
+  value: '2026-11-16'
+  precision: day
+added_at: '2026-11-16'
+last_verified_at: '2026-11-16'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tbs-vision-ocr-heldout-v01 — STATUS: PLACEHOLDER, NEMA PODATAKA\n\t\n\
+  \nBosanski vision held-out eval set (dokumenti, računi, tabele, chartovi, rukopis sa čćdžšđ). NIKAD\
+  \ u train.\n\nVerzija: v01 (frozen split kad se napuni; do tada prazan placeholder)\nFormat (plan):\
+  \ image-text-to-text chat JSONL — messages[{role, content:[{type:image},{type:text}]}] + images\nProxy\
+  \ eval do tada: google/xm3600 (hr), postocr-sr (latinica), tehnika na PubLayNet/PlotQA\nBaze za trening:\
+  \ SmolVLM2-500M / 2.2B… See the full description on the dataset page: https://huggingface.co/datasets/BH-Language-AI/bs-vision-ocr-heldout-v01."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/BH-Language-AI/bs-vision-ocr-heldout-v01
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/BH-Language-AI/bs-vision-ocr-heldout-v01
+  discovered_via: huggingface
+  discovered_at: '2026-11-16'
+  source_id: BH-Language-AI/bs-vision-ocr-heldout-v01
+  source_metadata:
+    repository_id: BH-Language-AI/bs-vision-ocr-heldout-v01
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: BH-Language-AI
+repository_id: BH-Language-AI/bs-vision-ocr-heldout-v01
+usage: []
+annotations: []
+access: unknown

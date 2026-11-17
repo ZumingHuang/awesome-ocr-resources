@@ -4,9 +4,15 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [rizzoaiacademy/rizzo-ocr](https://huggingface.co/rizzoaiacademy/rizzo-ocr) | 2026-11-16 | text-recognition | candidate | — |
+| [wraithklu/cheeni-ocr-trocr_06](https://huggingface.co/wraithklu/cheeni-ocr-trocr_06) | 2026-11-15 | text-recognition | candidate | — |
+| [Soulfate24/MiniCPM-OCR-Jev-Paretrix-GGUF](https://huggingface.co/Soulfate24/MiniCPM-OCR-Jev-Paretrix-GGUF) | 2026-11-15 | text-recognition | candidate | — |
+| [Monad-dz/ocr-grpo-v3-merged](https://huggingface.co/Monad-dz/ocr-grpo-v3-merged) | 2026-11-15 | text-recognition | candidate | — |
 | [mahmoudMagdy1255/ocr-models-gemma-3-4b-it-v2](https://huggingface.co/mahmoudMagdy1255/ocr-models-gemma-3-4b-it-v2) | 2026-11-15 | text-recognition | candidate | — |
 | [litert-community/Unlimited-OCR](https://huggingface.co/litert-community/Unlimited-OCR) | 2026-11-15 | formula-recognition, text-recognition | candidate | — |
+| [lemonteaa/falcon-ocr-onnx-int8](https://huggingface.co/lemonteaa/falcon-ocr-onnx-int8) | 2026-11-15 | text-recognition | candidate | — |
 | [kaitemoreau/GLM-OCR](https://huggingface.co/kaitemoreau/GLM-OCR) | 2026-11-15 | text-recognition | candidate | — |
+| [huyahahdq23123/plates-yolo-ocr-code](https://huggingface.co/huyahahdq23123/plates-yolo-ocr-code) | 2026-11-15 | text-recognition | candidate | — |
 | [hamtaai/ocr-v2](https://huggingface.co/hamtaai/ocr-v2) | 2026-11-15 | text-recognition | candidate | — |
 | [goodmai/GLM-OCR-8bit](https://huggingface.co/goodmai/GLM-OCR-8bit) | 2026-11-15 | text-recognition | candidate | — |
 | [goodmai/DeepSeek-OCR-8bit](https://huggingface.co/goodmai/DeepSeek-OCR-8bit) | 2026-11-15 | text-recognition | candidate | — |

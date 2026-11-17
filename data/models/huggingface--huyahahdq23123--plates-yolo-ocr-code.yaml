@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:huyahahdq23123/plates-yolo-ocr-code
+kind: model
+name: huyahahdq23123/plates-yolo-ocr-code
+released_at:
+  value: '2026-11-15'
+  precision: day
+added_at: '2026-11-16'
+last_verified_at: '2026-11-16'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/huyahahdq23123/plates-yolo-ocr-code
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/huyahahdq23123/plates-yolo-ocr-code
+  discovered_via: huggingface
+  discovered_at: '2026-11-16'
+  source_id: huyahahdq23123/plates-yolo-ocr-code
+  source_metadata:
+    repository_id: huyahahdq23123/plates-yolo-ocr-code
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: huyahahdq23123
+repository_id: huyahahdq23123/plates-yolo-ocr-code
+deployment: []
