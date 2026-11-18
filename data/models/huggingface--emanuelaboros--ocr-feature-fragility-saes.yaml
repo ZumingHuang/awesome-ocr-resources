@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:emanuelaboros/ocr-feature-fragility-saes
+kind: model
+name: emanuelaboros/ocr-feature-fragility-saes
+released_at:
+  value: '2026-11-17'
+  precision: day
+added_at: '2026-11-18'
+last_verified_at: '2026-11-18'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/emanuelaboros/ocr-feature-fragility-saes
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/emanuelaboros/ocr-feature-fragility-saes
+  discovered_via: huggingface
+  discovered_at: '2026-11-18'
+  source_id: emanuelaboros/ocr-feature-fragility-saes
+  source_metadata:
+    repository_id: emanuelaboros/ocr-feature-fragility-saes
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: emanuelaboros
+repository_id: emanuelaboros/ocr-feature-fragility-saes
+deployment: []

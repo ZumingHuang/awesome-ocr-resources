@@ -465,6 +465,10 @@ Shu Wei, Jingjing Wu, Qunyi Xie, Lingshu Zhang, Xiangcheng Du, Yannian Fu, Mengj
 Sheridan Feucht, Benno Krojer, Sarah Wang, Henry Abrahamsen, Byron C. Wallace, David Bau
 \[text-recognition\]
 
+**Video recordings and play behaviour annotations of group-housed dairy calves on two Dutch farms**
+Haiyu Yang, Heidi Lesscher, Enhong Liu, Miel Hostens
+\[text-recognition\]
+
 **ViSAR: Training-Free Adaptive-$k$ Retrieval for Visual Document Question Answering**
 Adrien Mialland, Marc Plantevit, Julien Gallois, Céline Robardet
 \[document-vqa\]\[document-parsing\]

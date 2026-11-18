@@ -1,0 +1,53 @@
+schema_version: 1
+id: paper:arxiv:2611.21706
+kind: paper
+name: Video recordings and play behaviour annotations of group-housed dairy calves on two Dutch farms
+released_at:
+  value: '2026-11-16'
+  precision: day
+added_at: '2026-11-18'
+last_verified_at: '2026-11-18'
+summary: 'Play is used as an indicator of positive welfare in dairy calves, but openly available video
+  of group-housed calves with individual behaviour annotations is scarce. We describe video from four
+  camera deployments of about one week each in group pens of dairy calves on two farms in the Netherlands:
+  a research and teaching dairy farm (2024 and 2025) and a commercial dairy farm (2024). The recordings
+  comprise 1,173 video files spanning 651 h. For eight observation days, trained observers coded calf
+  behaviour continuously in Noldus The Observer XT with an 18-item ethogram of play and other behaviours,
+  covering 104 h of video, 90 h of which have every calf in the pen coded. The release also contains 1.1
+  million decoded frames from seven annotated sessions, a per-frame timestamp read by optical character
+  recognition from the camera clock burned into each frame, per-calf segmentation tracks and per-calf
+  frame-level play labels. The data support studies of calf behaviour and welfare and the development
+  and evaluation of automated behaviour recognition.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.21706
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.21706
+  discovered_via: arxiv
+  discovered_at: '2026-11-18'
+  source_id: '2611.21706'
+  source_metadata:
+    arxiv_id: '2611.21706'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Haiyu Yang
+- Heidi Lesscher
+- Enhong Liu
+- Miel Hostens
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.21706'
