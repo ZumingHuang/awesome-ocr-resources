@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:leelongjiang/SnapSharp
+kind: code
+name: leelongjiang/SnapSharp
+released_at:
+  value: '2026-11-14'
+  precision: day
+added_at: '2026-11-17'
+last_verified_at: '2026-11-17'
+summary: 'SnapSharp 是一款 Windows 截图与图像处理工具：区域/长截图、标注、贴图、本地 OCR、翻译、AI 抠图与录屏，一站式搞定。SnapSharp is a Windows
+  screenshot & image toolkit: capture, annotate, long-shot, pin, local OCR, translate, AI matting and
+  screen recording.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/leelongjiang/SnapSharp
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/leelongjiang/SnapSharp
+  discovered_via: github
+  discovered_at: '2026-11-17'
+  source_id: R_kgDOVuOCdw
+  source_metadata:
+    repository: leelongjiang/SnapSharp
+    stars: 10
+    language: C#
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: leelongjiang/SnapSharp
+landmark: false
+programming_languages:
+- C#
+maintenance_status: active

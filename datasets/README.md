@@ -4,6 +4,27 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Hennara/arabic_ocr](https://huggingface.co/datasets/Hennara/arabic_ocr) | 2026-11-16 | text-recognition | candidate | — |
+| [FaisalHejary/synth_OCR](https://huggingface.co/datasets/FaisalHejary/synth_OCR) | 2026-11-16 | text-recognition | candidate | 
+	
+		
+	
+	
+		Synthetic OCR pages
+	
+
+32,000 synthetic document pages in Arabic, English and Chinese, rendered from generated
+HTML in Chromium, with exact word, line, paragraph and element boxes.
+Each row has two columns:
+
+image: the page image (PNG).
+json: the page's annotation as a JSON string: page_information (format, template,
+size, DPI, seed, photo or scan effects), word_bboxes, line_bboxes, para_bboxes,
+element_bboxes and relation_graph.
+
+Load one subset, or all:
+import json
+from datasets… See the full description on the dataset page: https://huggingface.co/datasets/FaisalHejary/synth_OCR. |
 | [BH-Language-AI/bs-vision-ocr-heldout-v01](https://huggingface.co/datasets/BH-Language-AI/bs-vision-ocr-heldout-v01) | 2026-11-16 | text-recognition | candidate | 
 	
 		

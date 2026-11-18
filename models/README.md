@@ -4,7 +4,14 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [PandaKG/qalamai-ocr](https://huggingface.co/PandaKG/qalamai-ocr) | 2026-11-17 | text-recognition | candidate | — |
+| [Iceblue2026/ocr-vlm-decoder-int8](https://huggingface.co/Iceblue2026/ocr-vlm-decoder-int8) | 2026-11-17 | text-recognition | candidate | — |
 | [rizzoaiacademy/rizzo-ocr](https://huggingface.co/rizzoaiacademy/rizzo-ocr) | 2026-11-16 | text-recognition | candidate | — |
+| [prosperious/ocr-tech-k2](https://huggingface.co/prosperious/ocr-tech-k2) | 2026-11-16 | text-recognition | candidate | — |
+| [prosperious/ocr-projects-archive](https://huggingface.co/prosperious/ocr-projects-archive) | 2026-11-16 | text-recognition | candidate | — |
+| [pisar/PP-OCRv5-mobile-onnx](https://huggingface.co/pisar/PP-OCRv5-mobile-onnx) | 2026-11-16 | text-recognition | candidate | — |
+| [neavo/PP-OCRv6-Manga](https://huggingface.co/neavo/PP-OCRv6-Manga) | 2026-11-16 | text-recognition | candidate | — |
+| [Lucasgitguy-co/Xiaomi-OCR-0-CORD-LoRA-GGUF](https://huggingface.co/Lucasgitguy-co/Xiaomi-OCR-0-CORD-LoRA-GGUF) | 2026-11-16 | text-recognition | candidate | — |
 | [wraithklu/cheeni-ocr-trocr_06](https://huggingface.co/wraithklu/cheeni-ocr-trocr_06) | 2026-11-15 | text-recognition | candidate | — |
 | [Soulfate24/MiniCPM-OCR-Jev-Paretrix-GGUF](https://huggingface.co/Soulfate24/MiniCPM-OCR-Jev-Paretrix-GGUF) | 2026-11-15 | text-recognition | candidate | — |
 | [Monad-dz/ocr-grpo-v3-merged](https://huggingface.co/Monad-dz/ocr-grpo-v3-merged) | 2026-11-15 | text-recognition | candidate | — |

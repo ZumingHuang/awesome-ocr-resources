@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:dujonwalker/project-nova:mcp-skills-nextcloud-mcp-skill-md
+kind: skill
+name: dujonwalker/project-nova / mcp-skills/nextcloud-mcp/SKILL.md
+released_at:
+  value: '2026-11-17'
+  precision: day
+added_at: '2026-11-17'
+last_verified_at: '2026-11-17'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/dujonwalker/project-nova/blob/e1630c97a7aeaa46b7d143c217004bbd36cd2962/mcp-skills/nextcloud-mcp/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/dujonwalker/project-nova/blob/e1630c97a7aeaa46b7d143c217004bbd36cd2962/mcp-skills/nextcloud-mcp/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-11-17'
+  source_id: dujonwalker/project-nova:mcp-skills/nextcloud-mcp/SKILL.md
+  source_metadata:
+    repository: dujonwalker/project-nova
+    manifest_path: mcp-skills/nextcloud-mcp/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: dujonwalker/project-nova
+manifest_path: mcp-skills/nextcloud-mcp/SKILL.md
+capabilities: {}

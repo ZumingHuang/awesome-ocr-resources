@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:hyeonsang010716/OpenDocKit
+kind: code
+name: hyeonsang010716/OpenDocKit
+released_at:
+  value: '2026-11-11'
+  precision: day
+added_at: '2026-11-17'
+last_verified_at: '2026-11-17'
+summary: Convert PDF, Office, HWP/HWPX, OpenDocument, RTF, EPUB, HTML, email and images into clean, LLM-ready
+  Markdown.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/hyeonsang010716/OpenDocKit
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/hyeonsang010716/OpenDocKit
+  discovered_via: github
+  discovered_at: '2026-11-17'
+  source_id: R_kgDOVrPE7w
+  source_metadata:
+    repository: hyeonsang010716/OpenDocKit
+    stars: 16
+    language: Rich Text Format
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: hyeonsang010716/OpenDocKit
+landmark: false
+programming_languages:
+- Rich Text Format
+maintenance_status: active

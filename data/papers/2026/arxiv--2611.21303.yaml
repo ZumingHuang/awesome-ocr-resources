@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:arxiv:2611.21303
+kind: paper
+name: Syllable- and Word-Level Evaluation of Tibetan OCR
+released_at:
+  value: '2026-11-16'
+  precision: day
+added_at: '2026-11-17'
+last_verified_at: '2026-11-17'
+summary: Optical character recognition (OCR) for Tibetan is evaluated predominantly by character error
+  rate (CER). Tibetan marks syllable boundaries but does not mark word boundaries, so a word error rate
+  requires a segmenter. This study evaluates nine recognizer configurations on typeset, woodblock and
+  two handwritten script styles, alone and in combination, and reports syllable- and word-level error
+  rates, to our knowledge the first for Tibetan OCR. The configurations span CTC models, TrOCR encoder-decoders
+  with and without post-training quantization, and a vision-language model, and each is scored under CER,
+  the syllable error rate (SER) and three segmented word error rates (SWER). CER ranks systems largely
+  as the higher-level rates do (Kendall $τ\geq 0.833$), with one pair ordered oppositely. On the effect
+  of joint training, CER and SER record significant changes of opposite sign in 7 of 64 comparisons. SER
+  needs no segmenter and ranks systems as SWER does under two of the three segmenters ($τ\geq 0.889$).
+  The output of each configuration is also tagged for part of speech, annotated for named entities and
+  machine translated, and each result is compared with that obtained on the reference text. As rough guidance,
+  translation chrF of 60 is reached at SER of 0.047 or below and part-of-speech preservation of 0.8 at
+  0.078 or below, while no error rate separates the systems that reach entity preservation of 0.6 from
+  those that do not.
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.21303
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.21303
+  discovered_via: arxiv
+  discovered_at: '2026-11-17'
+  source_id: '2611.21303'
+  source_metadata:
+    arxiv_id: '2611.21303'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Jacob Moore
+- Paula Lauren
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.21303'
