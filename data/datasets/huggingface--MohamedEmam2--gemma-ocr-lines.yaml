@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:MohamedEmam2/gemma-ocr-lines
+kind: dataset
+name: MohamedEmam2/gemma-ocr-lines
+released_at:
+  value: '2026-11-18'
+  precision: day
+added_at: '2026-11-18'
+last_verified_at: '2026-11-18'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tGemma OCR Lines (IAM + KHATT)\n\t\n\nLine-level image/text pairs for\
+  \ training a CTC OCR recognizer. Every row is one\ncropped text line with its transcript: handwriting\
+  \ from IAM (English) and\nKHATT (Arabic), normalized into a single Latin+Arabic character vocabulary.\n\
+  This is the frozen training corpus for the embedding-ocr CTC recognizer.\nIt exists so training never\
+  \ has to download the upstream datasets, re-filter\nrows, or write tens of thousands of PNGs again.\
+  \ The corpus was packed… See the full description on the dataset page: https://huggingface.co/datasets/MohamedEmam2/gemma-ocr-lines."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/MohamedEmam2/gemma-ocr-lines
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/MohamedEmam2/gemma-ocr-lines
+  discovered_via: huggingface
+  discovered_at: '2026-11-18'
+  source_id: MohamedEmam2/gemma-ocr-lines
+  source_metadata:
+    repository_id: MohamedEmam2/gemma-ocr-lines
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: MohamedEmam2
+repository_id: MohamedEmam2/gemma-ocr-lines
+usage: []
+annotations: []
+access: unknown

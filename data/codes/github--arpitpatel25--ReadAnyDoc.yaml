@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:arpitpatel25/ReadAnyDoc
+kind: code
+name: arpitpatel25/ReadAnyDoc
+released_at:
+  value: '2026-11-14'
+  precision: day
+added_at: '2026-11-18'
+last_verified_at: '2026-11-18'
+summary: 'Open-source Reducto alternative: parse PDFs, scans and forms into Markdown, tables and typed
+  data with a citation for every value. Claude Haiku or any model. Python library, MCP server, Reducto-compatible
+  API.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/arpitpatel25/ReadAnyDoc
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/arpitpatel25/ReadAnyDoc
+  discovered_via: github
+  discovered_at: '2026-11-18'
+  source_id: R_kgDOVua-EA
+  source_metadata:
+    repository: arpitpatel25/ReadAnyDoc
+    stars: 11
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: arpitpatel25/ReadAnyDoc
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

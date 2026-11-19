@@ -4,6 +4,43 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [MohamedEmam2/gemma-ocr-lines](https://huggingface.co/datasets/MohamedEmam2/gemma-ocr-lines) | 2026-11-18 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Gemma OCR Lines (IAM + KHATT)
+	
+
+Line-level image/text pairs for training a CTC OCR recognizer. Every row is one
+cropped text line with its transcript: handwriting from IAM (English) and
+KHATT (Arabic), normalized into a single Latin+Arabic character vocabulary.
+This is the frozen training corpus for the embedding-ocr CTC recognizer.
+It exists so training never has to download the upstream datasets, re-filter
+rows, or write tens of thousands of PNGs again. The corpus was packed… See the full description on the dataset page: https://huggingface.co/datasets/MohamedEmam2/gemma-ocr-lines. |
+| [RADAXGRS/kyc-nuqta-ocr-fields](https://huggingface.co/datasets/RADAXGRS/kyc-nuqta-ocr-fields) | 2026-11-17 | text-recognition | candidate | 
+	
+		
+	
+	
+		KYC Nuqta OCR field pairs
+	
+
+One field crop of a real phone photo of a printed fictional Iraqi KYC document (national ID, tax card,
+company licence) and the text an OCR reader must return for it. Made for fine-tuning
+Nuqta-Arabic-OCR-0.8B, Reader 1 of the KYC
+document agent (xgrs8/kyc_zain, private).
+All documents are fictional. No real person's document is in this dataset.
+
+	
+		
+	
+	
+		The target
+	
+
+text is the label: the printed truth when every character of the field is visible… See the full description on the dataset page: https://huggingface.co/datasets/RADAXGRS/kyc-nuqta-ocr-fields. |
+| [Anandsah007/AI-Chandra-OCR](https://huggingface.co/datasets/Anandsah007/AI-Chandra-OCR) | 2026-11-17 | text-recognition | candidate | — |
 | [Hennara/arabic_ocr](https://huggingface.co/datasets/Hennara/arabic_ocr) | 2026-11-16 | text-recognition | candidate | — |
 | [FaisalHejary/synth_OCR](https://huggingface.co/datasets/FaisalHejary/synth_OCR) | 2026-11-16 | text-recognition | candidate | 
 	

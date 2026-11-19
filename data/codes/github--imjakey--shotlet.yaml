@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:imjakey/shotlet
+kind: code
+name: imjakey/shotlet
+released_at:
+  value: '2026-11-17'
+  precision: day
+added_at: '2026-11-18'
+last_verified_at: '2026-11-18'
+summary: Native screenshot & recording tool for Windows and macOS, with scrolling capture, annotations,
+  OCR, editable history, and Electron integration. 面向 Windows 和 macOS 的原生截图与录屏工具，支持滚动长截图、丰富标注、OCR、历史截图再编辑及
+  Electron 集成。
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/imjakey/shotlet
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/imjakey/shotlet
+  discovered_via: github
+  discovered_at: '2026-11-18'
+  source_id: R_kgDOVxqu3A
+  source_metadata:
+    repository: imjakey/shotlet
+    stars: 12
+    language: C++
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: imjakey/shotlet
+landmark: false
+programming_languages:
+- C++
+maintenance_status: active

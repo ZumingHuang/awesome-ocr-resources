@@ -4,8 +4,17 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [iapp/OpenThai2.1-OCR-Markdown-20261118-GGUF](https://huggingface.co/iapp/OpenThai2.1-OCR-Markdown-20261118-GGUF) | 2026-11-18 | text-recognition | candidate | — |
+| [dulalSusan/numberplate_ocr](https://huggingface.co/dulalSusan/numberplate_ocr) | 2026-11-18 | text-recognition | candidate | — |
+| [Redifire/bubbletype-manga-ocr-onnx](https://huggingface.co/Redifire/bubbletype-manga-ocr-onnx) | 2026-11-17 | text-recognition | candidate | — |
 | [PandaKG/qalamai-ocr](https://huggingface.co/PandaKG/qalamai-ocr) | 2026-11-17 | text-recognition | candidate | — |
+| [msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.4](https://huggingface.co/msbayindir/tr-ocr-markdown-deepseek-ocr2-lora-v0.4) | 2026-11-17 | text-recognition | candidate | — |
+| [locai-models/PP-OCRv6-tiny-mlxfn](https://huggingface.co/locai-models/PP-OCRv6-tiny-mlxfn) | 2026-11-17 | text-recognition | candidate | — |
+| [JustANormalTinkerer/hayai-ocr-v2.7-supernova-onnx](https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2.7-supernova-onnx) | 2026-11-17 | text-recognition | candidate | — |
+| [josepabloucr/tifinagh-ocr-plantilles](https://huggingface.co/josepabloucr/tifinagh-ocr-plantilles) | 2026-11-17 | text-recognition | candidate | — |
 | [Iceblue2026/ocr-vlm-decoder-int8](https://huggingface.co/Iceblue2026/ocr-vlm-decoder-int8) | 2026-11-17 | text-recognition | candidate | — |
+| [emanuelaboros/ocr-feature-fragility-saes](https://huggingface.co/emanuelaboros/ocr-feature-fragility-saes) | 2026-11-17 | text-recognition | candidate | — |
+| [123explorer/pp-ocrv6-det-small](https://huggingface.co/123explorer/pp-ocrv6-det-small) | 2026-11-17 | text-recognition | candidate | — |
 | [rizzoaiacademy/rizzo-ocr](https://huggingface.co/rizzoaiacademy/rizzo-ocr) | 2026-11-16 | text-recognition | candidate | — |
 | [prosperious/ocr-tech-k2](https://huggingface.co/prosperious/ocr-tech-k2) | 2026-11-16 | text-recognition | candidate | — |
 | [prosperious/ocr-projects-archive](https://huggingface.co/prosperious/ocr-projects-archive) | 2026-11-16 | text-recognition | candidate | — |

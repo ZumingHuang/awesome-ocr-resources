@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:hashgraph-online/awesome-codex-plugins:plugins-kalarislabs-research-agent-skills-skills-liteparse-skill-md
+kind: skill
+name: hashgraph-online/awesome-codex-plugins / plugins/KalarisLabs/research-agent-skills/skills/liteparse/SKILL.md
+released_at:
+  value: '2026-11-18'
+  precision: day
+added_at: '2026-11-18'
+last_verified_at: '2026-11-18'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/hashgraph-online/awesome-codex-plugins/blob/0fadeb8d072270eb9e0e73edfc17b729b7731d81/plugins/KalarisLabs/research-agent-skills/skills/liteparse/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/hashgraph-online/awesome-codex-plugins/blob/0fadeb8d072270eb9e0e73edfc17b729b7731d81/plugins/KalarisLabs/research-agent-skills/skills/liteparse/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-11-18'
+  source_id: hashgraph-online/awesome-codex-plugins:plugins/KalarisLabs/research-agent-skills/skills/liteparse/SKILL.md
+  source_metadata:
+    repository: hashgraph-online/awesome-codex-plugins
+    manifest_path: plugins/KalarisLabs/research-agent-skills/skills/liteparse/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: hashgraph-online/awesome-codex-plugins
+manifest_path: plugins/KalarisLabs/research-agent-skills/skills/liteparse/SKILL.md
+capabilities: {}

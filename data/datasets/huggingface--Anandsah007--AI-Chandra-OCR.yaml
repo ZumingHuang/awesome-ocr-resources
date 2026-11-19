@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:Anandsah007/AI-Chandra-OCR
+kind: dataset
+name: Anandsah007/AI-Chandra-OCR
+released_at:
+  value: '2026-11-17'
+  precision: day
+added_at: '2026-11-18'
+last_verified_at: '2026-11-18'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Anandsah007/AI-Chandra-OCR
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Anandsah007/AI-Chandra-OCR
+  discovered_via: huggingface
+  discovered_at: '2026-11-18'
+  source_id: Anandsah007/AI-Chandra-OCR
+  source_metadata:
+    repository_id: Anandsah007/AI-Chandra-OCR
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Anandsah007
+repository_id: Anandsah007/AI-Chandra-OCR
+usage: []
+annotations: []
+access: unknown
