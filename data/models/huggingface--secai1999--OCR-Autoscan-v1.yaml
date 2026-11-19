@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:secai1999/OCR-Autoscan-v1
+kind: model
+name: secai1999/OCR-Autoscan-v1
+released_at:
+  value: '2026-11-19'
+  precision: day
+added_at: '2026-11-19'
+last_verified_at: '2026-11-19'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/secai1999/OCR-Autoscan-v1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/secai1999/OCR-Autoscan-v1
+  discovered_via: huggingface
+  discovered_at: '2026-11-19'
+  source_id: secai1999/OCR-Autoscan-v1
+  source_metadata:
+    repository_id: secai1999/OCR-Autoscan-v1
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: secai1999
+repository_id: secai1999/OCR-Autoscan-v1
+deployment: []

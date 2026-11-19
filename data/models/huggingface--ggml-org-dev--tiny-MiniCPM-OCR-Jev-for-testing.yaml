@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing
+kind: model
+name: ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing
+released_at:
+  value: '2026-11-19'
+  precision: day
+added_at: '2026-11-19'
+last_verified_at: '2026-11-19'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing
+  discovered_via: huggingface
+  discovered_at: '2026-11-19'
+  source_id: ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing
+  source_metadata:
+    repository_id: ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: ggml-org-dev
+repository_id: ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing
+deployment: []

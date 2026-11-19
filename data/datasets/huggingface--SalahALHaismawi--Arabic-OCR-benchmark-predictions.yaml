@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:SalahALHaismawi/Arabic-OCR-benchmark-predictions
+kind: dataset
+name: SalahALHaismawi/Arabic-OCR-benchmark-predictions
+released_at:
+  value: '2026-11-19'
+  precision: day
+added_at: '2026-11-19'
+last_verified_at: '2026-11-19'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tArabic OCR benchmark predictions\n\t\n\nRaw model outputs on KITAB-Bench\
+  \ (13 OCR sets) and\nMisraj-DocOCR (400 pages), so anyone can check or rescore them.\nEach .jsonl file\
+  \ holds one benchmark set, one {\"id\", \"ref\", \"hyp\"} object per line: the image id in the\nbenchmark,\
+  \ the benchmark's reference text and the model's output.\nThe outputs were produced and scored with\
+  \ the code in\nnuqta-ocr/benchmarks (run.py, score.py),\nthe same code and settings behind the Nuqta\
+  \ Arabic OCR\nnumbers.… See the full description on the dataset page: https://huggingface.co/datasets/SalahALHaismawi/Arabic-OCR-benchmark-predictions."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/SalahALHaismawi/Arabic-OCR-benchmark-predictions
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/SalahALHaismawi/Arabic-OCR-benchmark-predictions
+  discovered_via: huggingface
+  discovered_at: '2026-11-19'
+  source_id: SalahALHaismawi/Arabic-OCR-benchmark-predictions
+  source_metadata:
+    repository_id: SalahALHaismawi/Arabic-OCR-benchmark-predictions
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: SalahALHaismawi
+repository_id: SalahALHaismawi/Arabic-OCR-benchmark-predictions
+usage: []
+annotations: []
+access: unknown

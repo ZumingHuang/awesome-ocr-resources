@@ -4,7 +4,14 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [yusuklee/hayai-ocr-v2.5-nova-fp16](https://huggingface.co/yusuklee/hayai-ocr-v2.5-nova-fp16) | 2026-11-19 | text-recognition | candidate | — |
+| [secai1999/OCR-Autoscan-v1](https://huggingface.co/secai1999/OCR-Autoscan-v1) | 2026-11-19 | text-recognition | candidate | — |
+| [MohammedSalmanFawaz/yolocop-awiros-ocr](https://huggingface.co/MohammedSalmanFawaz/yolocop-awiros-ocr) | 2026-11-19 | text-recognition | candidate | — |
+| [ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing-GGUF](https://huggingface.co/ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing-GGUF) | 2026-11-19 | text-recognition | candidate | — |
+| [ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing](https://huggingface.co/ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing) | 2026-11-19 | text-recognition | candidate | — |
+| [ternlabs/tre-ocr](https://huggingface.co/ternlabs/tre-ocr) | 2026-11-18 | text-recognition | candidate | — |
 | [iapp/OpenThai2.1-OCR-Markdown-20261118-GGUF](https://huggingface.co/iapp/OpenThai2.1-OCR-Markdown-20261118-GGUF) | 2026-11-18 | text-recognition | candidate | — |
+| [eliunited/pp-ocrv6-medium-coreml](https://huggingface.co/eliunited/pp-ocrv6-medium-coreml) | 2026-11-18 | text-recognition | candidate | — |
 | [dulalSusan/numberplate_ocr](https://huggingface.co/dulalSusan/numberplate_ocr) | 2026-11-18 | text-recognition | candidate | — |
 | [Redifire/bubbletype-manga-ocr-onnx](https://huggingface.co/Redifire/bubbletype-manga-ocr-onnx) | 2026-11-17 | text-recognition | candidate | — |
 | [PandaKG/qalamai-ocr](https://huggingface.co/PandaKG/qalamai-ocr) | 2026-11-17 | text-recognition | candidate | — |

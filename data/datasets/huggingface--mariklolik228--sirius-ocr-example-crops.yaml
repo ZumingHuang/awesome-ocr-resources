@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:mariklolik228/sirius-ocr-example-crops
+kind: dataset
+name: mariklolik228/sirius-ocr-example-crops
+released_at:
+  value: '2026-11-18'
+  precision: day
+added_at: '2026-11-19'
+last_verified_at: '2026-11-19'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSirius OCR — примеры\n\t\n\nПо одному фрагменту из каждой указанной\
+  \ подборки. Здесь собраны только примеры из PDF.\n\n\t\n\t\t\n\t\n\t\n\t\tСинтетические прописи\n\t\n\
+  \n\nЭталон — «Двенадцатое апреля.».\n\n\t\n\t\t\n\t\n\t\n\t\tМедицина с черновиком Xiaomi\n\t\n\n\n\
+  Эталон — «обильное питье».\n\n\t\n\t\t\n\t\n\t\n\t\tМедицинская синтетика\n\t\n\n\nЭталон — «Осмотр:\
+  \ повторный».\n\n\t\n\t\t\n\t\n\t\n\t\tДополнительная медицинская разметка\n\t\n\n\nЭталон — «умеренно».\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tСохранение верного черновика\n\t\n\n\nЭталон — «обильное питье».\n\n\t\n\t\t\
+  \n\t\n\t\n\t\tМедицина… See the full description on the dataset page: https://huggingface.co/datasets/mariklolik228/sirius-ocr-example-crops."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/mariklolik228/sirius-ocr-example-crops
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/mariklolik228/sirius-ocr-example-crops
+  discovered_via: huggingface
+  discovered_at: '2026-11-19'
+  source_id: mariklolik228/sirius-ocr-example-crops
+  source_metadata:
+    repository_id: mariklolik228/sirius-ocr-example-crops
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: mariklolik228
+repository_id: mariklolik228/sirius-ocr-example-crops
+usage: []
+annotations: []
+access: unknown

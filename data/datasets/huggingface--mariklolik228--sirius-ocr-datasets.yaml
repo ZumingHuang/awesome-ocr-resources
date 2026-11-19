@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:mariklolik228/sirius-ocr-datasets
+kind: dataset
+name: mariklolik228/sirius-ocr-datasets
+released_at:
+  value: '2026-11-18'
+  precision: day
+added_at: '2026-11-19'
+last_verified_at: '2026-11-19'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tSirius OCR datasets\n\t\n\nFull project splits behind the illustrated\
+  \ report. Medical images are cropped snippets. Local paths, source-document identifiers and embedded\
+  \ medical image metadata are omitted. The frozen sets represent different experiment rounds and should\
+  \ not be pooled into one independent test. School Notebooks RU is derived from ai-forever/school_notebooks_RU.\n\
+  \n\t\n\t\t\nConfiguration\nSplit\nRows\n\n\n\t\t\nschool_notebooks_ru\ntrain\n857\n\n\nschool_notebooks_ru\n\
+  dev\n119… See the full description on the dataset page: https://huggingface.co/datasets/mariklolik228/sirius-ocr-datasets."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/mariklolik228/sirius-ocr-datasets
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/mariklolik228/sirius-ocr-datasets
+  discovered_via: huggingface
+  discovered_at: '2026-11-19'
+  source_id: mariklolik228/sirius-ocr-datasets
+  source_metadata:
+    repository_id: mariklolik228/sirius-ocr-datasets
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: mariklolik228
+repository_id: mariklolik228/sirius-ocr-datasets
+usage: []
+annotations: []
+access: unknown
