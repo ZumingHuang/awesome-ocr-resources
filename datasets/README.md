@@ -4,6 +4,22 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [SalahALHaismawi/Arabic-OCR-benchmark-predictions](https://huggingface.co/datasets/SalahALHaismawi/Arabic-OCR-benchmark-predictions) | 2026-11-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		Arabic OCR benchmark predictions
+	
+
+Raw model outputs on KITAB-Bench (13 OCR sets) and
+Misraj-DocOCR (400 pages), so anyone can check or rescore them.
+Each .jsonl file holds one benchmark set, one {"id", "ref", "hyp"} object per line: the image id in the
+benchmark, the benchmark's reference text and the model's output.
+The outputs were produced and scored with the code in
+nuqta-ocr/benchmarks (run.py, score.py),
+the same code and settings behind the Nuqta Arabic OCR
+numbers.… See the full description on the dataset page: https://huggingface.co/datasets/SalahALHaismawi/Arabic-OCR-benchmark-predictions. |
 | [MohamedEmam2/gemma-ocr-lines](https://huggingface.co/datasets/MohamedEmam2/gemma-ocr-lines) | 2026-11-18 | handwriting-recognition, text-recognition | candidate | 
 	
 		
@@ -18,6 +34,97 @@ KHATT (Arabic), normalized into a single Latin+Arabic character vocabulary.
 This is the frozen training corpus for the embedding-ocr CTC recognizer.
 It exists so training never has to download the upstream datasets, re-filter
 rows, or write tens of thousands of PNGs again. The corpus was packed… See the full description on the dataset page: https://huggingface.co/datasets/MohamedEmam2/gemma-ocr-lines. |
+| [mariklolik228/sirius-ocr-example-crops](https://huggingface.co/datasets/mariklolik228/sirius-ocr-example-crops) | 2026-11-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Sirius OCR — примеры
+	
+
+По одному фрагменту из каждой указанной подборки. Здесь собраны только примеры из PDF.
+
+	
+		
+	
+	
+		Синтетические прописи
+	
+
+
+Эталон — «Двенадцатое апреля.».
+
+	
+		
+	
+	
+		Медицина с черновиком Xiaomi
+	
+
+
+Эталон — «обильное питье».
+
+	
+		
+	
+	
+		Медицинская синтетика
+	
+
+
+Эталон — «Осмотр: повторный».
+
+	
+		
+	
+	
+		Дополнительная медицинская разметка
+	
+
+
+Эталон — «умеренно».
+
+	
+		
+	
+	
+		Сохранение верного черновика
+	
+
+
+Эталон — «обильное питье».
+
+	
+		
+	
+	
+		Медицина… See the full description on the dataset page: https://huggingface.co/datasets/mariklolik228/sirius-ocr-example-crops. |
+| [mariklolik228/sirius-ocr-datasets](https://huggingface.co/datasets/mariklolik228/sirius-ocr-datasets) | 2026-11-18 | text-recognition | candidate | 
+	
+		
+	
+	
+		Sirius OCR datasets
+	
+
+Full project splits behind the illustrated report. Medical images are cropped snippets. Local paths, source-document identifiers and embedded medical image metadata are omitted. The frozen sets represent different experiment rounds and should not be pooled into one independent test. School Notebooks RU is derived from ai-forever/school_notebooks_RU.
+
+	
+		
+Configuration
+Split
+Rows
+
+
+		
+school_notebooks_ru
+train
+857
+
+
+school_notebooks_ru
+dev
+119… See the full description on the dataset page: https://huggingface.co/datasets/mariklolik228/sirius-ocr-datasets. |
 | [RADAXGRS/kyc-nuqta-ocr-fields](https://huggingface.co/datasets/RADAXGRS/kyc-nuqta-ocr-fields) | 2026-11-17 | text-recognition | candidate | 
 	
 		
