@@ -4,9 +4,14 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [UGREENDEV/RK182X-OCR-PaddleOCR-VL](https://huggingface.co/UGREENDEV/RK182X-OCR-PaddleOCR-VL) | 2026-11-20 | text-recognition | candidate | — |
+| [UGREENDEV/RK182X-OCR-HunyuanOCR-1.5](https://huggingface.co/UGREENDEV/RK182X-OCR-HunyuanOCR-1.5) | 2026-11-20 | text-recognition | candidate | — |
 | [yusuklee/hayai-ocr-v2.5-nova-fp16](https://huggingface.co/yusuklee/hayai-ocr-v2.5-nova-fp16) | 2026-11-19 | text-recognition | candidate | — |
 | [secai1999/OCR-Autoscan-v1](https://huggingface.co/secai1999/OCR-Autoscan-v1) | 2026-11-19 | text-recognition | candidate | — |
 | [MohammedSalmanFawaz/yolocop-awiros-ocr](https://huggingface.co/MohammedSalmanFawaz/yolocop-awiros-ocr) | 2026-11-19 | text-recognition | candidate | — |
+| [loom-draft/prithivMLmods-Xiaomi-OCR-0-loom](https://huggingface.co/loom-draft/prithivMLmods-Xiaomi-OCR-0-loom) | 2026-11-19 | text-recognition | candidate | — |
+| [loom-draft/prithivMLmods-chandra-ocr-2-loom](https://huggingface.co/loom-draft/prithivMLmods-chandra-ocr-2-loom) | 2026-11-19 | text-recognition | candidate | — |
+| [HarfStudio/ocr-models](https://huggingface.co/HarfStudio/ocr-models) | 2026-11-19 | text-recognition | candidate | — |
 | [ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing-GGUF](https://huggingface.co/ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing-GGUF) | 2026-11-19 | text-recognition | candidate | — |
 | [ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing](https://huggingface.co/ggml-org-dev/tiny-MiniCPM-OCR-Jev-for-testing) | 2026-11-19 | text-recognition | candidate | — |
 | [ternlabs/tre-ocr](https://huggingface.co/ternlabs/tre-ocr) | 2026-11-18 | text-recognition | candidate | — |
