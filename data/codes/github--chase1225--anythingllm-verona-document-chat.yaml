@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:chase1225/anythingllm-verona-document-chat
+kind: code
+name: chase1225/anythingllm-verona-document-chat
+released_at:
+  value: '2026-11-19'
+  precision: day
+added_at: '2026-11-21'
+last_verified_at: '2026-11-21'
+summary: Document-grounded chat for Verona - AnythingLLM workspace integration.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/chase1225/anythingllm-verona-document-chat
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/chase1225/anythingllm-verona-document-chat
+  discovered_via: github
+  discovered_at: '2026-11-21'
+  source_id: R_kgDOV07Oug
+  source_metadata:
+    repository: chase1225/anythingllm-verona-document-chat
+    stars: 151
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: chase1225/anythingllm-verona-document-chat
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

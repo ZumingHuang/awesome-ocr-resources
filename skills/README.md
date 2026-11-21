@@ -4,6 +4,10 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [oidlabs-com/Lexoid / skills/lexoid-cli/SKILL.md](https://github.com/oidlabs-com/Lexoid/blob/4455d17de11f68f48ac57c348f49e4104b0741bc/skills/lexoid-cli/SKILL.md) | 2026-11-21 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [MinBZK/nl-wallet / deploy/qa-util/ai-security-scan/.claude/skills/threat-model/SKILL.md](https://github.com/MinBZK/nl-wallet/blob/681ad1a590b9225b3d9a1fc6ea56c84416a58fc6/deploy/qa-util/ai-security-scan/.claude/skills/threat-model/SKILL.md) | 2026-11-21 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [hookdeck/webhook-skills / skills/reducto-webhooks/SKILL.md](https://github.com/hookdeck/webhook-skills/blob/60c323851294d450f10e87fde68ca3ec5130a4a9/skills/reducto-webhooks/SKILL.md) | 2026-11-21 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [databricks/databricks-agent-skills / skills/databricks-pipelines/SKILL.md](https://github.com/databricks/databricks-agent-skills/blob/7360b2e8a190dc773acf30581b7edf3e21b70725/skills/databricks-pipelines/SKILL.md) | 2026-11-21 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [zc310/ofd / SKILL.md](https://github.com/zc310/ofd/blob/8584495ab09208882999dff0e8567db273e9658d/SKILL.md) | 2026-11-18 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [LeoYeAI/agent-master-skills / skills/openocr-skill/SKILL.md](https://github.com/LeoYeAI/agent-master-skills/blob/7de36622d808ebc0c472a6562e93c298a8ea368f/skills/openocr-skill/SKILL.md) | 2026-11-18 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [LeoYeAI/agent-master-skills / skills/mineru-document-extractor/SKILL.md](https://github.com/LeoYeAI/agent-master-skills/blob/7de36622d808ebc0c472a6562e93c298a8ea368f/skills/mineru-document-extractor/SKILL.md) | 2026-11-18 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |

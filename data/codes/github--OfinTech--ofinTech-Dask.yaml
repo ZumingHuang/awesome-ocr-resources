@@ -1,0 +1,43 @@
+schema_version: 1
+id: code:github:OfinTech/ofinTech-Dask
+kind: code
+name: OfinTech/ofinTech-Dask
+released_at:
+  value: '2026-11-15'
+  precision: day
+added_at: '2026-11-21'
+last_verified_at: '2026-11-21'
+summary: 'OfinTech Desk reads your ledger, spreadsheets, documents and inbox, does the arithmetic in code,
+  fills in your own Excel and Word files with sources for every figure, and asks a person before it sends
+  or changes anything. Bring any model: a cloud provider with your own key, or a local model.'
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/OfinTech/ofinTech-Dask
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/OfinTech/ofinTech-Dask
+  discovered_via: github
+  discovered_at: '2026-11-21'
+  source_id: R_kgDOVvhD6A
+  source_metadata:
+    repository: OfinTech/ofinTech-Dask
+    stars: 27
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: OfinTech/ofinTech-Dask
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:MinBZK/nl-wallet:deploy-qa-util-ai-security-scan-claude-skills-threat-model-skill-md
+kind: skill
+name: MinBZK/nl-wallet / deploy/qa-util/ai-security-scan/.claude/skills/threat-model/SKILL.md
+released_at:
+  value: '2026-11-21'
+  precision: day
+added_at: '2026-11-21'
+last_verified_at: '2026-11-21'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/MinBZK/nl-wallet/blob/681ad1a590b9225b3d9a1fc6ea56c84416a58fc6/deploy/qa-util/ai-security-scan/.claude/skills/threat-model/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/MinBZK/nl-wallet/blob/681ad1a590b9225b3d9a1fc6ea56c84416a58fc6/deploy/qa-util/ai-security-scan/.claude/skills/threat-model/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-11-21'
+  source_id: MinBZK/nl-wallet:deploy/qa-util/ai-security-scan/.claude/skills/threat-model/SKILL.md
+  source_metadata:
+    repository: MinBZK/nl-wallet
+    manifest_path: deploy/qa-util/ai-security-scan/.claude/skills/threat-model/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: MinBZK/nl-wallet
+manifest_path: deploy/qa-util/ai-security-scan/.claude/skills/threat-model/SKILL.md
+capabilities: {}
