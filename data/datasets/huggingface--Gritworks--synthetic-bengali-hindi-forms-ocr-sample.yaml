@@ -6,7 +6,7 @@ released_at:
   value: '2026-11-14'
   precision: day
 added_at: '2026-11-14'
-last_verified_at: '2026-11-14'
+last_verified_at: '2026-11-21'
 summary: "\n\t\n\t\t\n\t\n\t\n\t\tGritWorks Indian Language Forms (Bengali, Hindi): synthetic document\
   \ sample\n\t\n\nA free preview of the Indian Language Forms (Bengali, Hindi) sample pack from GritWorks:\
   \ fictional Bengali and Hindi savings forms with printed fields and handwriting, each paired with a\
@@ -17,13 +17,14 @@ tasks:
 - handwriting-recognition
 - text-recognition
 modalities:
-- unspecified
+- image
 languages:
-- unspecified
+- bn
+- hi
 links:
   canonical: https://huggingface.co/datasets/Gritworks/synthetic-bengali-hindi-forms-ocr-sample
 license:
-  name: NOASSERTION
+  name: CC-BY-4.0
 relations: []
 provenance:
   canonical_source: https://huggingface.co/datasets/Gritworks/synthetic-bengali-hindi-forms-ocr-sample
@@ -43,4 +44,4 @@ provider: Gritworks
 repository_id: Gritworks/synthetic-bengali-hindi-forms-ocr-sample
 usage: []
 annotations: []
-access: unknown
+access: open

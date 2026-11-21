@@ -125,6 +125,7 @@ train
 school_notebooks_ru
 dev
 119… See the full description on the dataset page: https://huggingface.co/datasets/mariklolik228/sirius-ocr-datasets. |
+| [Gritworks/docling-degraded-scan-bench](https://huggingface.co/datasets/Gritworks/docling-degraded-scan-bench) | 2026-11-18 | text-recognition, document-parsing | candidate | Degraded-scan OCR benchmark: 37 synthetic source pages (invoices, statements, W-2, claim forms, lab reports, ID specimens, Indian-language forms) rendered clean and with simulated blur, skew, photocopy, low-light and fax degradation, plus 38 pack-native degraded scans (260 page images at 150 DPI), with field-level ground truth and pixel bounding boxes. Code to score OCR engines per degradation type: https://github.com/darshilbabel/docling-degraded-scan-bench. |
 | [RADAXGRS/kyc-nuqta-ocr-fields](https://huggingface.co/datasets/RADAXGRS/kyc-nuqta-ocr-fields) | 2026-11-17 | text-recognition | candidate | 
 	
 		
@@ -253,6 +254,7 @@ transcription… See the full description on the dataset page: https://huggingfa
 
 A free preview of the W-2 Form (Banking & Lending) sample pack from GritWorks: a fictional IRS Form W-2 from a borrower's income file, as used in loan and mortgage underwriting.
 Each document comes as a clean PDF and a degraded capture (for example blur, photocopy, coffee stain, skew, crop or low light), with expected field values (JSON) and field bounding boxes. Use it to check how OCR, document parsers and… See the full description on the dataset page: https://huggingface.co/datasets/Gritworks/synthetic-w2-form-ocr-sample. |
+| [Gritworks/synthetic-us-kyc-documents-sample](https://huggingface.co/datasets/Gritworks/synthetic-us-kyc-documents-sample) | 2026-11-14 | text-recognition, document-parsing | candidate | Free preview of a synthetic US KYC identity-document sample pack: fictional specimen ID documents, each as a clean PDF and a degraded capture, with expected field values (JSON) and field bounding boxes, for testing OCR and document parsers under capture degradation. |
 | [Gritworks/synthetic-lab-report-ocr-sample](https://huggingface.co/datasets/Gritworks/synthetic-lab-report-ocr-sample) | 2026-11-14 | text-recognition | candidate | 
 	
 		
