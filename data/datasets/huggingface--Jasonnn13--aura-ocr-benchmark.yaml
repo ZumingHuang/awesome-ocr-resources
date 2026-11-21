@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Jasonnn13/aura-ocr-benchmark
+kind: dataset
+name: Jasonnn13/aura-ocr-benchmark
+released_at:
+  value: '2026-11-20'
+  precision: day
+added_at: '2026-11-21'
+last_verified_at: '2026-11-21'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tAURA OCR Benchmark — Real5-OmniDocBench Illumination\n\t\n\nThis dataset\
+  \ holds the results of a two-stage document OCR pipeline run on the\nillumination subset of Real5-OmniDocBench:\n\
+  \nStage 1, layout: the AURA page endpoint finds regions on each page.\nStage 2, OCR: AURA OCR reads\
+  \ each region, then the regions are assembled into Markdown.\n\nThe run was made on 2026-11-20. It uses\
+  \ worst-case concurrency settings, so the speed figures are an upper bound on cost.\n\n\t\n\t\t\n\t\n\
+  \t\n\t\tResults\n\t\n\n1,354… See the full description on the dataset page: https://huggingface.co/datasets/Jasonnn13/aura-ocr-benchmark."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Jasonnn13/aura-ocr-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Jasonnn13/aura-ocr-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-11-21'
+  source_id: Jasonnn13/aura-ocr-benchmark
+  source_metadata:
+    repository_id: Jasonnn13/aura-ocr-benchmark
+    downloads: 1
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Jasonnn13
+repository_id: Jasonnn13/aura-ocr-benchmark
+usage: []
+annotations: []
+access: unknown

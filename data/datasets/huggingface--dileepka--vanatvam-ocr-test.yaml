@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:dileepka/vanatvam-ocr-test
+kind: dataset
+name: dileepka/vanatvam-ocr-test
+released_at:
+  value: '2026-11-20'
+  precision: day
+added_at: '2026-11-21'
+last_verified_at: '2026-11-21'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/dileepka/vanatvam-ocr-test
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/dileepka/vanatvam-ocr-test
+  discovered_via: huggingface
+  discovered_at: '2026-11-21'
+  source_id: dileepka/vanatvam-ocr-test
+  source_metadata:
+    repository_id: dileepka/vanatvam-ocr-test
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: dileepka
+repository_id: dileepka/vanatvam-ocr-test
+usage: []
+annotations: []
+access: unknown
