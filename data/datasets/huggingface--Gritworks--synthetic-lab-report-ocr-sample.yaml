@@ -6,7 +6,7 @@ released_at:
   value: '2026-11-14'
   precision: day
 added_at: '2026-11-14'
-last_verified_at: '2026-11-14'
+last_verified_at: '2026-11-21'
 summary: "\n\t\n\t\t\n\t\n\t\n\t\tGritWorks Diagnostics Lab Documents: synthetic document sample\n\t\n\
   \nA free preview of the Diagnostics Lab Documents sample pack from GritWorks: a fictional diagnostics\
   \ case from patient registration and lab requisition through physician authorization, specimen query\
@@ -16,13 +16,13 @@ summary: "\n\t\n\t\t\n\t\n\t\n\t\tGritWorks Diagnostics Lab Documents: synthetic
 tasks:
 - text-recognition
 modalities:
-- unspecified
+- image
 languages:
-- unspecified
+- en
 links:
   canonical: https://huggingface.co/datasets/Gritworks/synthetic-lab-report-ocr-sample
 license:
-  name: NOASSERTION
+  name: CC-BY-4.0
 relations: []
 provenance:
   canonical_source: https://huggingface.co/datasets/Gritworks/synthetic-lab-report-ocr-sample
@@ -42,4 +42,4 @@ provider: Gritworks
 repository_id: Gritworks/synthetic-lab-report-ocr-sample
 usage: []
 annotations: []
-access: unknown
+access: open

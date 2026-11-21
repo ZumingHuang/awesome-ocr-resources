@@ -1,0 +1,37 @@
+schema_version: 1
+id: dataset:huggingface:Gritworks/synthetic-us-kyc-documents-sample
+kind: dataset
+name: Gritworks/synthetic-us-kyc-documents-sample
+released_at:
+  value: '2026-11-14'
+  precision: day
+added_at: '2026-11-21'
+last_verified_at: '2026-11-21'
+summary: "Free preview of a synthetic US KYC identity-document sample pack: fictional specimen ID documents, each as a clean PDF and a degraded capture, with expected field values (JSON) and field bounding boxes, for testing OCR and document parsers under capture degradation."
+tasks:
+- text-recognition
+- document-parsing
+modalities:
+- image
+languages:
+- en
+links:
+  canonical: https://huggingface.co/datasets/Gritworks/synthetic-us-kyc-documents-sample
+license:
+  name: CC-BY-4.0
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Gritworks/synthetic-us-kyc-documents-sample
+  discovered_via: pull-request
+  discovered_at: '2026-11-21'
+  source_id: Gritworks/synthetic-us-kyc-documents-sample
+  source_metadata:
+    repository_id: Gritworks/synthetic-us-kyc-documents-sample
+  legacy_duplicates: []
+curation:
+  status: candidate
+provider: Gritworks
+repository_id: Gritworks/synthetic-us-kyc-documents-sample
+usage: []
+annotations: []
+access: open
