@@ -6,7 +6,7 @@ released_at:
   value: '2026-11-14'
   precision: day
 added_at: '2026-11-14'
-last_verified_at: '2026-11-14'
+last_verified_at: '2026-11-21'
 summary: "\n\t\n\t\t\n\t\n\t\n\t\tGritWorks Health Insurance Claims: synthetic document sample\n\t\n\n\
   A free preview of the Health Insurance Claims sample pack from GritWorks: a fictional health-insurance\
   \ case from claim and charges through benefits and patient balance: CMS-1500 claim, itemized invoice,\
@@ -16,13 +16,13 @@ summary: "\n\t\n\t\t\n\t\n\t\n\t\tGritWorks Health Insurance Claims: synthetic d
 tasks:
 - text-recognition
 modalities:
-- unspecified
+- image
 languages:
-- unspecified
+- en
 links:
   canonical: https://huggingface.co/datasets/Gritworks/synthetic-health-insurance-claims-ocr-sample
 license:
-  name: NOASSERTION
+  name: CC-BY-4.0
 relations: []
 provenance:
   canonical_source: https://huggingface.co/datasets/Gritworks/synthetic-health-insurance-claims-ocr-sample
@@ -42,4 +42,4 @@ provider: Gritworks
 repository_id: Gritworks/synthetic-health-insurance-claims-ocr-sample
 usage: []
 annotations: []
-access: unknown
+access: open

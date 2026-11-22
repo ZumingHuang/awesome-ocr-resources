@@ -6,7 +6,7 @@ released_at:
   value: '2026-11-14'
   precision: day
 added_at: '2026-11-14'
-last_verified_at: '2026-11-14'
+last_verified_at: '2026-11-21'
 summary: "\n\t\n\t\t\n\t\n\t\n\t\tGritWorks W-2 Form (Banking & Lending): synthetic document sample\n\t\
   \n\nA free preview of the W-2 Form (Banking & Lending) sample pack from GritWorks: a fictional IRS Form\
   \ W-2 from a borrower's income file, as used in loan and mortgage underwriting.\nEach document comes\
@@ -17,13 +17,13 @@ tasks:
 - document-parsing
 - text-recognition
 modalities:
-- unspecified
+- image
 languages:
-- unspecified
+- en
 links:
   canonical: https://huggingface.co/datasets/Gritworks/synthetic-w2-form-ocr-sample
 license:
-  name: NOASSERTION
+  name: CC-BY-4.0
 relations: []
 provenance:
   canonical_source: https://huggingface.co/datasets/Gritworks/synthetic-w2-form-ocr-sample
@@ -43,4 +43,4 @@ provider: Gritworks
 repository_id: Gritworks/synthetic-w2-form-ocr-sample
 usage: []
 annotations: []
-access: unknown
+access: open
