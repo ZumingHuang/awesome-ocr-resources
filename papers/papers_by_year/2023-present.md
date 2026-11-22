@@ -221,6 +221,10 @@ Qingtao Xia, Siyao Cheng, Jiahua Bao, Jiaxing Du, Jie Liu
 Uddipan Basu Bir, Vincent Christlein, Andreas Maier, Mathias Zinnen
 \[document-parsing\]\[handwriting-recognition\]\[text-recognition\]
 
+**FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models**
+Zekun Wang, Yizhuo Wang
+\[document-vqa\]
+
 **Frugal Handwritten Text Recognition for Sub-Saharan Civil-Status Registers: A Smartphone-to-Records Pipeline with CPU-Only Inference**
 Ousmane Hamadou, Jean Louis Kedieng Ebongue Fendji
 \[handwriting-recognition\]\[text-recognition\]
@@ -404,6 +408,10 @@ Sugam Karki, Raúl Vázquez, Yova Kementchedjhieva
 **RefLAM: A Reference-Grounded Line Annotation Pipeline for Historical Arabic Manuscripts**
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[handwriting-recognition\]\[text-recognition\]
+
+**SEAF: Selective Semantic Enrichment and Visual Evidence Fusion for Multimodal Sarcasm Detection**
+Faxian Wan, Xiaocui Yang, Yifan Cao, Shi Feng, Daling Wang, Yifei Zhang
+\[text-recognition\]
 
 **Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis**
 Mohammad Kawsar, Al Amin Islam Ridoy, Md Rakib Hossain, Farzana Akter, AKM Bahalul Haque, Rejwan Bin Sulaiman, Mohammed Amin Almaiah

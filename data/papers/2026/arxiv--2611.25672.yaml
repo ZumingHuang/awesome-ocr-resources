@@ -1,0 +1,56 @@
+schema_version: 1
+id: paper:arxiv:2611.25672
+kind: paper
+name: 'SEAF: Selective Semantic Enrichment and Visual Evidence Fusion for Multimodal Sarcasm Detection'
+released_at:
+  value: '2026-11-19'
+  precision: day
+added_at: '2026-11-22'
+last_verified_at: '2026-11-22'
+summary: 'Multimodal sarcasm detection requires textual, visual, and contextual evidence, particularly
+  when multiple images provide complementary cues. Multimodal large language models (MLLMs) can generate
+  auxiliary information from a post''s text and images, but their outputs may mix useful background knowledge
+  with redundant visual descriptions. We propose SEAF, a dual-branch framework for selective semantic
+  enrichment and visual evidence fusion. SEAF assigns generated fields to distinct roles: entity background
+  enriches semantic input, while image descriptions supply alignment statistics. The semantic branch combines
+  the original post text, background from a frozen MLLM, and optical character recognition (OCR) text.
+  The aligned visual branch combines global and local visual features with statistics of cross-modal and
+  inter-image similarity. Text-Anchored Smoothed Aggregation (TASA) weights images by their similarity
+  to the original post text while preserving contributions from images with low literal similarity. Summing
+  the branch classification scores integrates contextual semantics with visual evidence. Experiments on
+  the multi-image MMSD3.0 benchmark show that SEAF outperforms all compared methods.'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.25672
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.25672
+  discovered_via: arxiv
+  discovered_at: '2026-11-22'
+  source_id: '2611.25672'
+  source_metadata:
+    arxiv_id: '2611.25672'
+    doi: null
+    query: all:"optical character recognition"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Faxian Wan
+- Xiaocui Yang
+- Yifan Cao
+- Shi Feng
+- Daling Wang
+- Yifei Zhang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.25672'

@@ -1,0 +1,57 @@
+schema_version: 1
+id: paper:arxiv:2611.26020
+kind: paper
+name: 'FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models'
+released_at:
+  value: '2026-11-19'
+  precision: day
+added_at: '2026-11-22'
+last_verified_at: '2026-11-22'
+summary: Hybrid language models combine self-attention with recurrent layers whose in-place state updates
+  restrict prefix reuse to exact saved positions. Saving states on a coarse grid wastes reusable prefixes,
+  whereas existing fine-grained exact caches must cut the prefill forward pass at each mid-prompt checkpoint,
+  adding scheduler steps that outweigh the reuse gains under load. We observe that across multi-turn chat,
+  agent loops, document question answering, and tree search, prefix reuse almost always ends at structural
+  boundaries predictable in advance, such as turn ends and known branch points. We present FrontierReplay,
+  a prefix caching system that materializes exact checkpoints at these boundaries without cutting the
+  prefill. While the forward pass runs uncut, FrontierReplay logs a short window of recurrent-layer inputs
+  and invokes a cross-layer, state-only replay kernel to build the target state 6-37x cheaper per token
+  than full recomputation without host synchronization. A frontier-aware retention policy prioritizes
+  active anchors and proven branches while lending dead checkpoint slots to the attention KV cache. Across
+  diverse hybrid architectures, model scales, and workloads, FrontierReplay delivers clear gains over
+  existing exact caches, lowering median time to first token (TTFT) by 16-89% (up to 8.9x), raising 80%
+  service-level objective (SLO) capacity by up to 1.73x, and improving goodput by up to 4.26x (3.67x at
+  larger scales). Compared with approximate replay methods, FrontierReplay delivers up to 1.54x higher
+  goodput while preserving exact task accuracy, avoiding the up to 17% accuracy drop suffered by approximation
+  on long contexts.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.26020
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.26020
+  discovered_via: arxiv
+  discovered_at: '2026-11-22'
+  source_id: '2611.26020'
+  source_metadata:
+    arxiv_id: '2611.26020'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Zekun Wang
+- Yizhuo Wang
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.26020'

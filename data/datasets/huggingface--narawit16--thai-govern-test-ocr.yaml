@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:narawit16/thai-govern-test-ocr
+kind: dataset
+name: narawit16/thai-govern-test-ocr
+released_at:
+  value: '2026-11-20'
+  precision: day
+added_at: '2026-11-22'
+last_verified_at: '2026-11-22'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tThai Government PDF OCR Test Benchmark (narawit16/thai-govern-test-ocr)\n\
+  \t\n\nAn evaluation benchmark of Thai government documents designed for OCR, layout analysis, and VLM\
+  \ document-parsing testing, with two complementary configs:\n\ndefault: Broad cross-agency Thai open\
+  \ government PDFs from data.go.th (15 domain groups, 111 agencies, 200 DPI).\n\nsaraban_6types: Curated\
+  \ 6 official Thai Saraban correspondence types (ระเบียบสำนักนายกรัฐมนตรีว่าด้วยงานสารบรรณ) from dla.go.th\
+  \ & data.go.th… See the full description on the dataset page: https://huggingface.co/datasets/narawit16/thai-govern-test-ocr."
+tasks:
+- document-layout-analysis
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/narawit16/thai-govern-test-ocr
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/narawit16/thai-govern-test-ocr
+  discovered_via: huggingface
+  discovered_at: '2026-11-22'
+  source_id: narawit16/thai-govern-test-ocr
+  source_metadata:
+    repository_id: narawit16/thai-govern-test-ocr
+    downloads: 42
+    likes: 1
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: narawit16
+repository_id: narawit16/thai-govern-test-ocr
+usage: []
+annotations: []
+access: unknown

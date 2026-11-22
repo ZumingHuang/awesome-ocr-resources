@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:KETI-NLP/korean-ocr-sft-recipe
+kind: dataset
+name: KETI-NLP/korean-ocr-sft-recipe
+released_at:
+  value: '2026-11-19'
+  precision: day
+added_at: '2026-11-22'
+last_verified_at: '2026-11-22'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\t복합대화 연구용 · Korean OCR SFT 자료 안내\n\t\n\n이 안내 저장소는 복합대화 과제에서 구축한 한국어 OCR\
+  \ SFT 자료의 구성·생성 방식·접근 경로와 로컬 재구성 코드를 제공합니다. 이 저장소에 업로드된 학습 레코드는 0건이며, 이미지·원천 라벨·OCR 정답 문자열도 없습니다. 아래\
+  \ 6,903,074건은 로컬 원본의 수량입니다. 수량 근거는 METADATA.md에 정리했습니다. 이용자가 원천 이미지와 라벨을 별도로 받은 뒤 재구성 코드를 실행해야 학습용 JSONL을\
+  \ 만들 수 있습니다.\n\n\t\n\t\t\n\t\n\t\n\t\t구성\n\t\n\n\n\t\n\t\t\n자료군\n학습\n검증\n시험\n합계\n\n\n\t\t\nocr_font\
+  \ — 한국어 글자체 이미지\n5,651,129\n313,517\n313,165\n6,277,811\n\n\nocr_public_exec — 공공행정문서 OCR\n557,624\n\
+  30,828\n30,988\n619,440\n\n\nocr_outdoor — 야외 실제 촬영 한글 이미지\n5,148… See the full description on the dataset\
+  \ page: https://huggingface.co/datasets/KETI-NLP/korean-ocr-sft-recipe."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/KETI-NLP/korean-ocr-sft-recipe
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/KETI-NLP/korean-ocr-sft-recipe
+  discovered_via: huggingface
+  discovered_at: '2026-11-22'
+  source_id: KETI-NLP/korean-ocr-sft-recipe
+  source_metadata:
+    repository_id: KETI-NLP/korean-ocr-sft-recipe
+    downloads: 24
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: KETI-NLP
+repository_id: KETI-NLP/korean-ocr-sft-recipe
+usage: []
+annotations: []
+access: unknown
