@@ -4,6 +4,103 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [narawit16/thai-govern-test-ocr](https://huggingface.co/datasets/narawit16/thai-govern-test-ocr) | 2026-11-20 | document-layout-analysis, text-recognition | candidate | 
+	
+		
+	
+	
+		Thai Government PDF OCR Test Benchmark (narawit16/thai-govern-test-ocr)
+	
+
+An evaluation benchmark of Thai government documents designed for OCR, layout analysis, and VLM document-parsing testing, with two complementary configs:
+
+default: Broad cross-agency Thai open government PDFs from data.go.th (15 domain groups, 111 agencies, 200 DPI).
+
+saraban_6types: Curated 6 official Thai Saraban correspondence types (ระเบียบสำนักนายกรัฐมนตรีว่าด้วยงานสารบรรณ) from dla.go.th & data.go.th… See the full description on the dataset page: https://huggingface.co/datasets/narawit16/thai-govern-test-ocr. |
+| [Jasonnn13/aura-ocr-benchmark](https://huggingface.co/datasets/Jasonnn13/aura-ocr-benchmark) | 2026-11-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		AURA OCR Benchmark — Real5-OmniDocBench Illumination
+	
+
+This dataset holds the results of a two-stage document OCR pipeline run on the
+illumination subset of Real5-OmniDocBench:
+
+Stage 1, layout: the AURA page endpoint finds regions on each page.
+Stage 2, OCR: AURA OCR reads each region, then the regions are assembled into Markdown.
+
+The run was made on 2026-11-20. It uses worst-case concurrency settings, so the speed figures are an upper bound on cost.
+
+	
+		
+	
+	
+		Results
+	
+
+1,354… See the full description on the dataset page: https://huggingface.co/datasets/Jasonnn13/aura-ocr-benchmark. |
+| [eqsmirnov/document-ocr-corpus](https://huggingface.co/datasets/eqsmirnov/document-ocr-corpus) | 2026-11-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Image Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Image Text records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+loader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/eqsmirnov/document-ocr-corpus. |
+| [dileepka/vanatvam-ocr-test](https://huggingface.co/datasets/dileepka/vanatvam-ocr-test) | 2026-11-20 | text-recognition | candidate | — |
+| [chopraan/document-ocr-audio-text](https://huggingface.co/datasets/chopraan/document-ocr-audio-text) | 2026-11-20 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This data card accompanies a lightweight Document OCR loader for Audio Text metadata. It is meant for pipeline inspection, source adaptation, and reproducible split preparation.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+dataloader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.
+README.md —… See the full description on the dataset page: https://huggingface.co/datasets/chopraan/document-ocr-audio-text. |
 | [SalahALHaismawi/Arabic-OCR-benchmark-predictions](https://huggingface.co/datasets/SalahALHaismawi/Arabic-OCR-benchmark-predictions) | 2026-11-19 | text-recognition | candidate | 
 	
 		
@@ -20,6 +117,50 @@ The outputs were produced and scored with the code in
 nuqta-ocr/benchmarks (run.py, score.py),
 the same code and settings behind the Nuqta Arabic OCR
 numbers.… See the full description on the dataset page: https://huggingface.co/datasets/SalahALHaismawi/Arabic-OCR-benchmark-predictions. |
+| [KETI-NLP/korean-ocr-sft-recipe](https://huggingface.co/datasets/KETI-NLP/korean-ocr-sft-recipe) | 2026-11-19 | text-recognition | candidate | 
+	
+		
+	
+	
+		복합대화 연구용 · Korean OCR SFT 자료 안내
+	
+
+이 안내 저장소는 복합대화 과제에서 구축한 한국어 OCR SFT 자료의 구성·생성 방식·접근 경로와 로컬 재구성 코드를 제공합니다. 이 저장소에 업로드된 학습 레코드는 0건이며, 이미지·원천 라벨·OCR 정답 문자열도 없습니다. 아래 6,903,074건은 로컬 원본의 수량입니다. 수량 근거는 METADATA.md에 정리했습니다. 이용자가 원천 이미지와 라벨을 별도로 받은 뒤 재구성 코드를 실행해야 학습용 JSONL을 만들 수 있습니다.
+
+	
+		
+	
+	
+		구성
+	
+
+
+	
+		
+자료군
+학습
+검증
+시험
+합계
+
+
+		
+ocr_font — 한국어 글자체 이미지
+5,651,129
+313,517
+313,165
+6,277,811
+
+
+ocr_public_exec — 공공행정문서 OCR
+557,624
+30,828
+30,988
+619,440
+
+
+ocr_outdoor — 야외 실제 촬영 한글 이미지
+5,148… See the full description on the dataset page: https://huggingface.co/datasets/KETI-NLP/korean-ocr-sft-recipe. |
 | [MohamedEmam2/gemma-ocr-lines](https://huggingface.co/datasets/MohamedEmam2/gemma-ocr-lines) | 2026-11-18 | handwriting-recognition, text-recognition | candidate | 
 	
 		
