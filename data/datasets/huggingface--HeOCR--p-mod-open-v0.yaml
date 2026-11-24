@@ -1,0 +1,43 @@
+schema_version: 1
+id: dataset:huggingface:heocr/p-mod-open-v0
+kind: dataset
+name: P-mod-open v0
+released_at:
+  value: '2026-11-24'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: >-
+  Benchmark for modern unpointed Hebrew OCR with 31 pages and 65 images. [Zenodo DOI](https://doi.org/10.5281/zenodo.24505278) · [Leaderboard](https://huggingface.co/spaces/HeOCR/hebrew-ocr-leaderboard) · [heocr-bench](https://github.com/HeOCR/heocr-bench).
+tasks:
+- text-recognition
+modalities:
+- image
+- text
+languages:
+- he
+links:
+  canonical: https://huggingface.co/datasets/HeOCR/p-mod-open-v0
+  code: https://github.com/HeOCR/heocr-bench
+  leaderboard: https://huggingface.co/spaces/HeOCR/hebrew-ocr-leaderboard
+  doi: https://doi.org/10.5281/zenodo.24505278
+license:
+  name: Mixed rights
+  url: https://huggingface.co/datasets/HeOCR/p-mod-open-v0#rights
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/HeOCR/p-mod-open-v0
+  discovered_via: manual
+  discovered_at: '2026-11-24'
+  source_id: HeOCR/p-mod-open-v0
+curation:
+  status: candidate
+provider: HeOCR
+repository_id: HeOCR/p-mod-open-v0
+usage:
+- benchmark
+sample_count: 65
+annotations:
+- reference text
+- scoring masks
+access: open
