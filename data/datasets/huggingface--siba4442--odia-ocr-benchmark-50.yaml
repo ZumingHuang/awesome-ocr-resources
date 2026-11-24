@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:siba4442/odia-ocr-benchmark-50
+kind: dataset
+name: siba4442/odia-ocr-benchmark-50
+released_at:
+  value: '2026-11-23'
+  precision: day
+added_at: '2026-11-23'
+last_verified_at: '2026-11-23'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOdia OCR Benchmark — 50-row evaluation subset\n\t\n\nThe exact 50 rows\
+  \ (row_id 0–49) of OdiaGenAIOCR/odia_ocr_benchmark_data\nused to benchmark 4 vision models (Gemini 2.5\
+  \ Flash, GPT-4o, Pixtral Large, Qwen2.5-VL) for the\nVisionSynth: Odia OCR Platform project (Odisha\
+  \ AI Hackathon 2026).\nAll credit for creating this data belongs to OdiaGenAIOCR. This is an unmodified\
+  \ subset,\nre-published for exact reproducibility of our benchmark results.\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Source and license\n\t\n\n\nOriginal… See the full description on the dataset page: https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50
+  discovered_via: huggingface
+  discovered_at: '2026-11-23'
+  source_id: siba4442/odia-ocr-benchmark-50
+  source_metadata:
+    repository_id: siba4442/odia-ocr-benchmark-50
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: siba4442
+repository_id: siba4442/odia-ocr-benchmark-50
+usage: []
+annotations: []
+access: unknown

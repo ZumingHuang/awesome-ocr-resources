@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning
+kind: dataset
+name: pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning
+released_at:
+  value: '2026-11-23'
+  precision: day
+added_at: '2026-11-23'
+last_verified_at: '2026-11-23'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for scanned_images_dataset\n\t\n\n\nThis is a FiftyOne\
+  \ dataset containing 3,482 scanned document images across 10 diverse document categories. Designed for\
+  \ OCR training and Vision-Language Model (VLM) fine-tuning, this dataset features real-world scanned\
+  \ documents with varied layouts, scanning quality, and document types.\n\n\t\n\t\t\n\t\n\t\n\t\tInstallation\n\
+  \t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\n\t\n\t\t\
+  Usage\n\t\n\nimport fiftyone as fo\nfrom… See the full description on the dataset page: https://huggingface.co/datasets/pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning
+  discovered_via: huggingface
+  discovered_at: '2026-11-23'
+  source_id: pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning
+  source_metadata:
+    repository_id: pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: pallaviranamale
+repository_id: pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning
+usage: []
+annotations: []
+access: unknown

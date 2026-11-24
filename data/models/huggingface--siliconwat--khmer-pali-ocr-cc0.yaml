@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:siliconwat/khmer-pali-ocr-cc0
+kind: model
+name: siliconwat/khmer-pali-ocr-cc0
+released_at:
+  value: '2026-11-19'
+  precision: day
+added_at: '2026-11-23'
+last_verified_at: '2026-11-23'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/siliconwat/khmer-pali-ocr-cc0
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/siliconwat/khmer-pali-ocr-cc0
+  discovered_via: huggingface
+  discovered_at: '2026-11-23'
+  source_id: siliconwat/khmer-pali-ocr-cc0
+  source_metadata:
+    repository_id: siliconwat/khmer-pali-ocr-cc0
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: siliconwat
+repository_id: siliconwat/khmer-pali-ocr-cc0
+deployment: []

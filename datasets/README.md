@@ -4,6 +4,79 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [vinhpx/mixed-ocr](https://huggingface.co/datasets/vinhpx/mixed-ocr) | 2026-11-23 | text-recognition | candidate | — |
+| [siba4442/odia-ocr-benchmark-50](https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50) | 2026-11-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		Odia OCR Benchmark — 50-row evaluation subset
+	
+
+The exact 50 rows (row_id 0–49) of OdiaGenAIOCR/odia_ocr_benchmark_data
+used to benchmark 4 vision models (Gemini 2.5 Flash, GPT-4o, Pixtral Large, Qwen2.5-VL) for the
+VisionSynth: Odia OCR Platform project (Odisha AI Hackathon 2026).
+All credit for creating this data belongs to OdiaGenAIOCR. This is an unmodified subset,
+re-published for exact reproducibility of our benchmark results.
+
+	
+		
+	
+	
+		Source and license
+	
+
+
+Original… See the full description on the dataset page: https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50. |
+| [pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning](https://huggingface.co/datasets/pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning) | 2026-11-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		Dataset Card for scanned_images_dataset
+	
+
+
+This is a FiftyOne dataset containing 3,482 scanned document images across 10 diverse document categories. Designed for OCR training and Vision-Language Model (VLM) fine-tuning, this dataset features real-world scanned documents with varied layouts, scanning quality, and document types.
+
+	
+		
+	
+	
+		Installation
+	
+
+If you haven't already, install FiftyOne:
+pip install -U fiftyone
+
+
+	
+		
+	
+	
+		Usage
+	
+
+import fiftyone as fo
+from… See the full description on the dataset page: https://huggingface.co/datasets/pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning. |
+| [ntrThanh05/vietnamese-math-exam-ocr](https://huggingface.co/datasets/ntrThanh05/vietnamese-math-exam-ocr) | 2026-11-22 | text-recognition | candidate | 
+	
+		
+	
+	
+		Vietnamese Mathematics Examination OCR Dataset (ntrThanh05/vietnamese-math-exam-ocr)
+	
+
+Dataset gồm 30 đề thi Toán THPT Việt Nam với đúng 4 thành phần chuẩn hóa:
+
+pdfs/: File PDF đề thi gốc (exam_XXXX.pdf)
+md/: Nội dung OCR định dạng Markdown + LaTeX (exam_XXXX.md)
+text/: Nội dung OCR văn bản thuần + LaTeX (exam_XXXX.txt)
+metadata.csv: Bảng ánh xạ exam_id, pdf_path, md_path, txt_path, và pdf_url (URL tải PDF gốc)
+
+ |
+| [lubna888/synth-ocr-augmented](https://huggingface.co/datasets/lubna888/synth-ocr-augmented) | 2026-11-22 | text-recognition | candidate | — |
+| [ItsCuzzz/OCR](https://huggingface.co/datasets/ItsCuzzz/OCR) | 2026-11-22 | text-recognition | candidate | — |
 | [narawit16/thai-govern-test-ocr](https://huggingface.co/datasets/narawit16/thai-govern-test-ocr) | 2026-11-20 | document-layout-analysis, text-recognition | candidate | 
 	
 		

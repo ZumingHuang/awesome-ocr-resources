@@ -4,10 +4,18 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [FarmersToday/OCRGLM](https://huggingface.co/FarmersToday/OCRGLM) | 2026-11-23 | text-recognition | candidate | — |
+| [yanpeng051821/qwen3.5-0.8b-document-ocr-lora](https://huggingface.co/yanpeng051821/qwen3.5-0.8b-document-ocr-lora) | 2026-11-22 | text-recognition | candidate | — |
+| [thelamapi/next3-ocr-i1-GGUF](https://huggingface.co/thelamapi/next3-ocr-i1-GGUF) | 2026-11-22 | text-recognition | candidate | — |
+| [thelamapi/next3-ocr-GGUF](https://huggingface.co/thelamapi/next3-ocr-GGUF) | 2026-11-22 | text-recognition | candidate | — |
+| [thelamapi/next3-ocr](https://huggingface.co/thelamapi/next3-ocr) | 2026-11-22 | text-recognition | candidate | — |
 | [phamhanam/kiosk-ocr-onnx](https://huggingface.co/phamhanam/kiosk-ocr-onnx) | 2026-11-22 | text-recognition | candidate | — |
 | [moonbox-dev/DeepSeek-OCR-2-GGUF](https://huggingface.co/moonbox-dev/DeepSeek-OCR-2-GGUF) | 2026-11-22 | text-recognition | candidate | — |
+| [moonbox-dev/chandra-ocr-2-GGUF](https://huggingface.co/moonbox-dev/chandra-ocr-2-GGUF) | 2026-11-22 | text-recognition | candidate | — |
 | [meghanathreddyd/medguard-qwen-ocr](https://huggingface.co/meghanathreddyd/medguard-qwen-ocr) | 2026-11-22 | text-recognition | candidate | — |
 | [Kus669/ViSceT5-d350d49-openvivqa-qavit-gj-gr-cf-twoviews-p35-ocrboth0.05-ramp-bs16x1](https://huggingface.co/Kus669/ViSceT5-d350d49-openvivqa-qavit-gj-gr-cf-twoviews-p35-ocrboth0.05-ramp-bs16x1) | 2026-11-22 | text-recognition | candidate | — |
+| [dojojin/hippocraft-thai-ocr-rec](https://huggingface.co/dojojin/hippocraft-thai-ocr-rec) | 2026-11-22 | text-recognition | candidate | — |
+| [aichandre/manga-ocr-onnx-kv](https://huggingface.co/aichandre/manga-ocr-onnx-kv) | 2026-11-22 | text-recognition | candidate | — |
 | [MrunalYewatkar45/byt5-small-sanskrit-post-ocr](https://huggingface.co/MrunalYewatkar45/byt5-small-sanskrit-post-ocr) | 2026-11-21 | text-recognition | candidate | — |
 | [JiauZhang/Unlimited-OCR-2](https://huggingface.co/JiauZhang/Unlimited-OCR-2) | 2026-11-21 | text-recognition | candidate | — |
 | [JiauZhang/MiniCPM-OCR-1.0](https://huggingface.co/JiauZhang/MiniCPM-OCR-1.0) | 2026-11-21 | text-recognition | candidate | — |
@@ -27,6 +35,8 @@
 | [finanfa-tech/finanfa-ocr](https://huggingface.co/finanfa-tech/finanfa-ocr) | 2026-11-20 | handwriting-recognition, text-recognition | candidate | — |
 | [agamyasamuel/telugu-ocr-ft](https://huggingface.co/agamyasamuel/telugu-ocr-ft) | 2026-11-20 | text-recognition | candidate | — |
 | [yusuklee/hayai-ocr-v2.5-nova-fp16](https://huggingface.co/yusuklee/hayai-ocr-v2.5-nova-fp16) | 2026-11-19 | text-recognition | candidate | — |
+| [siliconwat/khmer-pali-ocr-cc0](https://huggingface.co/siliconwat/khmer-pali-ocr-cc0) | 2026-11-19 | text-recognition | candidate | — |
+| [siliconwat/khmer-pali-ocr](https://huggingface.co/siliconwat/khmer-pali-ocr) | 2026-11-19 | text-recognition | candidate | — |
 | [secai1999/OCR-Autoscan-v1](https://huggingface.co/secai1999/OCR-Autoscan-v1) | 2026-11-19 | text-recognition | candidate | — |
 | [MohammedSalmanFawaz/yolocop-awiros-ocr](https://huggingface.co/MohammedSalmanFawaz/yolocop-awiros-ocr) | 2026-11-19 | text-recognition | candidate | — |
 | [loom-draft/prithivMLmods-Xiaomi-OCR-0-loom](https://huggingface.co/loom-draft/prithivMLmods-Xiaomi-OCR-0-loom) | 2026-11-19 | text-recognition | candidate | — |
