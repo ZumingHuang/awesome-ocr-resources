@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:lengthlinklook/LocalPDF-MergeSplitShrink
+kind: code
+name: lengthlinklook/LocalPDF-MergeSplitShrink
+released_at:
+  value: '2026-11-23'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: '100% offline PDF tool for Windows: merge PDFs, split or reorder pages, and compress large scanned
+  PDFs without uploading private documents online.'
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/lengthlinklook/LocalPDF-MergeSplitShrink
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/lengthlinklook/LocalPDF-MergeSplitShrink
+  discovered_via: github
+  discovered_at: '2026-11-24'
+  source_id: R_kgDOV4pJUg
+  source_metadata:
+    repository: lengthlinklook/LocalPDF-MergeSplitShrink
+    stars: 31
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: lengthlinklook/LocalPDF-MergeSplitShrink
+landmark: false
+programming_languages: []
+maintenance_status: active

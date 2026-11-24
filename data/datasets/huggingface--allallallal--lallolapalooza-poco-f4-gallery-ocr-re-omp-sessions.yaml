@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions
+kind: dataset
+name: allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions
+released_at:
+  value: '2026-11-23'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tlallolapalooza/poco-f4-gallery-ocr-re — omp session archive\n\t\n\n\
+  Full omp (oh-my-pi) coding-agent sessions whose work targets the public\nGitHub repository lallolapalooza/poco-f4-gallery-ocr-re.\n\
+  \nRepository: https://github.com/lallolapalooza/poco-f4-gallery-ocr-re (public)\nVerified pushed: default\
+  \ branch main at f56715c5caf7 (remote pushed_at 2026-11-09T18:05:32Z)\nSessions: 1\nArchive: 10.2 MB\
+  \ across 1 files\nSession dates: 2026-10-11T06-44-12-067Z → 2026-10-11T06-44-12-067Z\nExported… See\
+  \ the full description on the dataset page: https://huggingface.co/datasets/allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions
+  discovered_via: huggingface
+  discovered_at: '2026-11-24'
+  source_id: allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions
+  source_metadata:
+    repository_id: allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions
+    downloads: 19
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: allallallal
+repository_id: allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions
+usage: []
+annotations: []
+access: unknown

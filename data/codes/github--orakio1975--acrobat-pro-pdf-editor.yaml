@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:orakio1975/acrobat-pro-pdf-editor
+kind: code
+name: orakio1975/acrobat-pro-pdf-editor
+released_at:
+  value: '2026-11-21'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: 'Acrobat Pro PDF Editor for Windows: Text and Image Editing, OCR, Forms, Document Security, E-Signatu'
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/orakio1975/acrobat-pro-pdf-editor
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/orakio1975/acrobat-pro-pdf-editor
+  discovered_via: github
+  discovered_at: '2026-11-24'
+  source_id: R_kgDOV2mkXw
+  source_metadata:
+    repository: orakio1975/acrobat-pro-pdf-editor
+    stars: 337
+    language: HTML
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: orakio1975/acrobat-pro-pdf-editor
+landmark: false
+programming_languages:
+- HTML
+maintenance_status: active

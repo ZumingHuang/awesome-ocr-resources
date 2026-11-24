@@ -45,6 +45,10 @@ Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 Ismail El Jamiy, Khadija Msalek, Guillaume Loizelet, Farah Benamara, Nabil Hathout
 \[handwriting-recognition\]\[text-recognition\]
 
+**Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality Evaluation**
+Samarth Sarin, Lovepreet Singh, Dhagash Mehta
+\[other\]
+
 **Back-Tracking from Clarity: Self-Learning to See Text from Afar**
 Duc-Tri Tran, Phi Le Nguyen, Minh Hoai
 \[text-spotting\]\[text-detection\]
@@ -409,6 +413,10 @@ Sugam Karki, Raúl Vázquez, Yova Kementchedjhieva
 Mohamed Guechaoui, Mohamed Diaa Zellagui, Souleyman Chaib, Sahraoui Dhelim
 \[handwriting-recognition\]\[text-recognition\]
 
+**SAVIOR: Sample-efficient Adaptation of Vision-Language Models for OCR Representation**
+Akshata A Bhat, Sharath Naganna, Saiful Haq, Prashant Khatri, Krishna Chaitanya Reddy Tamataam, Neha Arun, Niyati Chhaya, Pushpak Bhattacharyya
+\[document-vqa\]\[text-recognition\]
+
 **SEAF: Selective Semantic Enrichment and Visual Evidence Fusion for Multimodal Sarcasm Detection**
 Faxian Wan, Xiaocui Yang, Yifan Cao, Shi Feng, Daling Wang, Yifei Zhang
 \[text-recognition\]
@@ -483,6 +491,10 @@ Adrien Mialland, Marc Plantevit, Julien Gallois, Céline Robardet
 
 **VisProve: Learning Typed Visual Provenance for Scientific Document Question Answering**
 Jingxuan Wei, Zhengyang Wang, Zheng Guo, Xiaoming Wu, Fuqiang Wang, Xin Wang, Bihui Yu, Yining Wang, Junnan Zhu
+\[document-vqa\]
+
+**VistaTree: Question Answering over Long Multimodal Documents with Image-Derived Summary Trees**
+Yexiang Cheng, Xiaochen Zheng, David Tokar, Tatyana Y. Doktorova
 \[document-vqa\]
 
 **VPEvolve: A Self-Evolving Virtual Process Engineer for Computational Lithography**

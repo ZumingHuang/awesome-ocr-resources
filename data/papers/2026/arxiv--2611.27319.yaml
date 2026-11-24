@@ -1,0 +1,59 @@
+schema_version: 1
+id: paper:arxiv:2611.27319
+kind: paper
+name: 'SAVIOR: Sample-efficient Adaptation of Vision-Language Models for OCR Representation'
+released_at:
+  value: '2026-11-20'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: Optical Character Recognition (OCR) pipelines and vision-language models exhibit high accuracy
+  on standard OCR and document-understanding benchmarks, yet they systematically underperform on document
+  patterns that are operationally critical in financial workflows. These patterns include vertical or
+  rotated text, logo-embedded vendor names, fine-print regulatory clauses, degraded scans, and complex
+  multi-column layouts. While underrepresented in public datasets, they constitute a substantial portion
+  of real-world failure cases. We introduce SAVIOR, a sample-efficient data curation methodology that
+  targets such high-impact failure scenarios to adapt vision-language models for robust financial OCR.
+  We further propose PaIRS, a structure-aware evaluation metric that measures layout fidelity by comparing
+  pairwise spatial relationships between tokens. Fine-tuning Qwen2.5-VL-Instruct with SAVIOR-Train achieves
+  a word recall of 0.93. When the resulting layout-aware OCR output is used as context for document question
+  answering, it attains an F1 score of 0.89, outperforming both open- and closed-source models such as
+  GPT-4o, Mistral-OCR, PaddleOCR-VL, and DeepSeek-OCR.
+tasks:
+- document-vqa
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.27319
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.27319
+  discovered_via: arxiv
+  discovered_at: '2026-11-24'
+  source_id: '2611.27319'
+  source_metadata:
+    arxiv_id: '2611.27319'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Akshata A Bhat
+- Sharath Naganna
+- Saiful Haq
+- Prashant Khatri
+- Krishna Chaitanya Reddy Tamataam
+- Neha Arun
+- Niyati Chhaya
+- Pushpak Bhattacharyya
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.27319'

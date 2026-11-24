@@ -4,7 +4,19 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [thedemiurge/nuqta-arabic-ocr-demo](https://huggingface.co/thedemiurge/nuqta-arabic-ocr-demo) | 2026-11-24 | text-recognition | candidate | — |
+| [przemyslvwm/PP-OCRv6_small_rec_pl-husarz](https://huggingface.co/przemyslvwm/PP-OCRv6_small_rec_pl-husarz) | 2026-11-24 | text-recognition | candidate | — |
+| [orz99/OCRia-nano-1](https://huggingface.co/orz99/OCRia-nano-1) | 2026-11-24 | text-recognition | candidate | — |
+| [Jeevajdjd/vehicle-detection-ocr](https://huggingface.co/Jeevajdjd/vehicle-detection-ocr) | 2026-11-24 | text-recognition | candidate | — |
+| [dcharlot65-openie/MiniCPM-OCR-1.0-LittleBit](https://huggingface.co/dcharlot65-openie/MiniCPM-OCR-1.0-LittleBit) | 2026-11-24 | text-recognition | candidate | — |
+| [dcharlot65-openie/Baidu-Unlimited-OCR-2-LittleBit](https://huggingface.co/dcharlot65-openie/Baidu-Unlimited-OCR-2-LittleBit) | 2026-11-24 | text-recognition | candidate | — |
+| [turintech/GLM-OCR-Artemis-GGUF](https://huggingface.co/turintech/GLM-OCR-Artemis-GGUF) | 2026-11-23 | text-recognition | candidate | — |
+| [Lucasgitguy-co/Xiaomi-OCR-0-Mirage-MLX](https://huggingface.co/Lucasgitguy-co/Xiaomi-OCR-0-Mirage-MLX) | 2026-11-23 | text-recognition | candidate | — |
+| [Lucasgitguy-co/Xiaomi-OCR-0-Mirage-GGUF](https://huggingface.co/Lucasgitguy-co/Xiaomi-OCR-0-Mirage-GGUF) | 2026-11-23 | text-recognition | candidate | — |
+| [Lucasgitguy-co/Xiaomi-OCR-0-Mirage](https://huggingface.co/Lucasgitguy-co/Xiaomi-OCR-0-Mirage) | 2026-11-23 | text-recognition | candidate | — |
 | [FarmersToday/OCRGLM](https://huggingface.co/FarmersToday/OCRGLM) | 2026-11-23 | text-recognition | candidate | — |
+| [eniga/unlimited-ocr-bf16](https://huggingface.co/eniga/unlimited-ocr-bf16) | 2026-11-23 | text-recognition | candidate | — |
+| [edujimenez/anawa-model-ocr](https://huggingface.co/edujimenez/anawa-model-ocr) | 2026-11-23 | text-recognition | candidate | — |
 | [yanpeng051821/qwen3.5-0.8b-document-ocr-lora](https://huggingface.co/yanpeng051821/qwen3.5-0.8b-document-ocr-lora) | 2026-11-22 | text-recognition | candidate | — |
 | [thelamapi/next3-ocr-i1-GGUF](https://huggingface.co/thelamapi/next3-ocr-i1-GGUF) | 2026-11-22 | text-recognition | candidate | — |
 | [thelamapi/next3-ocr-GGUF](https://huggingface.co/thelamapi/next3-ocr-GGUF) | 2026-11-22 | text-recognition | candidate | — |

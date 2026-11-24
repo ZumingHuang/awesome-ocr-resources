@@ -1,0 +1,52 @@
+schema_version: 1
+id: paper:arxiv:2611.29419
+kind: paper
+name: 'VistaTree: Question Answering over Long Multimodal Documents with Image-Derived Summary Trees'
+released_at:
+  value: '2026-11-22'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: Answering questions over long multimodal documents requires locating relevant evidence across
+  pages containing text, tables, and figures. When the document exceeds the model's context window, selective
+  retrieval becomes necessary. We introduce VistaTree, a document question-answering agent that builds
+  a summary tree directly from rendered page images. VistaTree segments documents into contiguous page
+  spans, recursively groups them into a topic hierarchy, and refines sibling summaries to distinguish
+  neighboring sections. At query time, the agent uses node summaries to select relevant nodes and reads
+  the corresponding pages, using hierarchical navigation when the full outline exceeds the context budget.
+  Experiments on MMLongBench-Doc and LongDocURL evaluate answer quality and retrieval cost using a locally
+  hosted vision-language model, and quantify the performance gap between global and hierarchical access
+  to the index.
+tasks:
+- document-vqa
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.29419
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.29419
+  discovered_via: arxiv
+  discovered_at: '2026-11-24'
+  source_id: '2611.29419'
+  source_metadata:
+    arxiv_id: '2611.29419'
+    doi: null
+    query: all:"document question answering"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Yexiang Cheng
+- Xiaochen Zheng
+- David Tokar
+- Tatyana Y. Doktorova
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.29419'

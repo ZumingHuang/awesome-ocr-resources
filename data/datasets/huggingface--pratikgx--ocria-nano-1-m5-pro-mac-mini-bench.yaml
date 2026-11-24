@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:pratikgx/ocria-nano-1-m5-pro-mac-mini-bench
+kind: dataset
+name: pratikgx/ocria-nano-1-m5-pro-mac-mini-bench
+released_at:
+  value: '2026-11-24'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCRia-nano-1 (LlamaIndex) on a 64GB M5 Pro Mac mini, CPU only\n\t\n\n\
+  Date: 2026-11-23. Everything here is measured locally unless marked \"lab claim\". Official model: llamaindex/OCRia-nano-1.\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tSetup\n\t\n\n\nMac mini, Apple M5 Pro (hw.perflevel0 \"Super\" 6 cores + hw.perflevel1\
+  \ \"Performance\" 12 cores = 18), 64 GB, macOS 27.0.1.\nLiteParse 2.21.0 (pip install liteparse, Python\
+  \ 3.12 venv), models via lit models pull ocria-nano (ocria-nano@1.0.0, 75.3 MB incl. ONNX Runtime 1.31.1).…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/pratikgx/ocria-nano-1-m5-pro-mac-mini-bench."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/pratikgx/ocria-nano-1-m5-pro-mac-mini-bench
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/pratikgx/ocria-nano-1-m5-pro-mac-mini-bench
+  discovered_via: huggingface
+  discovered_at: '2026-11-24'
+  source_id: pratikgx/ocria-nano-1-m5-pro-mac-mini-bench
+  source_metadata:
+    repository_id: pratikgx/ocria-nano-1-m5-pro-mac-mini-bench
+    downloads: 18
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: pratikgx
+repository_id: pratikgx/ocria-nano-1-m5-pro-mac-mini-bench
+usage: []
+annotations: []
+access: unknown
