@@ -4,7 +4,66 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Zacha-rygak/document-ocr-audio-video](https://huggingface.co/datasets/Zacha-rygak/document-ocr-audio-video) | 2026-11-24 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Audio Video Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+A documented Document OCR data-preparation workflow for Audio Video records. The bundled rows demonstrate the schema and validation path rather than pretending to be a full training corpus.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+loader.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.
+metadata_sample.jsonl — small, human-readable records for checking the schema.… See the full description on the dataset page: https://huggingface.co/datasets/Zacha-rygak/document-ocr-audio-video. |
+| [pratikgx/ocria-nano-1-m5-pro-mac-mini-bench](https://huggingface.co/datasets/pratikgx/ocria-nano-1-m5-pro-mac-mini-bench) | 2026-11-24 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCRia-nano-1 (LlamaIndex) on a 64GB M5 Pro Mac mini, CPU only
+	
+
+Date: 2026-11-23. Everything here is measured locally unless marked "lab claim". Official model: llamaindex/OCRia-nano-1.
+
+	
+		
+	
+	
+		Setup
+	
+
+
+Mac mini, Apple M5 Pro (hw.perflevel0 "Super" 6 cores + hw.perflevel1 "Performance" 12 cores = 18), 64 GB, macOS 27.0.1.
+LiteParse 2.21.0 (pip install liteparse, Python 3.12 venv), models via lit models pull ocria-nano (ocria-nano@1.0.0, 75.3 MB incl. ONNX Runtime 1.31.1).… See the full description on the dataset page: https://huggingface.co/datasets/pratikgx/ocria-nano-1-m5-pro-mac-mini-bench. |
 | [vinhpx/mixed-ocr](https://huggingface.co/datasets/vinhpx/mixed-ocr) | 2026-11-23 | text-recognition | candidate | — |
+| [trung11/OCR-Information-Loss](https://huggingface.co/datasets/trung11/OCR-Information-Loss) | 2026-11-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		OCR Information Loss
+	
+
+Task annotations for measuring how much historical information is lost to OCR errors, from the paper Not All OCR Errors Are Equal: Measuring Historical Information Loss. The annotations cover named entities (NER), entity links to Wikidata (EL) and retrieval queries (IR) on the test partition of HIPE-OCRepair-2026 (v0.9), which pairs ground-truth (GT) and OCR transcriptions of historical newspapers in English, French and German.
+Code:… See the full description on the dataset page: https://huggingface.co/datasets/trung11/OCR-Information-Loss. |
 | [siba4442/odia-ocr-benchmark-50](https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50) | 2026-11-23 | text-recognition | candidate | 
 	
 		
@@ -28,6 +87,26 @@ re-published for exact reproducibility of our benchmark results.
 
 
 Original… See the full description on the dataset page: https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50. |
+| [Saidrasul/ocr-wp-evaluation](https://huggingface.co/datasets/Saidrasul/ocr-wp-evaluation) | 2026-11-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		ocr-wp: Whole-Page OCR for Chagatai and Persian Manuscripts
+	
+
+This repository holds an evaluation report, not data. It describes an independent measurement of the model Qwen3.8-27B-ocr-whole-page-v2-r4-fp8.
+Saidrasul Usmankhujaev · MIZANEX · 23 November 2026
+
+	
+		
+	
+	
+		Abstract
+	
+
+ocr-wp reads held-out Chagatai manuscript at 20–27% character error rate, about half the error of the base model, and is still far from text that can be used unchecked.
+The model is Qwen3.8-27B with a… See the full description on the dataset page: https://huggingface.co/datasets/Saidrasul/ocr-wp-evaluation. |
 | [pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning](https://huggingface.co/datasets/pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning) | 2026-11-23 | text-recognition | candidate | 
 	
 		
@@ -59,6 +138,23 @@ pip install -U fiftyone
 
 import fiftyone as fo
 from… See the full description on the dataset page: https://huggingface.co/datasets/pallaviranamale/scanned-images-dataset-for-ocr-and-vlm-finetuning. |
+| [allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions](https://huggingface.co/datasets/allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions) | 2026-11-23 | text-recognition | candidate | 
+	
+		
+	
+	
+		lallolapalooza/poco-f4-gallery-ocr-re — omp session archive
+	
+
+Full omp (oh-my-pi) coding-agent sessions whose work targets the public
+GitHub repository lallolapalooza/poco-f4-gallery-ocr-re.
+
+Repository: https://github.com/lallolapalooza/poco-f4-gallery-ocr-re (public)
+Verified pushed: default branch main at f56715c5caf7 (remote pushed_at 2026-11-09T18:05:32Z)
+Sessions: 1
+Archive: 10.2 MB across 1 files
+Session dates: 2026-10-11T06-44-12-067Z → 2026-10-11T06-44-12-067Z
+Exported… See the full description on the dataset page: https://huggingface.co/datasets/allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions. |
 | [ntrThanh05/vietnamese-math-exam-ocr](https://huggingface.co/datasets/ntrThanh05/vietnamese-math-exam-ocr) | 2026-11-22 | text-recognition | candidate | 
 	
 		

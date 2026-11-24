@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:trung11/OCR-Information-Loss
+kind: dataset
+name: trung11/OCR-Information-Loss
+released_at:
+  value: '2026-11-23'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOCR Information Loss\n\t\n\nTask annotations for measuring how much\
+  \ historical information is lost to OCR errors, from the paper Not All OCR Errors Are Equal: Measuring\
+  \ Historical Information Loss. The annotations cover named entities (NER), entity links to Wikidata\
+  \ (EL) and retrieval queries (IR) on the test partition of HIPE-OCRepair-2026 (v0.9), which pairs ground-truth\
+  \ (GT) and OCR transcriptions of historical newspapers in English, French and German.\nCode:… See the\
+  \ full description on the dataset page: https://huggingface.co/datasets/trung11/OCR-Information-Loss."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/trung11/OCR-Information-Loss
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/trung11/OCR-Information-Loss
+  discovered_via: huggingface
+  discovered_at: '2026-11-24'
+  source_id: trung11/OCR-Information-Loss
+  source_metadata:
+    repository_id: trung11/OCR-Information-Loss
+    downloads: 5
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: trung11
+repository_id: trung11/OCR-Information-Loss
+usage: []
+annotations: []
+access: unknown

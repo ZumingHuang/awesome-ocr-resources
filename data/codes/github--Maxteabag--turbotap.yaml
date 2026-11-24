@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Maxteabag/turbotap
+kind: code
+name: Maxteabag/turbotap
+released_at:
+  value: '2026-11-23'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: Fast, headless CLI & multi-step flow runner for physical iPhones over Wi-Fi (4x WDA speed)
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Maxteabag/turbotap
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Maxteabag/turbotap
+  discovered_via: github
+  discovered_at: '2026-11-24'
+  source_id: R_kgDOV48vJQ
+  source_metadata:
+    repository: Maxteabag/turbotap
+    stars: 22
+    language: Python
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Maxteabag/turbotap
+landmark: false
+programming_languages:
+- Python
+maintenance_status: active

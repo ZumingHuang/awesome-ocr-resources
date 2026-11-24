@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:Saidrasul/ocr-wp-evaluation
+kind: dataset
+name: Saidrasul/ocr-wp-evaluation
+released_at:
+  value: '2026-11-23'
+  precision: day
+added_at: '2026-11-24'
+last_verified_at: '2026-11-24'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tocr-wp: Whole-Page OCR for Chagatai and Persian Manuscripts\n\t\n\n\
+  This repository holds an evaluation report, not data. It describes an independent measurement of the\
+  \ model Qwen3.8-27B-ocr-whole-page-v2-r4-fp8.\nSaidrasul Usmankhujaev · MIZANEX · 23 November 2026\n\
+  \n\t\n\t\t\n\t\n\t\n\t\tAbstract\n\t\n\nocr-wp reads held-out Chagatai manuscript at 20–27% character\
+  \ error rate, about half the error of the base model, and is still far from text that can be used unchecked.\n\
+  The model is Qwen3.8-27B with a… See the full description on the dataset page: https://huggingface.co/datasets/Saidrasul/ocr-wp-evaluation."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Saidrasul/ocr-wp-evaluation
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Saidrasul/ocr-wp-evaluation
+  discovered_via: huggingface
+  discovered_at: '2026-11-24'
+  source_id: Saidrasul/ocr-wp-evaluation
+  source_metadata:
+    repository_id: Saidrasul/ocr-wp-evaluation
+    downloads: 27
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Saidrasul
+repository_id: Saidrasul/ocr-wp-evaluation
+usage: []
+annotations: []
+access: unknown
