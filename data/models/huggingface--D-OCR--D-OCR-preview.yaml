@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:D-OCR/D-OCR-preview
+kind: model
+name: D-OCR/D-OCR-preview
+released_at:
+  value: '2026-11-24'
+  precision: day
+added_at: '2026-11-25'
+last_verified_at: '2026-11-25'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/D-OCR/D-OCR-preview
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/D-OCR/D-OCR-preview
+  discovered_via: huggingface
+  discovered_at: '2026-11-25'
+  source_id: D-OCR/D-OCR-preview
+  source_metadata:
+    repository_id: D-OCR/D-OCR-preview
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: D-OCR
+repository_id: D-OCR/D-OCR-preview
+deployment: []
