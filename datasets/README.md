@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [P-mod-open v0](https://huggingface.co/datasets/HeOCR/p-mod-open-v0) | 2026-11-24 | text-recognition | candidate | Benchmark for modern unpointed Hebrew OCR with 31 pages and 65 images. [Zenodo DOI](https://doi.org/10.5281/zenodo.24505278) · [Leaderboard](https://huggingface.co/spaces/HeOCR/hebrew-ocr-leaderboard) · [heocr-bench](https://github.com/HeOCR/heocr-bench). |
 | [vinhpx/mixed-ocr](https://huggingface.co/datasets/vinhpx/mixed-ocr) | 2026-11-23 | text-recognition | candidate | — |
 | [siba4442/odia-ocr-benchmark-50](https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50) | 2026-11-23 | text-recognition | candidate | 
 	
