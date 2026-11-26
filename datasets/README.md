@@ -4,6 +4,7 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [lab-report-corpus](https://huggingface.co/datasets/lifefrom/lab-report-corpus) | 2026-11-25 | key-information-extraction, text-recognition, table-recognition | candidate | Synthetic laboratory reports with a computed answer key for OCR and key information extraction: 4,000 fictional reports (5,331 pages) in US, UK, German, Spanish, Romanian and French conventions and 14 page layouts, each as a born-digital PDF and as a clean scan, a noisy scan and a simulated phone photo. Every printed result has an answer row with value, unit, reference interval, flag and bounding boxes; 730 lines are marked for abstention. [Zenodo DOI](https://doi.org/10.5281/zenodo.24341108) · [lab-reading-bench](https://github.com/caraulani/lab-reading-bench). |
 | [P-mod-open v0](https://huggingface.co/datasets/HeOCR/p-mod-open-v0) | 2026-11-24 | text-recognition | candidate | Benchmark for modern unpointed Hebrew OCR with 31 pages and 65 images. [Zenodo DOI](https://doi.org/10.5281/zenodo.24505278) · [Leaderboard](https://huggingface.co/spaces/HeOCR/hebrew-ocr-leaderboard) · [heocr-bench](https://github.com/HeOCR/heocr-bench). |
 | [vinhpx/mixed-ocr](https://huggingface.co/datasets/vinhpx/mixed-ocr) | 2026-11-23 | text-recognition | candidate | — |
 | [siba4442/odia-ocr-benchmark-50](https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50) | 2026-11-23 | text-recognition | candidate | 
