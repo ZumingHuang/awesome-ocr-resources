@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:barnes4895/powertoys
+kind: code
+name: barnes4895/powertoys
+released_at:
+  value: '2026-11-24'
+  precision: day
+added_at: '2026-11-26'
+last_verified_at: '2026-11-26'
+summary: Powertoys for Windows 10/11. Snaps and arranges windows into custom layouts, remaps keyboard
+  shortcuts, resizes images in bulk and launches tools like a color picker or text extractor from a quick
+  overlay.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/barnes4895/powertoys
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/barnes4895/powertoys
+  discovered_via: github
+  discovered_at: '2026-11-26'
+  source_id: R_kgDOV58-ww
+  source_metadata:
+    repository: barnes4895/powertoys
+    stars: 192
+    language: null
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: barnes4895/powertoys
+landmark: false
+programming_languages: []
+maintenance_status: active
