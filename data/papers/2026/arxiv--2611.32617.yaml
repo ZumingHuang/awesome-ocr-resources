@@ -1,0 +1,60 @@
+schema_version: 1
+id: paper:arxiv:2611.32617
+kind: paper
+name: 'VenusOCR2.0: Towards Efficient and Effective Document Parsing'
+released_at:
+  value: '2026-11-24'
+  precision: day
+added_at: '2026-11-25'
+last_verified_at: '2026-11-25'
+summary: We present VenusOCR2.0, a compact 1B-parameter vision-language recognizer designed for both high-accuracy
+  and high-throughput document parsing across text, tables, and formulas. To continuously improve recognition
+  quality without self-training collapse, we build a bounded recursive self-improvement (RSI) data engine
+  where the model acts strictly as a weakness probe, while external multi-expert medoid consensus, VLM
+  visual verification, and factorized synthesis supply reliable supervision across pretraining, curated
+  SFT, and RLVR. VenusOCR2.0 couples a dynamic-resolution SigLIP2 encoder and 2x2 spatial token merging
+  with a Qwen3-0.6B decoder, adopting compact atomic OTSL tokens to shorten table sequences and reduce
+  structural errors. To further eliminate the autoregressive decoding bottleneck, we introduce PTPv2,
+  a lightweight ($\sim$67M) decoupled parallel draft module that combines frozen multi-layer verifier
+  conditioning, a standalone learned mask, and block-causal all-position next-token prediction. On OmniDocBenchv1.6,
+  VenusOCR2.0 achieves an overall score of 96.45 and a state-of-the-art 98.57 formula CDM, substantially
+  outperforming massive general-purpose VLMs such as Gemini-3-Pro (92.91) and Qwen3-VL-235B (89.78). Deployed
+  in vLLM on a single H20 GPU, PTPv2 delivers a 2.96x single-request speedup and up to 2.36x higher batched
+  throughput while guaranteeing lossless, token-for-token equivalence with standard autoregressive decoding.
+tasks:
+- formula-recognition
+- document-parsing
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.32617
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.32617
+  discovered_via: arxiv
+  discovered_at: '2026-11-25'
+  source_id: '2611.32617'
+  source_metadata:
+    arxiv_id: '2611.32617'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Lei Li
+- Zheng Wei
+- Yi Yuan
+- Qingbin Liu
+- Jiang Bian
+- Zang Li
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.32617'

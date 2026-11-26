@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:llamaindex/OCRia-1-GGUF
+kind: model
+name: llamaindex/OCRia-1-GGUF
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-25'
+last_verified_at: '2026-11-25'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/llamaindex/OCRia-1-GGUF
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/llamaindex/OCRia-1-GGUF
+  discovered_via: huggingface
+  discovered_at: '2026-11-25'
+  source_id: llamaindex/OCRia-1-GGUF
+  source_metadata:
+    repository_id: llamaindex/OCRia-1-GGUF
+    downloads: 408
+    likes: 4
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: llamaindex
+repository_id: llamaindex/OCRia-1-GGUF
+deployment: []

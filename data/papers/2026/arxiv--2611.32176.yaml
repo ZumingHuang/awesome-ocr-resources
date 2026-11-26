@@ -1,0 +1,62 @@
+schema_version: 1
+id: paper:arxiv:2611.32176
+kind: paper
+name: 'DocPristine: Content-Aware Document Appearance Enhancement under Real-World Mixed Degradations'
+released_at:
+  value: '2026-11-24'
+  precision: day
+added_at: '2026-11-25'
+last_verified_at: '2026-11-25'
+summary: Camera-captured documents often exhibit mixed degradations, such as highlights, shadows, and
+  blur, that distort backgrounds and obscure text details. Document appearance enhancement (DAE) aims
+  to mitigate these degradations and improve readability. Existing document appearance enhancement methods
+  rely either on input-derived visual cues that can become unreliable under severe degradation or on LLM-based
+  degradation diagnosis that lacks spatial guidance. Notably, we find that pretrained document visual
+  encoders continue to attend to text regions in degraded documents, providing content-aware guidance.
+  Based on this insight, we propose DocPristine, which adaptively fuses multi-layer features from a frozen
+  document visual encoder and injects them into a pixel restoration network. To integrate these features
+  into a pixel restoration network, DocPristine combines Adaptive Multi-Layer Feature Fusion (AMFF), Hierarchical
+  Gated Conditioning (HGC), and Shifted-Window Cross-Attention (SWCA). Specifically, SWCA draws on structural
+  cues from neighboring locations across window boundaries to recover fine text details.We also introduce
+  DocACE, with a synthetic mixed-degradation training set (DocACE-Synthetic) and a real-world test set
+  (DocACE-Real) containing manually restored ground-truth images and document parsing annotations. Comprehensive
+  experiments across three benchmarks demonstrate that DocPristine achieves state-of-the-art appearance
+  enhancement quality and consistently improves downstream document parsing. Code, models, and data will
+  be publicly available.
+tasks:
+- document-parsing
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.32176
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.32176
+  discovered_via: arxiv
+  discovered_at: '2026-11-25'
+  source_id: '2611.32176'
+  source_metadata:
+    arxiv_id: '2611.32176'
+    doi: null
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Zihan Huang
+- Junle Liu
+- Zhonghao Ye
+- Yuyi Zhang
+- Peirong Zhang
+- Hanlin Li
+- Yongxin Shi
+- Lianwen Jin
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.32176'

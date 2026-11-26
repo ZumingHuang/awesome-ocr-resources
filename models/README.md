@@ -4,7 +4,29 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [yyuchen/kha-white-ocr-bfmodel](https://huggingface.co/yyuchen/kha-white-ocr-bfmodel) | 2026-11-25 | text-recognition | candidate | — |
+| [softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx](https://huggingface.co/softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx) | 2026-11-25 | text-recognition | candidate | — |
+| [snowfluke/ppu-ocria-nano-models](https://huggingface.co/snowfluke/ppu-ocria-nano-models) | 2026-11-25 | text-recognition | candidate | — |
+| [satjawat/ocr-thai-receipt](https://huggingface.co/satjawat/ocr-thai-receipt) | 2026-11-25 | text-recognition | candidate | — |
+| [mradermacher/OCRia-1-MTP-Repacked-i1-GGUF](https://huggingface.co/mradermacher/OCRia-1-MTP-Repacked-i1-GGUF) | 2026-11-25 | text-recognition | candidate | — |
+| [mradermacher/OCRia-1-MTP-Repacked-GGUF](https://huggingface.co/mradermacher/OCRia-1-MTP-Repacked-GGUF) | 2026-11-25 | text-recognition | candidate | — |
+| [lm-kit/minicpm-ocr-jev-lmk](https://huggingface.co/lm-kit/minicpm-ocr-jev-lmk) | 2026-11-25 | text-recognition | candidate | — |
+| [llamaindex/OCRia-1-GGUF](https://huggingface.co/llamaindex/OCRia-1-GGUF) | 2026-11-25 | text-recognition | candidate | — |
+| [Jay2685/indra-ocr](https://huggingface.co/Jay2685/indra-ocr) | 2026-11-25 | text-recognition | candidate | — |
+| [DonkeySmall/minicpm-ocr-1.0-mnn](https://huggingface.co/DonkeySmall/minicpm-ocr-1.0-mnn) | 2026-11-25 | text-recognition | candidate | — |
+| [ashwinhegde19/OCRia-1-GGUF-quant-eval](https://huggingface.co/ashwinhegde19/OCRia-1-GGUF-quant-eval) | 2026-11-25 | handwriting-recognition, text-recognition | candidate | — |
+| [TechnoBaptist/indra-ocr](https://huggingface.co/TechnoBaptist/indra-ocr) | 2026-11-24 | text-recognition | candidate | — |
+| [przemyslvwm/PP-OCRv6_small_rec_pl-baluarte](https://huggingface.co/przemyslvwm/PP-OCRv6_small_rec_pl-baluarte) | 2026-11-24 | text-recognition | candidate | — |
+| [prithivMLmods/OCRia-1-MTP-Repacked](https://huggingface.co/prithivMLmods/OCRia-1-MTP-Repacked) | 2026-11-24 | text-recognition | candidate | — |
+| [prithivMLmods/OCRia-1-GGUF](https://huggingface.co/prithivMLmods/OCRia-1-GGUF) | 2026-11-24 | text-recognition | candidate | — |
+| [mradermacher/OCRia-1-GGUF](https://huggingface.co/mradermacher/OCRia-1-GGUF) | 2026-11-24 | text-recognition | candidate | — |
+| [Jeevajdjd/vehicle-detection-ocr](https://huggingface.co/Jeevajdjd/vehicle-detection-ocr) | 2026-11-24 | text-recognition | candidate | — |
+| [dcharlot65-openie/MiniCPM-OCR-1.0-LittleBit](https://huggingface.co/dcharlot65-openie/MiniCPM-OCR-1.0-LittleBit) | 2026-11-24 | text-recognition | candidate | — |
+| [dcharlot65-openie/Baidu-Unlimited-OCR-2-LittleBit](https://huggingface.co/dcharlot65-openie/Baidu-Unlimited-OCR-2-LittleBit) | 2026-11-24 | text-recognition | candidate | — |
+| [D-OCR/D-OCR-preview](https://huggingface.co/D-OCR/D-OCR-preview) | 2026-11-24 | handwriting-recognition, text-recognition | candidate | — |
+| [turintech/GLM-OCR-Artemis-GGUF](https://huggingface.co/turintech/GLM-OCR-Artemis-GGUF) | 2026-11-23 | text-recognition | candidate | — |
 | [FarmersToday/OCRGLM](https://huggingface.co/FarmersToday/OCRGLM) | 2026-11-23 | text-recognition | candidate | — |
+| [ampixa/nepali-tiny-ocr](https://huggingface.co/ampixa/nepali-tiny-ocr) | 2026-11-23 | handwriting-recognition, text-recognition | candidate | — |
 | [yanpeng051821/qwen3.5-0.8b-document-ocr-lora](https://huggingface.co/yanpeng051821/qwen3.5-0.8b-document-ocr-lora) | 2026-11-22 | text-recognition | candidate | — |
 | [thelamapi/next3-ocr-i1-GGUF](https://huggingface.co/thelamapi/next3-ocr-i1-GGUF) | 2026-11-22 | text-recognition | candidate | — |
 | [thelamapi/next3-ocr-GGUF](https://huggingface.co/thelamapi/next3-ocr-GGUF) | 2026-11-22 | text-recognition | candidate | — |

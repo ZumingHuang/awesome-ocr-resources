@@ -1,0 +1,58 @@
+schema_version: 1
+id: paper:arxiv:2611.27835
+kind: paper
+name: 'Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality Evaluation'
+released_at:
+  value: '2026-11-20'
+  precision: day
+added_at: '2026-11-25'
+last_verified_at: '2026-11-25'
+summary: Financial documents combine narrative disclosures, accounting metrics, corporate structures,
+  management commentary, and time-dependent facts, making them difficult to represent using conventional
+  chunk-based retrieval-augmented generation systems. This paper presents an auditable, schema-driven
+  methodology for constructing temporal financial knowledge graphs from page-delimited documents parsed
+  using a general purpose document intelligence service. Overlapping document windows undergo phased large
+  language model extraction of structural entities, quantitative observations, and domain-specific relationships.
+  Candidate graph elements are validated against predefined schemas and consolidated through scope-aware
+  exact, normalized, fuzzy, embedding-based, and LLM-assisted entity resolution. Temporal merge constraints,
+  deterministic edge deduplication, conflict-aware property management, and fine-grained provenance preserve
+  issuer identity, reporting-period validity, and traceability to source evidence. The contributions of
+  this work comprise the proposed methodology for financial knowledge graph construction, the creation
+  of an evidence-grounded temporal knowledge graph from heterogeneous financial documents, and an intrinsic
+  framework for evaluating the quality of the resulting graph. The evaluation framework assesses seven
+  weighted dimensions, two hard validation gates, and structural diagnostics. By separating graph-quality
+  assessment from downstream retrieval and answer generation, the framework supports systematic diagnosis
+  and iterative refinement of the constructed graph.
+tasks:
+- other
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://arxiv.org/abs/2611.27835
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://arxiv.org/abs/2611.27835
+  discovered_via: arxiv
+  discovered_at: '2026-11-25'
+  source_id: '2611.27835'
+  source_metadata:
+    arxiv_id: '2611.27835'
+    doi: 10.1145/3858063.3858826
+    query: all:"document parsing"
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+authors:
+- Samarth Sarin
+- Lovepreet Singh
+- Dhagash Mehta
+year: 2026
+venue: arXiv
+publication_status: preprint
+arxiv_id: '2611.27835'
+doi: 10.1145/3858063.3858826

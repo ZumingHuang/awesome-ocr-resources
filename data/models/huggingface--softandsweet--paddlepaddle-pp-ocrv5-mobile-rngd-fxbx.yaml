@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx
+kind: model
+name: softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-25'
+last_verified_at: '2026-11-25'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx
+  discovered_via: huggingface
+  discovered_at: '2026-11-25'
+  source_id: softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx
+  source_metadata:
+    repository_id: softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: softandsweet
+repository_id: softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx
+deployment: []

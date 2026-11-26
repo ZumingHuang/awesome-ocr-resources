@@ -1,0 +1,39 @@
+schema_version: 1
+id: model:huggingface:ashwinhegde19/OCRia-1-GGUF-quant-eval
+kind: model
+name: ashwinhegde19/OCRia-1-GGUF-quant-eval
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-25'
+last_verified_at: '2026-11-25'
+summary: ''
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/ashwinhegde19/OCRia-1-GGUF-quant-eval
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/ashwinhegde19/OCRia-1-GGUF-quant-eval
+  discovered_via: huggingface
+  discovered_at: '2026-11-25'
+  source_id: ashwinhegde19/OCRia-1-GGUF-quant-eval
+  source_metadata:
+    repository_id: ashwinhegde19/OCRia-1-GGUF-quant-eval
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: ashwinhegde19
+repository_id: ashwinhegde19/OCRia-1-GGUF-quant-eval
+deployment: []
