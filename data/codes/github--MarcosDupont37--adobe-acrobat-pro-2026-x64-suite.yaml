@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:MarcosDupont37/adobe-acrobat-pro-2026-x64-suite
+kind: code
+name: MarcosDupont37/adobe-acrobat-pro-2026-x64-suite
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-26'
+last_verified_at: '2026-11-26'
+summary: Adobe Acrobat Pro 2026 (64-Bit) Offline PDF Editor, OCR & Preflight Configuration Suite for Windows
+  10/11
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/MarcosDupont37/adobe-acrobat-pro-2026-x64-suite
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/MarcosDupont37/adobe-acrobat-pro-2026-x64-suite
+  discovered_via: github
+  discovered_at: '2026-11-26'
+  source_id: R_kgDOV648RQ
+  source_metadata:
+    repository: MarcosDupont37/adobe-acrobat-pro-2026-x64-suite
+    stars: 55
+    language: C#
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: MarcosDupont37/adobe-acrobat-pro-2026-x64-suite
+landmark: false
+programming_languages:
+- C#
+maintenance_status: active

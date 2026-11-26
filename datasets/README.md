@@ -4,6 +4,76 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Jenesuispasxwq/ocr-benchmark](https://huggingface.co/datasets/Jenesuispasxwq/ocr-benchmark) | 2026-11-26 | text-recognition | candidate | 
+	
+		
+	
+	
+		OmniAI OCR Benchmark
+	
+
+A comprehensive benchmark that compares OCR and data extraction capabilities of different multimodal LLMs such as gpt-4o and gemini-2.0, evaluating both text and JSON extraction accuracy.
+Benchmark Results (Feb 2025) | Source Code
+ |
+| [pndaza/surya-ocr-burmese-books](https://huggingface.co/datasets/pndaza/surya-ocr-burmese-books) | 2026-11-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		surya-ocr-burmese-books
+	
+
+495 pages of real scanned Burmese (Myanmar) religious books with manually reviewed ground truth: page text + layout blocks (label, bbox, tag, text) in surya-ocr high_accuracy_bbox format. Built to fine-tune and evaluate full-page OCR models on real Burmese print — the companion dataset of pndaza/surya-ocr-burmese-8bit-MLX.
+
+	
+		
+	
+	
+		Splits
+	
+
+
+	
+		
+split
+pages
+contents
+
+
+		
+train
+407
+9 books — sermons, nissaya (Pāli gloss/commentary), Abhidhamma… See the full description on the dataset page: https://huggingface.co/datasets/pndaza/surya-ocr-burmese-books. |
+| [KokkakNiphon/hxh-ocr-pages](https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-pages) | 2026-11-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		HxH OCR: synthetic pages for text-line detection
+	
+
+Generated manga pages, anime-style frames, documents, web pages and photo-style scenes with
+lines of the Hunter × Hunter alphabet (ハンター文字), every line annotated with an exact
+quadrilateral and its kana. These sets trained and tested the line detectors of
+HxH OCR, to our knowledge the first OCR for the
+script. Models: KokkakNiphon/hxh-ocr.
+Demo: https://hxh-ocr.kokkakniphon.workers.dev
+Every page is drawn by the project's Rust… See the full description on the dataset page: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-pages. |
+| [KokkakNiphon/hxh-ocr-lines](https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-lines) | 2026-11-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		HxH OCR: synthetic text lines
+	
+
+Generated images of single lines of the Hunter × Hunter alphabet (ハンター文字), each labelled
+with its kana. These are the training sets of the line readers of
+HxH OCR, to our knowledge the first OCR for the
+script. Models: KokkakNiphon/hxh-ocr.
+Demo: https://hxh-ocr.kokkakniphon.workers.dev
+Every image is drawn by the project's generators from a vector tracing of the alphabet. None
+comes from the manga, the anime or any other publication.… See the full description on the dataset page: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-lines. |
 | [P-mod-open v0](https://huggingface.co/datasets/HeOCR/p-mod-open-v0) | 2026-11-24 | text-recognition | candidate | Benchmark for modern unpointed Hebrew OCR with 31 pages and 65 images. [Zenodo DOI](https://doi.org/10.5281/zenodo.24505278) · [Leaderboard](https://huggingface.co/spaces/HeOCR/hebrew-ocr-leaderboard) · [heocr-bench](https://github.com/HeOCR/heocr-bench). |
 | [vinhpx/mixed-ocr](https://huggingface.co/datasets/vinhpx/mixed-ocr) | 2026-11-23 | text-recognition | candidate | — |
 | [siba4442/odia-ocr-benchmark-50](https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50) | 2026-11-23 | text-recognition | candidate | 
