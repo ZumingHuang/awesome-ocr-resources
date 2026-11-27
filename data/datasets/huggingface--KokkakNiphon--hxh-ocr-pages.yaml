@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:KokkakNiphon/hxh-ocr-pages
+kind: dataset
+name: KokkakNiphon/hxh-ocr-pages
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-27'
+last_verified_at: '2026-11-27'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tHxH OCR: synthetic pages for text-line detection\n\t\n\nGenerated manga\
+  \ pages, anime-style frames, documents, web pages and photo-style scenes with\nlines of the Hunter ×\
+  \ Hunter alphabet (ハンター文字), every line annotated with an exact\nquadrilateral and its kana. These sets\
+  \ trained and tested the line detectors of\nHxH OCR, to our knowledge the first OCR for the\nscript.\
+  \ Models: KokkakNiphon/hxh-ocr.\nDemo: https://hxh-ocr.kokkakniphon.workers.dev\nEvery page is drawn\
+  \ by the project's Rust… See the full description on the dataset page: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-pages."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-pages
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-pages
+  discovered_via: huggingface
+  discovered_at: '2026-11-27'
+  source_id: KokkakNiphon/hxh-ocr-pages
+  source_metadata:
+    repository_id: KokkakNiphon/hxh-ocr-pages
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: KokkakNiphon
+repository_id: KokkakNiphon/hxh-ocr-pages
+usage: []
+annotations: []
+access: unknown

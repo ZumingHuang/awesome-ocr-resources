@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:pndaza/surya-ocr-burmese-books
+kind: dataset
+name: pndaza/surya-ocr-burmese-books
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-27'
+last_verified_at: '2026-11-27'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tsurya-ocr-burmese-books\n\t\n\n495 pages of real scanned Burmese (Myanmar)\
+  \ religious books with manually reviewed ground truth: page text + layout blocks (label, bbox, tag,\
+  \ text) in surya-ocr high_accuracy_bbox format. Built to fine-tune and evaluate full-page OCR models\
+  \ on real Burmese print — the companion dataset of pndaza/surya-ocr-burmese-8bit-MLX.\n\n\t\n\t\t\n\t\
+  \n\t\n\t\tSplits\n\t\n\n\n\t\n\t\t\nsplit\npages\ncontents\n\n\n\t\t\ntrain\n407\n9 books — sermons,\
+  \ nissaya (Pāli gloss/commentary), Abhidhamma… See the full description on the dataset page: https://huggingface.co/datasets/pndaza/surya-ocr-burmese-books."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/pndaza/surya-ocr-burmese-books
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/pndaza/surya-ocr-burmese-books
+  discovered_via: huggingface
+  discovered_at: '2026-11-27'
+  source_id: pndaza/surya-ocr-burmese-books
+  source_metadata:
+    repository_id: pndaza/surya-ocr-burmese-books
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: pndaza
+repository_id: pndaza/surya-ocr-burmese-books
+usage: []
+annotations: []
+access: unknown

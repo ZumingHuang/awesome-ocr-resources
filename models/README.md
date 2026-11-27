@@ -4,6 +4,43 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [ntdat8324/ViSceT5-9aafc6b-vitextvqa-base-ocr4-bs8x2](https://huggingface.co/ntdat8324/ViSceT5-9aafc6b-vitextvqa-base-ocr4-bs8x2) | 2026-11-27 | document-vqa, text-recognition | candidate | — |
+| [ntdat8324/ViSceT5-9aafc6b-vitextvqa-base-ocr3-bs8x2](https://huggingface.co/ntdat8324/ViSceT5-9aafc6b-vitextvqa-base-ocr3-bs8x2) | 2026-11-27 | document-vqa, text-recognition | candidate | — |
+| [mradermacher/Qwen-SEA-LION-OCR-4B-GGUF](https://huggingface.co/mradermacher/Qwen-SEA-LION-OCR-4B-GGUF) | 2026-11-27 | handwriting-recognition, text-recognition | candidate | — |
+| [kongtong/lingshu-pp-ocrv6-medium](https://huggingface.co/kongtong/lingshu-pp-ocrv6-medium) | 2026-11-27 | text-recognition | candidate | — |
+| [kongtong/lingshu-pp-ocrv6](https://huggingface.co/kongtong/lingshu-pp-ocrv6) | 2026-11-27 | text-recognition | candidate | — |
+| [kongtong/lingshu-manga-ocr](https://huggingface.co/kongtong/lingshu-manga-ocr) | 2026-11-27 | text-recognition | candidate | — |
+| [kongtong/lingshu-hayai-ocr-2.5.0-int8](https://huggingface.co/kongtong/lingshu-hayai-ocr-2.5.0-int8) | 2026-11-27 | text-recognition | candidate | — |
+| [kongtong/lingshu-hayai-ocr-2.5.0-fp16](https://huggingface.co/kongtong/lingshu-hayai-ocr-2.5.0-fp16) | 2026-11-27 | text-recognition | candidate | — |
+| [kongtong/lingshu-hayai-ocr-2.5.0-8bit](https://huggingface.co/kongtong/lingshu-hayai-ocr-2.5.0-8bit) | 2026-11-27 | text-recognition | candidate | — |
+| [kongtong/lingshu-hayai-ocr-2.5.0-6bit](https://huggingface.co/kongtong/lingshu-hayai-ocr-2.5.0-6bit) | 2026-11-27 | text-recognition | candidate | — |
+| [kongtong/lingshu-hayai-ocr-2.5.0-4bit](https://huggingface.co/kongtong/lingshu-hayai-ocr-2.5.0-4bit) | 2026-11-27 | text-recognition | candidate | — |
+| [joshcarter-eisen/hebrew-handwriting-ocr](https://huggingface.co/joshcarter-eisen/hebrew-handwriting-ocr) | 2026-11-27 | handwriting-recognition, text-recognition | candidate | — |
+| [edvv1n/pp-ocrv6-tiny](https://huggingface.co/edvv1n/pp-ocrv6-tiny) | 2026-11-27 | text-recognition | candidate | — |
+| [Vishva007/OCRia-1-W4A16-LLM-Compressor](https://huggingface.co/Vishva007/OCRia-1-W4A16-LLM-Compressor) | 2026-11-26 | text-recognition | candidate | — |
+| [Vishva007/OCRia-1-W4A16-GPTQ](https://huggingface.co/Vishva007/OCRia-1-W4A16-GPTQ) | 2026-11-26 | text-recognition | candidate | — |
+| [Vishva007/OCRia-1-W4A16-AutoRound](https://huggingface.co/Vishva007/OCRia-1-W4A16-AutoRound) | 2026-11-26 | text-recognition | candidate | — |
+| [treoa/turkic-ocr-page-pipeline](https://huggingface.co/treoa/turkic-ocr-page-pipeline) | 2026-11-26 | handwriting-recognition, text-recognition | candidate | — |
+| [treoa/turkic-ocr-code](https://huggingface.co/treoa/turkic-ocr-code) | 2026-11-26 | handwriting-recognition, text-recognition | candidate | — |
+| [prithivMLmods/OCRia-1-NVFP4-GGUF](https://huggingface.co/prithivMLmods/OCRia-1-NVFP4-GGUF) | 2026-11-26 | text-recognition | candidate | — |
+| [prithivMLmods/OCRia-1-NVFP4](https://huggingface.co/prithivMLmods/OCRia-1-NVFP4) | 2026-11-26 | text-recognition | candidate | — |
+| [ntdat8324/ViSceT5-9aafc6b-vitextvqa-base-ocr2-bs8x2](https://huggingface.co/ntdat8324/ViSceT5-9aafc6b-vitextvqa-base-ocr2-bs8x2) | 2026-11-26 | document-vqa, text-recognition | candidate | — |
+| [ntdat8324/ViSceT5-9aafc6b-vitextvqa-base-ocr1-bs8x2](https://huggingface.co/ntdat8324/ViSceT5-9aafc6b-vitextvqa-base-ocr1-bs8x2) | 2026-11-26 | document-vqa, text-recognition | candidate | — |
+| [loom-draft/weareapexcreators-MiniCPM-OCR-1.0-LocalAI-loom](https://huggingface.co/loom-draft/weareapexcreators-MiniCPM-OCR-1.0-LocalAI-loom) | 2026-11-26 | text-recognition | candidate | — |
+| [loom-draft/prithivMLmods-OCRia-1-loom](https://huggingface.co/loom-draft/prithivMLmods-OCRia-1-loom) | 2026-11-26 | text-recognition | candidate | — |
+| [huggingface-mic-temp/GLM-OCR-vllm-mic](https://huggingface.co/huggingface-mic-temp/GLM-OCR-vllm-mic) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/TH__PP-OCRv5_mobile](https://huggingface.co/frameleaf/TH__PP-OCRv5_mobile) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/PP-OCRv6_tiny](https://huggingface.co/frameleaf/PP-OCRv6_tiny) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/PP-OCRv6_small](https://huggingface.co/frameleaf/PP-OCRv6_small) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/PP-OCRv6_medium](https://huggingface.co/frameleaf/PP-OCRv6_medium) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/PP-OCRv5_server](https://huggingface.co/frameleaf/PP-OCRv5_server) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/PP-OCRv5_mobile](https://huggingface.co/frameleaf/PP-OCRv5_mobile) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/LATIN__PP-OCRv5_mobile](https://huggingface.co/frameleaf/LATIN__PP-OCRv5_mobile) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/KOREAN__PP-OCRv5_mobile](https://huggingface.co/frameleaf/KOREAN__PP-OCRv5_mobile) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/ESLAV__PP-OCRv5_mobile](https://huggingface.co/frameleaf/ESLAV__PP-OCRv5_mobile) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/EN__PP-OCRv5_mobile](https://huggingface.co/frameleaf/EN__PP-OCRv5_mobile) | 2026-11-26 | text-recognition | candidate | — |
+| [frameleaf/EL__PP-OCRv5_mobile](https://huggingface.co/frameleaf/EL__PP-OCRv5_mobile) | 2026-11-26 | text-recognition | candidate | — |
+| [ABrunsch/Unlimited-OCR-2-repacked](https://huggingface.co/ABrunsch/Unlimited-OCR-2-repacked) | 2026-11-26 | text-recognition | candidate | — |
 | [yyuchen/kha-white-ocr-bfmodel](https://huggingface.co/yyuchen/kha-white-ocr-bfmodel) | 2026-11-25 | text-recognition | candidate | — |
 | [softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx](https://huggingface.co/softandsweet/paddlepaddle-pp-ocrv5-mobile-rngd-fxbx) | 2026-11-25 | text-recognition | candidate | — |
 | [snowfluke/ppu-ocria-nano-models](https://huggingface.co/snowfluke/ppu-ocria-nano-models) | 2026-11-25 | text-recognition | candidate | — |
@@ -12,9 +49,11 @@
 | [mradermacher/OCRia-1-MTP-Repacked-GGUF](https://huggingface.co/mradermacher/OCRia-1-MTP-Repacked-GGUF) | 2026-11-25 | text-recognition | candidate | — |
 | [lm-kit/minicpm-ocr-jev-lmk](https://huggingface.co/lm-kit/minicpm-ocr-jev-lmk) | 2026-11-25 | text-recognition | candidate | — |
 | [llamaindex/OCRia-1-GGUF](https://huggingface.co/llamaindex/OCRia-1-GGUF) | 2026-11-25 | text-recognition | candidate | — |
+| [KokkakNiphon/hxh-ocr](https://huggingface.co/KokkakNiphon/hxh-ocr) | 2026-11-25 | text-recognition | candidate | — |
 | [Jay2685/indra-ocr](https://huggingface.co/Jay2685/indra-ocr) | 2026-11-25 | text-recognition | candidate | — |
 | [DonkeySmall/minicpm-ocr-1.0-mnn](https://huggingface.co/DonkeySmall/minicpm-ocr-1.0-mnn) | 2026-11-25 | text-recognition | candidate | — |
 | [ashwinhegde19/OCRia-1-GGUF-quant-eval](https://huggingface.co/ashwinhegde19/OCRia-1-GGUF-quant-eval) | 2026-11-25 | handwriting-recognition, text-recognition | candidate | — |
+| [ashantiowusu-brafi/twi-ocr](https://huggingface.co/ashantiowusu-brafi/twi-ocr) | 2026-11-25 | text-recognition | candidate | — |
 | [TechnoBaptist/indra-ocr](https://huggingface.co/TechnoBaptist/indra-ocr) | 2026-11-24 | text-recognition | candidate | — |
 | [przemyslvwm/PP-OCRv6_small_rec_pl-baluarte](https://huggingface.co/przemyslvwm/PP-OCRv6_small_rec_pl-baluarte) | 2026-11-24 | text-recognition | candidate | — |
 | [prithivMLmods/OCRia-1-MTP-Repacked](https://huggingface.co/prithivMLmods/OCRia-1-MTP-Repacked) | 2026-11-24 | text-recognition | candidate | — |

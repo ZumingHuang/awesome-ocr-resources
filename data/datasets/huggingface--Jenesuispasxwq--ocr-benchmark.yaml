@@ -1,0 +1,42 @@
+schema_version: 1
+id: dataset:huggingface:Jenesuispasxwq/ocr-benchmark
+kind: dataset
+name: Jenesuispasxwq/ocr-benchmark
+released_at:
+  value: '2026-11-26'
+  precision: day
+added_at: '2026-11-27'
+last_verified_at: '2026-11-27'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tOmniAI OCR Benchmark\n\t\n\nA comprehensive benchmark that compares\
+  \ OCR and data extraction capabilities of different multimodal LLMs such as gpt-4o and gemini-2.0, evaluating\
+  \ both text and JSON extraction accuracy.\nBenchmark Results (Feb 2025) | Source Code\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Jenesuispasxwq/ocr-benchmark
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Jenesuispasxwq/ocr-benchmark
+  discovered_via: huggingface
+  discovered_at: '2026-11-27'
+  source_id: Jenesuispasxwq/ocr-benchmark
+  source_metadata:
+    repository_id: Jenesuispasxwq/ocr-benchmark
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: Jenesuispasxwq
+repository_id: Jenesuispasxwq/ocr-benchmark
+usage: []
+annotations: []
+access: unknown
