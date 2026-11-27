@@ -1,0 +1,54 @@
+schema_version: 1
+id: dataset:huggingface:lifefrom/lab-report-corpus
+kind: dataset
+name: lab-report-corpus
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-26'
+last_verified_at: '2026-11-26'
+summary: >-
+  Synthetic laboratory reports with a computed answer key for OCR and key information extraction: 4,000 fictional
+  reports (5,331 pages) in US, UK, German, Spanish, Romanian and French conventions and 14 page layouts, each as a
+  born-digital PDF and as a clean scan, a noisy scan and a simulated phone photo. Every printed result has an answer
+  row with value, unit, reference interval, flag and bounding boxes; 730 lines are marked for abstention.
+  [Zenodo DOI](https://doi.org/10.5281/zenodo.24341108) · [lab-reading-bench](https://github.com/caraulani/lab-reading-bench).
+tasks:
+- key-information-extraction
+- text-recognition
+- table-recognition
+modalities:
+- image
+- text
+languages:
+- en
+- de
+- es
+- ro
+- fr
+links:
+  canonical: https://huggingface.co/datasets/lifefrom/lab-report-corpus
+  code: https://github.com/caraulani/lab-reading-bench
+  doi: https://doi.org/10.5281/zenodo.24341108
+license:
+  name: CC-BY-4.0
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/lifefrom/lab-report-corpus
+  discovered_via: manual
+  discovered_at: '2026-11-26'
+  source_id: lifefrom/lab-report-corpus
+curation:
+  status: candidate
+provider: LifeFrom
+repository_id: lifefrom/lab-report-corpus
+usage:
+- benchmark
+- train
+- validation
+sample_count: 4000
+annotations:
+- answer key
+- bounding boxes
+- page transcripts
+access: open
