@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:gyf111/degradation-aware-routing-ocr-results
+kind: dataset
+name: gyf111/degradation-aware-routing-ocr-results
+released_at:
+  value: '2026-11-27'
+  precision: day
+added_at: '2026-11-27'
+last_verified_at: '2026-11-27'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tHybrid VLM-OCR · CC-OCR external evaluation\n\t\n\nAggregate results\
+  \ from an independent implementation of Hallucination-aware Evaluation and Confidence-guided Selective\
+  \ Routing for Hybrid VLM-OCR. The evaluation covers 900 public CC-OCR test images (TotalText 300, InverseText\
+  \ 500, HierAgent 100). The paper's exact sample identities are unverified. Reproduction of the paper's\
+  \ internal Baseline and SHC experiments is pending author materials.\n\nFive-system metrics include\
+  \ pooled, subset… See the full description on the dataset page: https://huggingface.co/datasets/gyf111/degradation-aware-routing-ocr-results."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/gyf111/degradation-aware-routing-ocr-results
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/gyf111/degradation-aware-routing-ocr-results
+  discovered_via: huggingface
+  discovered_at: '2026-11-27'
+  source_id: gyf111/degradation-aware-routing-ocr-results
+  source_metadata:
+    repository_id: gyf111/degradation-aware-routing-ocr-results
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: gyf111
+repository_id: gyf111/degradation-aware-routing-ocr-results
+usage: []
+annotations: []
+access: unknown

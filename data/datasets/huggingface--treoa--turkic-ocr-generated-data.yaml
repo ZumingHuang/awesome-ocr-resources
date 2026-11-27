@@ -1,0 +1,46 @@
+schema_version: 1
+id: dataset:huggingface:treoa/turkic-ocr-generated-data
+kind: dataset
+name: treoa/turkic-ocr-generated-data
+released_at:
+  value: '2026-11-26'
+  precision: day
+added_at: '2026-11-27'
+last_verified_at: '2026-11-27'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tTurkic OCR generated data\n\t\n\nTurkic OCR generated data: synthetic\
+  \ handwriting lines, typed lines, empty clutter crops and whole pages in ten Turkic language-script\
+  \ pairs (page generator pagesynth 0.3.0, round R5)\nImages rendered by the project's page generator\
+  \ from real sentences with handwriting-style and print fonts; no real handwriting, no real printed page\
+  \ and no real photograph is in the package. Four kinds: hand (line crops of simulated handwriting),\
+  \ typed (line crops of… See the full description on the dataset page: https://huggingface.co/datasets/treoa/turkic-ocr-generated-data."
+tasks:
+- handwriting-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/treoa/turkic-ocr-generated-data
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/treoa/turkic-ocr-generated-data
+  discovered_via: huggingface
+  discovered_at: '2026-11-27'
+  source_id: treoa/turkic-ocr-generated-data
+  source_metadata:
+    repository_id: treoa/turkic-ocr-generated-data
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: treoa
+repository_id: treoa/turkic-ocr-generated-data
+usage: []
+annotations: []
+access: unknown
