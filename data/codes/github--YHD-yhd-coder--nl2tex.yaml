@@ -1,0 +1,42 @@
+schema_version: 1
+id: code:github:YHD-yhd-coder/nl2tex
+kind: code
+name: YHD-yhd-coder/nl2tex
+released_at:
+  value: '2026-11-24'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: 把中文/英文描述或截图转成可编译的 LaTeX：KaTeX 编译校验、多候选解读、MathML/Word 导出。自带 API Key，本地运行。
+tasks:
+- formula-recognition
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/YHD-yhd-coder/nl2tex
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/YHD-yhd-coder/nl2tex
+  discovered_via: github
+  discovered_at: '2026-11-28'
+  source_id: R_kgDOV5yu6g
+  source_metadata:
+    repository: YHD-yhd-coder/nl2tex
+    stars: 15
+    language: JavaScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: YHD-yhd-coder/nl2tex
+landmark: false
+programming_languages:
+- JavaScript
+maintenance_status: active

@@ -1,0 +1,40 @@
+schema_version: 1
+id: dataset:huggingface:Rodr16020/text2latex-ocr-full
+kind: dataset
+name: Rodr16020/text2latex-ocr-full
+released_at:
+  value: '2026-11-27'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Rodr16020/text2latex-ocr-full
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Rodr16020/text2latex-ocr-full
+  discovered_via: huggingface
+  discovered_at: '2026-11-28'
+  source_id: Rodr16020/text2latex-ocr-full
+  source_metadata:
+    repository_id: Rodr16020/text2latex-ocr-full
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: Rodr16020
+repository_id: Rodr16020/text2latex-ocr-full
+usage: []
+annotations: []
+access: unknown

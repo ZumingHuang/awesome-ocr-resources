@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:Kutius/koma
+kind: code
+name: Kutius/koma
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: 一帧清光，恰如其分。轻量、美观的 Windows 原生 QQ 风格截屏与标注工具（Pure Go + Direct3D 11）
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/Kutius/koma
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/Kutius/koma
+  discovered_via: github
+  discovered_at: '2026-11-28'
+  source_id: R_kgDOV7XXgg
+  source_metadata:
+    repository: Kutius/koma
+    stars: 12
+    language: Go
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: Kutius/koma
+landmark: false
+programming_languages:
+- Go
+maintenance_status: active

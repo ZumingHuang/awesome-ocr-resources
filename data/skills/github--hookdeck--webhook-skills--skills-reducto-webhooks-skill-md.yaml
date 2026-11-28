@@ -1,0 +1,39 @@
+schema_version: 1
+id: skill:github:hookdeck/webhook-skills:skills-reducto-webhooks-skill-md
+kind: skill
+name: hookdeck/webhook-skills / skills/reducto-webhooks/SKILL.md
+released_at:
+  value: '2026-11-28'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: OCR or document workflow declared in SKILL.md.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/hookdeck/webhook-skills/blob/ac7294970071541ff6c3a59bb36cda9ac734075c/skills/reducto-webhooks/SKILL.md
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/hookdeck/webhook-skills/blob/ac7294970071541ff6c3a59bb36cda9ac734075c/skills/reducto-webhooks/SKILL.md
+  discovered_via: github
+  discovered_at: '2026-11-28'
+  source_id: hookdeck/webhook-skills:skills/reducto-webhooks/SKILL.md
+  source_metadata:
+    repository: hookdeck/webhook-skills
+    manifest_path: skills/reducto-webhooks/SKILL.md
+    ecosystem: agent-skills
+    query: '"document parsing" filename:SKILL.md'
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+ecosystem: agent-skills
+repository: hookdeck/webhook-skills
+manifest_path: skills/reducto-webhooks/SKILL.md
+capabilities: {}

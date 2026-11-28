@@ -1,0 +1,44 @@
+schema_version: 1
+id: code:github:AprionoN-Officials/Bubble-Android
+kind: code
+name: AprionoN-Officials/Bubble-Android
+released_at:
+  value: '2026-11-24'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: Lightweight, privacy-first Android live screen translator (31 offline ML Kit languages), custom
+  Tesseract 5 OCR, full-screen text selector, auto QR/QRIS scanner & multi-engine visual search (Google
+  Lens, Yandex, TinEye). Runs silently via Default Digital Assistant without root or recording popups,
+  with Safe Mode & bilingual EN/ID UI.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/AprionoN-Officials/Bubble-Android
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/AprionoN-Officials/Bubble-Android
+  discovered_via: github
+  discovered_at: '2026-11-28'
+  source_id: R_kgDOV6FPuQ
+  source_metadata:
+    repository: AprionoN-Officials/Bubble-Android
+    stars: 25
+    language: Kotlin
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: AprionoN-Officials/Bubble-Android
+landmark: false
+programming_languages:
+- Kotlin
+maintenance_status: active

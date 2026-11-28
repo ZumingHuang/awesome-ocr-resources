@@ -4,7 +4,240 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [Pitaya1219/spark-vision-ocr-ja-en](https://huggingface.co/datasets/Pitaya1219/spark-vision-ocr-ja-en) | 2026-11-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Spark vision OCR data (Japanese / English)
+	
+
+Training data used for the vision projector of Spark-X2.6-4B-vision-mmproj (v2), reduced to the parts that can be shared cleanly. Unofficial, not affiliated with XHToken or Google.
+Most of it is synthetic: screens and documents written as HTML by a language model and rendered to images, with the visible text as the transcription target.
+
+	
+		
+	
+	
+		Contents and licences
+	
+
+
+	
+		
+folder
+what
+rows
+licence
+
+
+		
+docs/
+rendered screens and… See the full description on the dataset page: https://huggingface.co/datasets/Pitaya1219/spark-vision-ocr-ja-en. |
+| [datpq91/bctc-ocr-v1.0.3_2](https://huggingface.co/datasets/datpq91/bctc-ocr-v1.0.3_2) | 2026-11-28 | text-recognition | candidate | 
+	
+		
+	
+	
+		Vietnamese financial-report OCR crops — v1.0.3_2
+	
+
+Reviewed crop images and exact labels, shared by the PP-OCRv6 and VietOCR experiments.
+Train: 17005; validation: 2156; test: 2107.
+The reference_v1 configuration is a separate historical test set of 574 crops.
+It overlaps the current data and must never be added to training or used as an independent held-out test.
+Each row embeds the original crop bytes, exact text, sample ID, company/document, page,
+orientation, dimensions… See the full description on the dataset page: https://huggingface.co/datasets/datpq91/bctc-ocr-v1.0.3_2. |
+| [shbaydadaev/ocr-chg-fa-dataset](https://huggingface.co/datasets/shbaydadaev/ocr-chg-fa-dataset) | 2026-11-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Chagatai and Persian whole-page OCR dataset
+	
+
+This repository preserves the data snapshot used by the
+OCR-chg-fa project: a balanced prepared
+dataset, the larger source split manifests, and cached original manuscript
+annotations. It supports page-image transcription into JSON with text,
+language, and script.
+The prepared dataset contains 4,334 page images across 3,423 training,
+583 validation, and 328 test records. Chagatai is labeled chg, Persian fa,
+and the script Arab. The… See the full description on the dataset page: https://huggingface.co/datasets/shbaydadaev/ocr-chg-fa-dataset. |
+| [Rodr16020/text2latex-ocr-full](https://huggingface.co/datasets/Rodr16020/text2latex-ocr-full) | 2026-11-27 | text-recognition | candidate | — |
+| [nicolemoore/document-ocr-pointcloud-text](https://huggingface.co/datasets/nicolemoore/document-ocr-pointcloud-text) | 2026-11-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Document OCR Pointcloud Text Data Notes
+	
+
+
+	
+		
+	
+	
+		Dataset summary
+	
+
+This repository contains a preparation pipeline and a small metadata sample for Document OCR work with Pointcloud Text inputs. It does not claim to be a complete benchmark release; the loader documents how source data is normalized and validated.
+
+	
+		
+	
+	
+		Included material
+	
+
+
+build_dataset.py — loading, cleaning, and split preparation code.
+dataset_infos.json — schema and split metadata.… See the full description on the dataset page: https://huggingface.co/datasets/nicolemoore/document-ocr-pointcloud-text. |
+| [gyf111/degradation-aware-routing-ocr-results](https://huggingface.co/datasets/gyf111/degradation-aware-routing-ocr-results) | 2026-11-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Hybrid VLM-OCR · CC-OCR external evaluation
+	
+
+Aggregate results from an independent implementation of Hallucination-aware Evaluation and Confidence-guided Selective Routing for Hybrid VLM-OCR. The evaluation covers 900 public CC-OCR test images (TotalText 300, InverseText 500, HierAgent 100). The paper's exact sample identities are unverified. Reproduction of the paper's internal Baseline and SHC experiments is pending author materials.
+
+Five-system metrics include pooled, subset… See the full description on the dataset page: https://huggingface.co/datasets/gyf111/degradation-aware-routing-ocr-results. |
+| [DreamGuestAI/hanji-classical-chinese-ocr](https://huggingface.co/datasets/DreamGuestAI/hanji-classical-chinese-ocr) | 2026-11-27 | text-recognition | candidate | 
+	
+		
+	
+	
+		Hanji — East Asian classical Chinese OCR (sample)
+	
+
+Try it live (no signup, runs entirely in your browser):
+https://dreamguestai-classical-chinese-ocr-search.static.hf.space
+Search 928 pages across the 18 volumes, with traditional↔simplified normalisation —
+傷寒 and 伤寒 return the same 108 pages, 脈經 and 脉经 the same 13.
+No request leaves the page; the index is 1.1 MB of JS.
+(China mirror: https://sgnzds-hanji-demo.ms.show)
+OCR text of pre-1900 books written in classical Chinese:… See the full description on the dataset page: https://huggingface.co/datasets/DreamGuestAI/hanji-classical-chinese-ocr. |
+| [treoa/turkic-ocr-generated-data](https://huggingface.co/datasets/treoa/turkic-ocr-generated-data) | 2026-11-26 | handwriting-recognition, text-recognition | candidate | 
+	
+		
+	
+	
+		Turkic OCR generated data
+	
+
+Turkic OCR generated data: synthetic handwriting lines, typed lines, empty clutter crops and whole pages in ten Turkic language-script pairs (page generator pagesynth 0.3.0, round R5)
+Images rendered by the project's page generator from real sentences with handwriting-style and print fonts; no real handwriting, no real printed page and no real photograph is in the package. Four kinds: hand (line crops of simulated handwriting), typed (line crops of… See the full description on the dataset page: https://huggingface.co/datasets/treoa/turkic-ocr-generated-data. |
+| [Meddies/meddies-ocr-v1](https://huggingface.co/datasets/Meddies/meddies-ocr-v1) | 2026-11-26 | text-recognition | candidate | 
+	
+		
+	
+	
+		meddies-ocr-v1
+	
+
+Synthetic document pages for OCR with layout. target_md holds grounded blocks, ![label](<loc_x0><loc_y0><loc_x1><loc_y1>) then the block content, boxes as left, top, right, bottom on a 0-500 grid (schema ocr-layout-md-v2-loc500).
+
+	
+		
+Split
+Rows
+
+
+		
+test
+437
+
+
+train
+8,266
+
+
+	
+
+Page images are in images.zip, addressed by each row's image_path.
+ |
+| [knowledge-education-research-datasets/Virtual-Lab-Assessment-and-Feedback-Document-Understanding-Dataset](https://huggingface.co/datasets/knowledge-education-research-datasets/Virtual-Lab-Assessment-and-Feedback-Document-Understanding-Dataset) | 2026-11-26 | document-parsing | candidate | 
+	
+		
+	
+	
+		Virtual Lab Assessment and Feedback Document Understanding Dataset
+	
+
+Designed for assessment in virtual laboratory education, this dataset contains 6,250 records and has a file size of 0.2 GB. Its web text covers scoring rules, operational checkpoints, lab report requirements, outcome criteria, and feedback explanations, organized into structured fields that connect assessment conditions with learner actions and feedback rationale. It supports training and evaluation of document… See the full description on the dataset page: https://huggingface.co/datasets/knowledge-education-research-datasets/Virtual-Lab-Assessment-and-Feedback-Document-Understanding-Dataset. |
+| [Jenesuispasxwq/ocr-benchmark](https://huggingface.co/datasets/Jenesuispasxwq/ocr-benchmark) | 2026-11-26 | text-recognition | candidate | 
+	
+		
+	
+	
+		OmniAI OCR Benchmark
+	
+
+A comprehensive benchmark that compares OCR and data extraction capabilities of different multimodal LLMs such as gpt-4o and gemini-2.0, evaluating both text and JSON extraction accuracy.
+Benchmark Results (Feb 2025) | Source Code
+ |
+| [pndaza/surya-ocr-burmese-books](https://huggingface.co/datasets/pndaza/surya-ocr-burmese-books) | 2026-11-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		surya-ocr-burmese-books
+	
+
+495 pages of real scanned Burmese (Myanmar) religious books with manually reviewed ground truth: page text + layout blocks (label, bbox, tag, text) in surya-ocr high_accuracy_bbox format. Built to fine-tune and evaluate full-page OCR models on real Burmese print — the companion dataset of pndaza/surya-ocr-burmese-8bit-MLX.
+
+	
+		
+	
+	
+		Splits
+	
+
+
+	
+		
+split
+pages
+contents
+
+
+		
+train
+407
+9 books — sermons, nissaya (Pāli gloss/commentary), Abhidhamma… See the full description on the dataset page: https://huggingface.co/datasets/pndaza/surya-ocr-burmese-books. |
 | [lab-report-corpus](https://huggingface.co/datasets/lifefrom/lab-report-corpus) | 2026-11-25 | key-information-extraction, text-recognition, table-recognition | candidate | Synthetic laboratory reports with a computed answer key for OCR and key information extraction: 4,000 fictional reports (5,331 pages) in US, UK, German, Spanish, Romanian and French conventions and 14 page layouts, each as a born-digital PDF and as a clean scan, a noisy scan and a simulated phone photo. Every printed result has an answer row with value, unit, reference interval, flag and bounding boxes; 730 lines are marked for abstention. [Zenodo DOI](https://doi.org/10.5281/zenodo.24341108) · [lab-reading-bench](https://github.com/caraulani/lab-reading-bench). |
+| [KokkakNiphon/hxh-ocr-pages](https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-pages) | 2026-11-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		HxH OCR: synthetic pages for text-line detection
+	
+
+Generated manga pages, anime-style frames, documents, web pages and photo-style scenes with
+lines of the Hunter × Hunter alphabet (ハンター文字), every line annotated with an exact
+quadrilateral and its kana. These sets trained and tested the line detectors of
+HxH OCR, to our knowledge the first OCR for the
+script. Models: KokkakNiphon/hxh-ocr.
+Demo: https://hxh-ocr.kokkakniphon.workers.dev
+Every page is drawn by the project's Rust… See the full description on the dataset page: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-pages. |
+| [KokkakNiphon/hxh-ocr-lines](https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-lines) | 2026-11-25 | text-recognition | candidate | 
+	
+		
+	
+	
+		HxH OCR: synthetic text lines
+	
+
+Generated images of single lines of the Hunter × Hunter alphabet (ハンター文字), each labelled
+with its kana. These are the training sets of the line readers of
+HxH OCR, to our knowledge the first OCR for the
+script. Models: KokkakNiphon/hxh-ocr.
+Demo: https://hxh-ocr.kokkakniphon.workers.dev
+Every image is drawn by the project's generators from a vector tracing of the alphabet. None
+comes from the manga, the anime or any other publication.… See the full description on the dataset page: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-lines. |
 | [P-mod-open v0](https://huggingface.co/datasets/HeOCR/p-mod-open-v0) | 2026-11-24 | text-recognition | candidate | Benchmark for modern unpointed Hebrew OCR with 31 pages and 65 images. [Zenodo DOI](https://doi.org/10.5281/zenodo.24505278) · [Leaderboard](https://huggingface.co/spaces/HeOCR/hebrew-ocr-leaderboard) · [heocr-bench](https://github.com/HeOCR/heocr-bench). |
 | [vinhpx/mixed-ocr](https://huggingface.co/datasets/vinhpx/mixed-ocr) | 2026-11-23 | text-recognition | candidate | — |
 | [siba4442/odia-ocr-benchmark-50](https://huggingface.co/datasets/siba4442/odia-ocr-benchmark-50) | 2026-11-23 | text-recognition | candidate | 

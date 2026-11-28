@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:Hansda/indic-ocr-GGUF
+kind: model
+name: Hansda/indic-ocr-GGUF
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/Hansda/indic-ocr-GGUF
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/Hansda/indic-ocr-GGUF
+  discovered_via: huggingface
+  discovered_at: '2026-11-28'
+  source_id: Hansda/indic-ocr-GGUF
+  source_metadata:
+    repository_id: Hansda/indic-ocr-GGUF
+    downloads: 242
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 92
+provider: Hansda
+repository_id: Hansda/indic-ocr-GGUF
+deployment: []
