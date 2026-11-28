@@ -1,0 +1,41 @@
+schema_version: 1
+id: code:github:texbrains/TexType
+kind: code
+name: texbrains/TexType
+released_at:
+  value: '2026-11-23'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: Equations, done right. & The Ultimate Equation Editor.
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://github.com/texbrains/TexType
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://github.com/texbrains/TexType
+  discovered_via: github
+  discovered_at: '2026-11-28'
+  source_id: R_kgDOV4bHVg
+  source_metadata:
+    repository: texbrains/TexType
+    stars: 13
+    language: TypeScript
+    archived: false
+    query: OCR in:name,description,readme
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+repository: texbrains/TexType
+landmark: false
+programming_languages:
+- TypeScript
+maintenance_status: active

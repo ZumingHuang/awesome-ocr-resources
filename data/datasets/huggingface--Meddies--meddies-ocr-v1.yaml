@@ -1,0 +1,44 @@
+schema_version: 1
+id: dataset:huggingface:Meddies/meddies-ocr-v1
+kind: dataset
+name: Meddies/meddies-ocr-v1
+released_at:
+  value: '2026-11-26'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tmeddies-ocr-v1\n\t\n\nSynthetic document pages for OCR with layout.\
+  \ target_md holds grounded blocks, ![label](<loc_x0><loc_y0><loc_x1><loc_y1>) then the block content,\
+  \ boxes as left, top, right, bottom on a 0-500 grid (schema ocr-layout-md-v2-loc500).\n\n\t\n\t\t\n\
+  Split\nRows\n\n\n\t\t\ntest\n437\n\n\ntrain\n8,266\n\n\n\t\n\nPage images are in images.zip, addressed\
+  \ by each row's image_path.\n"
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/Meddies/meddies-ocr-v1
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/Meddies/meddies-ocr-v1
+  discovered_via: huggingface
+  discovered_at: '2026-11-28'
+  source_id: Meddies/meddies-ocr-v1
+  source_metadata:
+    repository_id: Meddies/meddies-ocr-v1
+    downloads: 16
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: Meddies
+repository_id: Meddies/meddies-ocr-v1
+usage: []
+annotations: []
+access: unknown

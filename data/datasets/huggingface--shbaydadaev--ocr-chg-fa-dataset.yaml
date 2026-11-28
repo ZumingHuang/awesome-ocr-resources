@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:shbaydadaev/ocr-chg-fa-dataset
+kind: dataset
+name: shbaydadaev/ocr-chg-fa-dataset
+released_at:
+  value: '2026-11-27'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tChagatai and Persian whole-page OCR dataset\n\t\n\nThis repository preserves\
+  \ the data snapshot used by the\nOCR-chg-fa project: a balanced prepared\ndataset, the larger source\
+  \ split manifests, and cached original manuscript\nannotations. It supports page-image transcription\
+  \ into JSON with text,\nlanguage, and script.\nThe prepared dataset contains 4,334 page images across\
+  \ 3,423 training,\n583 validation, and 328 test records. Chagatai is labeled chg, Persian fa,\nand the\
+  \ script Arab. The… See the full description on the dataset page: https://huggingface.co/datasets/shbaydadaev/ocr-chg-fa-dataset."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/shbaydadaev/ocr-chg-fa-dataset
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/shbaydadaev/ocr-chg-fa-dataset
+  discovered_via: huggingface
+  discovered_at: '2026-11-28'
+  source_id: shbaydadaev/ocr-chg-fa-dataset
+  source_metadata:
+    repository_id: shbaydadaev/ocr-chg-fa-dataset
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 90
+provider: shbaydadaev
+repository_id: shbaydadaev/ocr-chg-fa-dataset
+usage: []
+annotations: []
+access: unknown

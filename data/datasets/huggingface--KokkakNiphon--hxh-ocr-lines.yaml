@@ -1,0 +1,45 @@
+schema_version: 1
+id: dataset:huggingface:KokkakNiphon/hxh-ocr-lines
+kind: dataset
+name: KokkakNiphon/hxh-ocr-lines
+released_at:
+  value: '2026-11-25'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: "\n\t\n\t\t\n\t\n\t\n\t\tHxH OCR: synthetic text lines\n\t\n\nGenerated images of single lines\
+  \ of the Hunter × Hunter alphabet (ハンター文字), each labelled\nwith its kana. These are the training sets\
+  \ of the line readers of\nHxH OCR, to our knowledge the first OCR for the\nscript. Models: KokkakNiphon/hxh-ocr.\n\
+  Demo: https://hxh-ocr.kokkakniphon.workers.dev\nEvery image is drawn by the project's generators from\
+  \ a vector tracing of the alphabet. None\ncomes from the manga, the anime or any other publication.…\
+  \ See the full description on the dataset page: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-lines."
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-lines
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/datasets/KokkakNiphon/hxh-ocr-lines
+  discovered_via: huggingface
+  discovered_at: '2026-11-28'
+  source_id: KokkakNiphon/hxh-ocr-lines
+  source_metadata:
+    repository_id: KokkakNiphon/hxh-ocr-lines
+    downloads: 72
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 100
+provider: KokkakNiphon
+repository_id: KokkakNiphon/hxh-ocr-lines
+usage: []
+annotations: []
+access: unknown

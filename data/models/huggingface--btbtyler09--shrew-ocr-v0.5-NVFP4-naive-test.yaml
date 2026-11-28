@@ -1,0 +1,38 @@
+schema_version: 1
+id: model:huggingface:btbtyler09/shrew-ocr-v0.5-NVFP4-naive-test
+kind: model
+name: btbtyler09/shrew-ocr-v0.5-NVFP4-naive-test
+released_at:
+  value: '2026-11-27'
+  precision: day
+added_at: '2026-11-28'
+last_verified_at: '2026-11-28'
+summary: ''
+tasks:
+- text-recognition
+modalities:
+- unspecified
+languages:
+- unspecified
+links:
+  canonical: https://huggingface.co/btbtyler09/shrew-ocr-v0.5-NVFP4-naive-test
+license:
+  name: NOASSERTION
+relations: []
+provenance:
+  canonical_source: https://huggingface.co/btbtyler09/shrew-ocr-v0.5-NVFP4-naive-test
+  discovered_via: huggingface
+  discovered_at: '2026-11-28'
+  source_id: btbtyler09/shrew-ocr-v0.5-NVFP4-naive-test
+  source_metadata:
+    repository_id: btbtyler09/shrew-ocr-v0.5-NVFP4-naive-test
+    downloads: 0
+    likes: 0
+    query: OCR
+  legacy_duplicates: []
+curation:
+  status: candidate
+  relevance_score: 82
+provider: btbtyler09
+repository_id: btbtyler09/shrew-ocr-v0.5-NVFP4-naive-test
+deployment: []
